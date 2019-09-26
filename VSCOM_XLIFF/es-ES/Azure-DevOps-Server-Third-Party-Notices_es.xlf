@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="42800-416d221faeb2c673b55fc11518fc2ff6" source-language="en" target-language="es" parent-post-id="120397" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/azure-devops-server-third-party-notices/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2VtYmVkZG9jIHVybD0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wMy9BenVyZS1EZXZPcHMtU2VydmVyLVRoaXJkUGFydHlOb3RpY2VzLmRvY3giIGRvd25sb2FkPSJhbGwiIHZpZXdlcj0ibWljcm9zb2Z0Il1bL2VtYmVkZG9jXQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Azure DevOps Server Third Party Notices</source>
+            <target state="new">Azure DevOps Server Third Party Notices</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47619-a2ed17a274cd7b99e54087eeabb37a51" source-language="en" target-language="es" parent-post-id="80228" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/rename-team-project/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8gXyUzJV8NCg0KXyU0JV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>How do I rename a Team Project?</source>
+            <target state="new">How do I rename a Team Project?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>A team project rename updates all of your version control paths, work items, queries, and other team project artifacts to reflect the new name.</source>
+            <target state="new">A team project rename updates all of your version control paths, work items, queries, and other team project artifacts to reflect the new name.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Team projects can be renamed multiple times and older names can be reused as well.</source>
+            <target state="new">Team projects can be renamed multiple times and older names can be reused as well.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Post rename, there might be some <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/accounts/rename-team-project#more-work#more-work"&gt;</bpt>action<ept id="p1">&lt;/a&gt;</ept> required from team members.</source>
+            <target state="new">Post rename, there might be some <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/accounts/rename-team-project#more-work#more-work"&gt;</bpt>action<ept id="p1">&lt;/a&gt;</ept> required from team members.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>It is recommended to perform this action during off-hours to minimize any impact.</source>
+            <target state="new">It is recommended to perform this action during off-hours to minimize any impact.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>Please see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/accounts/rename-team-project#more-work"&gt;</bpt>renaming a team project<ept id="p1">&lt;/a&gt;</ept> for more information.</source>
+            <target state="new">Please see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/accounts/rename-team-project#more-work"&gt;</bpt>renaming a team project<ept id="p1">&lt;/a&gt;</ept> for more information.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="43677-d36aaae00ab63048a22e52c781cabbf2" source-language="en" target-language="es" parent-post-id="137120" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/hello-world-in-c-using-visual-studio-2019/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXw0KXyUzJV8NCl8lNCVfDQpfJTUlXyBfJTYlXw0KXyU3JV8NCl8lOCVfDQpfJTklXw0KXyUxMCVfIF8lMTElXyBfJTEyJV8gXyUxMyVfDQpfJTE0JV8NCjwvb2w+DQpfJTE1JV8NCl8lMTYlXw0KDQpfJTE3JV8NCg0KXyUxOCVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Hello World in C++ using Visual Studio 2019</source>
+            <target state="new">Hello World in C++ using Visual Studio 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 data-lineheight="29" data-fontsize="22"&gt;</bpt>Thank you for downloading Visual Studio and starting your first C++ journey!<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 data-lineheight="29" data-fontsize="22"&gt;</bpt>Thank you for downloading Visual Studio and starting your first C++ journey!<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>First, understand the layout and views once you launch Visual Studio 2019.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="955" height="665" class="alignnone size-full wp-image-137205" alt="Screenshot of Visual Studio 2019 launch window" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-1.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>First, understand the layout and views once you launch Visual Studio 2019.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="955" height="665" class="alignnone size-full wp-image-137205" alt="Screenshot of Visual Studio 2019 launch window" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-1.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Next, review the standard build process for a Visual Studio project.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="1129" height="136" class="alignnone size-full wp-image-137219" alt="Graphic depiction of standard build process for a Visual Studio project" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-2.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Next, review the standard build process for a Visual Studio project.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="1129" height="136" class="alignnone size-full wp-image-137219" alt="Graphic depiction of standard build process for a Visual Studio project" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-2.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>If C++ is not an already installed language in Visual Studio, you need to install <bpt id="p2">&lt;strong&gt;</bpt>Desktop development with C++<ept id="p2">&lt;/strong&gt;</ept> from the Visual Studio Installer.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="957" height="534" class="alignnone size-full wp-image-137233" alt="Screenshot of the Desktop development with C++ installer option selected" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-3.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>If C++ is not an already installed language in Visual Studio, you need to install <bpt id="p2">&lt;strong&gt;</bpt>Desktop development with C++<ept id="p2">&lt;/strong&gt;</ept> from the Visual Studio Installer.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="957" height="534" class="alignnone size-full wp-image-137233" alt="Screenshot of the Desktop development with C++ installer option selected" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-3.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>After installing the Desktop development with the C++ workload, open Visual Studio 2019, and click <bpt id="p2">&lt;strong&gt;</bpt>Create a new project<ept id="p2">&lt;/strong&gt;</ept> to start creating your HelloWorld project.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="952" height="664" class="alignnone size-full wp-image-137247" alt="Screenshot of the Create a new project dialog" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-4.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>After installing the Desktop development with the C++ workload, open Visual Studio 2019, and click <bpt id="p2">&lt;strong&gt;</bpt>Create a new project<ept id="p2">&lt;/strong&gt;</ept> to start creating your HelloWorld project.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="952" height="664" class="alignnone size-full wp-image-137247" alt="Screenshot of the Create a new project dialog" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-4.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select Language as <bpt id="p2">&lt;strong&gt;</bpt>C++<ept id="p2">&lt;/strong&gt;</ept>, Platform as <bpt id="p3">&lt;strong&gt;</bpt>Windows<ept id="p3">&lt;/strong&gt;</ept>, and Project Type as <bpt id="p4">&lt;strong&gt;</bpt>Console<ept id="p4">&lt;/strong&gt;</ept>.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select Language as <bpt id="p2">&lt;strong&gt;</bpt>C++<ept id="p2">&lt;/strong&gt;</ept>, Platform as <bpt id="p3">&lt;strong&gt;</bpt>Windows<ept id="p3">&lt;/strong&gt;</ept>, and Project Type as <bpt id="p4">&lt;strong&gt;</bpt>Console<ept id="p4">&lt;/strong&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Then select <bpt id="p1">&lt;strong&gt;</bpt>Console App<ept id="p1">&lt;/strong&gt;</ept> and click <bpt id="p2">&lt;strong&gt;</bpt>Next<ept id="p2">&lt;/strong&gt;</ept>.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="877" height="614" class="alignnone size-full wp-image-137261" alt="Create new project dialog box with C++ selected as the Language, Windows selected as the platform, Console selected as the Project type, and the Console App option selected" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-5.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Then select <bpt id="p1">&lt;strong&gt;</bpt>Console App<ept id="p1">&lt;/strong&gt;</ept> and click <bpt id="p2">&lt;strong&gt;</bpt>Next<ept id="p2">&lt;/strong&gt;</ept>.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="877" height="614" class="alignnone size-full wp-image-137261" alt="Create new project dialog box with C++ selected as the Language, Windows selected as the platform, Console selected as the Project type, and the Console App option selected" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-5.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Type “HelloWorld” as the project name and click <bpt id="p2">&lt;strong&gt;</bpt>Create<ept id="p2">&lt;/strong&gt;</ept>.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="878" height="612" class="alignnone size-full wp-image-137275" alt="Screenshot of the Configure your new project dialog with the project name specified as HelloWorld." src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-6.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Type “HelloWorld” as the project name and click <bpt id="p2">&lt;strong&gt;</bpt>Create<ept id="p2">&lt;/strong&gt;</ept>.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="878" height="612" class="alignnone size-full wp-image-137275" alt="Screenshot of the Configure your new project dialog with the project name specified as HelloWorld." src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-6.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You can see your first C++ project.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="959" height="573" class="alignnone size-full wp-image-137289" alt="Screenshot of the first C++ project" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-7.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You can see your first C++ project.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="959" height="573" class="alignnone size-full wp-image-137289" alt="Screenshot of the first C++ project" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-7.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Replace the code with the following:
+<pre>&lt;code&gt;#include &quot;stdafx.h&quot;
+#include &amp;lt;iostream&amp;gt; 
+using namespace std;    
+
+    int main()      
+    {    
+        cout &amp;lt;&amp;lt; &quot;Hello World! &quot;;    
+        return 0;      
+    }
+&lt;/code&gt;</pre>
+<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="956" height="502" class="alignnone size-full wp-image-137303" alt="Updated code for the HelloWorld project" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-8.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Replace the code with the following:
+<pre>&lt;code&gt;#include &quot;stdafx.h&quot;
+#include &amp;lt;iostream&amp;gt; 
+using namespace std;    
+
+    int main()      
+    {    
+        cout &amp;lt;&amp;lt; &quot;Hello World! &quot;;    
+        return 0;      
+    }
+&lt;/code&gt;</pre>
+<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="956" height="502" class="alignnone size-full wp-image-137303" alt="Updated code for the HelloWorld project" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-8.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Compile and run your project by clicking the green triangle in the tool bar (<bpt id="p2">&lt;strong&gt;</bpt>Local Windows Debugger<ept id="p2">&lt;/strong&gt;</ept>) or press F5 to <bpt id="p3">&lt;strong&gt;</bpt>Run in Debug Mode<ept id="p3">&lt;/strong&gt;</ept>.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Compile and run your project by clicking the green triangle in the tool bar (<bpt id="p2">&lt;strong&gt;</bpt>Local Windows Debugger<ept id="p2">&lt;/strong&gt;</ept>) or press F5 to <bpt id="p3">&lt;strong&gt;</bpt>Run in Debug Mode<ept id="p3">&lt;/strong&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>Use Ctrl+F5 to run in <bpt id="p1">&lt;strong&gt;</bpt>Release Mode<ept id="p1">&lt;/strong&gt;</ept>.</source>
+            <target state="new">Use Ctrl+F5 to run in <bpt id="p1">&lt;strong&gt;</bpt>Release Mode<ept id="p1">&lt;/strong&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>Visual Studio allows single-click for build and debugging.</source>
+            <target state="new">Visual Studio allows single-click for build and debugging.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source>Click <bpt id="p1">&lt;strong&gt;</bpt>Yes<ept id="p1">&lt;/strong&gt;</ept> to build the project.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Click <bpt id="p1">&lt;strong&gt;</bpt>Yes<ept id="p1">&lt;/strong&gt;</ept> to build the project.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You can see &quot;Hello World!&quot; in the console window.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="389" height="77" class="alignnone size-full wp-image-137319" alt="Screenshot of Hello World displayed in the console window" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-10.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You can see &quot;Hello World!&quot; in the console window.<ph id="ph1">&lt;p&gt;<ph id="ph2">&lt;img width="389" height="77" class="alignnone size-full wp-image-137319" alt="Screenshot of Hello World displayed in the console window" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/04/VS-2019_Hello-World-C_Step-10.png"&gt;&lt;/img&gt;</ph>&lt;/p&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3&gt;</bpt>Troubleshooting information:<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3&gt;</bpt>Troubleshooting information:<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>If the console window closes immediately, you need to set the breakpoint on line 8 in step 7.</source>
+            <target state="new">If the console window closes immediately, you need to set the breakpoint on line 8 in step 7.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>If you are on Windows 8.1, you need to re-run the installer for Visual Studio, click modify, select languages, and choose C++.</source>
+            <target state="new">If you are on Windows 8.1, you need to re-run the installer for Visual Studio, click modify, select languages, and choose C++.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source>Congratulations on your first C++ project!</source>
+            <target state="new">Congratulations on your first C++ project!</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

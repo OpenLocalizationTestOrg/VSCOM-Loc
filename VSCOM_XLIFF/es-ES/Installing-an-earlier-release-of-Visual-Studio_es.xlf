@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46398-3cabaf88860b77bfd4ee04fc26941252" source-language="en" target-language="es" parent-post-id="84915" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/installing-an-earlier-release-of-visual-studio-2017/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_focuskw-0" id="0" xml:space="preserve">
+            <source>earlier release of Visual Studio 2017</source>
+            <target state="new">earlier release of Visual Studio 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Installing an earlier release of Visual Studio</source>
+            <target state="new">Installing an earlier release of Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>We update Visual Studio often so that you get the most current, optimized features.</source>
+            <target state="new">We update Visual Studio often so that you get the most current, optimized features.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Sometimes this may include changes which alter your development environment.</source>
+            <target state="new">Sometimes this may include changes which alter your development environment.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>If you need to go back to the previous release, follow the procedure described <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/installing-an-earlier-release-of-vs2017" target="_blank"&gt;</bpt>here <ept id="p1">&lt;/a&gt;</ept> to first uninstall your current installation and then revert your Visual Studio state. 
+
+
+
+
+
+</source>
+            <target state="new">If you need to go back to the previous release, follow the procedure described <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/installing-an-earlier-release-of-vs2017" target="_blank"&gt;</bpt>here <ept id="p1">&lt;/a&gt;</ept> to first uninstall your current installation and then revert your Visual Studio state. 
+
+
+
+
+
+</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

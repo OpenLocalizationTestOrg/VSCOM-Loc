@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="38711-deb390a73a3f6a15518182642c95a103" source-language="en" target-language="es" parent-post-id="80202" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/uninstall-visual-studio-2015/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCjxkaXYgY2xhc3M9InNlY3Rpb24iIGlkPSJ1bmluc3RhbGxpbmciPg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQo8ZGl2IGNsYXNzPSJzZWN0aW9uIj4NCl8lMSVfDQo8ZGl2PjwvZGl2Pg0KPG9sIGNsYXNzPSJzdGVwcyI+DQogCTxsaSBjbGFzcz0ic3RlcCI+DQpfJTIlXzwvbGk+DQogCTxsaSBjbGFzcz0ic3RlcCI+DQpfJTMlXzwvbGk+DQo8L29sPg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQpfJTQlXyBfJTUlXyBfJTYlXw0KDQo8L2Rpdj4NCjwvZGl2Pg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJzZWN0aW9uIj4NCl8lNyVfDQo8b2wgY2xhc3M9InN0ZXBzIj4NCiAJPGxpIGNsYXNzPSJzdGVwIj4NCl8lOCVfDQpfJTklXwo8L3RoPg0KPC90cj4NCl8lMTAlXw0KPC90cj4NCjwvdGJvZHk+DQo8L3RhYmxlPg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2PjwvbGk+DQogCTxsaSBjbGFzcz0ic3RlcCI+DQpfJTExJV8NCg0KXyUxMiVfDQoNCjwvZGl2PjwvbGk+DQo8L29sPg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQpfJTEzJV8gXyUxNCVfDQoNCl8lMTUlXyBfJTE2JV8gXyUxNyVfDQoNCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9InNlY3Rpb24iPg0KXyUxOCVfDQo8b2wgY2xhc3M9InN0ZXBzIj4NCiAJPGxpIGNsYXNzPSJzdGVwIj4NCl8lMTklXzwvbGk+DQogCTxsaSBjbGFzcz0ic3RlcCI+DQpfJTIwJV88L2xpPg0KPC9vbD4NCjwvZGl2Pg0KPGRpdiBjbGFzcz0ic2VjdGlvbiI+DQpfJTIxJV8NCjxvbCBjbGFzcz0ic3RlcHMiPg0KIAk8bGkgY2xhc3M9InN0ZXAiPg0KXyUyMiVfDQpfJTIzJV8KPC90aD4NCjwvdHI+DQpfJTI0JV8NCg0KXyUyNSVfIF8lMjYlXw0KDQpfJTI3JV8NCjwvdHI+DQo8L3Rib2R5Pg0KPC90YWJsZT4NCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj48L2xpPg0KIAk8bGkgY2xhc3M9InN0ZXAiPg0KXyUyOCVfPC9saT4NCjwvb2w+DQo8ZGl2IGNsYXNzPSJzZWN0aW9uIj4NCl8lMjklXyBfJTMwJV8NCg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Uninstall Visual Studio 2015</source>
+            <target state="new">Uninstall Visual Studio 2015</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="introduction"&gt;</bpt>
+
+This page walks you through uninstalling Visual Studio, our integrated suite of productivity tools for developers.
+
+<ept id="p1">&lt;/div&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="introduction"&gt;</bpt>
+
+This page walks you through uninstalling Visual Studio, our integrated suite of productivity tools for developers.
+
+<ept id="p1">&lt;/div&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To uninstall Visual Studio by using the &quot;standard&quot; uninstallation method<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To uninstall Visual Studio by using the &quot;standard&quot; uninstallation method<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+In <bpt id="p2">&lt;strong&gt;</bpt>Control Panel<ept id="p2">&lt;/strong&gt;</ept>, on the <bpt id="p3">&lt;strong&gt;</bpt>Programs and Features<ept id="p3">&lt;/strong&gt;</ept> page, choose the product edition that you want to uninstall, and then choose <bpt id="p4">&lt;strong&gt;</bpt>Change<ept id="p4">&lt;/strong&gt;</ept>.
+
+<ept id="p1">&lt;/div&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+In <bpt id="p2">&lt;strong&gt;</bpt>Control Panel<ept id="p2">&lt;/strong&gt;</ept>, on the <bpt id="p3">&lt;strong&gt;</bpt>Programs and Features<ept id="p3">&lt;/strong&gt;</ept> page, choose the product edition that you want to uninstall, and then choose <bpt id="p4">&lt;strong&gt;</bpt>Change<ept id="p4">&lt;/strong&gt;</ept>.
+
+<ept id="p1">&lt;/div&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+In the Setup wizard, choose <bpt id="p2">&lt;strong&gt;</bpt>Uninstall<ept id="p2">&lt;/strong&gt;</ept>, choose <bpt id="p3">&lt;strong&gt;</bpt>Yes<ept id="p3">&lt;/strong&gt;</ept>, and then follow the remaining instructions in the wizard.
+
+<ept id="p1">&lt;/div&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+In the Setup wizard, choose <bpt id="p2">&lt;strong&gt;</bpt>Uninstall<ept id="p2">&lt;/strong&gt;</ept>, choose <bpt id="p3">&lt;strong&gt;</bpt>Yes<ept id="p3">&lt;/strong&gt;</ept>, and then follow the remaining instructions in the wizard.
+
+<ept id="p1">&lt;/div&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+This standard, or default method will leave some items behind that your first installation of Visual Studio originally installed (for example, the Microsoft .NET Framework, Microsoft Visual C++ Redistributables, Microsoft SQL Server, etc.).</source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+This standard, or default method will leave some items behind that your first installation of Visual Studio originally installed (for example, the Microsoft .NET Framework, Microsoft Visual C++ Redistributables, Microsoft SQL Server, etc.).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>We leave these installed because many other applications depend on them.</source>
+            <target state="new">We leave these installed because many other applications depend on them.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>However, if you want to remove them too, select their entry in <bpt id="p1">&lt;strong&gt;</bpt>Programs and Features<ept id="p1">&lt;/strong&gt;</ept>, and then remove each individually.</source>
+            <target state="new">However, if you want to remove them too, select their entry in <bpt id="p1">&lt;strong&gt;</bpt>Programs and Features<ept id="p1">&lt;/strong&gt;</ept>, and then remove each individually.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To uninstall Visual Studio and all other related files (that is, to uninstall almost everything)<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To uninstall Visual Studio and all other related files (that is, to uninstall almost everything)<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Locate the Visual Studio .exe file (for example, locate &quot;vs_enterprise.exe&quot;).</source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Locate the Visual Studio .exe file (for example, locate &quot;vs_enterprise.exe&quot;).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="alert"&gt;</bpt>
+<bpt id="p2">&lt;div class="contentTableWrapper"&gt;</bpt>
+<bpt id="p3">&lt;table&gt;</bpt>
+<bpt id="p4">&lt;tbody&gt;</bpt>
+<bpt id="p5">&lt;tr&gt;</bpt>
+<bpt id="p6">&lt;th align="left"&gt;</bpt>
+<ph id="ph1">&lt;img title="System_CAPS_note" id="s-e6f6a65cf14f462597b64ac058dbe1d0-system-media-system-caps-note" alt="System_CAPS_note" src="https://i-msdn.sec.s-msft.com/dynimg/IC101471.jpeg"&gt;&lt;/img&gt;</ph><bpt id="p7">&lt;span class="alertTitle"&gt;</bpt>Note <ept id="p7">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="alert"&gt;</bpt>
+<bpt id="p2">&lt;div class="contentTableWrapper"&gt;</bpt>
+<bpt id="p3">&lt;table&gt;</bpt>
+<bpt id="p4">&lt;tbody&gt;</bpt>
+<bpt id="p5">&lt;tr&gt;</bpt>
+<bpt id="p6">&lt;th align="left"&gt;</bpt>
+<ph id="ph1">&lt;img title="System_CAPS_note" id="s-e6f6a65cf14f462597b64ac058dbe1d0-system-media-system-caps-note" alt="System_CAPS_note" src="https://i-msdn.sec.s-msft.com/dynimg/IC101471.jpeg"&gt;&lt;/img&gt;</ph><bpt id="p7">&lt;span class="alertTitle"&gt;</bpt>Note <ept id="p7">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>The file should be in a subfolder of &quot;%ProgramData%\Package Cache&quot;, for example: C:\ProgramData\Package Cache\{37e19555-e88d-4aed-9d42-82d0784d2b79}\vs_enterprise.exe<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>The file should be in a subfolder of &quot;%ProgramData%\Package Cache&quot;, for example: C:\ProgramData\Package Cache\{37e19555-e88d-4aed-9d42-82d0784d2b79}\vs_enterprise.exe<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Run the .exe file by using the /uninstall /force command-line parameters.</source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Run the .exe file by using the /uninstall /force command-line parameters.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>For example, run: <bpt id="p1">&lt;span class="code"&gt;</bpt>vs_enterprise.exe /uninstall /force<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new">For example, run: <bpt id="p1">&lt;span class="code"&gt;</bpt>vs_enterprise.exe /uninstall /force<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+This will remove Visual Studio and most of the core components that are left behind in a default uninstallation.</source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+This will remove Visual Studio and most of the core components that are left behind in a default uninstallation.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source>However, it will not remove all of the additional content that Visual Studio add-ons and extensions can install (for example, Visual Studio updates, and other optional components).</source>
+            <target state="new">However, it will not remove all of the additional content that Visual Studio add-ons and extensions can install (for example, Visual Studio updates, and other optional components).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source>Alternatively, you can use the &quot;Total Uninstaller&quot; tool to remove everything that Visual Studio or updates to Visual Studio might have installed.</source>
+            <target state="new">Alternatively, you can use the &quot;Total Uninstaller&quot; tool to remove everything that Visual Studio or updates to Visual Studio might have installed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>That is, any version of Visual Studio 2013 or later.</source>
+            <target state="new">That is, any version of Visual Studio 2013 or later.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>To find out more, see the <bpt id="p1">&lt;a href="https://github.com/Microsoft/VisualStudioUninstaller/releases"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Uninstaller tool<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> on GitHub.</source>
+            <target state="new">To find out more, see the <bpt id="p1">&lt;a href="https://github.com/Microsoft/VisualStudioUninstaller/releases"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Uninstaller tool<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> on GitHub.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To uninstall Visual Studio in silent or passive modes (that is, to uninstall from source)<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To uninstall Visual Studio in silent or passive modes (that is, to uninstall from source)<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+On the computer where Visual Studio is installed, open the Windows command prompt.
+
+<ept id="p1">&lt;/div&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+On the computer where Visual Studio is installed, open the Windows command prompt.
+
+<ept id="p1">&lt;/div&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Enter the following parameters:
+
+<bpt id="p2">&lt;em&gt;</bpt>DVDRoot<ept id="p2">&lt;/em&gt;</ept> \&lt;Installation File&gt; &lt;/quiet|/passive&gt; [/norestart]/uninstall
+
+<ept id="p1">&lt;/div&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Enter the following parameters:
+
+<bpt id="p2">&lt;em&gt;</bpt>DVDRoot<ept id="p2">&lt;/em&gt;</ept> \&lt;Installation File&gt; &lt;/quiet|/passive&gt; [/norestart]/uninstall
+
+<ept id="p1">&lt;/div&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To roll back to a previous version or release of Visual Studio<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class="subHeading" data-fontsize="20" data-lineheight="26" data-inline-fontsize="true" data-inline-lineheight="true"&gt;</bpt>To roll back to a previous version or release of Visual Studio<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="23" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Uninstall Visual Studio by using any of the methods listed in this topic.</source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Uninstall Visual Studio by using any of the methods listed in this topic.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="24" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="alert"&gt;</bpt>
+<bpt id="p2">&lt;div class="contentTableWrapper"&gt;</bpt>
+<bpt id="p3">&lt;table&gt;</bpt>
+<bpt id="p4">&lt;tbody&gt;</bpt>
+<bpt id="p5">&lt;tr&gt;</bpt>
+<bpt id="p6">&lt;th align="left"&gt;</bpt>
+<ph id="ph1">&lt;img title="System_CAPS_tip" id="s-e6f6a65cf14f462597b64ac058dbe1d0-system-media-system-caps-tip" alt="System_CAPS_tip" src="https://i-msdn.sec.s-msft.com/dynimg/IC115537.jpeg"&gt;&lt;/img&gt;</ph><bpt id="p7">&lt;span class="alertTitle"&gt;</bpt>Tip <ept id="p7">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="alert"&gt;</bpt>
+<bpt id="p2">&lt;div class="contentTableWrapper"&gt;</bpt>
+<bpt id="p3">&lt;table&gt;</bpt>
+<bpt id="p4">&lt;tbody&gt;</bpt>
+<bpt id="p5">&lt;tr&gt;</bpt>
+<bpt id="p6">&lt;th align="left"&gt;</bpt>
+<ph id="ph1">&lt;img title="System_CAPS_tip" id="s-e6f6a65cf14f462597b64ac058dbe1d0-system-media-system-caps-tip" alt="System_CAPS_tip" src="https://i-msdn.sec.s-msft.com/dynimg/IC115537.jpeg"&gt;&lt;/img&gt;</ph><bpt id="p7">&lt;span class="alertTitle"&gt;</bpt>Tip <ept id="p7">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="25" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Uninstalling a current release of Visual Studio (or a Visual Studio Update) and then installing a previous release might not work as expected.</source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Uninstalling a current release of Visual Studio (or a Visual Studio Update) and then installing a previous release might not work as expected.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="26" xml:space="preserve">
+            <source>The outcome depends on the which version or release of Visual Studio you have installed, which versions of its components are installed, which products are installed that might have dependencies either the Visual Studio release or its components, and finally, on which earlier Visual Studio version you plan to install or reinstall.</source>
+            <target state="new">The outcome depends on the which version or release of Visual Studio you have installed, which versions of its components are installed, which products are installed that might have dependencies either the Visual Studio release or its components, and finally, on which earlier Visual Studio version you plan to install or reinstall.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="27" xml:space="preserve">
+            <source>Because of all these variables, a standard uninstall will often leave components behind that might not work with previous Visual Studio versions or releases.</source>
+            <target state="new">Because of all these variables, a standard uninstall will often leave components behind that might not work with previous Visual Studio versions or releases.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="28" xml:space="preserve">
+            <source>Therefore, for best results, we recommend using the <bpt id="p1">&lt;a href="https://github.com/Microsoft/VisualStudioUninstaller/releases"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Uninstaller tool<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/td&gt;</ept></source>
+            <target state="new">Therefore, for best results, we recommend using the <bpt id="p1">&lt;a href="https://github.com/Microsoft/VisualStudioUninstaller/releases"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Uninstaller tool<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="29" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Install or reinstall the earlier version of Visual Studio that you want to use.
+
+<ept id="p1">&lt;/div&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Install or reinstall the earlier version of Visual Studio that you want to use.
+
+<ept id="p1">&lt;/div&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="30" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Even if you install a previous version of Visual Studio, the Setup program might still try to use a newer version or release if one is available.</source>
+            <target state="new"><bpt id="p1">&lt;div class="section"&gt;</bpt>
+
+Even if you install a previous version of Visual Studio, the Setup program might still try to use a newer version or release if one is available.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="31" xml:space="preserve">
+            <source>For more detailed information, see the <bpt id="p1">&lt;a href="https://msdn.microsoft.com/en-us/library/mt653628.aspx"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>How to: Install a Specific Release of Visual Studio<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> topic.</source>
+            <target state="new">For more detailed information, see the <bpt id="p1">&lt;a href="https://msdn.microsoft.com/en-us/library/mt653628.aspx"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>How to: Install a Specific Release of Visual Studio<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> topic.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

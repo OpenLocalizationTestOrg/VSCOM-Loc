@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46164-c98b3a76f0e94196eb520394752edf3e" source-language="en" target-language="es" parent-post-id="80123" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/need-installing-visual-studio/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCg0KXyUxJV8NCl8lMiVfIF8lMyVfDQpfJTQlXw0KXyU1JV8gXyU2JV8NCjwvb2w+DQo8L2xpPg0KPC9vbD4NCl8lNyVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2017 Download and Installation on what do before installing Visual Studio.</source>
+            <target state="new">Visual Studio 2017 Download and Installation on what do before installing Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>What do I need to do before installing Visual Studio?</source>
+            <target state="new">What do I need to do before installing Visual Studio?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>The Visual Studio Installer will help you install the tools, packages, and SDKs needed by your workload and component selections.</source>
+            <target state="new">The Visual Studio Installer will help you install the tools, packages, and SDKs needed by your workload and component selections.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>To minimize incompatibility and ensure a smooth installation experience, we recommend going through the following check list to ensure that your computer is ready for Visual Studio.</source>
+            <target state="new">To minimize incompatibility and ensure a smooth installation experience, we recommend going through the following check list to ensure that your computer is ready for Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li style="list-style-type: none;"&gt;</bpt>
+<bpt id="p3">&lt;ol&gt;</bpt>
+ 	<bpt id="p4">&lt;li&gt;</bpt>
+<bpt id="p5">&lt;strong&gt;</bpt>Check your operating system and apply the latest Windows Updates:<ept id="p5">&lt;/strong&gt;</ept> You can see the system requirements for <bpt id="p6">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual studio 2019<ept id="p6">&lt;/a&gt;</ept> here and for <bpt id="p7">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-system-requirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2017<ept id="p7">&lt;/a&gt;</ept> here.</source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li style="list-style-type: none;"&gt;</bpt>
+<bpt id="p3">&lt;ol&gt;</bpt>
+ 	<bpt id="p4">&lt;li&gt;</bpt>
+<bpt id="p5">&lt;strong&gt;</bpt>Check your operating system and apply the latest Windows Updates:<ept id="p5">&lt;/strong&gt;</ept> You can see the system requirements for <bpt id="p6">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual studio 2019<ept id="p6">&lt;/a&gt;</ept> here and for <bpt id="p7">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-system-requirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2017<ept id="p7">&lt;/a&gt;</ept> here.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Visual Studio requires Windows 7 Service Pack 1 or newer, and runs best on Windows 10.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Visual Studio requires Windows 7 Service Pack 1 or newer, and runs best on Windows 10.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Reboot before beginning the Visual Studio installation:<ept id="p2">&lt;/strong&gt;</ept> This ensures that any pending installations or updates don’t hinder the Visual Studio installation.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Reboot before beginning the Visual Studio installation:<ept id="p2">&lt;/strong&gt;</ept> This ensures that any pending installations or updates don’t hinder the Visual Studio installation.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Ensure there is enough space on your SystemDrive before installing Visual Studio.<ept id="p2">&lt;/strong&gt;</ept> Refer to the <bpt id="p3">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual studio 2019 System Requirements<ept id="p3">&lt;/a&gt;</ept> to check the free space required for installation.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Ensure there is enough space on your SystemDrive before installing Visual Studio.<ept id="p2">&lt;/strong&gt;</ept> Refer to the <bpt id="p3">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual studio 2019 System Requirements<ept id="p3">&lt;/a&gt;</ept> to check the free space required for installation.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source>If you need more space, you can run the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/4026616/windows-10-disk-cleanup" target="_blank" rel="noopener noreferrer"&gt;</bpt>Windows Disk Cleanup App<ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">If you need more space, you can run the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/4026616/windows-10-disk-cleanup" target="_blank" rel="noopener noreferrer"&gt;</bpt>Windows Disk Cleanup App<ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source>For questions about running previous versions of Visual Studio side-by-side with the newer version, see the compatibility details for <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/compatibility#compatibility-with-previous-releases" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2019 details<ept id="p1">&lt;/a&gt;</ept> here and for <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-compatibility-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2017 details<ept id="p2">&lt;/a&gt;</ept> here.</source>
+            <target state="new">For questions about running previous versions of Visual Studio side-by-side with the newer version, see the compatibility details for <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/compatibility#compatibility-with-previous-releases" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2019 details<ept id="p1">&lt;/a&gt;</ept> here and for <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-compatibility-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2017 details<ept id="p2">&lt;/a&gt;</ept> here.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

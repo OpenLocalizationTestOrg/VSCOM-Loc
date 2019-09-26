@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="45982-466c4868140f795527a2d2dfcc1ae84e" source-language="en" target-language="es" parent-post-id="94872" version="6" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/app-center/get-started/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWZlYXR1cmUtaGVybyIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iI2MxY2JkYSIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSI1MCIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iNzAiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGRpbWVuc2lvbl9tYXJnaW49IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9mZWF0dXJlX2hlcm8gdGl0bGU9Il8lMCVfIiBjc3NfY2xhc3Nlcz0iIiByZWFkbW9yZV91cmw9IiIgcmVhZG1vcmVfdGV4dD0iXyUxJV8iIHJlYWRtb3JlX2FyaWE9IiIgcmVhZG1vcmVfdGFyZ2V0PSJfc2VsZiIgcmVhZG1vcmVfcmVsPSIiXV8lNCVfW2Z1c2lvbl9idXR0b24gbGluaz0iaHR0cHM6Ly9hcHBjZW50ZXIubXMvc2lnbnVwIiB0aXRsZT0iIiB0YXJnZXQ9Il9zZWxmIiBsaW5rX2F0dHJpYnV0ZXM9IiIgYWxpZ25tZW50PSJsZWZ0IiBtb2RhbD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBvc19kb3dubG9hZHM9Im5vIiBkb3dubG9hZF93aW5kb3dzX3RleHQ9IiIgZG93bmxvYWRfd2luZG93c191cmw9IiIgZG93bmxvYWRfbWFjX3RleHQ9IiIgZG93bmxvYWRfbWFjX3VybD0iIiBkb3dubG9hZF9saW51eF90ZXh0PSIiIGRvd25sb2FkX2xpbnV4X3VybD0iIiBhcmlhX2xhYmVsPSJfJTIlXyIgY29sb3I9ImRlZmF1bHQiIGJ1dHRvbl9ncmFkaWVudF90b3BfY29sb3I9IiIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcj0iIiBidXR0b25fZ3JhZGllbnRfdG9wX2NvbG9yX2hvdmVyPSIiIGJ1dHRvbl9ncmFkaWVudF9ib3R0b21fY29sb3JfaG92ZXI9IiIgYWNjZW50X2NvbG9yPSIiIGFjY2VudF9ob3Zlcl9jb2xvcj0iIiB0eXBlPSIiIGJldmVsX2NvbG9yPSIiIGJvcmRlcl93aWR0aD0iIiBzaXplPSIiIHN0cmV0Y2g9ImRlZmF1bHQiIHNoYXBlPSIiIGljb249IiIgZmFicmljX2ljb249IkNoZXZyb25SaWdodFNtYWxsIiBpY29uX3Bvc2l0aW9uPSJyaWdodCIgaWNvbl9kaXZpZGVyPSJubyIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUzJV9bL2Z1c2lvbl9idXR0b25dCgpbL3ZzY29tX2ZlYXR1cmVfaGVyb11bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGFkbWluX2xhYmVsPSJWU0NPTSBTd2ltbGFuZSIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0td2hpdGVsYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBhZG1pbl90b2dnbGVkPSJubyJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMiIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10ZXh0LWNvbnRlbnQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLXRpdGxlIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyU1JV9fJTYlX1svZnVzaW9uX3RpdGxlXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLW1lZGlhLWNvbnRlbnQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSI5NTU0NyIgc3R5bGVfdHlwZT0iZHJvcHNoYWRvdyIgc3R5bGVjb2xvcj0iI2JiYmJiYiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iMSIgYm9yZGVyY29sb3I9IiNjY2NjY2MiIGJvcmRlcnJhZGl1cz0iIiBhbGlnbj0ibm9uZSIgbGlnaHRib3g9Im5vIiBnYWxsZXJ5X2lkPSIiIGxpZ2h0Ym94X2ltYWdlPSIiIGFsdD0iXyU3JV8iIGxpbms9IiIgbGlua3RhcmdldD0iX3NlbGYiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lOCVfWy9mdXNpb25faW1hZ2VmcmFtZV1bZnVzaW9uX3RleHRdDQpfJTklXw0KClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUtLXdoaXRlbGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgYWRtaW5fdG9nZ2xlZD0ibm8iXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJ5ZXMiIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGV4dC1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10aXRsZSIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lMTAlX18lMTElX1svZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dF1fJTEyJV9fJTEzJV9fJTE0JV9bL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLW1lZGlhLWNvbnRlbnQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSI5NTU0OCIgc3R5bGVfdHlwZT0iZHJvcHNoYWRvdyIgc3R5bGVjb2xvcj0iI2JiYmJiYiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iMSIgYm9yZGVyY29sb3I9IiNjY2NjY2MiIGJvcmRlcnJhZGl1cz0iIiBhbGlnbj0ibm9uZSIgbGlnaHRib3g9Im5vIiBnYWxsZXJ5X2lkPSIiIGxpZ2h0Ym94X2ltYWdlPSIiIGFsdD0iXyUxNSVfIiBsaW5rPSIiIGxpbmt0YXJnZXQ9Il9zZWxmIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTE2JV9bL2Z1c2lvbl9pbWFnZWZyYW1lXVtmdXNpb25fdGV4dF0NCl8lMTclXw0KClsvZnVzaW9uX3RleHRdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSI5NDg4MiIgbWF4X3dpZHRoPSIiIHN0eWxlX3R5cGU9ImRyb3BzaGFkb3ciIHN0eWxlY29sb3I9IiNiYmJiYmIiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcnNpemU9IjEiIGJvcmRlcmNvbG9yPSIjY2NjY2NjIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9Il8lMTglXyIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGF6eV9sb2FkaW5nPSJubyJdXyUxOSVfWy9mdXNpb25faW1hZ2VmcmFtZV1bZnVzaW9uX3RleHRdDQpfJTIwJV8NCgpbL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS13aGl0ZWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGFkbWluX3RvZ2dsZWQ9Im5vIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLXRleHQtY29udGVudCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGl0bGUiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTIxJV9fJTIyJV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHRdXyUyMyVfWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHRdXyUyNCVfXyUyNSVfWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMiIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS1tZWRpYS1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25faW1hZ2VmcmFtZSBpbWFnZV9pZD0iOTU1NTAiIHN0eWxlX3R5cGU9ImRyb3BzaGFkb3ciIHN0eWxlY29sb3I9IiNiYmJiYmIiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcnNpemU9IjEiIGJvcmRlcmNvbG9yPSIjY2NjY2NjIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9Il8lMjYlXyIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUyNyVfWy9mdXNpb25faW1hZ2VmcmFtZV1bZnVzaW9uX3RleHRdDQpfJTI4JV8NCgpbL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS13aGl0ZWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGFkbWluX3RvZ2dsZWQ9Im5vIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLXRleHQtY29udGVudCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGl0bGUiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTI5JV9fJTMwJV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHRdXyUzMSVfXyUzMiVfWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHRdXyUzMyVfWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHRdXyUzNCVfXyUzNSVfWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMiIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS1tZWRpYS1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25faW1hZ2VmcmFtZSBpbWFnZV9pZD0iOTQ4NzYiIHN0eWxlX3R5cGU9ImRyb3BzaGFkb3ciIHN0eWxlY29sb3I9IiNiYmJiYmIiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcnNpemU9IjEiIGJvcmRlcmNvbG9yPSIjY2NjY2NjIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9Il8lMzYlXyIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUzNyVfWy9mdXNpb25faW1hZ2VmcmFtZV1bZnVzaW9uX3RleHRdDQpfJTM4JV8NCgpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fc2VwYXJhdG9yIHN0eWxlX3R5cGU9Im5vbmUiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSIyNXB4IiBib3R0b21fbWFyZ2luPSIiIGJvcmRlcl9zaXplPSIiIGljb249IiIgaWNvbl9jaXJjbGU9IiIgaWNvbl9jaXJjbGVfY29sb3I9IiIgd2lkdGg9IiIgYWxpZ25tZW50PSJjZW50ZXIiL11bZnVzaW9uX2ltYWdlZnJhbWUgaW1hZ2VfaWQ9Ijk0ODg0IiBzdHlsZV90eXBlPSJkcm9wc2hhZG93IiBzdHlsZWNvbG9yPSIjYmJiYmJiIiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJzaXplPSIxIiBib3JkZXJjb2xvcj0iI2NjY2NjYyIgYm9yZGVycmFkaXVzPSIiIGFsaWduPSJub25lIiBsaWdodGJveD0ibm8iIGdhbGxlcnlfaWQ9IiIgbGlnaHRib3hfaW1hZ2U9IiIgYWx0PSJfJTM5JV8iIGxpbms9IiIgbGlua3RhcmdldD0iX3NlbGYiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lNDAlX1svZnVzaW9uX2ltYWdlZnJhbWVdW2Z1c2lvbl90ZXh0XQ0KXyU0MSVfDQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3NlcGFyYXRvciBzdHlsZV90eXBlPSJub25lIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzZXBfY29sb3I9IiIgdG9wX21hcmdpbj0iMjVweCIgYm90dG9tX21hcmdpbj0iIiBib3JkZXJfc2l6ZT0iIiBpY29uPSIiIGljb25fY2lyY2xlPSIiIGljb25fY2lyY2xlX2NvbG9yPSIiIHdpZHRoPSIiIGFsaWdubWVudD0iY2VudGVyIi9dW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSI5NTU1MiIgc3R5bGVfdHlwZT0iZHJvcHNoYWRvdyIgc3R5bGVjb2xvcj0iI2JiYmJiYiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iMSIgYm9yZGVyY29sb3I9IiNjY2NjY2MiIGJvcmRlcnJhZGl1cz0iIiBhbGlnbj0ibm9uZSIgbGlnaHRib3g9Im5vIiBnYWxsZXJ5X2lkPSIiIGxpZ2h0Ym94X2ltYWdlPSIiIGFsdD0iXyU0MiVfIiBsaW5rPSIiIGxpbmt0YXJnZXQ9Il9zZWxmIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTQzJV9bL2Z1c2lvbl9pbWFnZWZyYW1lXVtmdXNpb25fdGV4dF0NCl8lNDQlXw0KClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUtLXdoaXRlbGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgYWRtaW5fdG9nZ2xlZD0ibm8iXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJ5ZXMiIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGV4dC1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10aXRsZSIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lNDUlX18lNDYlX1svZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dF1fJTQ3JV9fJTQ4JV8NCg0KWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMiIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS1tZWRpYS1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25faW1hZ2VmcmFtZSBpbWFnZV9pZD0iOTU1NTMiIHN0eWxlX3R5cGU9Im5vbmUiIHN0eWxlY29sb3I9IiNiYmJiYmIiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcnNpemU9IjAiIGJvcmRlcmNvbG9yPSIjY2NjY2NjIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9Il8lNDklXyIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyU1MCVfWy9mdXNpb25faW1hZ2VmcmFtZV1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGh1bmRyZWRfcGVyY2VudD0ieWVzIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIjM2E1MDY4IiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iMHB4IiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSI2NXB4IiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSI2NXB4IiBwYWRkaW5nX2xlZnQ9IiIgYWRtaW5fdG9nZ2xlZD0ibm8iXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9jb2xvcj0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgc3BhY2luZz0ieWVzIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjBweCIgbWFyZ2luX2JvdHRvbT0iMHB4IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjZW50ZXJfY29udGVudD0ibm8iIG1pbl9oZWlnaHQ9Im5vbmUiIGxhc3Q9Im5vIiBob3Zlcl90eXBlPSJub25lIiBsaW5rPSIiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGl0bGUiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImNlbnRlciIgc3R5bGVfdHlwZT0ibm9uZSIgc2VwX2NvbG9yPSIiXQ0KDQpfJTUxJV8NCg0KClsvZnVzaW9uX3RpdGxlXVtmdXNpb25fc2VwYXJhdG9yIHN0eWxlX3R5cGU9Im5vbmUiIHRvcF9tYXJnaW49IjI1cHgiIGJvdHRvbV9tYXJnaW49IiIgc2VwX2NvbG9yPSIiIGJvcmRlcl9zaXplPSIiIGljb249IiIgaWNvbl9jaXJjbGU9IiIgaWNvbl9jaXJjbGVfY29sb3I9IiIgd2lkdGg9IiIgYWxpZ25tZW50PSJjZW50ZXIiIGNsYXNzPSIiIGlkPSIiL11bZnVzaW9uX2J1dHRvbiBsaW5rPSJodHRwczovL2FwcGNlbnRlci5tcy9zaWdudXAiIHRpdGxlPSIiIHRhcmdldD0iX2JsYW5rIiBsaW5rX2F0dHJpYnV0ZXM9IiIgYWxpZ25tZW50PSJjZW50ZXIiIG1vZGFsPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIG9zX2Rvd25sb2Fkcz0ibm8iIGRvd25sb2FkX3dpbmRvd3NfdGV4dD0iIiBkb3dubG9hZF93aW5kb3dzX3VybD0iIiBkb3dubG9hZF9tYWNfdGV4dD0iIiBkb3dubG9hZF9tYWNfdXJsPSIiIGRvd25sb2FkX2xpbnV4X3RleHQ9IiIgZG93bmxvYWRfbGludXhfdXJsPSIiIGFyaWFfbGFiZWw9Il8lNTIlXyIgY29sb3I9ImRlZmF1bHQiIGJ1dHRvbl9ncmFkaWVudF90b3BfY29sb3I9IiIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcj0iIiBidXR0b25fZ3JhZGllbnRfdG9wX2NvbG9yX2hvdmVyPSIiIGJ1dHRvbl9ncmFkaWVudF9ib3R0b21fY29sb3JfaG92ZXI9IiIgYWNjZW50X2NvbG9yPSIiIGFjY2VudF9ob3Zlcl9jb2xvcj0iIiB0eXBlPSJmbGF0IiBiZXZlbF9jb2xvcj0iIiBib3JkZXJfd2lkdGg9IiIgc2l6ZT0ibWVkaXVtIiBzdHJldGNoPSJubyIgc2hhcGU9InNxdWFyZSIgaWNvbj0iIiBmYWJyaWNfaWNvbj0iQ2hldnJvblJpZ2h0U21hbGwiIGljb25fcG9zaXRpb249InJpZ2h0IiBpY29uX2RpdmlkZXI9Im5vIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjEuMCIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTUzJV9bL2Z1c2lvbl9idXR0b25dWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJd]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Setup a continuous integration and delivery pipeline for Android apps. Connect to any Git repo and have your team up and running in minutes. Try creating your own mobile app today with App Center.</source>
+            <target state="new">Setup a continuous integration and delivery pipeline for Android apps. Connect to any Git repo and have your team up and running in minutes. Try creating your own mobile app today with App Center.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Build a mobile app with Visual Studio App Center</source>
+            <target state="new">Build a mobile app with Visual Studio App Center</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Build your Android app in the cloud with Visual Studio App Center</source>
+            <target state="new">Build your Android app in the cloud with Visual Studio App Center</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>Get started with Visual Studio App Center for free</source>
+            <target state="new">Get started with Visual Studio App Center for free</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Get started for free</source>
+            <target state="new">Get started for free</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>Follow these steps to set up your continuous integration, delivery and feedback pipeline in minutes.
+
+
+</source>
+            <target state="new">Follow these steps to set up your continuous integration, delivery and feedback pipeline in minutes.
+
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source>Step 1.</source>
+            <target state="new">Step 1.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source> Sign up with App Center at appcenter.ms
+
+</source>
+            <target state="new"> Sign up with App Center at appcenter.ms
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source>App Center login screenshot</source>
+            <target state="new">App Center login screenshot</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source>/wp-content/uploads/2018/02/step-1-create-account-app-center.png</source>
+            <target state="new">/wp-content/uploads/2018/02/step-1-create-account-app-center.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>App Center Login<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>App Center Login<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source>Step 2.</source>
+            <target state="new">Step 2.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="13" xml:space="preserve">
+            <source> Create a new app
+
+</source>
+            <target state="new"> Create a new app
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="14" xml:space="preserve">
+            <source>Select “Add new” button -&gt; Add new app.</source>
+            <target state="new">Select “Add new” button -&gt; Add new app.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="15" xml:space="preserve">
+            <source> Enter your new app name.</source>
+            <target state="new"> Enter your new app name.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="16" xml:space="preserve">
+            <source> Select “Android” as your target OS and “Java” as the language you plan on writing it in.
+
+</source>
+            <target state="new"> Select “Android” as your target OS and “Java” as the language you plan on writing it in.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="17" xml:space="preserve">
+            <source>Add new app button screenshot</source>
+            <target state="new">Add new app button screenshot</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="18" xml:space="preserve">
+            <source>/wp-content/uploads/2018/02/step-2-add-new-button-app-center.png</source>
+            <target state="new">/wp-content/uploads/2018/02/step-2-add-new-button-app-center.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="19" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Add new button<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Add new button<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="20" xml:space="preserve">
+            <source>Screenshot of Add new app dialog box</source>
+            <target state="new">Screenshot of Add new app dialog box</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="21" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/02/step-2-create-new-app-app-center.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/02/step-2-create-new-app-app-center.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="22" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>New App settings dialog box<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>New App settings dialog box<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="23" xml:space="preserve">
+            <source>Step 3.</source>
+            <target state="new">Step 3.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="24" xml:space="preserve">
+            <source> Configure your repository
+
+</source>
+            <target state="new"> Configure your repository
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="25" xml:space="preserve">
+            <source>Select the "Build" service from the sidebar, then select the repository containing the app you want App Center to build.
+
+</source>
+            <target state="new">Select the "Build" service from the sidebar, then select the repository containing the app you want App Center to build.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="26" xml:space="preserve">
+            <source>Once authenticated, App Center retrieves your source code.</source>
+            <target state="new">Once authenticated, App Center retrieves your source code.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="27" xml:space="preserve">
+            <source> Select the app you want to build from the list.
+
+</source>
+            <target state="new"> Select the app you want to build from the list.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="28" xml:space="preserve">
+            <source>Screenshot of repo service selection</source>
+            <target state="new">Screenshot of repo service selection</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="29" xml:space="preserve">
+            <source>/wp-content/uploads/2018/02/step-3-configure-your-repository-app-center.png</source>
+            <target state="new">/wp-content/uploads/2018/02/step-3-configure-your-repository-app-center.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="30" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Connect a service screen<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Connect a service screen<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="31" xml:space="preserve">
+            <source>Step 4.</source>
+            <target state="new">Step 4.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="32" xml:space="preserve">
+            <source> Configure your Build &amp; Distribute
+
+</source>
+            <target state="new"> Configure your Build &amp; Distribute
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="33" xml:space="preserve">
+            <source>Now your repository is linked, and all the existing development branches are listed.</source>
+            <target state="new">Now your repository is linked, and all the existing development branches are listed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="34" xml:space="preserve">
+            <source> Select the one you want to build and select "Configure Build".
+
+</source>
+            <target state="new"> Select the one you want to build and select "Configure Build".
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="35" xml:space="preserve">
+            <source>Make sure to check the toggle for "Sign builds" and either check the box if your gradle settings handle signing or upload your keystore to sign the build to be used for distribution later.
+
+</source>
+            <target state="new">Make sure to check the toggle for "Sign builds" and either check the box if your gradle settings handle signing or upload your keystore to sign the build to be used for distribution later.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="36" xml:space="preserve">
+            <source>Toggle "Distribute builds", which will automatically send a download link to you via email once the build is complete.</source>
+            <target state="new">Toggle "Distribute builds", which will automatically send a download link to you via email once the build is complete.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="37" xml:space="preserve">
+            <source> Finally, press "Save &amp; Build" to kick things off.
+
+</source>
+            <target state="new"> Finally, press "Save &amp; Build" to kick things off.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="38" xml:space="preserve">
+            <source>Screenshot of branch selection</source>
+            <target state="new">Screenshot of branch selection</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="39" xml:space="preserve">
+            <source>/wp-content/uploads/2018/02/step-4-configure-your-build-1-app-center-600x304.png</source>
+            <target state="new">/wp-content/uploads/2018/02/step-4-configure-your-build-1-app-center-600x304.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="40" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Configure a new build<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Configure a new build<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="41" xml:space="preserve">
+            <source>Configure build button screenshot</source>
+            <target state="new">Configure build button screenshot</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="42" xml:space="preserve">
+            <source>/wp-content/uploads/2018/02/step-4-configure-branch-app-center.png</source>
+            <target state="new">/wp-content/uploads/2018/02/step-4-configure-branch-app-center.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="43" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Configure build button<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Configure build button<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="44" xml:space="preserve">
+            <source>Build configuration screenshot</source>
+            <target state="new">Build configuration screenshot</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="45" xml:space="preserve">
+            <source>/wp-content/uploads/2018/02/step4-configure-your-build-app-center.png</source>
+            <target state="new">/wp-content/uploads/2018/02/step4-configure-your-build-app-center.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="46" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Build configuration settings<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: right; font-size: .9em;"&gt;</bpt>Build configuration settings<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="47" xml:space="preserve">
+            <source>Step 5.</source>
+            <target state="new">Step 5.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="48" xml:space="preserve">
+            <source> Install your app
+
+</source>
+            <target state="new"> Install your app
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="49" xml:space="preserve">
+            <source>Once the build has run to completion, a successful build will generate an email automatically that is sent to your device with an install link.</source>
+            <target state="new">Once the build has run to completion, a successful build will generate an email automatically that is sent to your device with an install link.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="50" xml:space="preserve">
+            <source> You have now configured your first mobile app development pipeline with App Center!</source>
+            <target state="new"> You have now configured your first mobile app development pipeline with App Center!</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="51" xml:space="preserve">
+            <source>Image of your new awesome app on a Android device</source>
+            <target state="new">Image of your new awesome app on a Android device</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="52" xml:space="preserve">
+            <source>/wp-content/uploads/2018/02/step5-distribute-app-vs-app-center.png</source>
+            <target state="new">/wp-content/uploads/2018/02/step5-distribute-app-vs-app-center.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%51%_" id="53" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="herocontent"&gt;</bpt>Ship five-star iOS, Android, Windows, and macOS apps, faster<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="herocontent"&gt;</bpt>Ship five-star iOS, Android, Windows, and macOS apps, faster<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%52%_" id="54" xml:space="preserve">
+            <source>Get started with Visual Studio App Center for free</source>
+            <target state="new">Get started with Visual Studio App Center for free</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%53%_" id="55" xml:space="preserve">
+            <source>Get started for free</source>
+            <target state="new">Get started for free</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

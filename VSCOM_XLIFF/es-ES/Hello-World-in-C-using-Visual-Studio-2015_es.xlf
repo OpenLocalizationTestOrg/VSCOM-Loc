@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46736-a2af9eb6fa204a94933447f608d030a8" source-language="en" target-language="es" parent-post-id="80140" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/hello-world-c-using-visual-studio-2015/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXw0KXyUzJV8gXyU0JV8NCl8lNSVfDQpfJTYlXw0KXyU3JV8NCl8lOCVfDQpfJTklXw0KXyUxMCVfIF8lMTElXw0KXyUxMiVfDQo8L29sPg0KXyUxMyVfDQoNCl8lMTQlXw0KDQpfJTE1JV8gXyUxNiVfIF8lMTclXwo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Tools and Features on Hello World in C++ using Visual Studio 2015.</source>
+            <target state="new">Visual Studio 2015 Tools and Features on Hello World in C++ using Visual Studio 2015.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Hello World in C++ using Visual Studio 2015</source>
+            <target state="new">Hello World in C++ using Visual Studio 2015</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3&gt;</bpt>Thank you for downloading Visual Studio and start your first C++ journey!<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3&gt;</bpt>Thank you for downloading Visual Studio and start your first C++ journey!<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>First, understand the layout and views once you launch Visual Studio 2015:<ph id="ph1">&lt;img width="1485" height="788" class="alignnone size-full wp-image-80544" alt="screenshot of Visual Studio 2015" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/VS2015view_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>First, understand the layout and views once you launch Visual Studio 2015:<ph id="ph1">&lt;img width="1485" height="788" class="alignnone size-full wp-image-80544" alt="screenshot of Visual Studio 2015" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/VS2015view_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Next, review the standard build process for a Visual Studio project: <ph id="ph1">&lt;img width="1407" height="182" class="alignnone size-full wp-image-80543" alt="VS 2015 build process" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/VS2015buildProcess.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Next, review the standard build process for a Visual Studio project: <ph id="ph1">&lt;img width="1407" height="182" class="alignnone size-full wp-image-80543" alt="VS 2015 build process" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/VS2015buildProcess.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Now, start building your first C++ project by choosing the project template.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Now, start building your first C++ project by choosing the project template.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>If C++ is not an already installed language in Visual Studio, you need to install <bpt id="p1">&lt;strong&gt;</bpt>Visual C++ 2015 Tools for Windows Desktop<ept id="p1">&lt;/strong&gt;</ept>:<ph id="ph1">&lt;img width="1643" height="1142" class="alignnone size-full wp-image-80542" alt="screenshot of Visual C++ 2015 Tool for Win Desktop" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/VisualCplusPlus2015Tool_for_WinDesktop_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">If C++ is not an already installed language in Visual Studio, you need to install <bpt id="p1">&lt;strong&gt;</bpt>Visual C++ 2015 Tools for Windows Desktop<ept id="p1">&lt;/strong&gt;</ept>:<ph id="ph1">&lt;img width="1643" height="1142" class="alignnone size-full wp-image-80542" alt="screenshot of Visual C++ 2015 Tool for Win Desktop" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/VisualCplusPlus2015Tool_for_WinDesktop_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>After installing the Visual C++ 2015 Tools for Windows Desktop, you can choose the <bpt id="p2">&lt;strong&gt;</bpt>Win32 Console Application<ept id="p2">&lt;/strong&gt;</ept> template and create your <bpt id="p3">&lt;strong&gt;</bpt>HelloWorld<ept id="p3">&lt;/strong&gt;</ept> project:<ph id="ph1">&lt;img width="1643" height="1144" class="alignnone size-full wp-image-80541" alt="screenshot of Win32ConsoleApplication" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/Win32ConsoleApplication_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>After installing the Visual C++ 2015 Tools for Windows Desktop, you can choose the <bpt id="p2">&lt;strong&gt;</bpt>Win32 Console Application<ept id="p2">&lt;/strong&gt;</ept> template and create your <bpt id="p3">&lt;strong&gt;</bpt>HelloWorld<ept id="p3">&lt;/strong&gt;</ept> project:<ph id="ph1">&lt;img width="1643" height="1144" class="alignnone size-full wp-image-80541" alt="screenshot of Win32ConsoleApplication" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/Win32ConsoleApplication_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click <bpt id="p2">&lt;strong&gt;</bpt>Finish<ept id="p2">&lt;/strong&gt;</ept> to exit the <bpt id="p3">&lt;strong&gt;</bpt>Win32 Application Wizard<ept id="p3">&lt;/strong&gt;</ept><ph id="ph1">&lt;img width="1639" height="1138" class="alignnone size-full wp-image-80540" alt="screenshot of Win32 Application Wizard" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/Win32ApplicationWizard_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click <bpt id="p2">&lt;strong&gt;</bpt>Finish<ept id="p2">&lt;/strong&gt;</ept> to exit the <bpt id="p3">&lt;strong&gt;</bpt>Win32 Application Wizard<ept id="p3">&lt;/strong&gt;</ept><ph id="ph1">&lt;img width="1639" height="1138" class="alignnone size-full wp-image-80540" alt="screenshot of Win32 Application Wizard" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/Win32ApplicationWizard_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You can see your first C++ project:<ph id="ph1">&lt;img width="1644" height="1141" class="alignnone size-full wp-image-80549" alt="screenshot of C++ project" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/CplusplusProject_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You can see your first C++ project:<ph id="ph1">&lt;img width="1644" height="1141" class="alignnone size-full wp-image-80549" alt="screenshot of C++ project" src="https://visualstudio.microsoft.com/wp-content/uploads/2018/06/CplusplusProject_copy_opt.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Replace<ept id="p2">&lt;/strong&gt;</ept> the code with below lines:
+<pre>&lt;code&gt;#include &quot;stdafx.h&quot;
+#include &amp;lt;iostream&amp;gt; 
+using namespace std;    
+
+    int main()      
+    {    
+        cout &amp;lt;&amp;lt; &quot;Hello World! &quot;;    
+        return 0;      
+    }
+&lt;/code&gt;</pre>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Replace<ept id="p2">&lt;/strong&gt;</ept> the code with below lines:
+<pre>&lt;code&gt;#include &quot;stdafx.h&quot;
+#include &amp;lt;iostream&amp;gt; 
+using namespace std;    
+
+    int main()      
+    {    
+        cout &amp;lt;&amp;lt; &quot;Hello World! &quot;;    
+        return 0;      
+    }
+&lt;/code&gt;</pre>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Next, add a <bpt id="p2">&lt;strong&gt;</bpt>breakpoint<ept id="p2">&lt;/strong&gt;</ept> by clicking the grey area in front of <bpt id="p3">&lt;strong&gt;</bpt>line 12<ept id="p3">&lt;/strong&gt;</ept>:<ph id="ph1">&lt;img width="666" height="297" class="alignnone size-full wp-image-80547" alt="breakpoint" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/breakpoint.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Next, add a <bpt id="p2">&lt;strong&gt;</bpt>breakpoint<ept id="p2">&lt;/strong&gt;</ept> by clicking the grey area in front of <bpt id="p3">&lt;strong&gt;</bpt>line 12<ept id="p3">&lt;/strong&gt;</ept>:<ph id="ph1">&lt;img width="666" height="297" class="alignnone size-full wp-image-80547" alt="breakpoint" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/breakpoint.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Compile and run your project by clicking the <bpt id="p2">&lt;strong&gt;</bpt>green triangle<ept id="p2">&lt;/strong&gt;</ept> in the tool bar (<bpt id="p3">&lt;strong&gt;</bpt>Local Windows Debugger<ept id="p3">&lt;/strong&gt;</ept>) or press F5.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Compile and run your project by clicking the <bpt id="p2">&lt;strong&gt;</bpt>green triangle<ept id="p2">&lt;/strong&gt;</ept> in the tool bar (<bpt id="p3">&lt;strong&gt;</bpt>Local Windows Debugger<ept id="p3">&lt;/strong&gt;</ept>) or press F5.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="13" xml:space="preserve">
+            <source>Visual Studio allows single-click for build and debugging.Click <bpt id="p1">&lt;strong&gt;</bpt>Yes<ept id="p1">&lt;/strong&gt;</ept> to build the project:
+
+<ph id="ph1">&lt;img width="358" height="326" class="alignnone size-full wp-image-80546" alt="build" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/VS2015build.png"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Visual Studio allows single-click for build and debugging.Click <bpt id="p1">&lt;strong&gt;</bpt>Yes<ept id="p1">&lt;/strong&gt;</ept> to build the project:
+
+<ph id="ph1">&lt;img width="358" height="326" class="alignnone size-full wp-image-80546" alt="build" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/VS2015build.png"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="14" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You can see a &quot;Hello World!&quot; in the <bpt id="p2">&lt;strong&gt;</bpt>console window<ept id="p2">&lt;/strong&gt;</ept>.<ph id="ph1">&lt;img width="124" height="38" class="alignnone size-full wp-image-80545" alt="hello world" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/HelloWorld.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You can see a &quot;Hello World!&quot; in the <bpt id="p2">&lt;strong&gt;</bpt>console window<ept id="p2">&lt;/strong&gt;</ept>.<ph id="ph1">&lt;img width="124" height="38" class="alignnone size-full wp-image-80545" alt="hello world" src="https://visualstudio.microsoft.com/wp-content/uploads/2017/06/HelloWorld.png"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="15" xml:space="preserve">
+            <source>Troubleshooting:
+
+If the console window immediately closes, you need to set the breakpoint in step 8.</source>
+            <target state="new">Troubleshooting:
+
+If the console window immediately closes, you need to set the breakpoint in step 8.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="16" xml:space="preserve">
+            <source>If you are on Windows 8.1, you need to re-run the installer for Visual Studio, click modify, select languages, and choose C++.</source>
+            <target state="new">If you are on Windows 8.1, you need to re-run the installer for Visual Studio, click modify, select languages, and choose C++.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="17" xml:space="preserve">
+            <source>Congratulations on your first C++ project!</source>
+            <target state="new">Congratulations on your first C++ project!</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="18" xml:space="preserve">
+            <source>Please let us know whether you find this article useful or not.</source>
+            <target state="new">Please let us know whether you find this article useful or not.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="19" xml:space="preserve">
+            <source>Thank you!</source>
+            <target state="new">Thank you!</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
