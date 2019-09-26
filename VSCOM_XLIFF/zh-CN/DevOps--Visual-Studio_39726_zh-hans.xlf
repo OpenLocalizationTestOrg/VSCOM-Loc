@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="48759-9c3d88509368b6ae91ce54bfd04a7702" source-language="en" target-language="zh-hans" parent-post-id="39726" version="7" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/features/devops/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gSGVybyIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ieWVzIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tZmVhdHVyZS1oZXJvIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8tdGV4dGNvbCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fZmVhdHVyZV9oZXJvIHRpdGxlPSJfJTAlXyIgY3NzX2NsYXNzZXM9IiIgcmVhZG1vcmVfdXJsPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3ZzL3ByaWNpbmcvIiByZWFkbW9yZV90ZXh0PSJfJTElXyIgcmVhZG1vcmVfYXJpYT0iXyUyJV8iIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTExJV9bdnNjb20tZHJvcGRvd25dW3ZzY29tLXRvcG5hdiBhcmlhX2xhYmVsPSJfJTMlXyIgaWNvbl9jbGFzcz0idnNjb20taWNvbiB2c2NvbS1pY29uLS1Eb3dubG9hZCBidXR0b24taWNvbi1yaWdodCJdXyU0JV9bL3ZzY29tLXRvcG5hdl1bdnNjb20tc3VibmF2IGFyaWFfbGFiZWw9Il8lNSVfIiB1cmw9Ii90aGFuay15b3UtZG93bmxvYWRpbmctdmlzdWFsLXN0dWRpby8/c2t1PUNvbW11bml0eSZyZWw9MTYiXV8lNiVfWy92c2NvbS1zdWJuYXZdW3ZzY29tLXN1Ym5hdiBhcmlhX2xhYmVsPSJfJTclXyIgdXJsPSIvdGhhbmsteW91LWRvd25sb2FkaW5nLXZpc3VhbC1zdHVkaW8vP3NrdT1Qcm9mZXNzaW9uYWwmcmVsPTE2Il1fJTglX1svdnNjb20tc3VibmF2XVt2c2NvbS1zdWJuYXYgYXJpYV9sYWJlbD0iXyU5JV8iIHVybD0iL3RoYW5rLXlvdS1kb3dubG9hZGluZy12aXN1YWwtc3R1ZGlvLz9za3U9RW50ZXJwcmlzZSZyZWw9MTYiXV8lMTAlX1svdnNjb20tc3VibmF2XVsvdnNjb20tZHJvcGRvd25dCgpbL3ZzY29tX2ZlYXR1cmVfaGVyb11bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGFkbWluX2xhYmVsPSJWU0NPTSBTd2ltbGFuZSIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIHN0YXR1cz0icHVibGlzaGVkIiBwdWJsaXNoX2RhdGU9IiIgY2xhc3M9InZzY29tLXN3aW1sYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3N3aW1sYW5lX2NvbnRlbnQgbGF5b3V0PSJiYXNpYyIgdGl0bGU9Il8lMTIlXyIgc3VidGl0bGU9IiIgaW1hZ2VfdHlwZT0ic3RhdGljIiBpbWFnZV9tZWRpYT0iL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzAyL0NvbXBsZXRlRGV2T3BzU29sdXRpb24ucG5nIiBpbWFnZV9pZD0iIiBhbmltYXRlZF9pbWFnZT0iIiBnaWZfYXJpYT0iIiByZWFkbW9yZV91cmw9IiIgcmVhZG1vcmVfdGV4dD0iXyUxMyVfIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIiBsYXp5X2xvYWRpbmc9Im5vIl1fJTE0JV9fJTE1JV9fJTE2JV9bL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBzdGF0dXM9InB1Ymxpc2hlZCIgcHVibGlzaF9kYXRlPSIiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0tZ3JheWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fc3dpbWxhbmVfY29udGVudCBsYXlvdXQ9ImJhc2ljLXJldmVyc2VkIiB0aXRsZT0iXyUxNyVfIiBzdWJ0aXRsZT0iIiBpbWFnZV9tZWRpYT0iL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2L0NvbnRpbnVvdXNUZXN0aW5nMS02MzZ4MzUwLW9wLnBuZyIgcmVhZG1vcmVfdXJsPSIiIHJlYWRtb3JlX3RleHQ9Il8lMTglXyIgcmVhZG1vcmVfYXJpYT0iIiByZWFkbW9yZV90YXJnZXQ9Il9zZWxmIiByZWFkbW9yZV9yZWw9IiJdXyUxOSVfXyUyMCVfWy92c2NvbV9zd2ltbGFuZV9jb250ZW50XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgc3RhdHVzPSJwdWJsaXNoZWQiIHB1Ymxpc2hfZGF0ZT0iIiBjbGFzcz0idnNjb20tc3dpbWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fc3dpbWxhbmVfY29udGVudCBsYXlvdXQ9ImJhc2ljIiB0aXRsZT0iXyUyMSVfIiBzdWJ0aXRsZT0iIiBpbWFnZV9tZWRpYT0iL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2L1JlbGVhc2VNYW5hZ2VtZW50MS02MzZ4MzUwLW9wLTEucG5nIiByZWFkbW9yZV91cmw9IiIgcmVhZG1vcmVfdGV4dD0iXyUyMiVfIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTIzJV9fJTI0JV9bL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBzdGF0dXM9InB1Ymxpc2hlZCIgcHVibGlzaF9kYXRlPSIiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0tZ3JheWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fc3dpbWxhbmVfY29udGVudCBsYXlvdXQ9ImJhc2ljLXJldmVyc2VkIiB0aXRsZT0iXyUyNSVfIiBzdWJ0aXRsZT0iIiBpbWFnZV9tZWRpYT0iL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA4L01vYmlsZURldk9wczYzNngzNTAtMS5wbmciIHJlYWRtb3JlX3VybD0iIiByZWFkbW9yZV90ZXh0PSJfJTI2JV8iIHJlYWRtb3JlX2FyaWE9IiIgcmVhZG1vcmVfdGFyZ2V0PSJfc2VsZiIgcmVhZG1vcmVfcmVsPSIiXV8lMjclX18lMjglX1svdnNjb21fc3dpbWxhbmVfY29udGVudF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGFkbWluX2xhYmVsPSJWU0NPTSBTd2ltbGFuZSIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIHN0YXR1cz0icHVibGlzaGVkIiBwdWJsaXNoX2RhdGU9IiIgY2xhc3M9InZzY29tLXN3aW1sYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3N3aW1sYW5lX2NvbnRlbnQgbGF5b3V0PSJiYXNpYyIgdGl0bGU9Il8lMjklXyIgc3VidGl0bGU9IiIgaW1hZ2VfbWVkaWE9Ii93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wMi9BbnlMYW5ndWFnZUFueVBsYXRmb3JtXzYzNngzNTAucG5nIiByZWFkbW9yZV91cmw9IiIgcmVhZG1vcmVfdGV4dD0iXyUzMCVfIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTMxJV9fJTMyJV9fJTMzJV9fJTM0JV9fJTM1JV9bL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBzdGF0dXM9InB1Ymxpc2hlZCIgcHVibGlzaF9kYXRlPSIiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0tZ3JheWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fc3dpbWxhbmVfY29udGVudCBsYXlvdXQ9ImJhc2ljLXJldmVyc2VkIiB0aXRsZT0iXyUzNiVfIiBzdWJ0aXRsZT0iIiBpbWFnZV9tZWRpYT0iL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzAzL09wZW5FY29zeXN0ZW1fNjM2eDMwMC1vcC5wbmciIHJlYWRtb3JlX3VybD0iIiByZWFkbW9yZV90ZXh0PSJfJTM3JV8iIHJlYWRtb3JlX2FyaWE9IiIgcmVhZG1vcmVfdGFyZ2V0PSJfc2VsZiIgcmVhZG1vcmVfcmVsPSIiXV8lMzglX18lMzklXw0KDQpfJTQwJV9fJTQxJV9bL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9nbG9iYWwgaWQ9Ijk3NjAzIl0=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_title-0" id="0" xml:space="preserve">
+            <source>DevOps | Visual Studio</source>
+            <target state="new">DevOps | Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="1" xml:space="preserve">
+            <source>Looking for a complete DevOps solution: Agile planning, source code control, build, testing, release management and more? Download Visual Studio.</source>
+            <target state="new">Looking for a complete DevOps solution: Agile planning, source code control, build, testing, release management and more? Download Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_focuskw-0" id="2" xml:space="preserve">
+            <source>DevOps</source>
+            <target state="new">DevOps</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>DevOps | Visual Studio</source>
+            <target state="new">DevOps | Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>Complete DevOps Solution</source>
+            <target state="new">Complete DevOps Solution</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source>Pricing</source>
+            <target state="new">Pricing</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="6" xml:space="preserve">
+            <source>Pricing for Visual Studio</source>
+            <target state="new">Pricing for Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="7" xml:space="preserve">
+            <source>Tab Down to Select a Version of Visual Studio</source>
+            <target state="new">Tab Down to Select a Version of Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="8" xml:space="preserve">
+            <source>Download Visual Studio</source>
+            <target state="new">Download Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="9" xml:space="preserve">
+            <source>Download Visual Studio Community 2019</source>
+            <target state="new">Download Visual Studio Community 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="10" xml:space="preserve">
+            <source>Community 2019</source>
+            <target state="new">Community 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="11" xml:space="preserve">
+            <source>Download Visual Studio Professional 2019</source>
+            <target state="new">Download Visual Studio Professional 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="12" xml:space="preserve">
+            <source>Professional 2019</source>
+            <target state="new">Professional 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="13" xml:space="preserve">
+            <source>Download Visual Studio Enterprise 2019</source>
+            <target state="new">Download Visual Studio Enterprise 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="14" xml:space="preserve">
+            <source>Enterprise 2019</source>
+            <target state="new">Enterprise 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="15" xml:space="preserve">
+            <source>Automate software delivery and enable collaboration between development and operations for any language, targeting any platform.
+
+
+</source>
+            <target state="new">Automate software delivery and enable collaboration between development and operations for any language, targeting any platform.
+
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="16" xml:space="preserve">
+            <source>Continuously Deliver Value</source>
+            <target state="new">Continuously Deliver Value</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="17" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="18" xml:space="preserve">
+            <source>Get everything you need in a single solution including agile planning, source code control, package management, build, testing and release automation to continuously integrate, test, deliver and monitor your application.</source>
+            <target state="new">Get everything you need in a single solution including agile planning, source code control, package management, build, testing and release automation to continuously integrate, test, deliver and monitor your application.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="19" xml:space="preserve">
+            <source> A complete DevOps toolchain to help you deploy your application faster with confidence.
+
+</source>
+            <target state="new"> A complete DevOps toolchain to help you deploy your application faster with confidence.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="20" xml:space="preserve">
+            <source>Spend more time delivering value to your users instead of maintaining your tool-set.
+
+</source>
+            <target state="new">Spend more time delivering value to your users instead of maintaining your tool-set.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="21" xml:space="preserve">
+            <source>Continuous Testing</source>
+            <target state="new">Continuous Testing</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="22" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="23" xml:space="preserve">
+            <source>Run unit, UI, load, and performance tests during your entire release.
+
+</source>
+            <target state="new">Run unit, UI, load, and performance tests during your entire release.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="24" xml:space="preserve">
+            <source>With support for all the popular test frameworks including xUnit, Junit, Selenium, Jasmine, and Mocha, you can test any project type during your build and deployment, including collecting code coverage.
+
+</source>
+            <target state="new">With support for all the popular test frameworks including xUnit, Junit, Selenium, Jasmine, and Mocha, you can test any project type during your build and deployment, including collecting code coverage.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="25" xml:space="preserve">
+            <source>Release Management</source>
+            <target state="new">Release Management</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="26" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="27" xml:space="preserve">
+            <source>Manage automated deployments through each stage of your pipeline.
+
+</source>
+            <target state="new">Manage automated deployments through each stage of your pipeline.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="28" xml:space="preserve">
+            <source>Deploy applications, database changes, and infrastructure to the cloud, on-premises, or hybrid cloud with test verification and approvals at every stage.
+
+</source>
+            <target state="new">Deploy applications, database changes, and infrastructure to the cloud, on-premises, or hybrid cloud with test verification and approvals at every stage.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="29" xml:space="preserve">
+            <source>Mobile DevOps</source>
+            <target state="new">Mobile DevOps</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="30" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="31" xml:space="preserve">
+            <source>Mobile applications can benefit from DevOps just like any other application.
+
+</source>
+            <target state="new">Mobile applications can benefit from DevOps just like any other application.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="32" xml:space="preserve">
+            <source>With Xamarin, HockeyApp, and Cordova integration Azure DevOps enables mobile DevOps for Android, iOS and Windows phones.</source>
+            <target state="new">With Xamarin, HockeyApp, and Cordova integration Azure DevOps enables mobile DevOps for Android, iOS and Windows phones.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="33" xml:space="preserve">
+            <source>Any Language, Any Platform</source>
+            <target state="new">Any Language, Any Platform</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="34" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="35" xml:space="preserve">
+            <source>The goals and best practices of DevOps apply to all languages.
+
+</source>
+            <target state="new">The goals and best practices of DevOps apply to all languages.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="36" xml:space="preserve">
+            <source>Azure DevOps enables DevOps for applications written in any language.</source>
+            <target state="new">Azure DevOps enables DevOps for applications written in any language.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="37" xml:space="preserve">
+            <source> Build Java on Linux, Xcode on a Mac or .NET on Windows from a single CI system.
+
+</source>
+            <target state="new"> Build Java on Linux, Xcode on a Mac or .NET on Windows from a single CI system.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="38" xml:space="preserve">
+            <source>Azure DevOps lets you target cloud or on-premises servers running any operating system.</source>
+            <target state="new">Azure DevOps lets you target cloud or on-premises servers running any operating system.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="39" xml:space="preserve">
+            <source> Deploy to physical servers, virtual servers, containers, or mobile devices.
+
+</source>
+            <target state="new"> Deploy to physical servers, virtual servers, containers, or mobile devices.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="40" xml:space="preserve">
+            <source>Open Ecosystem</source>
+            <target state="new">Open Ecosystem</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="41" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="42" xml:space="preserve">
+            <source>Already using Jenkins for CI?</source>
+            <target state="new">Already using Jenkins for CI?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="43" xml:space="preserve">
+            <source> Using Subversion or Github for version control?</source>
+            <target state="new"> Using Subversion or Github for version control?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="44" xml:space="preserve">
+            <source>Azure DevOps supports rich integration, so you can continue using systems you’re comfortable with while also taking advantage of all the great benefits Azure DevOps has to offer.
+
+</source>
+            <target state="new">Azure DevOps supports rich integration, so you can continue using systems you’re comfortable with while also taking advantage of all the great benefits Azure DevOps has to offer.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="45" xml:space="preserve">
+            <source>Use Web Hooks and REST APIs to integrate with external 3rd party systems.</source>
+            <target state="new">Use Web Hooks and REST APIs to integrate with external 3rd party systems.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

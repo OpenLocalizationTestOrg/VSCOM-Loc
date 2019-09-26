@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="43530-66fee06e2d763605c1508823c962b45f" source-language="en" target-language="zh-hans" parent-post-id="39324" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/microsoft-visual-c-redistributable-visual-studio-2017-rc/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCg0KXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://aka.ms/vs/15/release/VC_redist.x86.exe</source>
+            <target state="new">https://aka.ms/vs/15/release/VC_redist.x86.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-url" id="3" xml:space="preserve">
+            <source>https://aka.ms/vs/15/release/VC_redist.x64.exe</source>
+            <target state="new">https://aka.ms/vs/15/release/VC_redist.x64.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-language" id="4" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-format" id="5" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-url" id="6" xml:space="preserve">
+            <source>https://aka.ms/vs/15/release/VC_redist.arm64.exe</source>
+            <target state="new">https://aka.ms/vs/15/release/VC_redist.arm64.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-language" id="7" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-format" id="8" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="9" xml:space="preserve">
+            <source>Microsoft Visual C++ Redistributable for Visual Studio 2017</source>
+            <target state="new">Microsoft Visual C++ Redistributable for Visual Studio 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="10" xml:space="preserve">
+            <source>This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.</source>
+            <target state="new">This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="11" xml:space="preserve">
+            <source>Right-click on the following link to copy or bookmark this download: <bpt id="p1">&lt;a href="https://go.microsoft.com/fwlink/?LinkId=746572"&gt;</bpt>Microsoft Visual C++ Redistributable for Visual Studio 2017<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">Right-click on the following link to copy or bookmark this download: <bpt id="p1">&lt;a href="https://go.microsoft.com/fwlink/?LinkId=746572"&gt;</bpt>Microsoft Visual C++ Redistributable for Visual Studio 2017<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="12" xml:space="preserve">
+            <source>Microsoft Visual C++ Redistributable for Visual Studio 2017</source>
+            <target state="new">Microsoft Visual C++ Redistributable for Visual Studio 2017</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

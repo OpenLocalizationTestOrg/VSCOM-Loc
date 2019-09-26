@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="43238-5bd16a378a186043da9d15bd01cb2f8a" source-language="en" target-language="zh-hans" parent-post-id="80258" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/support/build-java-maven/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCjxkaXYgY2xhc3M9ImdpdC1jb250cmlidXRvcnMgaGlkZGVuLXByaW50Ij4NCjxkaXYgY2xhc3M9InVwZGF0ZS1hdC1jb250YWluZXIiPl8lMSVfPC9kaXY+DQo8L2Rpdj4NCjxkaXY+DQpfJTIlXw0KXyUzJV8NCl8lNCVfDQpfJTUlXw0KDQpfJTYlXw0KDQpfJTclXw0KXyU4JV8NCl8lOSVfDQpfJTEwJV8NCl8lMTElXyBfJTEyJV8NCl8lMTMlXw0KXyUxNCVfDQpfJTE1JV8NCg0KPGltZyBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDgvYmxkc2F2ZS5wbmciIGFsdD0iU2F2ZSB0aGUgYnVpbGQiIHdpZHRoPSI1NjIiIGhlaWdodD0iMjU5IiBjbGFzcz0iYWxpZ25ub25lIHNpemUtZnVsbCB3cC1pbWFnZS0xMDQxMTMiPjwvaW1nPgo8L2xpPg0KXyUxNiVfDQo8L29sPg0KXyUxNyVfDQpfJTE4JV8NCl8lMTklXw0KXyUyMCVfIF8lMjElXw0KXyUyMiVfIF8lMjMlXw0KXyUyNCVfDQpfJTI1JV8NCl8lMjYlXw0KXyUyNyVfDQpfJTI4JV8NCl8lMjklXw0KXyUzMCVfDQpfJTMxJV8gXyUzMiVfDQpfJTMzJV8NCjwvdWw+DQpfJTM0JV8NCl8lMzUlXw0KXyUzNiVfDQpfJTM3JV8NCl8lMzglXw0KXyUzOSVfDQpfJTQwJV8NCjwvdWw+DQpfJTQxJV8NCl8lNDIlXw0KXyU0MyVfDQpfJTQ0JV/CoF8lNDUlXw0KXyU0NiVfIF8lNDclXw0KXyU0OCVfDQpfJTQ5JV8gXyU1MCVfDQpfJTUxJV8gXyU1MiVfDQpfJTUzJV8NCl8lNTQlXw0KDQo8L2Rpdj4NCjwvZGl2Pgo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>How do I build Java with Maven?</source>
+            <target state="new">How do I build Java with Maven?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 id="build-your-java-app-with-maven" class=""&gt;</bpt>Build your Java app with Maven<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 id="build-your-java-app-with-maven" class=""&gt;</bpt>Build your Java app with Maven<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="contributor-update-at"&gt;</bpt>Last Update: 9/26/2016<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="contributor-update-at"&gt;</bpt>Last Update: 9/26/2016<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="content"&gt;</bpt>
+
+Team Services | TFS 2015 | <bpt id="p2">&lt;a href="http://msdn.microsoft.com/library/ms181709%28v=vs.120%29.aspx"&gt;</bpt>Previous versions (XAML builds)<ept id="p2">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="content"&gt;</bpt>
+
+Team Services | TFS 2015 | <bpt id="p2">&lt;a href="http://msdn.microsoft.com/library/ms181709%28v=vs.120%29.aspx"&gt;</bpt>Previous versions (XAML builds)<ept id="p2">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>
+After you&#039;ve <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts"&gt;</bpt>deployed an agent<ept id="p1">&lt;/a&gt;</ept>, you are ready to define a CI build that compiles your Java app with Maven whenever your team checks in code.</source>
+            <target state="new">
+After you&#039;ve <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts"&gt;</bpt>deployed an agent<ept id="p1">&lt;/a&gt;</ept>, you are ready to define a CI build that compiles your Java app with Maven whenever your team checks in code.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 id="upload-your-code"&gt;</bpt>Upload your code<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 id="upload-your-code"&gt;</bpt>Upload your code<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>If you haven&#039;t already, upload your code to <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/repos/git/share-your-code-in-git-eclipse"&gt;</bpt>GIT<ept id="p1">&lt;/a&gt;</ept> or <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/repos/tfvc/share-your-code-in-tfvc-eclipse"&gt;</bpt>TFVC<ept id="p2">&lt;/a&gt;</ept>.</source>
+            <target state="new">If you haven&#039;t already, upload your code to <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/repos/git/share-your-code-in-git-eclipse"&gt;</bpt>GIT<ept id="p1">&lt;/a&gt;</ept> or <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/repos/tfvc/share-your-code-in-tfvc-eclipse"&gt;</bpt>TFVC<ept id="p2">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>If you don&#039;t have any code, you can <bpt id="p1">&lt;a href="http://download.microsoft.com/download/9/F/D/9FDE173C-5213-4C6F-AED8-BD64A4658B08/java-maven-hello-world-app.zip"&gt;</bpt>download our Hello world Java web app<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">If you don&#039;t have any code, you can <bpt id="p1">&lt;a href="http://download.microsoft.com/download/9/F/D/9FDE173C-5213-4C6F-AED8-BD64A4658B08/java-maven-hello-world-app.zip"&gt;</bpt>download our Hello world Java web app<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/languages/java"&gt;</bpt>What code is in the sample app?<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/languages/java"&gt;</bpt>What code is in the sample app?<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 id="create-the-definition"&gt;</bpt>Create the definition<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 id="create-the-definition"&gt;</bpt>Create the definition<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Create the build definition.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/web-portal-build-tab.png" alt="Build tab" width="284" height="75" class="alignnone size-full wp-image-104102"&gt;&lt;/img&gt;</ph>
+
+<ph id="ph2">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/new-java-build-from-definition-templates.png" alt="New Java build" width="615" height="267" class="alignnone size-full wp-image-104104"&gt;&lt;/img&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Create the build definition.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/web-portal-build-tab.png" alt="Build tab" width="284" height="75" class="alignnone size-full wp-image-104102"&gt;&lt;/img&gt;</ph>
+
+<ph id="ph2">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/new-java-build-from-definition-templates.png" alt="New Java build" width="615" height="267" class="alignnone size-full wp-image-104104"&gt;&lt;/img&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Specify the code you want to build and select the continuous integration (CI) trigger.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Specify the code you want to build and select the continuous integration (CI) trigger.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>If your project builds with Maven, add the Maven build step.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>If your project builds with Maven, add the Maven build step.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>Otherwise add the build step your team uses.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/add-build-step.png" alt="Add build step" width="700" height="303" class="alignnone size-full wp-image-104108"&gt;&lt;/img&gt;</ph>
+
+<ph id="ph2">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/add-build-step-maven.png" alt="Add Maven build step" width="650" height="598" class="alignnone size-full wp-image-104109"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Otherwise add the build step your team uses.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/add-build-step.png" alt="Add build step" width="700" height="303" class="alignnone size-full wp-image-104108"&gt;&lt;/img&gt;</ph>
+
+<ph id="ph2">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/add-build-step-maven.png" alt="Add Maven build step" width="650" height="598" class="alignnone size-full wp-image-104109"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Provide the path to your Maven POM file.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/maven-build-step.png" alt="Maven build step" width="700" height="514" class="alignnone size-full wp-image-104110"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Provide the path to your Maven POM file.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/maven-build-step.png" alt="Maven build step" width="700" height="514" class="alignnone size-full wp-image-104110"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select the continuous integration (CI) trigger and specify the code you want to build.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select the continuous integration (CI) trigger and specify the code you want to build.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Save the definition.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Save the definition.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Queue your new definition to make sure it works.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/queue-build-dialog-box-with-hosted.png" alt="Queue the build" width="551" height="433" class="alignnone size-full wp-image-104114"&gt;&lt;/img&gt;</ph>
+
+<ph id="ph2">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/eclipse-build-completed.png" alt="Completed build" width="700" height="482" class="alignnone size-full wp-image-104115"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Queue your new definition to make sure it works.<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/queue-build-dialog-box-with-hosted.png" alt="Queue the build" width="551" height="433" class="alignnone size-full wp-image-104114"&gt;&lt;/img&gt;</ph>
+
+<ph id="ph2">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/08/eclipse-build-completed.png" alt="Completed build" width="700" height="482" class="alignnone size-full wp-image-104115"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>Your team now has a CI build to validate every change checked into your codebase!</source>
+            <target state="new">Your team now has a CI build to validate every change checked into your codebase!</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 id="qa"&gt;</bpt>Q&amp;A<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 id="qa"&gt;</bpt>Q&amp;A<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source><ph id="ph1">&lt;a name="code"&gt;&lt;/a&gt;</ph>
+<bpt id="p1">&lt;h4 id="what-code-is-in-the-sample-app"&gt;</bpt>What code is in the sample app?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><ph id="ph1">&lt;a name="code"&gt;&lt;/a&gt;</ph>
+<bpt id="p1">&lt;h4 id="what-code-is-in-the-sample-app"&gt;</bpt>What code is in the sample app?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source>We used Eclipse to create our <bpt id="p1">&lt;a href="http://download.microsoft.com/download/9/F/D/9FDE173C-5213-4C6F-AED8-BD64A4658B08/java-maven-hello-world-app.zip"&gt;</bpt>Hello World Java sample web app<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">We used Eclipse to create our <bpt id="p1">&lt;a href="http://download.microsoft.com/download/9/F/D/9FDE173C-5213-4C6F-AED8-BD64A4658B08/java-maven-hello-world-app.zip"&gt;</bpt>Hello World Java sample web app<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source>We adapted a project created from the <bpt id="p1">&lt;a href="https://maven.apache.org/guides/introduction/introduction-to-archetypes.html"&gt;</bpt>maven webapp archetype<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">We adapted a project created from the <bpt id="p1">&lt;a href="https://maven.apache.org/guides/introduction/introduction-to-archetypes.html"&gt;</bpt>maven webapp archetype<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="23" xml:space="preserve">
+            <source><pre class="ops-codesnippet" data-reactroot="">&lt;code&gt;|&lt;span class=&quot;hljs-comment&quot;&gt;-- .gitignore&lt;/span&gt;
+`&lt;span class=&quot;hljs-comment&quot;&gt;-- helloworld&lt;/span&gt;
+    |&lt;span class=&quot;hljs-comment&quot;&gt;-- .classpath&lt;/span&gt;
+    |&lt;span class=&quot;hljs-comment&quot;&gt;-- .project&lt;/span&gt;
+    |&lt;span class=&quot;hljs-comment&quot;&gt;-- pom.xml&lt;/span&gt;
+    `&lt;span class=&quot;hljs-comment&quot;&gt;-- src&lt;/span&gt;
+        `&lt;span class=&quot;hljs-comment&quot;&gt;-- main&lt;/span&gt;
+            `&lt;span class=&quot;hljs-comment&quot;&gt;-- webapp&lt;/span&gt;
+                |&lt;span class=&quot;hljs-comment&quot;&gt;-- WEB-INF&lt;/span&gt;
+                |   `&lt;span class=&quot;hljs-comment&quot;&gt;-- web.xml&lt;/span&gt;
+                `&lt;span class=&quot;hljs-comment&quot;&gt;-- index.jsp&lt;/span&gt;
+&lt;/code&gt;</pre>
+<ph id="ph1">&lt;div class="ops-codesnippet-copy-btn"&gt;&lt;/div&gt;</ph>
+The pom.xml file enables you to build with Maven.</source>
+            <target state="new"><pre class="ops-codesnippet" data-reactroot="">&lt;code&gt;|&lt;span class=&quot;hljs-comment&quot;&gt;-- .gitignore&lt;/span&gt;
+`&lt;span class=&quot;hljs-comment&quot;&gt;-- helloworld&lt;/span&gt;
+    |&lt;span class=&quot;hljs-comment&quot;&gt;-- .classpath&lt;/span&gt;
+    |&lt;span class=&quot;hljs-comment&quot;&gt;-- .project&lt;/span&gt;
+    |&lt;span class=&quot;hljs-comment&quot;&gt;-- pom.xml&lt;/span&gt;
+    `&lt;span class=&quot;hljs-comment&quot;&gt;-- src&lt;/span&gt;
+        `&lt;span class=&quot;hljs-comment&quot;&gt;-- main&lt;/span&gt;
+            `&lt;span class=&quot;hljs-comment&quot;&gt;-- webapp&lt;/span&gt;
+                |&lt;span class=&quot;hljs-comment&quot;&gt;-- WEB-INF&lt;/span&gt;
+                |   `&lt;span class=&quot;hljs-comment&quot;&gt;-- web.xml&lt;/span&gt;
+                `&lt;span class=&quot;hljs-comment&quot;&gt;-- index.jsp&lt;/span&gt;
+&lt;/code&gt;</pre>
+<ph id="ph1">&lt;div class="ops-codesnippet-copy-btn"&gt;&lt;/div&gt;</ph>
+The pom.xml file enables you to build with Maven.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="24" xml:space="preserve">
+            <source>The .gitignore file keeps build artifacts on your dev machine from getting into your Git repo.</source>
+            <target state="new">The .gitignore file keeps build artifacts on your dev machine from getting into your Git repo.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="25" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="can-i-deploy-my-app-to-azure"&gt;</bpt>Can I deploy my app to Azure?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="can-i-deploy-my-app-to-azure"&gt;</bpt>Can I deploy my app to Azure?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="26" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/languages/java"&gt;</bpt>Deploy Java to Azure<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/languages/java"&gt;</bpt>Deploy Java to Azure<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="27" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="what-other-kinds-of-apps-can-i-build"&gt;</bpt>What other kinds of apps can I build?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="what-other-kinds-of-apps-can-i-build"&gt;</bpt>What other kinds of apps can I build?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="28" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/apps/index"&gt;</bpt>Build your app<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/apps/index"&gt;</bpt>Build your app<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="29" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="what-other-kinds-of-build-steps-are-available"&gt;</bpt>What other kinds of build steps are available?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="what-other-kinds-of-build-steps-are-available"&gt;</bpt>What other kinds of build steps are available?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="30" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/index"&gt;</bpt>Specify your build steps<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/index"&gt;</bpt>Specify your build steps<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="31" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="how-do-we-protect-our-codebase-from-build-breaks"&gt;</bpt>How do we protect our codebase from build breaks?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="how-do-we-protect-our-codebase-from-build-breaks"&gt;</bpt>How do we protect our codebase from build breaks?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="32" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Git: <bpt id="p3">&lt;a href="https://docs.microsoft.com/azure/devops/repos/git/branch-policies"&gt;</bpt>Improve code quality with branch policies<ept id="p3">&lt;/a&gt;</ept> with an option to require that code builds before it can be merged to a branch.</source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Git: <bpt id="p3">&lt;a href="https://docs.microsoft.com/azure/devops/repos/git/branch-policies"&gt;</bpt>Improve code quality with branch policies<ept id="p3">&lt;/a&gt;</ept> with an option to require that code builds before it can be merged to a branch.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="33" xml:space="preserve">
+            <source>This option is not available for GitHub repos.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">This option is not available for GitHub repos.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="34" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>TFVC: <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build/triggers#gated"&gt;</bpt>Use gated check-in<ept id="p2">&lt;/a&gt;</ept>.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>TFVC: <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build/triggers#gated"&gt;</bpt>Use gated check-in<ept id="p2">&lt;/a&gt;</ept>.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="35" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="how-do-i-modify-other-parts-of-my-build-definition"&gt;</bpt>How do I modify other parts of my build definition?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="how-do-i-modify-other-parts-of-my-build-definition"&gt;</bpt>How do I modify other parts of my build definition?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="36" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/index"&gt;</bpt>Specify your build steps<ept id="p3">&lt;/a&gt;</ept> to run tests, scripts, and a wide range of other processes.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/index"&gt;</bpt>Specify your build steps<ept id="p3">&lt;/a&gt;</ept> to run tests, scripts, and a wide range of other processes.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="37" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build-release/concepts/definitions/build/options?view=vsts"&gt;</bpt>Specify build options<ept id="p2">&lt;/a&gt;</ept> such as building multiple configurations and creating work items on failure.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build-release/concepts/definitions/build/options?view=vsts"&gt;</bpt>Specify build options<ept id="p2">&lt;/a&gt;</ept> such as building multiple configurations and creating work items on failure.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="38" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/repos/index"&gt;</bpt>Specify the repository<ept id="p2">&lt;/a&gt;</ept> to pick the source of the build and modify options such as how the agent workspace is cleaned.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/repos/index"&gt;</bpt>Specify the repository<ept id="p2">&lt;/a&gt;</ept> to pick the source of the build and modify options such as how the agent workspace is cleaned.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="39" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build/triggers"&gt;</bpt>Set build triggers<ept id="p2">&lt;/a&gt;</ept> to modify how your CI builds run and to specify scheduled builds.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build/triggers"&gt;</bpt>Set build triggers<ept id="p2">&lt;/a&gt;</ept> to modify how your CI builds run and to specify scheduled builds.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="40" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build-release/concepts/definitions/build/options?view=vsts"&gt;</bpt>Specify general build definition settings<ept id="p2">&lt;/a&gt;</ept> to specify how completed builds are named and change other options.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build-release/concepts/definitions/build/options?view=vsts"&gt;</bpt>Specify general build definition settings<ept id="p2">&lt;/a&gt;</ept> to specify how completed builds are named and change other options.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="41" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/policies/retention"&gt;</bpt>Specify build retention policies<ept id="p2">&lt;/a&gt;</ept> to automatically delete old builds.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/policies/retention"&gt;</bpt>Specify build retention policies<ept id="p2">&lt;/a&gt;</ept> to automatically delete old builds.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="42" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="how-do-i-see-what-has-changed-in-my-build-definition"&gt;</bpt>How do I see what has changed in my build definition?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="how-do-i-see-what-has-changed-in-my-build-definition"&gt;</bpt>How do I see what has changed in my build definition?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="43" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build/history"&gt;</bpt>View the change history of your build definition<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/build/history"&gt;</bpt>View the change history of your build definition<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="44" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="do-i-need-a-build-agent"&gt;</bpt>Do I need a build agent?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="do-i-need-a-build-agent"&gt;</bpt>Do I need a build agent?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="45" xml:space="preserve">
+            <source>You need at least one agent to run your build.</source>
+            <target state="new">You need at least one agent to run your build.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="46" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts"&gt;</bpt>Get an agent<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts"&gt;</bpt>Get an agent<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="47" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="i-cant-select-a-default-agent-queue-and-i-cant-queue-my-build-how-do-i-fix-this"&gt;</bpt>I can&#039;t select a default agent queue and I can&#039;t queue my build.</source>
+            <target state="new"><bpt id="p1">&lt;h4 id="i-cant-select-a-default-agent-queue-and-i-cant-queue-my-build-how-do-i-fix-this"&gt;</bpt>I can&#039;t select a default agent queue and I can&#039;t queue my build.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="48" xml:space="preserve">
+            <source>How do I fix this?<ept id="p">&lt;/h4&gt;</ept></source>
+            <target state="new">How do I fix this?<ept id="p">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="49" xml:space="preserve">
+            <source>See <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts"&gt;</bpt>Administer queues<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">See <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts"&gt;</bpt>Administer queues<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="50" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="i-use-team-foundation-server-on-premises-and-i-dont-see-some-of-these-features-why-not"&gt;</bpt>I use Team Foundation Server on-premises and I don&#039;t see some of these features.</source>
+            <target state="new"><bpt id="p1">&lt;h4 id="i-use-team-foundation-server-on-premises-and-i-dont-see-some-of-these-features-why-not"&gt;</bpt>I use Team Foundation Server on-premises and I don&#039;t see some of these features.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="51" xml:space="preserve">
+            <source>Why not?<ept id="p">&lt;/h4&gt;</ept></source>
+            <target state="new">Why not?<ept id="p">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%51%_" id="52" xml:space="preserve">
+            <source>Some of these features are available only on <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/products/visual-studio-team-services-vs"&gt;</bpt>Visual Studio Team Services<ept id="p1">&lt;/a&gt;</ept> and not yet available on-premises.</source>
+            <target state="new">Some of these features are available only on <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/products/visual-studio-team-services-vs"&gt;</bpt>Visual Studio Team Services<ept id="p1">&lt;/a&gt;</ept> and not yet available on-premises.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%52%_" id="53" xml:space="preserve">
+            <source>Some features are available on-premises if you have <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/upgrade/get-started?view=tfs-2018&amp;viewFallbackFrom=vsts"&gt;</bpt>upgraded to the latest version of TFS<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Some features are available on-premises if you have <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/upgrade/get-started?view=tfs-2018&amp;viewFallbackFrom=vsts"&gt;</bpt>upgraded to the latest version of TFS<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%53%_" id="54" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 id="where-is-the-visual-studio-2013-xaml-build-documentation"&gt;</bpt>Where is the Visual Studio 2013 XAML build documentation?<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 id="where-is-the-visual-studio-2013-xaml-build-documentation"&gt;</bpt>Where is the Visual Studio 2013 XAML build documentation?<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%54%_" id="55" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class=""&gt;</bpt><bpt id="p2">&lt;a href="http://msdn.microsoft.com/en-us/library/ms181709%28v=vs.120%29.aspx"&gt;</bpt>Visual Studio 2013 XAML build documentation<ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p class=""&gt;</bpt><bpt id="p2">&lt;a href="http://msdn.microsoft.com/en-us/library/ms181709%28v=vs.120%29.aspx"&gt;</bpt>Visual Studio 2013 XAML build documentation<ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

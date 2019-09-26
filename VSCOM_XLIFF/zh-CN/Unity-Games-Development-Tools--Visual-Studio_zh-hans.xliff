@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="38177-c05956a6ab860a94a0dafb2c3cd475d2" source-language="en" target-language="zh-hans" parent-post-id="343" version="6" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/unity-tools/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIzg2NWZjNSIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iMCIgcGFkZGluZ190b3A9IjEwcHgiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IjAiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iYmFubmVyLXdyYXAiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjAiIG1hcmdpbl9ib3R0b209IjAiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RleHRdDQpfJTAlXw0KClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJ5ZXMiIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1oZXJvIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBhZG1pbl9sYWJlbD0iVlNDT00gSGVybyIgYWRtaW5fdG9nZ2xlZD0ibm8iXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJ5ZXMiIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20taGVyby10ZXh0Y29sIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iMCIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8tdGl0bGUiIGlkPSIiIHNpemU9IjEiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTElX1svZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dF0NCl8lMiVfDQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHRdW3ZzY29tLWRyb3Bkb3duXVt2c2NvbS10b3BuYXYgYXJpYV9sYWJlbD0iXyUzJV8iIGljb25fY2xhc3M9ImZhIGZhLWRvd25sb2FkIGJ1dHRvbi1pY29uLXJpZ2h0Il1fJTQlX1svdnNjb20tdG9wbmF2XVt2c2NvbS1zdWJuYXYgYXJpYV9sYWJlbD0iXyU1JV8iIHVybD0iL3RoYW5rLXlvdS1kb3dubG9hZGluZy12aXN1YWwtc3R1ZGlvLz9za3U9Q29tbXVuaXR5JnJlbD0xNSJdXyU2JV9bL3ZzY29tLXN1Ym5hdl1bdnNjb20tc3VibmF2IGFyaWFfbGFiZWw9Il8lNyVfIiB1cmw9Ii90aGFuay15b3UtZG93bmxvYWRpbmctdmlzdWFsLXN0dWRpby8/c2t1PVByb2Zlc3Npb25hbCZyZWw9MTUiXV8lOCVfWy92c2NvbS1zdWJuYXZdW3ZzY29tLXN1Ym5hdiBhcmlhX2xhYmVsPSJfJTklXyIgdXJsPSIvdGhhbmsteW91LWRvd25sb2FkaW5nLXZpc3VhbC1zdHVkaW8vP3NrdT1FbnRlcnByaXNlJnJlbD0xNSJdXyUxMCVfWy92c2NvbS1zdWJuYXZdWy92c2NvbS1kcm9wZG93bl1bL2Z1c2lvbl90ZXh0XVtmdXNpb25fc2VwYXJhdG9yIHN0eWxlX3R5cGU9Im5vbmUiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSIxcmVtIiBib3R0b21fbWFyZ2luPSIiIGJvcmRlcl9zaXplPSIiIGljb249IiIgaWNvbl9jaXJjbGU9IiIgaWNvbl9jaXJjbGVfY29sb3I9IiIgd2lkdGg9IiIgYWxpZ25tZW50PSJjZW50ZXIiL11bZnVzaW9uX3RleHRdXyUxMSVfClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJ5ZXMiIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20taGVyby1pbWdjb2wiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSIxMDQyOTUiIHN0eWxlX3R5cGU9Im5vbmUiIHN0eWxlY29sb3I9IiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iIiBib3JkZXJjb2xvcj0iIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9IiIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUxMiVfWy9mdXNpb25faW1hZ2VmcmFtZV1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGFkbWluX2xhYmVsPSJWU0NPTSBTd2ltbGFuZSIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0td2hpdGVsYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGRpbWVuc2lvbl9tYXJnaW49IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9zd2ltbGFuZV9jb250ZW50IGxheW91dD0iYmFzaWMiIHRpdGxlPSJfJTEzJV8iIHN1YnRpdGxlPSJfJTE0JV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzAzL0NyZWF0ZS1Vbml0eS1nYW1lLnBuZyIgcmVhZG1vcmVfdXJsPSIiIHJlYWRtb3JlX3RleHQ9Il8lMTUlXyIgcmVhZG1vcmVfYXJpYT0iIiByZWFkbW9yZV90YXJnZXQ9Il9zZWxmIiByZWFkbW9yZV9yZWw9IiJdXyUxNiVfXyUxNyVfWy92c2NvbV9zd2ltbGFuZV9jb250ZW50XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS1ncmF5bGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fc3dpbWxhbmVfY29udGVudCBsYXlvdXQ9ImJhc2ljLXJldmVyc2VkIiB0aXRsZT0iXyUxOCVfIiBzdWJ0aXRsZT0iXyUxOSVfIiBpbWFnZV9tZWRpYT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wMy9TY3JpcHRzLnBuZyIgcmVhZG1vcmVfdXJsPSIiIHJlYWRtb3JlX3RleHQ9Il8lMjAlXyIgcmVhZG1vcmVfYXJpYT0iIiByZWFkbW9yZV90YXJnZXQ9Il9zZWxmIiByZWFkbW9yZV9yZWw9IiJdXyUyMSVfXyUyMiVfXyUyMyVfWy92c2NvbV9zd2ltbGFuZV9jb250ZW50XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS13aGl0ZWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgZGltZW5zaW9uX21hcmdpbj0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3N3aW1sYW5lX2NvbnRlbnQgbGF5b3V0PSJiYXNpYyIgdGl0bGU9Il8lMjQlXyIgc3VidGl0bGU9Il8lMjUlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDMvZGVidWcucG5nIiByZWFkbW9yZV91cmw9IiIgcmVhZG1vcmVfdGV4dD0iXyUyNiVfIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTI3JV9fJTI4JV9bL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUtLWdyYXlsYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGRpbWVuc2lvbl9tYXJnaW49IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9zd2ltbGFuZV9jb250ZW50IGxheW91dD0iYmFzaWMtcmV2ZXJzZWQiIHRpdGxlPSJfJTI5JV8iIHN1YnRpdGxlPSJfJTMwJV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzAzL3Byb2R1Y3Rpdml0eS5wbmciIHJlYWRtb3JlX3VybD0iIiByZWFkbW9yZV90ZXh0PSJfJTMxJV8iIHJlYWRtb3JlX2FyaWE9IiIgcmVhZG1vcmVfdGFyZ2V0PSJfc2VsZiIgcmVhZG1vcmVfcmVsPSIiXV8lMzIlX18lMzMlX18lMzQlX1svdnNjb21fc3dpbWxhbmVfY29udGVudF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2dsb2JhbCBpZD0iOTc2MDMiXVsvZnVzaW9uX2dsb2JhbF0=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_title-0" id="0" xml:space="preserve">
+            <source>Unity Games Development Tools | Visual Studio</source>
+            <target state="new">Unity Games Development Tools | Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="1" xml:space="preserve">
+            <source>Do you want the most powerful Unity development environment? Create, debug, enhance productivity with Visual Studio Unity tools. Download for free today.</source>
+            <target state="new">Do you want the most powerful Unity development environment? Create, debug, enhance productivity with Visual Studio Unity tools. Download for free today.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_focuskw-0" id="2" xml:space="preserve">
+            <source>Unity Tools</source>
+            <target state="new">Unity Tools</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Unity Games Development Tools | Visual Studio</source>
+            <target state="new">Unity Games Development Tools | Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;div class="banner-text"&gt;</bpt>
+
+Save 10% when you bundle Visual Studio Professional and Unity Pro <bpt id="p2">&lt;a class="bold" aria-label="Learn more about saving 10% on Visual Studio Professional and Unity Professional" href="https://unity3d.com/unity-pro-and-visual-studio-professional-bundle?utm_source=visualstudio&amp;utm_medium=referral&amp;utm_campaign=partner_global_generalpromo_2018-08-14-vs-pro-bundle&amp;utm_content=unity-tools" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p2">&lt;/a&gt;</ept>
+
+<ept id="p1">&lt;/div&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;div class="banner-text"&gt;</bpt>
+
+Save 10% when you bundle Visual Studio Professional and Unity Pro <bpt id="p2">&lt;a class="bold" aria-label="Learn more about saving 10% on Visual Studio Professional and Unity Professional" href="https://unity3d.com/unity-pro-and-visual-studio-professional-bundle?utm_source=visualstudio&amp;utm_medium=referral&amp;utm_campaign=partner_global_generalpromo_2018-08-14-vs-pro-bundle&amp;utm_content=unity-tools" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p2">&lt;/a&gt;</ept>
+
+<ept id="p1">&lt;/div&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source>Build Unity Games with Visual Studio</source>
+            <target state="new">Build Unity Games with Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="6" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class="vscom-hero-valueprop"&gt;</bpt>Turn Visual Studio into a powerful Unity development environment<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p class="vscom-hero-valueprop"&gt;</bpt>Turn Visual Studio into a powerful Unity development environment<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="7" xml:space="preserve">
+            <source>Tab Down to Select a Version of Visual Studio</source>
+            <target state="new">Tab Down to Select a Version of Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="8" xml:space="preserve">
+            <source>Download Visual Studio</source>
+            <target state="new">Download Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="9" xml:space="preserve">
+            <source>Download Visual Studio Community 2017</source>
+            <target state="new">Download Visual Studio Community 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="10" xml:space="preserve">
+            <source>Community 2017</source>
+            <target state="new">Community 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="11" xml:space="preserve">
+            <source>Download Visual Studio Professional 2017</source>
+            <target state="new">Download Visual Studio Professional 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="12" xml:space="preserve">
+            <source>Professional 2017</source>
+            <target state="new">Professional 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="13" xml:space="preserve">
+            <source>Download Visual Studio Enterprise 2017</source>
+            <target state="new">Download Visual Studio Enterprise 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="14" xml:space="preserve">
+            <source>Enterprise 2017</source>
+            <target state="new">Enterprise 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="15" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Documentation for Unity development" href="https://aka.ms/vstudocs" target="_blank" rel="noopener"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Documentation for Unity development" href="https://aka.ms/vstudocs" target="_blank" rel="noopener"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="16" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/08/unity-game-development-hero-img-1.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/08/unity-game-development-hero-img-1.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="17" xml:space="preserve">
+            <source>Create Unity games</source>
+            <target state="new">Create Unity games</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="18" xml:space="preserve">
+            <source>Build multiplatform games and interactive content</source>
+            <target state="new">Build multiplatform games and interactive content</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="19" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="20" xml:space="preserve">
+            <source>The Unity engine integrates into one unparalleled platform to create 2D and 3D games and interactive content.</source>
+            <target state="new">The Unity engine integrates into one unparalleled platform to create 2D and 3D games and interactive content.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="21" xml:space="preserve">
+            <source> Create once and publish to 21 platforms, including all mobile platforms, WebGL, Mac, PC and Linux desktop, web or consoles.
+
+</source>
+            <target state="new"> Create once and publish to 21 platforms, including all mobile platforms, WebGL, Mac, PC and Linux desktop, web or consoles.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="22" xml:space="preserve">
+            <source>Write your Unity scripts in C#</source>
+            <target state="new">Write your Unity scripts in C#</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="23" xml:space="preserve">
+            <source>IntelliSense and code navigation for C#</source>
+            <target state="new">IntelliSense and code navigation for C#</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="24" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="25" xml:space="preserve">
+            <source>Visual Studio brings powerful features to C# programmers.</source>
+            <target state="new">Visual Studio brings powerful features to C# programmers.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="26" xml:space="preserve">
+            <source> Write code quickly and with precision using IntelliSense.</source>
+            <target state="new"> Write code quickly and with precision using IntelliSense.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="27" xml:space="preserve">
+            <source> Navigate through your scripts easily and use powerful refactoring capabilities.
+
+</source>
+            <target state="new"> Navigate through your scripts easily and use powerful refactoring capabilities.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="28" xml:space="preserve">
+            <source>Debug in Visual Studio</source>
+            <target state="new">Debug in Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="29" xml:space="preserve">
+            <source>World-class debugging for Unity games in Visual Studio</source>
+            <target state="new">World-class debugging for Unity games in Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="30" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="31" xml:space="preserve">
+            <source>Visual Studio brings a premium debugging experience to the Unity game engine.</source>
+            <target state="new">Visual Studio brings a premium debugging experience to the Unity game engine.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="32" xml:space="preserve">
+            <source> Identify issues quickly by debugging your Unity games in Visual Studio— Set breakpoints and evaluate variables and complex expressions.
+
+</source>
+            <target state="new"> Identify issues quickly by debugging your Unity games in Visual Studio— Set breakpoints and evaluate variables and complex expressions.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="33" xml:space="preserve">
+            <source>Enhance productivity</source>
+            <target state="new">Enhance productivity</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="34" xml:space="preserve">
+            <source>Full featured IDE for Unity</source>
+            <target state="new">Full featured IDE for Unity</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="35" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="36" xml:space="preserve">
+            <source>Customize the coding environment exactly the way you want – choose your favorite theme, color, fonts, and all the other settings.</source>
+            <target state="new">Customize the coding environment exactly the way you want – choose your favorite theme, color, fonts, and all the other settings.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="37" xml:space="preserve">
+            <source> In addition, create Unity script methods inside Visual Studio quickly by using the Implement MonoBehaviours and the Quick MonoBehaviours Wizards.</source>
+            <target state="new"> In addition, create Unity script methods inside Visual Studio quickly by using the Implement MonoBehaviours and the Quick MonoBehaviours Wizards.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="38" xml:space="preserve">
+            <source> Browse your project as if you were in Unity with the Unity Project Explorer.
+
+</source>
+            <target state="new"> Browse your project as if you were in Unity with the Unity Project Explorer.
+
+</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

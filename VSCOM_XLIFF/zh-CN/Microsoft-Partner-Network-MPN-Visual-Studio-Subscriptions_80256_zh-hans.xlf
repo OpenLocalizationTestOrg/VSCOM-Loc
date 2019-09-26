@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47641-9ca86e0d14a14e04a7cae851c6fcfe78" source-language="en" target-language="zh-hans" parent-post-id="80256" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/subscriptions/support/microsoft-partner-network-mpn-visual-studio-subscriptions/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV/CoCBfJTElXw0KDQrCoA0KDQpfJTIlXw0KXyUzJV8KPC9saT4NCl8lNCVfDQpfJTUlXw0KPC91bD4NCjwvbGk+DQpfJTYlXw0KPC91bD4NCjwvbGk+DQo8L3VsPg0KXyU3JV8NCl8lOCVfDQpfJTklXw0KXyUxMCVfDQpfJTExJV8NCl8lMTIlXw0KXyUxMyVfDQpfJTE0JV8NCl8lMTUlXw0KXyUxNiVfDQpfJTE3JV8NCl8lMTglXw0KXyUxOSVfDQpfJTIwJV8NCl8lMjElXw0KXyUyMiVfDQo8L3VsPg0KPC9saT4NCl8lMjMlXw0KPC91bD4NCjwvbGk+DQo8L3VsPg0KXyUyNCVfDQpfJTI1JV8NCl8lMjYlXw0KXyUyNyVfDQpfJTI4JV8NCl8lMjklXw0KXyUzMCVfDQpfJTMxJV8NCl8lMzIlXw0KXyUzMyVfDQpfJTM0JV8NCjwvdWw+DQo8L2xpPg0KXyUzNSVfDQo8L3VsPg0KPC9saT4NCjwvdWw+DQpfJTM2JV8NCl8lMzclX8KgIF8lMzglX8KgIF8lMzklXwo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio subscriptions for subscribers on Microsoft Partner Network (MPN).</source>
+            <target state="new">Visual Studio subscriptions for subscribers on Microsoft Partner Network (MPN).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Microsoft Partner Network (MPN) Visual Studio Subscriptions</source>
+            <target state="new">Microsoft Partner Network (MPN) Visual Studio Subscriptions</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>General Information:<ept id="p1">&lt;/strong&gt;</ept>  The number and level of Visual Studio subscriptions vary by membership level, as highlighted on the Microsoft Partner Network (MPN) Core Benefits page.</source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>General Information:<ept id="p1">&lt;/strong&gt;</ept>  The number and level of Visual Studio subscriptions vary by membership level, as highlighted on the Microsoft Partner Network (MPN) Core Benefits page.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Individuals who are looking to leverage the Visual Studio subscriptions should work with their Program Administrator to ensure the Visual Studio subscriptions are appropriately assigned.</source>
+            <target state="new">Individuals who are looking to leverage the Visual Studio subscriptions should work with their Program Administrator to ensure the Visual Studio subscriptions are appropriately assigned.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Resources and References:<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Resources and References:<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Details regarding the <bpt id="p3">&lt;a href="https://partner.microsoft.com/en-US/membership/msdn-subscriptions" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft Partner Network Visual Studio subscriptions<ept id="p3">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Details regarding the <bpt id="p3">&lt;a href="https://partner.microsoft.com/en-US/membership/msdn-subscriptions" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft Partner Network Visual Studio subscriptions<ept id="p3">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Microsoft Partner Network <bpt id="p2">&lt;a href="https://assets.microsoft.com/en-us/Program-Administrator-Guide-to-Software-and-Online-Services-Benefits_1.pdf" target="_blank" rel="noopener noreferrer"&gt;</bpt>Program Administrator Guide to Software and Online Services Benefits<ept id="p2">&lt;/a&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Microsoft Partner Network <bpt id="p2">&lt;a href="https://assets.microsoft.com/en-us/Program-Administrator-Guide-to-Software-and-Online-Services-Benefits_1.pdf" target="_blank" rel="noopener noreferrer"&gt;</bpt>Program Administrator Guide to Software and Online Services Benefits<ept id="p2">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Pg6:  Assigning Contact Roles and Visual Studio subscriptions for Action Pack
+<bpt id="p3">&lt;ul&gt;</bpt>
+ 	<bpt id="p4">&lt;li&gt;</bpt>Note:  The Technical Contact Role is required for Visual Studio subscriptions<ept id="p4">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Pg6:  Assigning Contact Roles and Visual Studio subscriptions for Action Pack
+<bpt id="p3">&lt;ul&gt;</bpt>
+ 	<bpt id="p4">&lt;li&gt;</bpt>Note:  The Technical Contact Role is required for Visual Studio subscriptions<ept id="p4">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Pg8:  Assigning Visual Studio subscriptions for Competency Partners<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Pg8:  Assigning Visual Studio subscriptions for Competency Partners<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source> 
+
+<bpt id="p1">&lt;strong&gt;</bpt>High-Level Assignment &amp; Access Flow:<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"> 
+
+<bpt id="p1">&lt;strong&gt;</bpt>High-Level Assignment &amp; Access Flow:<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;strong&gt;</bpt>Microsoft Action Pack subscriber and Visual Studio subscriptions<ept id="p3">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;strong&gt;</bpt>Microsoft Action Pack subscriber and Visual Studio subscriptions<ept id="p3">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Program Administrator will log into Partner Membership Center<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Program Administrator will log into Partner Membership Center<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Associated people through &quot;Requirements and Assets&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Associated people through &quot;Requirements and Assets&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="13" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Locate individuals and &quot;Assign Roles&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Locate individuals and &quot;Assign Roles&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="14" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select First, Second, or Third &quot;Technical Contact&quot; and &quot;Save&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select First, Second, or Third &quot;Technical Contact&quot; and &quot;Save&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="15" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;Requirements and Assets&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;Requirements and Assets&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="16" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;Privileges&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;Privileges&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="17" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;MSDN Subscriptions&quot; (Note:  Visual Studio subscription update pending)<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;MSDN Subscriptions&quot; (Note:  Visual Studio subscription update pending)<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="18" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Locate the desired &quot;Individual&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Locate the desired &quot;Individual&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="19" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click &quot;Submit&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click &quot;Submit&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="20" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>The &quot;Individual&quot; will receive an email<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>The &quot;Individual&quot; will receive an email<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="21" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>The assigned &quot;Individual&quot; will access <bpt id="p2">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p2">&lt;/a&gt;</ept> to sign in<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>The assigned &quot;Individual&quot; will access <bpt id="p2">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p2">&lt;/a&gt;</ept> to sign in<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="22" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>A &quot;Visual Studio Profile&quot; page may be displayed
+<bpt id="p2">&lt;ul&gt;</bpt>
+ 	<bpt id="p3">&lt;li&gt;</bpt>First Name<ept id="p3">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>A &quot;Visual Studio Profile&quot; page may be displayed
+<bpt id="p2">&lt;ul&gt;</bpt>
+ 	<bpt id="p3">&lt;li&gt;</bpt>First Name<ept id="p3">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="23" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Last Name<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Last Name<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="24" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Contact Email<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Contact Email<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="25" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Sign in is now complete, and the subscriber should have access to benefits<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Sign in is now complete, and the subscriber should have access to benefits<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="26" xml:space="preserve">
+            <source> 
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;strong&gt;</bpt>For Competency Partners<ept id="p3">&lt;/strong&gt;</ept></source>
+            <target state="new"> 
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;strong&gt;</bpt>For Competency Partners<ept id="p3">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="27" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Select &quot;Requirements and Assets&quot;<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Select &quot;Requirements and Assets&quot;<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="28" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;Privileges&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;Privileges&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="29" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;MSDN Subscriptions&quot; (Note:  Visual Studio subscription update pending)<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Select &quot;MSDN Subscriptions&quot; (Note:  Visual Studio subscription update pending)<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="30" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Locate the desired &quot;Individual&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Locate the desired &quot;Individual&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="31" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click &quot;Submit&quot;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click &quot;Submit&quot;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="32" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>The &quot;Individual&quot; will receive an email<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>The &quot;Individual&quot; will receive an email<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="33" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>The assigned &quot;Individual&quot; will access <bpt id="p2">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p2">&lt;/a&gt;</ept> to sign in<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>The assigned &quot;Individual&quot; will access <bpt id="p2">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p2">&lt;/a&gt;</ept> to sign in<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="34" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>A &quot;Visual Studio Profile&quot; page may be displayed
+<bpt id="p2">&lt;ul&gt;</bpt>
+ 	<bpt id="p3">&lt;li&gt;</bpt>First Name<ept id="p3">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>A &quot;Visual Studio Profile&quot; page may be displayed
+<bpt id="p2">&lt;ul&gt;</bpt>
+ 	<bpt id="p3">&lt;li&gt;</bpt>First Name<ept id="p3">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="35" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Last Name<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Last Name<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="36" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Contact Email<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Contact Email<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="37" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Sign in is now complete, and the subscriber should have access to benefits<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Sign in is now complete, and the subscriber should have access to benefits<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="38" xml:space="preserve">
+            <source> 
+
+<bpt id="p1">&lt;strong&gt;</bpt>Need Help?<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"> 
+
+<bpt id="p1">&lt;strong&gt;</bpt>Need Help?<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="39" xml:space="preserve">
+            <source>
+If support is required for access, Subscribers and Program Administrators should work directly with the Microsoft Partner Network support team.</source>
+            <target state="new">
+If support is required for access, Subscribers and Program Administrators should work directly with the Microsoft Partner Network support team.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="40" xml:space="preserve">
+            <source>Please click <bpt id="p1">&lt;a href="https://partner.microsoft.com/en-US/support" target="_blank" rel="noopener noreferrer"&gt;</bpt>here<ept id="p1">&lt;/a&gt;</ept> to begin your request.</source>
+            <target state="new">Please click <bpt id="p1">&lt;a href="https://partner.microsoft.com/en-US/support" target="_blank" rel="noopener noreferrer"&gt;</bpt>here<ept id="p1">&lt;/a&gt;</ept> to begin your request.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="41" xml:space="preserve">
+            <source>You MPN sign in credentials will be required.</source>
+            <target state="new">You MPN sign in credentials will be required.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

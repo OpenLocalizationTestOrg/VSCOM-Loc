@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47472-f715476127d4731c2addeef0284e62e7" source-language="en" target-language="zh-hans" parent-post-id="33563" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/microsoft-visual-c-2015-redistributable/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCg0KXyUyJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>http://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x86.exe</source>
+            <target state="new">http://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x86.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-url" id="3" xml:space="preserve">
+            <source>http://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe</source>
+            <target state="new">http://download.microsoft.com/download/6/A/A/6AA4EDFF-645B-48C5-81CC-ED5963AEAD48/vc_redist.x64.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-language" id="4" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-format" id="5" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="6" xml:space="preserve">
+            <source>Microsoft Visual C++ 2015 Redistributable Update 3</source>
+            <target state="new">Microsoft Visual C++ 2015 Redistributable Update 3</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="7" xml:space="preserve">
+            <source>Install run-time components of Visual C++ libraries that are required to run C++ applications.</source>
+            <target state="new">Install run-time components of Visual C++ libraries that are required to run C++ applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="8" xml:space="preserve">
+            <source>Microsoft Visual C++ 2015 Redistributable includes bug fixes to the runtime DLLs and also the latest versions for <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/kb/2999226"&gt;</bpt>KB 2999226<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Microsoft Visual C++ 2015 Redistributable includes bug fixes to the runtime DLLs and also the latest versions for <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/kb/2999226"&gt;</bpt>KB 2999226<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="9" xml:space="preserve">
+            <source>Right-click on the following link to copy or bookmark this download: <bpt id="p1">&lt;a href="https://go.microsoft.com/fwlink/?LinkId=615460"&gt;</bpt>Microsoft Visual C++ 2015 Redistributable Update 3<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">Right-click on the following link to copy or bookmark this download: <bpt id="p1">&lt;a href="https://go.microsoft.com/fwlink/?LinkId=615460"&gt;</bpt>Microsoft Visual C++ 2015 Redistributable Update 3<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="10" xml:space="preserve">
+            <source>Microsoft Visual C++ 2015 Redistributable Update 3</source>
+            <target state="new">Microsoft Visual C++ 2015 Redistributable Update 3</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

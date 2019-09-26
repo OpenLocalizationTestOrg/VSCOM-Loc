@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46797-d8a5bd9c1f6111538ded2e0980fe28c1" source-language="en" target-language="zh-hans" parent-post-id="80153" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/received-error-microsoft-visual-studio-enterprise-required-not-installed-computer-please-install-retry/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfDQpfJTMlXyBfJTQlXwo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I received the error "Microsoft Visual Studio Enterprise is required, but it is not installed on this computer. Please install it and retry."</source>
+            <target state="new">I received the error "Microsoft Visual Studio Enterprise is required, but it is not installed on this computer. Please install it and retry."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>When attempting to install a Visual Studio update or development tool your receive the error "Microsoft Visual Studio Enterprise is required, but it is not installed on this computer.</source>
+            <target state="new">When attempting to install a Visual Studio update or development tool your receive the error "Microsoft Visual Studio Enterprise is required, but it is not installed on this computer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Please install it and retry."
+<bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new">Please install it and retry."
+<bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>This error often means that you are trying to install a program that depends on Microsoft Visual Studio Enterprise and it has not been detected by the program's installer.</source>
+            <target state="new">This error often means that you are trying to install a program that depends on Microsoft Visual Studio Enterprise and it has not been detected by the program's installer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>To resolve this error check to make sure that your machine meets the pre-requisites of the program or component you are trying to install.</source>
+            <target state="new">To resolve this error check to make sure that your machine meets the pre-requisites of the program or component you are trying to install.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

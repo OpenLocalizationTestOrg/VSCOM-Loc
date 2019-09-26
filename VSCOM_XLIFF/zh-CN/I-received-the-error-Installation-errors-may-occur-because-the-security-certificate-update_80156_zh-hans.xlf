@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="50774-02f572663c93a5bd908ed4a2c49638ec" source-language="en" target-language="zh-hans" parent-post-id="80156" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/received-error-installation-errors-may-occur-security-certificate-updates-required-install-visual-studio-components-cannot-applied-computer/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfIF8lMyVfDQpfJTQlXyBfJTUlXw0KXyU2JV8gXyU3JV8gXyU4JV8gXyU5JV8gXyUxMCVfDQo8L29sPg0KXyUxMSVfIF8lMTIlXw0KXyUxMyVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I received the error "Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer."</source>
+            <target state="new">I received the error "Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>When attempting to install Visual Studio you receive the error "Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer.</source>
+            <target state="new">When attempting to install Visual Studio you receive the error "Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>This can occur when you are not connected to the Internet or when a group policy setting on your computer prevents Visual Studio from automatically applying the security certificate updates.</source>
+            <target state="new">This can occur when you are not connected to the Internet or when a group policy setting on your computer prevents Visual Studio from automatically applying the security certificate updates.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>If you choose to continue, some Visual Studio features may not work as expected."
+<bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new">If you choose to continue, some Visual Studio features may not work as expected."
+<bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Ensure that you are on a computer that is connected to the internet.</source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Ensure that you are on a computer that is connected to the internet.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>In some cases, Visual Studio is able to programmatically retrieve and then apply the required certificate updates so that the affected features can be successfully installed.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">In some cases, Visual Studio is able to programmatically retrieve and then apply the required certificate updates so that the affected features can be successfully installed.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Check the group policy setting on your computer that controls automatic certificate updates.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Check the group policy setting on your computer that controls automatic certificate updates.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>To check the setting, open the Group Policy Editor (gpedit.msc).</source>
+            <target state="new">To check the setting, open the Group Policy Editor (gpedit.msc).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>From the Local Group Policy Editor, under Computer Configuration, expand Administrative Templates, expand Internet Communication Management, and then click Internet Communication settings.</source>
+            <target state="new">From the Local Group Policy Editor, under Computer Configuration, expand Administrative Templates, expand Internet Communication Management, and then click Internet Communication settings.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>The setting that controls automatic certificate updates is Turn off Automatic Root Certificates Update.</source>
+            <target state="new">The setting that controls automatic certificate updates is Turn off Automatic Root Certificates Update.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>For Visual Studio to automatically retrieve and apply the required certificates, this setting should be Disabled.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">For Visual Studio to automatically retrieve and apply the required certificates, this setting should be Disabled.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>If the above steps do not resolve the issue, you can also try to manually install the required certificate updates.</source>
+            <target state="new">If the above steps do not resolve the issue, you can also try to manually install the required certificate updates.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>For information on how to obtain Windows update root certificates, see How to get a <bpt id="p1">&lt;a href="https://technet.microsoft.com/en-us/library/dn265983.aspx" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Root Certificate update for Windows<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">For information on how to obtain Windows update root certificates, see How to get a <bpt id="p1">&lt;a href="https://technet.microsoft.com/en-us/library/dn265983.aspx" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Root Certificate update for Windows<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class=""&gt;</bpt>You can also try Repairing Visual Studio from the Control Panel.<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p class=""&gt;</bpt>You can also try Repairing Visual Studio from the Control Panel.<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

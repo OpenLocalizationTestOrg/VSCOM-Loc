@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="42848-bb87c31cc6cf6ba3eff880451553a417" source-language="en" target-language="zh-hans" parent-post-id="80141" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/diagnostic-tools-fail-unexpectedly/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8gXyUzJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Tools and Features on why do the diagnostic tools fail unexpectedly.</source>
+            <target state="new">Visual Studio 2015 Tools and Features on why do the diagnostic tools fail unexpectedly.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Why do the diagnostic tools fail unexpectedly?</source>
+            <target state="new">Why do the diagnostic tools fail unexpectedly?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>The primary cause for this is a known issue for those of you that have upgraded from an earlier preview version of Windows 10.</source>
+            <target state="new">The primary cause for this is a known issue for those of you that have upgraded from an earlier preview version of Windows 10.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>If you are on Windows 10 you can confirm the issue by switching to the “Diagnostics Hub” tab of the output window, and you will see “No such interface supported” in the output.</source>
+            <target state="new">If you are on Windows 10 you can confirm the issue by switching to the “Diagnostics Hub” tab of the output window, and you will see “No such interface supported” in the output.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>More information, including workaround steps to resolve this issue please read the post on <bpt id="p1">&lt;a href="http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/24/no-such-interface-supported-in-visual-studio-2015-on-windows-10.aspx"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>No such interface supported in Visual Studio 2015 on Windows 10<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">More information, including workaround steps to resolve this issue please read the post on <bpt id="p1">&lt;a href="http://blogs.msdn.com/b/visualstudioalm/archive/2015/07/24/no-such-interface-supported-in-visual-studio-2015-on-windows-10.aspx"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>No such interface supported in Visual Studio 2015 on Windows 10<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Other causes of the window failing unexpectedly are being actively investigated, if you experience other failures please report these using the <bpt id="p1">&lt;a href="https://connect.microsoft.com/VisualStudio/content/content.aspx?ContentID=31113"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Feedback tools in Visual Studio 2015<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Other causes of the window failing unexpectedly are being actively investigated, if you experience other failures please report these using the <bpt id="p1">&lt;a href="https://connect.microsoft.com/VisualStudio/content/content.aspx?ContentID=31113"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Feedback tools in Visual Studio 2015<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54445-64e8e2174fd579c5c6c7f37d6efb7a58" source-language="en" target-language="zh-hans" parent-post-id="145316" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/support-5/"/></reference>
+		<skl>
+			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+            <source>Learn more about Technical Support Incidents</source>
+            <target state="new">Learn more about Technical Support Incidents</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <source>This benefit allows you to get the technical support that you need to resolve break-fix issues in non-production environments.</source>
+            <target state="new">This benefit allows you to get the technical support that you need to resolve break-fix issues in non-production environments.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve">
+            <source>2 incidents</source>
+            <target state="new">2 incidents</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve">
+            <source>Technical Support Incidents</source>
+            <target state="new">Technical Support Incidents</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_content-0" id="5" xml:space="preserve">
+            <source>This chat service provides assistance finding technical documentation and product information or help with subscription benefits.</source>
+            <target state="new">This chat service provides assistance finding technical documentation and product information or help with subscription benefits.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_sub_title-0" id="6" xml:space="preserve">
+            <source>Available 24/7, English only</source>
+            <target state="new">Available 24/7, English only</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_title-0" id="7" xml:space="preserve">
+            <source>Concierge Chat</source>
+            <target state="new">Concierge Chat</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_aria_label-0" id="8" xml:space="preserve">
+            <source>Learn more about Azure Community</source>
+            <target state="new">Learn more about Azure Community</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_content-0" id="9" xml:space="preserve">
+            <source>Get help directly from the Azure team within these support forums.</source>
+            <target state="new">Get help directly from the Azure team within these support forums.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_link_text-0" id="10" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_sub_title-0" id="11" xml:space="preserve">
+            <source>Forum Support</source>
+            <target state="new">Forum Support</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_title-0" id="12" xml:space="preserve">
+            <source>Azure Community</source>
+            <target state="new">Azure Community</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_aria_label-0" id="13" xml:space="preserve">
+            <source>Learn more about Developer Community</source>
+            <target state="new">Learn more about Developer Community</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_content-0" id="14" xml:space="preserve">
+            <source>Post questions, find answers and share your knowledge in the Developer Community forums.</source>
+            <target state="new">Post questions, find answers and share your knowledge in the Developer Community forums.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_link_text-0" id="15" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_sub_title-0" id="16" xml:space="preserve">
+            <source>Forum Support</source>
+            <target state="new">Forum Support</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_title-0" id="17" xml:space="preserve">
+            <source>Developer Community</source>
+            <target state="new">Developer Community</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="18" xml:space="preserve">
+            <source>Support</source>
+            <target state="new">Support</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

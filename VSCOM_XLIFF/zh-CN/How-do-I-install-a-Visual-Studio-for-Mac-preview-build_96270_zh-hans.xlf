@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53652-201c7e4cea02732ff21693fb834dc978" source-language="en" target-language="zh-hans" parent-post-id="96270" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/mac/install-visual-studio-mac-preview-build/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>How do I install a Visual Studio for Mac preview build?</source>
+            <target state="new">How do I install a Visual Studio for Mac preview build?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>The latest Preview build of Visual Studio for Mac can be downloaded and installed via the Preview channel in the IDE’s updater.</source>
+            <target state="new">The latest Preview build of Visual Studio for Mac can be downloaded and installed via the Preview channel in the IDE’s updater.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>For information on switching to the Preview channel, see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/mac/update?view=vsmac-2019"&gt;</bpt>Updating Visual Studio for Mac<ept id="p1">&lt;/a&gt;</ept> article.</source>
+            <target state="new">For information on switching to the Preview channel, see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/mac/update?view=vsmac-2019"&gt;</bpt>Updating Visual Studio for Mac<ept id="p1">&lt;/a&gt;</ept> article.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
