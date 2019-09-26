@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="44585-5f4efbab6dea1585e1d3d868f03c0512" source-language="en" target-language="ru" parent-post-id="126480" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/isolated-and-integrated-shells/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/vs/older-downloads/isolated-shell/</source>
+            <target state="new">https://visualstudio.microsoft.com/vs/older-downloads/isolated-shell/</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>deb</source>
+            <target state="new">deb</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>web-installer</source>
+            <target state="new">web-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Isolated and Integrated Shells</source>
+            <target state="new">Isolated and Integrated Shells</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>The Visual Studio Shell enables Visual Studio Partners to build tools and applications on top of the Visual Studio IDE.</source>
+            <target state="new">The Visual Studio Shell enables Visual Studio Partners to build tools and applications on top of the Visual Studio IDE.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

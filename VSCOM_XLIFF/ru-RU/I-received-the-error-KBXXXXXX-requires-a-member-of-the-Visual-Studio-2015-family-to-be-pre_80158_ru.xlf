@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="50785-f196c87b8dfb7d0d3abcdfff6c33b166" source-language="en" target-language="ru" parent-post-id="80158" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/received-error-kbxxxxxx-requires-member-visual-studio-2015-family-present-blocked-another-condition-computer/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXyBfJTMlXwo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I received the error "KBXXXXXX requires a member of the Visual Studio 2015 family to be present or is blocked by another condition on your computer."</source>
+            <target state="new">I received the error "KBXXXXXX requires a member of the Visual Studio 2015 family to be present or is blocked by another condition on your computer."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class="" data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class="" data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>You receive the error "KBXXXXXX requires a member of the Visual Studio 2015 family to be present or is blocked by another condition on your computer."
+<bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new">You receive the error "KBXXXXXX requires a member of the Visual Studio 2015 family to be present or is blocked by another condition on your computer."
+<bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Try installing the latest Visual Studio installer to update your current version of Visual Studio.</source>
+            <target state="new">Try installing the latest Visual Studio installer to update your current version of Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>The latest version of Visual Studio can be found on the <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Downloads Site<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">The latest version of Visual Studio can be found on the <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Downloads Site<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

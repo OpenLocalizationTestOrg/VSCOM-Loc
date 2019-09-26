@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47444-ead2193491b65a31588d8ae270412fb8" source-language="en" target-language="ru" parent-post-id="80220" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/build-deploy-asp-net-core-app-azure/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCg0KXyUyJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>How to build and deploy ASP.NET Core app to Azure</source>
+            <target state="new">How to build and deploy ASP.NET Core app to Azure</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="http://www.asp.net/core"&gt;</bpt>ASP.NET Core<ept id="p1">&lt;/a&gt;</ept> is a lean and composable framework for building web and cloud applications.</source>
+            <target state="new"><bpt id="p1">&lt;a href="http://www.asp.net/core"&gt;</bpt>ASP.NET Core<ept id="p1">&lt;/a&gt;</ept> is a lean and composable framework for building web and cloud applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Here we'll show you how to define your continuous integration (CI) process.</source>
+            <target state="new">Here we'll show you how to define your continuous integration (CI) process.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Information on <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=vsts&amp;tabs=yaml" target="_blank" rel="noopener"&gt;</bpt>building<ept id="p1">&lt;/a&gt;</ept> ASP.NET Core Apps</source>
+            <target state="new">Information on <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=vsts&amp;tabs=yaml" target="_blank" rel="noopener"&gt;</bpt>building<ept id="p1">&lt;/a&gt;</ept> ASP.NET Core Apps</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

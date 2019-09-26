@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="50824-7c1dd67c6a8807d2147021a1293e7ae3" source-language="en" target-language="ru" parent-post-id="80191" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/received-error-version-visual-studio-requires-april-2014-update-windows-8-1-windows-server-2012-r2-known-kb-2919355/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXw0KXyUzJV8NCl8lNCVfDQpfJTUlXw0KXyU2JV8NCjwvb2w+DQpfJTclXw0KXyU4JV8NCl8lOSVfDQpfJTEwJV8NCjwvb2w+DQpfJTExJV8NCl8lMTIlXw0KXyUxMyVfDQpfJTE0JV8NCjwvb2w+DQpfJTE1JV8gXyUxNiVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I received the error "This version of Visual Studio requires the April 2014 update to Windows 8.1 and Windows Server 2012 R2 known as KB 2919355."</source>
+            <target state="new">I received the error "This version of Visual Studio requires the April 2014 update to Windows 8.1 and Windows Server 2012 R2 known as KB 2919355."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class=""&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class=""&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>You receive the error "This version of Visual Studio requires the April 2014 update to Windows 8.1 and Windows Server 2012 R2 known as KB2919355."
+<bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new">You receive the error "This version of Visual Studio requires the April 2014 update to Windows 8.1 and Windows Server 2012 R2 known as KB2919355."
+<bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Check to make sure that Windows is completely up to date.</source>
+            <target state="new">Check to make sure that Windows is completely up to date.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Open Control Panel<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Open Control Panel<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click on System and Security<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click on System and Security<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click on Windows Update<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click on Windows Update<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Windows Update and Check for Updates<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Windows Update and Check for Updates<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source> 
+
+If you are unable to update your machine for some reason try running the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/instantanswers/512a5183-ffab-40c5-8a68-021e32467565/windows-update-troubleshooter" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Windows Update Troubleshooter<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new"> 
+
+If you are unable to update your machine for some reason try running the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/instantanswers/512a5183-ffab-40c5-8a68-021e32467565/windows-update-troubleshooter" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Windows Update Troubleshooter<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Run the Windows Update Troubleshooter<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Run the Windows Update Troubleshooter<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click Next.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click Next.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>The troubleshooter will scan your computer and fix any errors that it detects.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>The troubleshooter will scan your computer and fix any errors that it detects.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>If you are still unable to update Windows after running the Windows Update Troubleshooter, please do the following.</source>
+            <target state="new">If you are still unable to update Windows after running the Windows Update Troubleshooter, please do the following.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Contact <bpt id="p3">&lt;a href="https://support.microsoft.com/en-us/contactus/" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>Windows Support<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept> to get assistance with your issue.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Contact <bpt id="p3">&lt;a href="https://support.microsoft.com/en-us/contactus/" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>Windows Support<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept> to get assistance with your issue.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click on Get Started<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click on Get Started<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Enter the details of the issue you are having<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Enter the details of the issue you are having<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class=""&gt;</bpt>If your machine is up to date and you find that the KB was still not installed.</source>
+            <target state="new"><bpt id="p1">&lt;p class=""&gt;</bpt>If your machine is up to date and you find that the KB was still not installed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>Please download it independently from the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/kb/2919355" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Download Center<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">Please download it independently from the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/kb/2919355" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Download Center<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

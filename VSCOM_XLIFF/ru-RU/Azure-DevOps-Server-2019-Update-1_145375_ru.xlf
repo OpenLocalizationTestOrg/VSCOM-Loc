@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="50317-04d55779e37d4edd8366936ac158868d" source-language="en" target-language="ru" parent-post-id="145375" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/azure-devops-server-2019-update-1-rc1/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?LinkId=2097609</source>
+            <target state="new">https://go.microsoft.com/fwlink/?LinkId=2097609</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>web-installer</source>
+            <target state="new">web-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-url" id="3" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?LinkId=2097610</source>
+            <target state="new">https://go.microsoft.com/fwlink/?LinkId=2097610</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-language" id="4" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-format" id="5" xml:space="preserve">
+            <source>iso</source>
+            <target state="new">iso</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="6" xml:space="preserve">
+            <source>Azure DevOps Server 2019 Update 1</source>
+            <target state="new">Azure DevOps Server 2019 Update 1</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="7" xml:space="preserve">
+            <source>Azure DevOps Server 2019 Update 1 is the latest update for Azure DevOps Server 2019.</source>
+            <target state="new">Azure DevOps Server 2019 Update 1 is the latest update for Azure DevOps Server 2019.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="8" xml:space="preserve">
+            <source>Azure DevOps Server provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.</source>
+            <target state="new">Azure DevOps Server provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="9" xml:space="preserve">
+            <source>Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/azure/devops/server/release-notes/azuredevops2019u1"&gt;</bpt>Release Notes<ept id="p1">&lt;/a&gt;</ept> for more information.</source>
+            <target state="new">Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/azure/devops/server/release-notes/azuredevops2019u1"&gt;</bpt>Release Notes<ept id="p1">&lt;/a&gt;</ept> for more information.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

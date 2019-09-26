@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="44208-752c4d450e221e40f26f12ab0bbcb0a9" source-language="en" target-language="ru" parent-post-id="142076" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/professional-download-experiment-default/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Professional Download - Experiment Default</source>
+            <target state="new">Professional Download - Experiment Default</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Professional Download - Experiment Default</source>
+            <target state="new">Professional Download - Experiment Default</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="t_41742" id="2" xml:space="preserve">
+            <source>Tailored download</source>
+            <target state="new">Tailored download</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46844-b5b1befd6895315732dec7ff47fba8cc" source-language="en" target-language="ru" parent-post-id="80188" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/receive-error-another-setup-already-running-please-wait-finish-trying/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfDQpfJTMlXw0KXyU0JV8gXyU1JV8gXyU2JV/CoF8lNyVfDQpfJTglXw0KXyU5JV8NCl8lMTAlXw0KPC9vbD4K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I receive the error "Another setup is already running. Please wait for it to finish before trying again."</source>
+            <target state="new">I receive the error "Another setup is already running. Please wait for it to finish before trying again."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>After attempting to install Visual Studio more than once, subsequent installation attempts result in the error "Another setup is already running.</source>
+            <target state="new">After attempting to install Visual Studio more than once, subsequent installation attempts result in the error "Another setup is already running.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Please wait for it to finish before trying again".</source>
+            <target state="new">Please wait for it to finish before trying again".</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>Only one instance of a Visual Studio installation can run at a time.</source>
+            <target state="new">Only one instance of a Visual Studio installation can run at a time.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>Make sure that there is only one instance open.</source>
+            <target state="new">Make sure that there is only one instance open.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>If you receive this error even when there is only one instance of Visual Studio open, try restarting your machine to end the processes that can cause this issue.</source>
+            <target state="new">If you receive this error even when there is only one instance of Visual Studio open, try restarting your machine to end the processes that can cause this issue.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>If restarting your machine does not resolve the problem, try the following:
+<bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Open <bpt id="p3">&lt;strong&gt;</bpt>Task Manager<ept id="p3">&lt;/strong&gt;</ept>.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">If restarting your machine does not resolve the problem, try the following:
+<bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Open <bpt id="p3">&lt;strong&gt;</bpt>Task Manager<ept id="p3">&lt;/strong&gt;</ept>.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click the <bpt id="p2">&lt;strong&gt;</bpt>Details<ept id="p2">&lt;/strong&gt;</ept> tab.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click the <bpt id="p2">&lt;strong&gt;</bpt>Details<ept id="p2">&lt;/strong&gt;</ept> tab.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Look for the process <bpt id="p2">&lt;strong&gt;</bpt>msiexec.exe<ept id="p2">&lt;/strong&gt;</ept>.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Look for the process <bpt id="p2">&lt;strong&gt;</bpt>msiexec.exe<ept id="p2">&lt;/strong&gt;</ept>.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li class=""&gt;</bpt>If there are more than one, select them and choose <bpt id="p2">&lt;strong&gt;</bpt>End Task<ept id="p2">&lt;/strong&gt;</ept>.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li class=""&gt;</bpt>If there are more than one, select them and choose <bpt id="p2">&lt;strong&gt;</bpt>End Task<ept id="p2">&lt;/strong&gt;</ept>.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

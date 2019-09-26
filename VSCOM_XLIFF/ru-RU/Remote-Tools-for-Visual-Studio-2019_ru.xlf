@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="44559-404beb224bb27840235093495f7be684" source-language="en" target-language="ru" parent-post-id="129715" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/remote-tools-for-visual-studio-2019/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.deu.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.deu.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>deutsch</source>
+            <target state="new">deutsch</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-url" id="3" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.deu.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.deu.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-language" id="4" xml:space="preserve">
+            <source>deutsch</source>
+            <target state="new">deutsch</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-format" id="5" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-url" id="6" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.enu.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.enu.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-language" id="7" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-format" id="8" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-3-url" id="9" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.enu.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.enu.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-3-language" id="10" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-3-format" id="11" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-4-url" id="12" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.esn.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.esn.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-4-language" id="13" xml:space="preserve">
+            <source>espanol</source>
+            <target state="new">espanol</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-4-format" id="14" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-5-url" id="15" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.esn.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.esn.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-5-language" id="16" xml:space="preserve">
+            <source>espanol</source>
+            <target state="new">espanol</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-5-format" id="17" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-6-url" id="18" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.fra.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.fra.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-6-language" id="19" xml:space="preserve">
+            <source>francais</source>
+            <target state="new">francais</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-6-format" id="20" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-7-url" id="21" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.ita.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.ita.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-7-language" id="22" xml:space="preserve">
+            <source>italiano</source>
+            <target state="new">italiano</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-7-format" id="23" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-8-url" id="24" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.ita.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.ita.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-8-language" id="25" xml:space="preserve">
+            <source>italiano</source>
+            <target state="new">italiano</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-8-format" id="26" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-9-url" id="27" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.rus.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.rus.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-9-language" id="28" xml:space="preserve">
+            <source>p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</source>
+            <target state="new">p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-9-format" id="29" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-10-url" id="30" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.rus.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.rus.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-10-language" id="31" xml:space="preserve">
+            <source>p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</source>
+            <target state="new">p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-10-format" id="32" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-11-url" id="33" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.kor.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.kor.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-11-language" id="34" xml:space="preserve">
+            <source>%ed%95%9c%ea%b5%ad%ec%96%b4</source>
+            <target state="new">%ed%95%9c%ea%b5%ad%ec%96%b4</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-11-format" id="35" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-12-url" id="36" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.kor.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.kor.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-12-language" id="37" xml:space="preserve">
+            <source>%ed%95%9c%ea%b5%ad%ec%96%b4</source>
+            <target state="new">%ed%95%9c%ea%b5%ad%ec%96%b4</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-12-format" id="38" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-13-url" id="39" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.chs.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.chs.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-13-language" id="40" xml:space="preserve">
+            <source>%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-13-format" id="41" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-14-url" id="42" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.chs.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.chs.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-14-language" id="43" xml:space="preserve">
+            <source>%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-14-format" id="44" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-15-url" id="45" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.jpn.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.jpn.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-15-language" id="46" xml:space="preserve">
+            <source>%e6%97%a5%e6%9c%ac%e8%aa%9e</source>
+            <target state="new">%e6%97%a5%e6%9c%ac%e8%aa%9e</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-15-format" id="47" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-16-url" id="48" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.jpn.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.jpn.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-16-language" id="49" xml:space="preserve">
+            <source>%e6%97%a5%e6%9c%ac%e8%aa%9e</source>
+            <target state="new">%e6%97%a5%e6%9c%ac%e8%aa%9e</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-16-format" id="50" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-17-url" id="51" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.cht.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.cht.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-17-language" id="52" xml:space="preserve">
+            <source>%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-17-format" id="53" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-18-url" id="54" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.cht.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.cht.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-18-language" id="55" xml:space="preserve">
+            <source>%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-18-format" id="56" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-19-url" id="57" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.csy.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.csy.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-19-language" id="58" xml:space="preserve">
+            <source>cesky</source>
+            <target state="new">cesky</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-19-format" id="59" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-20-url" id="60" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.csy.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.csy.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-20-language" id="61" xml:space="preserve">
+            <source>cesky</source>
+            <target state="new">cesky</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-20-format" id="62" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-21-url" id="63" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.plk.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.plk.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-21-language" id="64" xml:space="preserve">
+            <source>polski</source>
+            <target state="new">polski</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-21-format" id="65" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-22-url" id="66" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.plk.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.plk.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-22-language" id="67" xml:space="preserve">
+            <source>polski</source>
+            <target state="new">polski</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-22-format" id="68" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-23-url" id="69" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.ptb.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.ptb.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-23-language" id="70" xml:space="preserve">
+            <source>portugues-br</source>
+            <target state="new">portugues-br</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-23-format" id="71" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-24-url" id="72" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.ptb.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.ptb.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-24-language" id="73" xml:space="preserve">
+            <source>portugues-br</source>
+            <target state="new">portugues-br</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-24-format" id="74" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-25-url" id="75" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.x86ret.trk.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.x86ret.trk.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-25-language" id="76" xml:space="preserve">
+            <source>tuerkce</source>
+            <target state="new">tuerkce</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-25-format" id="77" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-26-url" id="78" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.trk.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.trk.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-26-language" id="79" xml:space="preserve">
+            <source>tuerkce</source>
+            <target state="new">tuerkce</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-26-format" id="80" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-27-url" id="81" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.amd64ret.fra.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.amd64ret.fra.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-27-language" id="82" xml:space="preserve">
+            <source>francais</source>
+            <target state="new">francais</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-27-format" id="83" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-28-url" id="84" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.chs.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.chs.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-28-language" id="85" xml:space="preserve">
+            <source>%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-28-format" id="86" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-29-url" id="87" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.cht.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.cht.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-29-language" id="88" xml:space="preserve">
+            <source>%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-29-format" id="89" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-30-url" id="90" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.csy.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.csy.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-30-language" id="91" xml:space="preserve">
+            <source>cesky</source>
+            <target state="new">cesky</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-30-format" id="92" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-31-url" id="93" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.deu.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.deu.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-31-language" id="94" xml:space="preserve">
+            <source>deutsch</source>
+            <target state="new">deutsch</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-31-format" id="95" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-32-url" id="96" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.enu.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.enu.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-32-language" id="97" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-32-format" id="98" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-33-url" id="99" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.esn.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.esn.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-33-language" id="100" xml:space="preserve">
+            <source>espanol</source>
+            <target state="new">espanol</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-33-format" id="101" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-34-url" id="102" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.fra.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.fra.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-34-language" id="103" xml:space="preserve">
+            <source>francais</source>
+            <target state="new">francais</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-34-format" id="104" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-35-url" id="105" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.ita.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.ita.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-35-language" id="106" xml:space="preserve">
+            <source>italiano</source>
+            <target state="new">italiano</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-35-format" id="107" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-36-url" id="108" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.jpn.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.jpn.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-36-language" id="109" xml:space="preserve">
+            <source>%e6%97%a5%e6%9c%ac%e8%aa%9e</source>
+            <target state="new">%e6%97%a5%e6%9c%ac%e8%aa%9e</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-36-format" id="110" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-37-url" id="111" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.kor.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.kor.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-37-language" id="112" xml:space="preserve">
+            <source>%ed%95%9c%ea%b5%ad%ec%96%b4</source>
+            <target state="new">%ed%95%9c%ea%b5%ad%ec%96%b4</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-37-format" id="113" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-38-url" id="114" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.plk.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.plk.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-38-language" id="115" xml:space="preserve">
+            <source>polski</source>
+            <target state="new">polski</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-38-format" id="116" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-39-url" id="117" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.ptb.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.ptb.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-39-language" id="118" xml:space="preserve">
+            <source>portugues-br</source>
+            <target state="new">portugues-br</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-39-format" id="119" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-40-url" id="120" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.rus.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.rus.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-40-language" id="121" xml:space="preserve">
+            <source>p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</source>
+            <target state="new">p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-40-format" id="122" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-41-url" id="123" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/RemoteTools.arm64ret.trk.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/RemoteTools.arm64ret.trk.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-41-language" id="124" xml:space="preserve">
+            <source>tuerkce</source>
+            <target state="new">tuerkce</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-41-format" id="125" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="126" xml:space="preserve">
+            <source>Remote Tools for Visual Studio 2019</source>
+            <target state="new">Remote Tools for Visual Studio 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="127" xml:space="preserve">
+            <source>Remote Tools for Visual Studio 2019 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.</source>
+            <target state="new">Remote Tools for Visual Studio 2019 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="128" xml:space="preserve">
+            <source>Remote Tools for Visual Studio 2019</source>
+            <target state="new">Remote Tools for Visual Studio 2019</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
