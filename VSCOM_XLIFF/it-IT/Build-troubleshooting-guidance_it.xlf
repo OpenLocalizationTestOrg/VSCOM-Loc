@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47426-3b856b4860cbe0ec0296f8e393d76ba1" source-language="en" target-language="it" parent-post-id="80223" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/build-troubleshooting-guidance/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfDQoNCl8lMyVfIF8lNCVfIF8lNSVfDQoNCl8lNiVfIF8lNyVfIF8lOCVfDQoNCl8lOSVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Build troubleshooting guidance</source>
+            <target state="new">Build troubleshooting guidance</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Run commands locally at the command prompt<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Run commands locally at the command prompt<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>It is helpful to narrow whether a build failure is the result of a TFS/VSTS product issue (agent or tasks).</source>
+            <target state="new">It is helpful to narrow whether a build failure is the result of a TFS/VSTS product issue (agent or tasks).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Build failures may also result from external commands.</source>
+            <target state="new">Build failures may also result from external commands.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Check the build log for the exact command-line executed by the failing step.</source>
+            <target state="new">Check the build log for the exact command-line executed by the failing step.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>Attempting to run the command locally from the command line, may reproduce the issue.</source>
+            <target state="new">Attempting to run the command locally from the command line, may reproduce the issue.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>It can be helpful to run the command locally from your own machine, and/or log-in to the build machine and run the command as the service account.</source>
+            <target state="new">It can be helpful to run the command locally from your own machine, and/or log-in to the build machine and run the command as the service account.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>For example, is the problem happening during the MSBuild part of your build process (for example, are you using either the <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/build/msbuild" target="_blank" rel="noopener"&gt;</bpt>MSBuild<ept id="p1">&lt;/a&gt;</ept> or <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/build/visual-studio-build" target="_blank" rel="noopener"&gt;</bpt>Visual Studio Build<ept id="p2">&lt;/a&gt;</ept> step)?</source>
+            <target state="new">For example, is the problem happening during the MSBuild part of your build process (for example, are you using either the <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/build/msbuild" target="_blank" rel="noopener"&gt;</bpt>MSBuild<ept id="p1">&lt;/a&gt;</ept> or <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/tasks/build/visual-studio-build" target="_blank" rel="noopener"&gt;</bpt>Visual Studio Build<ept id="p2">&lt;/a&gt;</ept> step)?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>If so, then try running the same <bpt id="p1">&lt;a href="https://msdn.microsoft.com/library/ms164311.aspx"&gt;</bpt>MSBuild command<ept id="p1">&lt;/a&gt;</ept> on a local machine using the same arguments.</source>
+            <target state="new">If so, then try running the same <bpt id="p1">&lt;a href="https://msdn.microsoft.com/library/ms164311.aspx"&gt;</bpt>MSBuild command<ept id="p1">&lt;/a&gt;</ept> on a local machine using the same arguments.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>If you can reproduce the problem on a local machine, then your next steps are to investigate the <bpt id="p1">&lt;a href="https://msdn.microsoft.com/library/dd393574.aspx"&gt;</bpt>MSBuild<ept id="p1">&lt;/a&gt;</ept> problem.</source>
+            <target state="new">If you can reproduce the problem on a local machine, then your next steps are to investigate the <bpt id="p1">&lt;a href="https://msdn.microsoft.com/library/dd393574.aspx"&gt;</bpt>MSBuild<ept id="p1">&lt;/a&gt;</ept> problem.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>For detailed steps, please see the rest of <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/troubleshooting" target="_blank" rel="noopener"&gt;</bpt>Troubleshooting Build<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">For detailed steps, please see the rest of <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/troubleshooting" target="_blank" rel="noopener"&gt;</bpt>Troubleshooting Build<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

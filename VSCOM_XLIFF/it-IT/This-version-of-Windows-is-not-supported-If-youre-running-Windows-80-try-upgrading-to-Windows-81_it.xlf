@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46387-88a93716fbb4c39fa3451ceda688dab5" source-language="en" target-language="it" parent-post-id="80128" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/version-windows-not-supported-youre-running-windows-8-0-try-upgrading-windows-8-1/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfDQpfJTMlXw0KPGgzPjEuIF8lNCVfDQpfJTUlXw0KPGgzPjIuIF8lNiVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2017 common installation issues if running Windows 8.0, try upgrading to Windows 8.1.</source>
+            <target state="new">Visual Studio 2017 common installation issues if running Windows 8.0, try upgrading to Windows 8.1.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>This version of Windows is not supported. If you're running Windows 8.0, try upgrading to Windows 8.1</source>
+            <target state="new">This version of Windows is not supported. If you're running Windows 8.0, try upgrading to Windows 8.1</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>When attempting to install Visual Studio, you receive the message: "This version of Windows is not supported.</source>
+            <target state="new">When attempting to install Visual Studio, you receive the message: "This version of Windows is not supported.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>If you are running Windows 8.0, try upgrading to Windows 8.1"
+
+The minimum operating <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>system requirement<ept id="p1">&lt;/a&gt;</ept> for Visual Studio on Windows computers is Windows 8.1.</source>
+            <target state="new">If you are running Windows 8.0, try upgrading to Windows 8.1"
+
+The minimum operating <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>system requirement<ept id="p1">&lt;/a&gt;</ept> for Visual Studio on Windows computers is Windows 8.1.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>Follow instructions for upgrading to Windows 8.1.<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Follow instructions for upgrading to Windows 8.1.<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source>You can download and install 8.1 from <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/15356/windows-8-install-update-kb-2919355" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft Support<ept id="p1">&lt;/a&gt;</ept> for free.</source>
+            <target state="new">You can download and install 8.1 from <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/15356/windows-8-install-update-kb-2919355" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft Support<ept id="p1">&lt;/a&gt;</ept> for free.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source>Launch the Visual Studio installer again.<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Launch the Visual Studio installer again.<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

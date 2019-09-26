@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53801-e0f48f0a5e17fa5017d2310755e76e9a" source-language="en" target-language="it" parent-post-id="149750" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/licensing-guide-for-visual-studio-2017/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Licensing Guide for Visual Studio 2017</source>
+            <target state="new">Licensing Guide for Visual Studio 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Need more information on Visual Studio licensing?</source>
+            <target state="new">Need more information on Visual Studio licensing?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Consult our <bpt id="p1">&lt;a class="bold" href="https://visualstudio.microsoft.com/wp-content/uploads/2017/03/Visual-Studio-2017-Licensing-Whitepaper-March-2017.pdf" target="_blank" rel="noopener noreferrer"&gt;</bpt>licensing white paper<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Consult our <bpt id="p1">&lt;a class="bold" href="https://visualstudio.microsoft.com/wp-content/uploads/2017/03/Visual-Studio-2017-Licensing-Whitepaper-March-2017.pdf" target="_blank" rel="noopener noreferrer"&gt;</bpt>licensing white paper<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

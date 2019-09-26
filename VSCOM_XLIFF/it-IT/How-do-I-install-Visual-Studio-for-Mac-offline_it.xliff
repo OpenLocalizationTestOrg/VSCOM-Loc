@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="39564-012b65751f16d86599cbcb9be239792b" source-language="en" target-language="it" parent-post-id="96269" version="4" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/mac/install-visual-studio-mac-offline/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio Mac Download and Installation on how to install Visual Studio for Mac offline.</source>
+            <target state="new">Visual Studio Mac Download and Installation on how to install Visual Studio for Mac offline.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>How do I install Visual Studio for Mac offline</source>
+            <target state="new">How do I install Visual Studio for Mac offline</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Currently, we don't have offline installation available for Visual Studio for Mac.</source>
+            <target state="new">Currently, we don't have offline installation available for Visual Studio for Mac.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>If this is a feature you would like to use, please let us know on <bpt id="p1">&lt;a style="color: #0067b7;" href="https://developercommunity.visualstudio.com/content/idea/post.html?space=41" target="_blank" rel="noopener"&gt;</bpt>UserVoice<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">If this is a feature you would like to use, please let us know on <bpt id="p1">&lt;a style="color: #0067b7;" href="https://developercommunity.visualstudio.com/content/idea/post.html?space=41" target="_blank" rel="noopener"&gt;</bpt>UserVoice<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

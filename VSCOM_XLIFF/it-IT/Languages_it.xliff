@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="40243-ac885cf59f4de7339edc97e824fdee80" source-language="en" target-language="it" parent-post-id="126819" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/features/web/languages/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWZlYXR1cmUtaGVybyIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fZmVhdHVyZV9oZXJvIGxheW91dD0iZmVhdHVyZS1oZXJvIiB0aXRsZT0iV2ViIExhbmd1YWdlcyIgaW1hZ2Vfc3JjPSIiIGltYWdlX2lkPSIiIGNzc19jbGFzc2VzPSIiIHJlYWRtb3JlX3VybD0iIiByZWFkbW9yZV90ZXh0PSJMZWFybiBtb3JlIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTAlX18lMSVfXyUyJV9fJTMlX1svdnNjb21fZmVhdHVyZV9oZXJvXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJ5ZXMiIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyU0JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lNSVfIF8lNiVfIF8lNyVfIF8lOCVfIF8lOSVfIF8lMTAlXwpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fYnVpbGRlcl9yb3dfaW5uZXJdW2Z1c2lvbl9idWlsZGVyX2NvbHVtbl9pbm5lciB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgaG92ZXJfdHlwZT0ibm9uZSIgbGluaz0iIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iMjBweCIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiXVtmdXNpb25faW1hZ2VmcmFtZSBpbWFnZV9pZD0iMTI2OTc4IiBtYXhfd2lkdGg9IiIgc3R5bGVfdHlwZT0ibm9uZSIgc3R5bGVjb2xvcj0iIiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJzaXplPSIiIGJvcmRlcmNvbG9yPSIiIGJvcmRlcnJhZGl1cz0iIiBhbGlnbj0ibm9uZSIgbGlnaHRib3g9Im5vIiBnYWxsZXJ5X2lkPSIiIGxpZ2h0Ym94X2ltYWdlPSIiIGFsdD0iIiBsaW5rPSIiIGxpbmt0YXJnZXQ9Il9zZWxmIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXp5X2xvYWRpbmc9Im5vIl1fJTExJV9bL2Z1c2lvbl9pbWFnZWZyYW1lXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTEyJV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lMTMlXyBfJTE0JV8NCg0KXyUxNSVfClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5faW5uZXJdW2Z1c2lvbl9idWlsZGVyX2NvbHVtbl9pbm5lciB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgaG92ZXJfdHlwZT0ibm9uZSIgbGluaz0iIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IjIwcHgiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiXVtmdXNpb25faW1hZ2VmcmFtZSBpbWFnZV9pZD0iMTI3MDUzIiBtYXhfd2lkdGg9IiIgc3R5bGVfdHlwZT0ibm9uZSIgc3R5bGVjb2xvcj0iIiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJzaXplPSIiIGJvcmRlcmNvbG9yPSIiIGJvcmRlcnJhZGl1cz0iIiBhbGlnbj0ibm9uZSIgbGlnaHRib3g9Im5vIiBnYWxsZXJ5X2lkPSIiIGxpZ2h0Ym94X2ltYWdlPSIiIGFsdD0iIiBsaW5rPSIiIGxpbmt0YXJnZXQ9Il9zZWxmIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXp5X2xvYWRpbmc9Im5vIl1fJTE2JV9bL2Z1c2lvbl9pbWFnZWZyYW1lXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTE3JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lMTglXw0KDQpfJTE5JV8KWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl9pbm5lcl1bL2Z1c2lvbl9idWlsZGVyX3Jvd19pbm5lcl1bZnVzaW9uX3NlcGFyYXRvciBzdHlsZV90eXBlPSJzaW5nbGUgc29saWQiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iI2RkZGRkZCIgdG9wX21hcmdpbj0iIiBib3R0b21fbWFyZ2luPSIyNXB4IiBib3JkZXJfc2l6ZT0iMiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVtmdXNpb25fY29udGVudF9ib3hlcyBsYXlvdXQ9Imljb24tb24tc2lkZSIgY29sdW1ucz0iMyIgdGl0bGVfc2l6ZT0iIiBoZWFkaW5nX3NpemU9IjIiIHRpdGxlX2NvbG9yPSIjMDAwMDAwIiBib2R5X2NvbG9yPSIiIGJhY2tncm91bmRjb2xvcj0iIiBpY29uPSIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiMxZTczYmUiIGljb25fY2lyY2xlPSJubyIgaWNvbl9jaXJjbGVfcmFkaXVzPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIwIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGljb25fc2l6ZT0iIiBpY29uX2hvdmVyX3R5cGU9Im5vbmUiIGhvdmVyX2FjY2VudF9jb2xvcj0iIzAwMDAwMCIgaW1hZ2U9IiIgaW1hZ2Vfd2lkdGg9IiIgaW1hZ2VfaGVpZ2h0PSIiIGxpbmtfdHlwZT0iIiBidXR0b25fc3Bhbj0iIiBsaW5rX2FyZWE9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgaWNvbl9hbGlnbj0ibGVmdCIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RlbGF5PSIiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIG1hcmdpbl90b3A9IjAiIG1hcmdpbl9ib3R0b209IjAiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJsYW5ndWFnZXMtLWNvbnRlbnQtYm94ZXMiIGlkPSIiXVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lMjAlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249ImZhLWNvZGUtYnJhbmNoIGZhcyIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIiIGltYWdlX2lkPSIiIGltYWdlX2hlaWdodD0iIiBsaW5rPSIiIGxpbmt0ZXh0PSJfJTIxJV8iIGxpbmtfdGFyZ2V0PSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFyaWFfbGFiZWw9IiJdXyUyMiVfIF8lMjMlXyBfJTI0JV8gXyUyNSVfClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lMjYlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249ImZhLXRhZyBmYXMiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9pZD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iXyUyNyVfIiBsaW5rX3RhcmdldD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lMjglXyBfJTI5JV8NCg0KXyUzMCVfDQoNCgpbL2Z1c2lvbl9jb250ZW50X2JveF1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTMxJV8iIGJhY2tncm91bmRjb2xvcj0iIiBpY29uPSJmYS1ob21lIGZhcyIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIiIGltYWdlX2lkPSIiIGltYWdlX2hlaWdodD0iIiBsaW5rPSIiIGxpbmt0ZXh0PSJfJTMyJV8iIGxpbmtfdGFyZ2V0PSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFyaWFfbGFiZWw9IiJdXyUzMyVfXyUzNCVfWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUzNSVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iZmEtcHJvamVjdC1kaWFncmFtIGZhcyIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIiIGltYWdlX2lkPSIiIGltYWdlX2hlaWdodD0iIiBsaW5rPSIiIGxpbmt0ZXh0PSJfJTM2JV8iIGxpbmtfdGFyZ2V0PSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFyaWFfbGFiZWw9IiJdXyUzNyVfWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUzOCVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iZmEtY29ncyBmYXMiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9pZD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iXyUzOSVfIiBsaW5rX3RhcmdldD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lNDAlXyBfJTQxJV8KWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyU0MiVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iZmEtY29kZSBmYXMiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9pZD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iXyU0MyVfIiBsaW5rX3RhcmdldD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lNDQlX1svZnVzaW9uX2NvbnRlbnRfYm94XVsvZnVzaW9uX2NvbnRlbnRfYm94ZXNdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9InllcyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS1ncmF5bGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyU0NSVfWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl0NCl8lNDYlXyBfJTQ3JV8gXyU0OCVfDQo8cCBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsiPl8lNDklXzwvcD4NCgpbL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJ5ZXMiIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyU1MCVfWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl0NCl8lNTElXyBfJTUyJV8NCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0OyI+XyU1MyVfPC9wPg0KClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9InllcyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS1ncmF5bGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJjZW50ZXIiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTU0JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX2NvbnRlbnRfYm94ZXMgbGF5b3V0PSJpY29uLW9uLXNpZGUiIGNvbHVtbnM9IjMiIHRpdGxlX3NpemU9IiIgaGVhZGluZ19zaXplPSIyIiB0aXRsZV9jb2xvcj0iIzAwMDAwMCIgYm9keV9jb2xvcj0iIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIjMWU3M2JlIiBpY29uX2NpcmNsZT0ibm8iIGljb25fY2lyY2xlX3JhZGl1cz0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iMCIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpY29uX3NpemU9IiIgaWNvbl9ob3Zlcl90eXBlPSJub25lIiBob3Zlcl9hY2NlbnRfY29sb3I9IiMwMDAwMDAiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIiIGltYWdlX2hlaWdodD0iIiBsaW5rX3R5cGU9IiIgYnV0dG9uX3NwYW49IiIgbGlua19hcmVhPSIiIGxpbmtfdGFyZ2V0PSJfYmxhbmsiIGljb25fYWxpZ249ImxlZnQiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kZWxheT0iIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIwIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0ib3RoZXItbGFuZ3VhZ2VzLS1jb250ZW50LWJveGVzIiBpZD0iIl1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTU1JV8iIGJhY2tncm91bmRjb2xvcj0iIiBpY29uPSIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wMS9QWUZhYnJpYy5zdmciIGltYWdlX3dpZHRoPSIiIGltYWdlX2lkPSIxMjcxODAiIGltYWdlX2hlaWdodD0iIiBsaW5rPSIiIGxpbmt0ZXh0PSJfJTU2JV8iIGxpbmtfdGFyZ2V0PSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFyaWFfbGFiZWw9IiJdXyU1NyVfWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyU1OCVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDEvUkZhYnJpYy5zdmciIGltYWdlX3dpZHRoPSIiIGltYWdlX2lkPSIxMjcxNjYiIGltYWdlX2hlaWdodD0iIiBsaW5rPSIiIGxpbmt0ZXh0PSJfJTU5JV8iIGxpbmtfdGFyZ2V0PSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFyaWFfbGFiZWw9IiJdXyU2MCVfWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyU2MSVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDEvVkJGYWJyaWMuc3ZnIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9pZD0iMTI3MTUyIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iXyU2MiVfIiBsaW5rX3RhcmdldD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lNjMlX1svZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lNjQlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249IiIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAxL0NQUEZhYnJpYy5zdmciIGltYWdlX3dpZHRoPSIiIGltYWdlX2lkPSIxMjcxMzgiIGltYWdlX2hlaWdodD0iIiBsaW5rPSIiIGxpbmt0ZXh0PSJfJTY1JV8iIGxpbmtfdGFyZ2V0PSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFyaWFfbGFiZWw9IiJdXyU2NiVfWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyU2NyVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDEvRlNGYWJyaWMuc3ZnIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9pZD0iMTI3MTI0IiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iXyU2OCVfIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSJMZWFybiBtb3JlIGFib3V0IEYjIl1fJTY5JV9bL2Z1c2lvbl9jb250ZW50X2JveF1bL2Z1c2lvbl9jb250ZW50X2JveGVzXVtmdXNpb25fc2VwYXJhdG9yIHN0eWxlX3R5cGU9Im5vbmUiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSIyNXB4IiBib3R0b21fbWFyZ2luPSIiIGJvcmRlcl9zaXplPSIiIGljb249IiIgaWNvbl9jaXJjbGU9IiIgaWNvbl9jaXJjbGVfY29sb3I9IiIgd2lkdGg9IiIgYWxpZ25tZW50PSJjZW50ZXIiL11bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXQ0KXyU3MCVfIF8lNzElXw0KPHAgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPl8lNzIlXzwvcD4NCgpbL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJ5ZXMiIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IjAiIG1hcmdpbl9ib3R0b209IjAiIHBhZGRpbmdfdG9wPSIwIiBwYWRkaW5nX3JpZ2h0PSIwIiBwYWRkaW5nX2JvdHRvbT0iMCIgcGFkZGluZ19sZWZ0PSIwIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iMCIgcGFkZGluZ19yaWdodD0iMCIgcGFkZGluZ19ib3R0b209IjAiIHBhZGRpbmdfbGVmdD0iMCIgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iMCIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9iYW5uZXIgdGl0bGU9IlZpc3VhbCBTdHVkaW8iIGJnX2NvbG9yPSIjMDAwMDAwIiBiYW5uZXJfbG9jYXRpb249ImZvb3RlciIgdGV4dF9jb2xvcj0iIiB0ZXh0X2FsaWduPSIiIGNsYXNzPSIiIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS9kb3dubG9hZHMvIiByZWFkbW9yZV90ZXh0PSJfJTczJV8iIHJlYWRtb3JlX2NsYXNzPSIiIHJlYWRtb3JlX2FyaWE9Il8lNzQlXyIgcmVhZG1vcmVfYXR0cmlidXRlcz0iIiByZWFkbW9yZV90YXJnZXQ9Il9zZWxmIiByZWFkbW9yZV90eXBlPSJidXR0b24iIGJ0bl9iZ19jb2xvcj0iI2ZmZmZmZiIgYnRuX3RleHRfY29sb3I9IiIgYnRuX2ljb249ImZhLWRvd25sb2FkIGZhcyIgYnRuX25vdGU9IiJdDQpfJTc1JV8NCgpbL3ZzY29tX2Jhbm5lcl1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl0=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Languages</source>
+            <target state="new">Languages</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Whether you are a backend or a full stack web developer, we have the right tools for you.</source>
+            <target state="new">Whether you are a backend or a full stack web developer, we have the right tools for you.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source> Visual Studio offers powerful HTML, CSS, JavaScript, and JSON editors.</source>
+            <target state="new"> Visual Studio offers powerful HTML, CSS, JavaScript, and JSON editors.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source> Tap into the power of LESS, and Sass, use PHP, Python, or C# with ASP.NET.</source>
+            <target state="new"> Tap into the power of LESS, and Sass, use PHP, Python, or C# with ASP.NET.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source> All the popular languages are supported and you can move between languages and project types with ease.</source>
+            <target state="new"> All the popular languages are supported and you can move between languages and project types with ease.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>C# / ASP.NET Core</source>
+            <target state="new">C# / ASP.NET Core</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>
+
+ASP.NET Core is a cross-platform, high-performance, free, <bpt id="p1">&lt;a href="https://github.com/aspnet/AspNetCore" target="_blank" rel="noopener"&gt;</bpt>open-source<ept id="p1">&lt;/a&gt;</ept> framework for building modern, cloud-based, Internet-connected applications.</source>
+            <target state="new">
+
+ASP.NET Core is a cross-platform, high-performance, free, <bpt id="p1">&lt;a href="https://github.com/aspnet/AspNetCore" target="_blank" rel="noopener"&gt;</bpt>open-source<ept id="p1">&lt;/a&gt;</ept> framework for building modern, cloud-based, Internet-connected applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>With ASP.NET Core, you can build web apps and services, IoT apps, and mobile backends.</source>
+            <target state="new">With ASP.NET Core, you can build web apps and services, IoT apps, and mobile backends.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>Use your favorite development tools on Windows, macOS, and Linux.</source>
+            <target state="new">Use your favorite development tools on Windows, macOS, and Linux.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>Deploy to the cloud or on-premises while using the languages that you know: HTML and JavaScript.</source>
+            <target state="new">Deploy to the cloud or on-premises while using the languages that you know: HTML and JavaScript.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>Leverage the ASP.NET Razor syntax to inline C# directly in your views.</source>
+            <target state="new">Leverage the ASP.NET Razor syntax to inline C# directly in your views.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>Use TypeScript to create typed, scalable and more manageable code that compiles into JavaScript.
+
+</source>
+            <target state="new">Use TypeScript to create typed, scalable and more manageable code that compiles into JavaScript.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/12/aspnet-razor.gif</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/12/aspnet-razor.gif</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>Razor</source>
+            <target state="new">Razor</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source>The ASP.NET Razor syntax allows you to inline C# directly inside your views.</source>
+            <target state="new">The ASP.NET Razor syntax allows you to inline C# directly inside your views.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source>You've got full access to the current Model as well as to .NET framework types.</source>
+            <target state="new">You've got full access to the current Model as well as to .NET framework types.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c" rel="noopener" target="_blank" aria-label="Learn more about ASP.NET Razor"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c" rel="noopener" target="_blank" aria-label="Learn more about ASP.NET Razor"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/12/other-typescript_2.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/12/other-typescript_2.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>Typescript</source>
+            <target state="new">Typescript</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source>A superset of JavaScript that compiles to plain JavaScript and enables you to create more scalable code.</source>
+            <target state="new">A superset of JavaScript that compiles to plain JavaScript and enables you to create more scalable code.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://www.typescriptlang.org/" rel="noopener" target="_blank" aria-label="Learn more about Typescript"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://www.typescriptlang.org/" rel="noopener" target="_blank" aria-label="Learn more about Typescript"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source>Open source</source>
+            <target state="new">Open source</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="23" xml:space="preserve">
+            <source>
+
+Found a bug or got a new idea?</source>
+            <target state="new">
+
+Found a bug or got a new idea?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="24" xml:space="preserve">
+            <source>Open an issue or send a pull request.</source>
+            <target state="new">Open an issue or send a pull request.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="25" xml:space="preserve">
+            <source>All of the ASP.NET and .NET Core CLR runtime components as well the Azure SDKs for any language are on <bpt id="p1">&lt;a href="https://github.com/aspnet/AspNetCore" rel="noopener" target="_blank"&gt;</bpt>GitHub<ept id="p1">&lt;/a&gt;</ept> and taking contributions.</source>
+            <target state="new">All of the ASP.NET and .NET Core CLR runtime components as well the Azure SDKs for any language are on <bpt id="p1">&lt;a href="https://github.com/aspnet/AspNetCore" rel="noopener" target="_blank"&gt;</bpt>GitHub<ept id="p1">&lt;/a&gt;</ept> and taking contributions.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="26" xml:space="preserve">
+            <source>Get involved today!
+
+</source>
+            <target state="new">Get involved today!
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="27" xml:space="preserve">
+            <source>Tag Helpers</source>
+            <target state="new">Tag Helpers</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="28" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="29" xml:space="preserve">
+            <source>
+
+Tag Helpers enable server-side code to participate in creating and rendering HTML elements in Razor files.</source>
+            <target state="new">
+
+Tag Helpers enable server-side code to participate in creating and rendering HTML elements in Razor files.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="30" xml:space="preserve">
+            <source>They provide an HTML-friendly development experience.</source>
+            <target state="new">They provide an HTML-friendly development experience.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="31" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-2.1" rel="noopener" target="_blank" aria-label="Learn more about Tag Helpers"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro?view=aspnetcore-2.1" rel="noopener" target="_blank" aria-label="Learn more about Tag Helpers"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="32" xml:space="preserve">
+            <source>Tilde slash</source>
+            <target state="new">Tilde slash</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="33" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="34" xml:space="preserve">
+            <source>You can use the tilde (~) character in Razor markup to indicate the root of the website.</source>
+            <target state="new">You can use the tilde (~) character in Razor markup to indicate the root of the website.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="35" xml:space="preserve">
+            <source> This is particularly useful when the root of the application is located in a subfolder of an existing website.
+
+</source>
+            <target state="new"> This is particularly useful when the root of the application is located in a subfolder of an existing website.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="36" xml:space="preserve">
+            <source>Model-driven development</source>
+            <target state="new">Model-driven development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="37" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="38" xml:space="preserve">
+            <source>The models used in an ASP.NET application can be annotated to provide a wide range of experiences such as database schema generation, view scaffolding, client- and server-side validation and more.
+
+</source>
+            <target state="new">The models used in an ASP.NET application can be annotated to provide a wide range of experiences such as database schema generation, view scaffolding, client- and server-side validation and more.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="39" xml:space="preserve">
+            <source>Roslyn compiler</source>
+            <target state="new">Roslyn compiler</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="40" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="41" xml:space="preserve">
+            <source>
+
+The .NET Compiler Platform ("<bpt id="p1">&lt;a href="https://github.com/dotnet/roslyn" rel="noopener" target="_blank"&gt;</bpt>Roslyn<ept id="p1">&lt;/a&gt;</ept>") provides open-source C# and Visual Basic compilers with rich code analysis APIs.</source>
+            <target state="new">
+
+The .NET Compiler Platform ("<bpt id="p1">&lt;a href="https://github.com/dotnet/roslyn" rel="noopener" target="_blank"&gt;</bpt>Roslyn<ept id="p1">&lt;/a&gt;</ept>") provides open-source C# and Visual Basic compilers with rich code analysis APIs.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="42" xml:space="preserve">
+            <source>It enables building code analysis tools with the same APIs that are used by Visual Studio.
+
+</source>
+            <target state="new">It enables building code analysis tools with the same APIs that are used by Visual Studio.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="43" xml:space="preserve">
+            <source>Code-based configuration</source>
+            <target state="new">Code-based configuration</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="44" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="45" xml:space="preserve">
+            <source>Any identity, routing and database configuration is code based to allow you to easily manipulate the configuration logic for your web app.
+
+</source>
+            <target state="new">Any identity, routing and database configuration is code based to allow you to easily manipulate the configuration logic for your web app.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="46" xml:space="preserve">
+            <source>JavaScript
+
+</source>
+            <target state="new">JavaScript
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="47" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: left;"&gt;</bpt>The JavaScript editor in Visual Studio supports EcmaScript 6 and has the most advanced IntelliSense engine on the market.</source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: left;"&gt;</bpt>The JavaScript editor in Visual Studio supports EcmaScript 6 and has the most advanced IntelliSense engine on the market.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="48" xml:space="preserve">
+            <source>JavaScript is a first-class language in Visual Studio.</source>
+            <target state="new">JavaScript is a first-class language in Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="49" xml:space="preserve">
+            <source>You can use most or all of the standard editing aids (code snippets, IntelliSense, and so on) when you write JavaScript code in the Visual Studio IDE.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">You can use most or all of the standard editing aids (code snippets, IntelliSense, and so on) when you write JavaScript code in the Visual Studio IDE.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="50" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/scripting/" rel="noopener" target="_blank" aria-label="Learn more about JavaScript"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/scripting/" rel="noopener" target="_blank" aria-label="Learn more about JavaScript"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="51" xml:space="preserve">
+            <source>CSS, Less, Sass, and Font Awesome in ASP.NET Core
+
+</source>
+            <target state="new">CSS, Less, Sass, and Font Awesome in ASP.NET Core
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%51%_" id="52" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: left;"&gt;</bpt>Most non-trivial sites benefit from being able to effectively define and maintain styles and cascading style sheet (CSS) files, as well as having easy access to non-image icons that help make the site&#039;s interface more intuitive.</source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: left;"&gt;</bpt>Most non-trivial sites benefit from being able to effectively define and maintain styles and cascading style sheet (CSS) files, as well as having easy access to non-image icons that help make the site&#039;s interface more intuitive.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%52%_" id="53" xml:space="preserve">
+            <source>That&#039;s where languages and tools that support <bpt id="p1">&lt;a href="http://lesscss.org/" rel="noopener" target="_blank"&gt;</bpt>Less<ept id="p1">&lt;/a&gt;</ept> and <bpt id="p2">&lt;a href="http://sass-lang.com/" rel="noopener" target="_blank"&gt;</bpt>Sass<ept id="p2">&lt;/a&gt;</ept>, and libraries like <bpt id="p3">&lt;a href="http://fontawesome.io/" rel="noopener" target="_blank"&gt;</bpt>Font Awesome<ept id="p3">&lt;/a&gt;</ept>, come in.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">That&#039;s where languages and tools that support <bpt id="p1">&lt;a href="http://lesscss.org/" rel="noopener" target="_blank"&gt;</bpt>Less<ept id="p1">&lt;/a&gt;</ept> and <bpt id="p2">&lt;a href="http://sass-lang.com/" rel="noopener" target="_blank"&gt;</bpt>Sass<ept id="p2">&lt;/a&gt;</ept>, and libraries like <bpt id="p3">&lt;a href="http://fontawesome.io/" rel="noopener" target="_blank"&gt;</bpt>Font Awesome<ept id="p3">&lt;/a&gt;</ept>, come in.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%53%_" id="54" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/aspnet/core/client-side/less-sass-fa?view=aspnetcore-2.1" rel="noopener" target="_blank" aria-label="Learn more about CSS, Less, Sass, and Font Awesome in ASP.NET Core"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/aspnet/core/client-side/less-sass-fa?view=aspnetcore-2.1" rel="noopener" target="_blank" aria-label="Learn more about CSS, Less, Sass, and Font Awesome in ASP.NET Core"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%54%_" id="55" xml:space="preserve">
+            <source>Other languages and tools
+
+</source>
+            <target state="new">Other languages and tools
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%55%_" id="56" xml:space="preserve">
+            <source>Python</source>
+            <target state="new">Python</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%56%_" id="57" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%57%_" id="58" xml:space="preserve">
+            <source>A dynamic object-oriented, high-level programming language often used for rapid application development.
+
+</source>
+            <target state="new">A dynamic object-oriented, high-level programming language often used for rapid application development.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%58%_" id="59" xml:space="preserve">
+            <source>R</source>
+            <target state="new">R</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%59%_" id="60" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%60%_" id="61" xml:space="preserve">
+            <source>An extensible programming language typically used for statistical computing and graphics.
+
+</source>
+            <target state="new">An extensible programming language typically used for statistical computing and graphics.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%61%_" id="62" xml:space="preserve">
+            <source>Visual Basic</source>
+            <target state="new">Visual Basic</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%62%_" id="63" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%63%_" id="64" xml:space="preserve">
+            <source>A modern, easy to learn, object-oriented programming language for the .NET platform, focused on easily creating Windows applications.
+
+</source>
+            <target state="new">A modern, easy to learn, object-oriented programming language for the .NET platform, focused on easily creating Windows applications.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%64%_" id="65" xml:space="preserve">
+            <source>C++</source>
+            <target state="new">C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%65%_" id="66" xml:space="preserve">
+            <source>Read More</source>
+            <target state="new">Read More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%66%_" id="67" xml:space="preserve">
+            <source>A powerful and flexible programming language and development environment for creating applications for Windows, Linux, iOS, and Android.
+
+</source>
+            <target state="new">A powerful and flexible programming language and development environment for creating applications for Windows, Linux, iOS, and Android.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%67%_" id="68" xml:space="preserve">
+            <source>F#</source>
+            <target state="new">F#</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%68%_" id="69" xml:space="preserve">
+            <source>Learn More</source>
+            <target state="new">Learn More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%69%_" id="70" xml:space="preserve">
+            <source>A modern functional programming language with object-oriented capabilities for the .NET platform, focused on making Functional Programming easier for any task.
+
+</source>
+            <target state="new">A modern functional programming language with object-oriented capabilities for the .NET platform, focused on making Functional Programming easier for any task.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%70%_" id="71" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: center;"&gt;</bpt>Visual Studio provides support for a wide variety of languages and technologies – either built-in or as extensions.</source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: center;"&gt;</bpt>Visual Studio provides support for a wide variety of languages and technologies – either built-in or as extensions.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%71%_" id="72" xml:space="preserve">
+            <source>From new project templates and new item scaffolding to new project templates for various languages and extensions to support a variety of modern web frameworks, Visual Studio IDE enables you to become productive quickly using the languages and frameworks that you are familiar with.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">From new project templates and new item scaffolding to new project templates for various languages and extensions to support a variety of modern web frameworks, Visual Studio IDE enables you to become productive quickly using the languages and frameworks that you are familiar with.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%72%_" id="73" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/?view=vs-2017#pivot=languages" rel="noopener" target="_blank" aria-label="Learn more about F#"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/?view=vs-2017#pivot=languages" rel="noopener" target="_blank" aria-label="Learn more about F#"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%73%_" id="74" xml:space="preserve">
+            <source>Download</source>
+            <target state="new">Download</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%74%_" id="75" xml:space="preserve">
+            <source>Download Visual Studio</source>
+            <target state="new">Download Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%75%_" id="76" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Visual Studio<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Visual Studio<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
