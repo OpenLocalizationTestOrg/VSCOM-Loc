@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="41150-919df62f9d71e4df604247e0e52702ec" source-language="en" target-language="pl" parent-post-id="129451" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/team-foundation-server-office-integration-2019-rc/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x409</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x409</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-url" id="3" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x804</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x804</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-language" id="4" xml:space="preserve">
+            <source>%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%ae%80%e4%bd%93%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-format" id="5" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-url" id="6" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x404</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x404</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-language" id="7" xml:space="preserve">
+            <source>%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</source>
+            <target state="new">%e7%b9%81%e9%ab%94%e4%b8%ad%e6%96%87</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-format" id="8" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-3-url" id="9" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x40c</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x40c</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-3-language" id="10" xml:space="preserve">
+            <source>francais</source>
+            <target state="new">francais</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-3-format" id="11" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-4-url" id="12" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x407</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x407</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-4-language" id="13" xml:space="preserve">
+            <source>deutsch</source>
+            <target state="new">deutsch</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-4-format" id="14" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-5-url" id="15" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x411</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x411</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-5-language" id="16" xml:space="preserve">
+            <source>%e6%97%a5%e6%9c%ac%e8%aa%9e</source>
+            <target state="new">%e6%97%a5%e6%9c%ac%e8%aa%9e</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-5-format" id="17" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-6-url" id="18" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x412</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x412</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-6-language" id="19" xml:space="preserve">
+            <source>%ed%95%9c%ea%b5%ad%ec%96%b4</source>
+            <target state="new">%ed%95%9c%ea%b5%ad%ec%96%b4</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-6-format" id="20" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-7-url" id="21" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x410</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x410</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-7-language" id="22" xml:space="preserve">
+            <source>italiano</source>
+            <target state="new">italiano</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-7-format" id="23" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-8-url" id="24" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0c0a</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0c0a</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-8-language" id="25" xml:space="preserve">
+            <source>espanol</source>
+            <target state="new">espanol</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-8-format" id="26" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-9-url" id="27" xml:space="preserve">
+            <source>https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x419</source>
+            <target state="new">https://go.microsoft.com/fwlink/?linkid=2076587&amp;clcid=0x419</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-9-language" id="28" xml:space="preserve">
+            <source>p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</source>
+            <target state="new">p%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b9</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-9-format" id="29" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="30" xml:space="preserve">
+            <source>Team Foundation Server Office® Integration 2019 RC</source>
+            <target state="new">Team Foundation Server Office® Integration 2019 RC</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="31" xml:space="preserve">
+            <source>A free solution for non-developers to interact with Azure DevOps.</source>
+            <target state="new">A free solution for non-developers to interact with Azure DevOps.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="32" xml:space="preserve">
+            <source>Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes" rel="noopener" target="_blank"&gt;</bpt>Release notes<ept id="p1">&lt;/a&gt;</ept> for more information.</source>
+            <target state="new">Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes" rel="noopener" target="_blank"&gt;</bpt>Release notes<ept id="p1">&lt;/a&gt;</ept> for more information.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="33" xml:space="preserve">
+            <source>Team Foundation Server Office® Integration 2019 RC</source>
+            <target state="new">Team Foundation Server Office® Integration 2019 RC</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

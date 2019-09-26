@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47559-011cdc4f6c2f84a8bbdbac130263a93c" source-language="en" target-language="pl" parent-post-id="59088" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/visual-studio-code/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://code.visualstudio.com/download</source>
+            <target state="new">https://code.visualstudio.com/download</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>web-installer</source>
+            <target state="new">web-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Visual Studio Code</source>
+            <target state="new">Visual Studio Code</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>A powerful code editor optimized for building and debugging modern web and cloud applications.</source>
+            <target state="new">A powerful code editor optimized for building and debugging modern web and cloud applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="5" xml:space="preserve">
+            <source>Visual Studio Code</source>
+            <target state="new">Visual Studio Code</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

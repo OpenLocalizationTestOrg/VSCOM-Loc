@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="43221-f8ca27ad6a15f51c05d6196ee72e1723" source-language="en" target-language="pl" parent-post-id="123525" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/what-are-microservices/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfIF8lMyVfDQoNCl8lNCVfIF8lNSVfwqAgXyU2JV8gXyU3JV8NCg0KXyU4JV8gXyU5JV8gXyUxMCVfwqAgXyUxMSVfDQoNCl8lMTIlXyBfJTEzJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>What are Microservices?</source>
+            <target state="new">What are Microservices?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h1&gt;</bpt>What are Microservices?<ept id="p1">&lt;/h1&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h1&gt;</bpt>What are Microservices?<ept id="p1">&lt;/h1&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source><ph id="ph1">&lt;img class="alignnone wp-image-54855 size-full" src="https://visualstudio.microsoft.com/wp-content/uploads/2016/10/Microservices_600x300-1.png" alt="Monoliths versus microservices" width="600" height="300"&gt;&lt;/img&gt;</ph>
+
+<bpt id="p1">&lt;em&gt;</bpt>Microservices<ept id="p1">&lt;/em&gt;</ept> describes the architectural pattern of composing a distributed application from separately deployable services that perform specific business functions and communicate over web interfaces.</source>
+            <target state="new"><ph id="ph1">&lt;img class="alignnone wp-image-54855 size-full" src="https://visualstudio.microsoft.com/wp-content/uploads/2016/10/Microservices_600x300-1.png" alt="Monoliths versus microservices" width="600" height="300"&gt;&lt;/img&gt;</ph>
+
+<bpt id="p1">&lt;em&gt;</bpt>Microservices<ept id="p1">&lt;/em&gt;</ept> describes the architectural pattern of composing a distributed application from separately deployable services that perform specific business functions and communicate over web interfaces.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>DevOps teams encapsulate individual pieces of functionality in microservices and build larger systems by composing the microservices like building blocks.</source>
+            <target state="new">DevOps teams encapsulate individual pieces of functionality in microservices and build larger systems by composing the microservices like building blocks.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Microservices apply an example of the open/closed principle: they are open for extension (using  the interfaces they expose), and closed for modification (in that each is implemented and versioned independently).</source>
+            <target state="new">Microservices apply an example of the open/closed principle: they are open for extension (using  the interfaces they expose), and closed for modification (in that each is implemented and versioned independently).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>Microservices provide many benefits over monolithic architectures.</source>
+            <target state="new">Microservices provide many benefits over monolithic architectures.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>They can remove single points of failure (SPOFs) by ensuring issues in one service do not crash or impact other parts of an application.</source>
+            <target state="new">They can remove single points of failure (SPOFs) by ensuring issues in one service do not crash or impact other parts of an application.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Individual microservices can be scaled out independently to provide additional availability and capacity.</source>
+            <target state="new">Individual microservices can be scaled out independently to provide additional availability and capacity.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>DevOps teams can extend functionality by adding new microservices without unnecesarily  affecting other parts of the application.</source>
+            <target state="new">DevOps teams can extend functionality by adding new microservices without unnecesarily  affecting other parts of the application.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>Using microservices can increase team velocity.</source>
+            <target state="new">Using microservices can increase team velocity.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>DevOps practices, such as Continuous Integration and Continuous Delivery, are used to drive microservice deployments.</source>
+            <target state="new">DevOps practices, such as Continuous Integration and Continuous Delivery, are used to drive microservice deployments.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>Microservices nicely compliment cloud-based application architectures by allowing software development teams to take advantage of several patterns such as event-driven programming and autoscale scenarios.</source>
+            <target state="new">Microservices nicely compliment cloud-based application architectures by allowing software development teams to take advantage of several patterns such as event-driven programming and autoscale scenarios.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>The microservice components expose APIs (application programming interfaces), typically over REST protocols for communicating with other services.</source>
+            <target state="new">The microservice components expose APIs (application programming interfaces), typically over REST protocols for communicating with other services.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>An emerging pattern is to use container clusters to implement microservices.</source>
+            <target state="new">An emerging pattern is to use container clusters to implement microservices.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source>Containers allow for the isolation, packaging, and deployment of microservices, and orchestration scales out a group of containers into an application.</source>
+            <target state="new">Containers allow for the isolation, packaging, and deployment of microservices, and orchestration scales out a group of containers into an application.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

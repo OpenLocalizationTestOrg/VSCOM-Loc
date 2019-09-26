@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="41189-2f5c6af75437ea0e048884c4294581cd" source-language="en" target-language="pl" parent-post-id="129613" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/agents-for-visual-studio-2019/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=TestAgent&amp;rel=16</source>
+            <target state="new">https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=TestAgent&amp;rel=16</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>test_agent</source>
+            <target state="new">test_agent</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-url" id="3" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=TestController&amp;rel=16</source>
+            <target state="new">https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=TestController&amp;rel=16</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-language" id="4" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-format" id="5" xml:space="preserve">
+            <source>test_controller</source>
+            <target state="new">test_controller</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="6" xml:space="preserve">
+            <source>Agents for Visual Studio 2019 RC</source>
+            <target state="new">Agents for Visual Studio 2019 RC</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="7" xml:space="preserve">
+            <source>Agents for Visual Studio 2019 RC can be used for load, functional, and automated testing.</source>
+            <target state="new">Agents for Visual Studio 2019 RC can be used for load, functional, and automated testing.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="8" xml:space="preserve">
+            <source>Agents for Visual Studio 2019</source>
+            <target state="new">Agents for Visual Studio 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="t_39316" id="9" xml:space="preserve">
+            <source>Visual Studio 2019 RC</source>
+            <target state="new">Visual Studio 2019 RC</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

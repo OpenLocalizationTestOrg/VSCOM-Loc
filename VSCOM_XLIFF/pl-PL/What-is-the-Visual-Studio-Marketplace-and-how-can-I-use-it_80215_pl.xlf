@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47585-858209d9ef2e0e300b4eb2bc2f42cd42" source-language="en" target-language="pl" parent-post-id="80215" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/visual-studio-marketplace-can-use/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXw0KPC91bD4NCl8lMyVfDQpfJTQlXyBfJTUlXw0KDQpfJTYlXyBfJTclXw0KDQpfJTglXw0KDQrCoAo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>What is the Visual Studio Marketplace and how can I use it?</source>
+            <target state="new">What is the Visual Studio Marketplace and how can I use it?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>The Visual Studio Marketplace provides support for the following:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Discover and install extensions for Visual Studio, Visual Studio Team Services, Team Foundation Server (TFS), and Visual Studio Code<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">The Visual Studio Marketplace provides support for the following:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Discover and install extensions for Visual Studio, Visual Studio Team Services, Team Foundation Server (TFS), and Visual Studio Code<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Purchase subscriptions for Visual Studio, HockeyApp, Xamarin University<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Purchase subscriptions for Visual Studio, HockeyApp, Xamarin University<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Purchase pay-for-usage extensions, such as Test Manager and Package Management (these extensions are assigned to specific users).<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Purchase pay-for-usage extensions, such as Test Manager and Package Management (these extensions are assigned to specific users).<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 id="marketplace-extensions"&gt;</bpt>Marketplace extensions<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 id="marketplace-extensions"&gt;</bpt>Marketplace extensions<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>An extension is an installable unit that contributes new capabilities into Visual Studio, Visual Studio Team Services, Team Foundation Server, or Visual Studio Code.</source>
+            <target state="new">An extension is an installable unit that contributes new capabilities into Visual Studio, Visual Studio Team Services, Team Foundation Server, or Visual Studio Code.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>You can find extensions from within these product or from the <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/"&gt;</bpt>Visual Studio Marketplace<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">You can find extensions from within these product or from the <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/"&gt;</bpt>Visual Studio Marketplace<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>You can install them with a few clicks.</source>
+            <target state="new">You can install them with a few clicks.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>You must have administrative permissions to upload or install extensions.</source>
+            <target state="new">You must have administrative permissions to upload or install extensions.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/marketplace/"&gt;</bpt>Get or Build extensions<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/marketplace/"&gt;</bpt>Get or Build extensions<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

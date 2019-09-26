@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="38703-fb42fdee8a2c01eb8de9a601d8cdec4d" source-language="en" target-language="pl" parent-post-id="80207" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/can-find-iso-images/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQo8dWw+DQogCV8lMiVfDQogCV8lMyVfDQogCV8lNCVfDQogCV8lNSVfDQo8L3VsPg0KXyU2JV8NCjx1bD4NCiAJXyU3JV8gXyU4JV8gXyU5JV8NCjwvdWw+Cg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Download and Installation on where to find ISO Images.</source>
+            <target state="new">Visual Studio 2015 Download and Installation on where to find ISO Images.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Where can I find ISO Images?</source>
+            <target state="new">Where can I find ISO Images?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Solution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Solution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3&gt;</bpt>You can find all downloads including ISO images on the Visual Studio Download page.<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3&gt;</bpt>You can find all downloads including ISO images on the Visual Studio Download page.<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;li&gt;</bpt>Browse to <bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/older-downloads/" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Visual Studio Downloads<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;li&gt;</bpt>Browse to <bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/older-downloads/" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Visual Studio Downloads<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;li&gt;</bpt>Access downloads through your subscription<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;li&gt;</bpt>Access downloads through your subscription<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source><bpt id="p1">&lt;li&gt;</bpt>Click on Downloads<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;li&gt;</bpt>Click on Downloads<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;li&gt;</bpt>Find the edition of Visual Studio you are looking for and choose the ISO version<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;li&gt;</bpt>Find the edition of Visual Studio you are looking for and choose the ISO version<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3&gt;</bpt>Accessing ISO images via Virtual Drives<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3&gt;</bpt>Accessing ISO images via Virtual Drives<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;li&gt;</bpt>Windows 8 and later versions of Windows natively support ISO files: when you open an ISO file in Windows 8 or later, Windows automatically assigns the file a drive letter and opens it as a virtual drive in Windows Explorer.</source>
+            <target state="new"><bpt id="p1">&lt;li&gt;</bpt>Windows 8 and later versions of Windows natively support ISO files: when you open an ISO file in Windows 8 or later, Windows automatically assigns the file a drive letter and opens it as a virtual drive in Windows Explorer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source>For Windows 7 and earlier versions of Windows, additional software is required to mount ISOs virtually.</source>
+            <target state="new">For Windows 7 and earlier versions of Windows, additional software is required to mount ISOs virtually.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source>The tool <bpt id="p1">&lt;a href="http://www.microsoft.com/en-us/download/details.aspx?id=38780"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Microsoft Virtual CD-ROM Control Panel<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> offers such capability.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">The tool <bpt id="p1">&lt;a href="http://www.microsoft.com/en-us/download/details.aspx?id=38780"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Microsoft Virtual CD-ROM Control Panel<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> offers such capability.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
