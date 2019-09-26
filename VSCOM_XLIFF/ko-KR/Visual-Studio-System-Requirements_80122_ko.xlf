@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54050-60211b9017606cef6ea79827da8f19b6" source-language="en" target-language="ko" parent-post-id="80122" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/visual-studio-system-requirements/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCg0KXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Visual Studio System Requirements</source>
+            <target state="new">Visual Studio System Requirements</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>The minimum system requirements for the Visual Studio 2019 family of products are available at <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2019 System Requirements<ept id="p1">&lt;/a&gt;</ept>, and the platform compatibility information at <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/compatibility"&gt;</bpt>Visual Studio 2019 Platform Targeting and Compatibility<ept id="p2">&lt;/a&gt;</ept>.</source>
+            <target state="new">The minimum system requirements for the Visual Studio 2019 family of products are available at <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2019 System Requirements<ept id="p1">&lt;/a&gt;</ept>, and the platform compatibility information at <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/compatibility"&gt;</bpt>Visual Studio 2019 Platform Targeting and Compatibility<ept id="p2">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>The minimum system requirements for the Visual Studio 2017 family of products is available at <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-system-requirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2017 System Requirements<ept id="p1">&lt;/a&gt;</ept>, and platform compatibility information at <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-compatibility-vs"&gt;</bpt>Visual Studio 2017 Platform Targeting and Compatibility<ept id="p2">&lt;/a&gt;</ept>.</source>
+            <target state="new">The minimum system requirements for the Visual Studio 2017 family of products is available at <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-system-requirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio 2017 System Requirements<ept id="p1">&lt;/a&gt;</ept>, and platform compatibility information at <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2017-compatibility-vs"&gt;</bpt>Visual Studio 2017 Platform Targeting and Compatibility<ept id="p2">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47415-31cd3705eb6d181c497efe77bbebfa4f" source-language="en" target-language="ko" parent-post-id="80226" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/can-move-clone-team-foundation-server-installation/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8gXyUzJV8NCg0KXyU0JV8NCg0KXyU1JV8gXyU2JV8NCg0KXyU3JV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>How can I move or clone my Team Foundation Server installation?</source>
+            <target state="new">How can I move or clone my Team Foundation Server installation?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>You can move or clone your deployment of Team Foundation Server (TFS) software.</source>
+            <target state="new">You can move or clone your deployment of Team Foundation Server (TFS) software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>You move TFS from one machine to another by restoring it to new hardware (called a restoration-based move).</source>
+            <target state="new">You move TFS from one machine to another by restoring it to new hardware (called a restoration-based move).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>For example, you might want to move TFS to a server with greater capacity or improved processing speed.</source>
+            <target state="new">For example, you might want to move TFS to a server with greater capacity or improved processing speed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>When you move to a new server you do not lose any of your project history.</source>
+            <target state="new">When you move to a new server you do not lose any of your project history.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>To clone your TFS deployment, you perform the same steps as a move plus a few additional ones.</source>
+            <target state="new">To clone your TFS deployment, you perform the same steps as a move plus a few additional ones.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>You perform a move when you plan to discontinue use of the original hardware and TFS deployment.</source>
+            <target state="new">You perform a move when you plan to discontinue use of the original hardware and TFS deployment.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>You perform a clone when you intend to continue using the original TFS instance.</source>
+            <target state="new">You perform a clone when you intend to continue using the original TFS instance.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>Please see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/admin/move-clone-hardware" target="_blank" rel="noopener"&gt;</bpt>Move or Clone Team Foundation Server from one hardware to another<ept id="p1">&lt;/a&gt;</ept> for details</source>
+            <target state="new">Please see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/admin/move-clone-hardware" target="_blank" rel="noopener"&gt;</bpt>Move or Clone Team Foundation Server from one hardware to another<ept id="p1">&lt;/a&gt;</ept> for details</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

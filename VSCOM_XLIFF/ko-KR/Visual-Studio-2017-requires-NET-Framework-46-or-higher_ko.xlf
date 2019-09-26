@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46415-d29dbd4510454096adc185df24629260" source-language="en" target-language="ko" parent-post-id="80129" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/visual-studio-requires-net-framework-4-6-higher/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXw0KPGgzPjEuIF8lMyVfDQpfJTQlXw0KPGgzPjIuIF8lNSVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2017 common installation issues if Visual Studio requires .NET Framework 4.6 or higher.</source>
+            <target state="new">Visual Studio 2017 common installation issues if Visual Studio requires .NET Framework 4.6 or higher.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Visual Studio 2017 requires .NET Framework 4.6 or higher</source>
+            <target state="new">Visual Studio 2017 requires .NET Framework 4.6 or higher</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>When attempting to install Visual Studio 2017, you receive the message: "Visual Studio requires .NET Framework 4.6 or higher".</source>
+            <target state="new">When attempting to install Visual Studio 2017, you receive the message: "Visual Studio requires .NET Framework 4.6 or higher".</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Download .NET Framework 4.6 or higher.<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Download .NET Framework 4.6 or higher.<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>You can download and install .NET 4.6 from <bpt id="p1">&lt;a href="https://www.microsoft.com/en-us/download/details.aspx?id=48137" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free.</source>
+            <target state="new">You can download and install .NET 4.6 from <bpt id="p1">&lt;a href="https://www.microsoft.com/en-us/download/details.aspx?id=48137" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source>Launch the Visual Studio installer again.<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Launch the Visual Studio installer again.<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

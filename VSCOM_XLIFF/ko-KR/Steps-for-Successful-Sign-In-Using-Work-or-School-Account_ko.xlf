@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46532-cb9ef042563a07c0a863a6172a129ebf" source-language="en" target-language="ko" parent-post-id="80254" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/subscriptions/support/steps-successful-sign-using-work-school-account/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCg0KwqANCg0KXyUyJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Instructions for successful sign in experience for subscribers who have not associated their Work or School Account with their Microsoft Account.</source>
+            <target state="new">Instructions for successful sign in experience for subscribers who have not associated their Work or School Account with their Microsoft Account.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Steps for Successful Sign In: Using "Work or School" Account</source>
+            <target state="new">Steps for Successful Sign In: Using "Work or School" Account</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Are you a company-based subscriber and you have NOT associated your Work or School account with your “personal” Microsoft Account (MSA)?</source>
+            <target state="new">Are you a company-based subscriber and you have NOT associated your Work or School account with your “personal” Microsoft Account (MSA)?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Then you need to use your Work or School account to log in and consume your subscription benefits available at <bpt id="p1">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Then you need to use your Work or School account to log in and consume your subscription benefits available at <bpt id="p1">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;span lang="EN"&gt;</bpt>Refer to the <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/subscriptions/signing-in#signing-in-with-your-work-or-school-account" target="_blank" rel="noopener"&gt;</bpt>Sign In Using &quot;Work or School&quot; Account<ept id="p2">&lt;/a&gt;</ept> article for additional details on successful sign in and benefit validation.<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span lang="EN"&gt;</bpt>Refer to the <bpt id="p2">&lt;a href="https://docs.microsoft.com/visualstudio/subscriptions/signing-in#signing-in-with-your-work-or-school-account" target="_blank" rel="noopener"&gt;</bpt>Sign In Using &quot;Work or School&quot; Account<ept id="p2">&lt;/a&gt;</ept> article for additional details on successful sign in and benefit validation.<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

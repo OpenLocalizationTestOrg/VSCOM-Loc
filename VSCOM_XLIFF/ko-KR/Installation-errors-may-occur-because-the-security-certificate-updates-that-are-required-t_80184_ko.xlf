@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="50795-aa7fc0d082de120e80b63c01fc14ce4a" source-language="en" target-language="ko" parent-post-id="80184" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/installation-errors-may-occur-security-certificate-updates-required-install-visual-studio-components-cannot-applied-computer/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXyBfJTMlXyBfJTQlXw0KXyU1JV8gXyU2JV8gXyU3JV8NCjwvdWw+DQpfJTglXyBfJTklXyBfJTEwJV8gXyUxMSVfIF8lMTIlX8KgPHNwYW4gY2xhc3M9InRleHQtYmFzZSI+DQo8L3NwYW4+CjwvbGk+DQo8L3VsPg0KXyUxMyVfDQpfJTE0JV8gXyUxNSVfDQo8L3VsPg0KXyUxNiVfIF8lMTclXyBfJTE4JV8gXyUxOSVfDQoNCl8lMjAlXyBfJTIxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>"Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer."</source>
+            <target state="new">"Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class=""&gt;</bpt>You may receive the following warning message: <ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class=""&gt;</bpt>You may receive the following warning message: <ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;blockquote&gt;</bpt>Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer.<ept id="p1">&lt;/blockquote&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;blockquote&gt;</bpt>Installation errors may occur because the security certificate updates that are required to install some Visual Studio components cannot be applied to this computer.<ept id="p1">&lt;/blockquote&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>If you then click <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Continue<ept id="p1">&lt;/span&gt;</ept> to proceed with the Visual Studio installation, you may encounter the "Unable to locate package source errors" message about errors that are not resolved through the <bpt id="p2">&lt;span class="uiterm"&gt;</bpt>Download packages from the internet<ept id="p2">&lt;/span&gt;</ept> option.</source>
+            <target state="new">If you then click <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Continue<ept id="p1">&lt;/span&gt;</ept> to proceed with the Visual Studio installation, you may encounter the "Unable to locate package source errors" message about errors that are not resolved through the <bpt id="p2">&lt;span class="uiterm"&gt;</bpt>Download packages from the internet<ept id="p2">&lt;/span&gt;</ept> option.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>When the Visual Studio installation is complete, you receive the following message:
+<bpt id="p1">&lt;blockquote&gt;</bpt>Setup Completed.</source>
+            <target state="new">When the Visual Studio installation is complete, you receive the following message:
+<bpt id="p1">&lt;blockquote&gt;</bpt>Setup Completed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>However, not all features installed correctly.<ept id="p">&lt;/blockquote&gt;</ept></source>
+            <target state="new">However, not all features installed correctly.<ept id="p">&lt;/blockquote&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>You are also shown a list of multiple features that could not be installed because the system could find the specified files.</source>
+            <target state="new">You are also shown a list of multiple features that could not be installed because the system could find the specified files.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>To resolve the issue, try the following methods:
+
+Method 1:
+<bpt id="p1">&lt;ul class="sbody-free_list"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Make sure that you are on a computer that is connected to the Internet.</source>
+            <target state="new">To resolve the issue, try the following methods:
+
+Method 1:
+<bpt id="p1">&lt;ul class="sbody-free_list"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Make sure that you are on a computer that is connected to the Internet.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>In some cases, Visual Studio can programmatically retrieve and apply the required certificate updates so that the affected features can be successfully installed.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">In some cases, Visual Studio can programmatically retrieve and apply the required certificate updates so that the affected features can be successfully installed.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>Method 2:
+<bpt id="p1">&lt;ul class="sbody-free_list"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Check the Group Policy setting on your computer that controls automatic certificate updates.</source>
+            <target state="new">Method 2:
+<bpt id="p1">&lt;ul class="sbody-free_list"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Check the Group Policy setting on your computer that controls automatic certificate updates.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>To check the setting, open the Group Policy Editor (gpedit.msc).</source>
+            <target state="new">To check the setting, open the Group Policy Editor (gpedit.msc).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>From the Local Group Policy Editor, under <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Computer Configuration<ept id="p1">&lt;/span&gt;</ept>, expand <bpt id="p2">&lt;span class="uiterm"&gt;</bpt>Administrative Templates<ept id="p2">&lt;/span&gt;</ept>, expand <bpt id="p3">&lt;span class="uiterm"&gt;</bpt>Internet Communication Management<ept id="p3">&lt;/span&gt;</ept>, and then click <bpt id="p4">&lt;span class="uiterm"&gt;</bpt>Internet Communication settings<ept id="p4">&lt;/span&gt;</ept>.</source>
+            <target state="new">From the Local Group Policy Editor, under <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Computer Configuration<ept id="p1">&lt;/span&gt;</ept>, expand <bpt id="p2">&lt;span class="uiterm"&gt;</bpt>Administrative Templates<ept id="p2">&lt;/span&gt;</ept>, expand <bpt id="p3">&lt;span class="uiterm"&gt;</bpt>Internet Communication Management<ept id="p3">&lt;/span&gt;</ept>, and then click <bpt id="p4">&lt;span class="uiterm"&gt;</bpt>Internet Communication settings<ept id="p4">&lt;/span&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>The setting that controls automatic certificate updates is <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Turn off Automatic Root Certificates Update<ept id="p1">&lt;/span&gt;</ept>.</source>
+            <target state="new">The setting that controls automatic certificate updates is <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Turn off Automatic Root Certificates Update<ept id="p1">&lt;/span&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>For Visual Studio to automatically retrieve and apply the required certificates, this option should be set to <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Disabled<ept id="p1">&lt;/span&gt;</ept>.</source>
+            <target state="new">For Visual Studio to automatically retrieve and apply the required certificates, this option should be set to <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Disabled<ept id="p1">&lt;/span&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Method 3:<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Method 3:<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source><ph id="ph1">&lt;div&gt;&lt;/div&gt;</ph>
+<bpt id="p1">&lt;ul class="sbody-free_list"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>If Methods 1 and 2 do not resolve the issue, you can also try to manually install the required certificate updates.</source>
+            <target state="new"><ph id="ph1">&lt;div&gt;&lt;/div&gt;</ph>
+<bpt id="p1">&lt;ul class="sbody-free_list"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>If Methods 1 and 2 do not resolve the issue, you can also try to manually install the required certificate updates.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source>For information about how to obtain Windows update root certificates, see <bpt id="p1">&lt;a id="kb-link-24" href="http://support.microsoft.com/kb/931125" target="_self"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>How to get a Root Certificate update for Windows<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">For information about how to obtain Windows update root certificates, see <bpt id="p1">&lt;a id="kb-link-24" href="http://support.microsoft.com/kb/931125" target="_self"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>How to get a Root Certificate update for Windows<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>If you already have Visual Studio installed, you can try to repair Visual Studio after you have tried one or more of these methods.</source>
+            <target state="new">If you already have Visual Studio installed, you can try to repair Visual Studio after you have tried one or more of these methods.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>This process tries to successfully install the features that did not install on the previous attempt.</source>
+            <target state="new">This process tries to successfully install the features that did not install on the previous attempt.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source>To repair Visual Studio, open Programs and Features (appwiz.cpl).</source>
+            <target state="new">To repair Visual Studio, open Programs and Features (appwiz.cpl).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source>In the Programs and Features window, right-click <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Visual Studio<ept id="p1">&lt;/span&gt;</ept>, select <bpt id="p2">&lt;span class="uiterm"&gt;</bpt>Change<ept id="p2">&lt;/span&gt;</ept>, and then click <bpt id="p3">&lt;span class="uiterm"&gt;</bpt>Repair<ept id="p3">&lt;/span&gt;</ept> to start the repair process.</source>
+            <target state="new">In the Programs and Features window, right-click <bpt id="p1">&lt;span class="uiterm"&gt;</bpt>Visual Studio<ept id="p1">&lt;/span&gt;</ept>, select <bpt id="p2">&lt;span class="uiterm"&gt;</bpt>Change<ept id="p2">&lt;/span&gt;</ept>, and then click <bpt id="p3">&lt;span class="uiterm"&gt;</bpt>Repair<ept id="p3">&lt;/span&gt;</ept> to start the repair process.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="text-base"&gt;</bpt>Note<ept id="p1">&lt;/span&gt;</ept> This error applies only to Windows 7 Service Pack 1 (SP1).</source>
+            <target state="new"><bpt id="p1">&lt;span class="text-base"&gt;</bpt>Note<ept id="p1">&lt;/span&gt;</ept> This error applies only to Windows 7 Service Pack 1 (SP1).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source>By default, Windows 8 and later versions of Windows have these certificate updates installed.</source>
+            <target state="new">By default, Windows 8 and later versions of Windows have these certificate updates installed.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

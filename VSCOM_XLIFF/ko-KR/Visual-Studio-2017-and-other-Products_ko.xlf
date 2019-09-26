@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="44491-201153d7c0bfff74a0d5cd49fea165a0" source-language="en" target-language="ko" parent-post-id="132017" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/visual-studio-2017-and-other-products/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV9fJTElX18lMiVfXyUzJV9fJTQlX18lNSVfXyU2JV9fJTclX18lOCVfXyU5JV9fJTEwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://my.visualstudio.com/Downloads?q=visual%20studio%202017&amp;wt.mc_id=o~msft~vscom~older-downloads</source>
+            <target state="new">https://my.visualstudio.com/Downloads?q=visual%20studio%202017&amp;wt.mc_id=o~msft~vscom~older-downloads</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>all-languges</source>
+            <target state="new">all-languges</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>web-installer</source>
+            <target state="new">web-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Visual Studio 2017 and other Products</source>
+            <target state="new">Visual Studio 2017 and other Products</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>To download any product from the following list, click the download button and log in with your Visual Studio Subscription account when prompted.</source>
+            <target state="new">To download any product from the following list, click the download button and log in with your Visual Studio Subscription account when prompted.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source> If you don't have a Visual Studio Subscription, you can create one for free by clicking on "Create a new Microsoft account" on the login page.
+
+</source>
+            <target state="new"> If you don't have a Visual Studio Subscription, you can create one for free by clicking on "Create a new Microsoft account" on the login page.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="6" xml:space="preserve">
+            <source>Visual Studio Community 2017; Visual Studio Professional 2017; Visual Studio Enterprise 2017;
+
+</source>
+            <target state="new">Visual Studio Community 2017; Visual Studio Professional 2017; Visual Studio Enterprise 2017;
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="7" xml:space="preserve">
+            <source>Visual Studio 2017 for Mac
+
+</source>
+            <target state="new">Visual Studio 2017 for Mac
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="8" xml:space="preserve">
+            <source>Visual Studio Test Professional 2017
+
+</source>
+            <target state="new">Visual Studio Test Professional 2017
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="9" xml:space="preserve">
+            <source>Visual Studio Team Explorer 2017
+
+</source>
+            <target state="new">Visual Studio Team Explorer 2017
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="10" xml:space="preserve">
+            <source>Agents for Visual Studio 2017
+
+</source>
+            <target state="new">Agents for Visual Studio 2017
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="11" xml:space="preserve">
+            <source>Feedback Client for Visual Studio 2017
+
+</source>
+            <target state="new">Feedback Client for Visual Studio 2017
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="12" xml:space="preserve">
+            <source>IntelliTrace Standalone Collector for Visual Studio 2017
+
+</source>
+            <target state="new">IntelliTrace Standalone Collector for Visual Studio 2017
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="13" xml:space="preserve">
+            <source>Performance Tools for Visual Studio 2017
+
+</source>
+            <target state="new">Performance Tools for Visual Studio 2017
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="14" xml:space="preserve">
+            <source>Remote Tools for Visual Studio 2017</source>
+            <target state="new">Remote Tools for Visual Studio 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="15" xml:space="preserve">
+            <source>Visual Studio 2017 and other Products</source>
+            <target state="new">Visual Studio 2017 and other Products</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

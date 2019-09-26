@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47389-ba995eb73cf58cef24ca5883ef3d9618" source-language="en" target-language="ko" parent-post-id="80213" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/cant-connect-team-foundation-server/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCl8lMiVfIF8lMyVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I can't connect to Team Foundation Server</source>
+            <target state="new">I can't connect to Team Foundation Server</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3&gt;</bpt>TF31002: Unable to connect to this Team Foundation Server {0}.</source>
+            <target state="new"><bpt id="p1">&lt;h3&gt;</bpt>TF31002: Unable to connect to this Team Foundation Server {0}.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Team Foundation Server URL: {1}<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Team Foundation Server URL: {1}<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>You might receive this error when you try to connect to Visual Studio Team Services or an on-premises Team Foundation Server (TFS) from Visual Studio.</source>
+            <target state="new">You might receive this error when you try to connect to Visual Studio Team Services or an on-premises Team Foundation Server (TFS) from Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>But don't worry, we have <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/reference/error/tf31002-unable-connect-tfs" target="_blank" rel="noopener"&gt;</bpt>detailed steps<ept id="p1">&lt;/a&gt;</ept> for troubleshooting this error.
+
+ </source>
+            <target state="new">But don't worry, we have <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/reference/error/tf31002-unable-connect-tfs" target="_blank" rel="noopener"&gt;</bpt>detailed steps<ept id="p1">&lt;/a&gt;</ept> for troubleshooting this error.
+
+ </target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

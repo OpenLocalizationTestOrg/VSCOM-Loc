@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="39261-f2ce16c5f82d240e1ee88155fcbc5937" source-language="en" target-language="ko" parent-post-id="59379" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/visual-studio-mac/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV9fJTElXw==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/thank-downloading-visual-studio-mac/?sku=vsmac</source>
+            <target state="new">https://visualstudio.microsoft.com/thank-downloading-visual-studio-mac/?sku=vsmac</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>dmg</source>
+            <target state="new">dmg</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Visual Studio for Mac Preview</source>
+            <target state="new">Visual Studio for Mac Preview</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>Visual Studio for Mac Preview, a mobile-first, cloud-first IDE, built from the ground up for Mac-based developers.</source>
+            <target state="new">Visual Studio for Mac Preview, a mobile-first, cloud-first IDE, built from the ground up for Mac-based developers.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source> This release is still a work-in-progress, so please send us your feedback using the “Report a Problem” and “Make a Suggestion” options in the IDE.</source>
+            <target state="new"> This release is still a work-in-progress, so please send us your feedback using the “Report a Problem” and “Make a Suggestion” options in the IDE.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="6" xml:space="preserve">
+            <source>Visual Studio for Mac Preview</source>
+            <target state="new">Visual Studio for Mac Preview</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

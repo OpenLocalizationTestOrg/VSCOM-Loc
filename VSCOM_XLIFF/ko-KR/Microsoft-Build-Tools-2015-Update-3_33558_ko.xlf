@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47480-67b4ac8a39e1b08305cbac091afba2a3" source-language="en" target-language="ko" parent-post-id="33558" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/microsoft-build-tools-2015/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV9fJTElXw==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>http://download.microsoft.com/download/5/F/7/5F7ACAEB-8363-451F-9425-68A90F98B238/visualcppbuildtools_full.exe</source>
+            <target state="new">http://download.microsoft.com/download/5/F/7/5F7ACAEB-8363-451F-9425-68A90F98B238/visualcppbuildtools_full.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>english</source>
+            <target state="new">english</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Microsoft Build Tools 2015 Update 3</source>
+            <target state="new">Microsoft Build Tools 2015 Update 3</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>Essential tools for building managed applications.</source>
+            <target state="new">Essential tools for building managed applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source> Previously included in the .NET Framework, they are now available as this separate download.</source>
+            <target state="new"> Previously included in the .NET Framework, they are now available as this separate download.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="6" xml:space="preserve">
+            <source>Microsoft Build Tools 2015 Update 3</source>
+            <target state="new">Microsoft Build Tools 2015 Update 3</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

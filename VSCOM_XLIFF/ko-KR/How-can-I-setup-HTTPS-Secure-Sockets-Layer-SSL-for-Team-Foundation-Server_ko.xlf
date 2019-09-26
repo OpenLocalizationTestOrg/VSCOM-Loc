@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47402-1698567a3044a16980f1d08ab617cb09" source-language="en" target-language="ko" parent-post-id="80229" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/can-setup-https-secure-sockets-layer-ssl-team-foundation-server/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8NCg0KXyUzJV8gXyU0JV8NCg0KXyU1JV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>How can I setup HTTPS Secure Sockets Layer (SSL) for Team Foundation Server</source>
+            <target state="new">How can I setup HTTPS Secure Sockets Layer (SSL) for Team Foundation Server</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>You can strengthen the security of your deployment of Visual Studio Team Foundation Server (TFS) by configuring it to use Hypertext Transfer Protocol Secure (HTTPS) with Secure Sockets Layer (SSL).</source>
+            <target state="new">You can strengthen the security of your deployment of Visual Studio Team Foundation Server (TFS) by configuring it to use Hypertext Transfer Protocol Secure (HTTPS) with Secure Sockets Layer (SSL).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>You can choose either to require this protocol, which maximizes the security of your deployment, or you can choose to support HTTPS with SSL in addition to the default protocol, HTTP.</source>
+            <target state="new">You can choose either to require this protocol, which maximizes the security of your deployment, or you can choose to support HTTPS with SSL in addition to the default protocol, HTTP.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>If you use Release Management for Visual Studio 2013, you can also configure that to use HTTPS with SSL, although you cannot configure it to support both HTTP and HTTPS with SSL.</source>
+            <target state="new">If you use Release Management for Visual Studio 2013, you can also configure that to use HTTPS with SSL, although you cannot configure it to support both HTTP and HTTPS with SSL.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Before you choose a configuration, review the advantages and disadvantages described here.</source>
+            <target state="new">Before you choose a configuration, review the advantages and disadvantages described here.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>After you identify the configuration that best meets the security needs of your organization, follow the steps in this topic to configure your deployment.</source>
+            <target state="new">After you identify the configuration that best meets the security needs of your organization, follow the steps in this topic to configure your deployment.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>For more information, please see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/admin/setup-secure-sockets-layer?view=vsts" target="_blank" rel="noopener"&gt;</bpt>Setting up HTTPS with Secure Sockets Layer (SSL) for Team Foundation Server<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">For more information, please see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/admin/setup-secure-sockets-layer?view=vsts" target="_blank" rel="noopener"&gt;</bpt>Setting up HTTPS with Secure Sockets Layer (SSL) for Team Foundation Server<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
