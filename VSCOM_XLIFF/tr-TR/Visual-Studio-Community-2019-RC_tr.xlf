@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="41257-91840d3f02467fa66a11d0b1f667ab8b" source-language="en" target-language="tr" parent-post-id="129610" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/visual-studio-community-2019-rc/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&amp;rel=16</source>
+            <target state="new">https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&amp;rel=16</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>web-installer</source>
+            <target state="new">web-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Visual Studio Community 2019 RC</source>
+            <target state="new">Visual Studio Community 2019 RC</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>A free, fully featured, and extensible solution for individual developers to create applications for Android, iOS, Windows, and the web.</source>
+            <target state="new">A free, fully featured, and extensible solution for individual developers to create applications for Android, iOS, Windows, and the web.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source>Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/release-notes" rel="noopener" target="_blank"&gt;</bpt>Release notes<ept id="p1">&lt;/a&gt;</ept> for more information.</source>
+            <target state="new">Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/release-notes" rel="noopener" target="_blank"&gt;</bpt>Release notes<ept id="p1">&lt;/a&gt;</ept> for more information.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="6" xml:space="preserve">
+            <source>Visual Studio Community 2019 RC</source>
+            <target state="new">Visual Studio Community 2019 RC</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="t_39316" id="7" xml:space="preserve">
+            <source>Visual Studio 2019 RC</source>
+            <target state="new">Visual Studio 2019 RC</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

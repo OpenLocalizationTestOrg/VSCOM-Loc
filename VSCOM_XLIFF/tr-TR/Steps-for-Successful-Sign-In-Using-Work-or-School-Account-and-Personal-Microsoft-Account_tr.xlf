@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46224-488f85d1fe6745cbb3427b0915099026" source-language="en" target-language="tr" parent-post-id="80255" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/subscriptions/support/steps-successful-sign-using-work-school-account-personal-microsoft-account/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8NCg0KXyUzJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Instructions to successfully sign in with your personal account, access Visual Studio subscription details and consume benefits based on subscription type.</source>
+            <target state="new">Instructions to successfully sign in with your personal account, access Visual Studio subscription details and consume benefits based on subscription type.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Steps for Successful Sign In: Using "Work or School" Account and "Personal" Microsoft Account</source>
+            <target state="new">Steps for Successful Sign In: Using "Work or School" Account and "Personal" Microsoft Account</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Are you a company-based subscriber and you do not have an Azure Active Directory Account, although your organization has an Azure Active Directory?</source>
+            <target state="new">Are you a company-based subscriber and you do not have an Azure Active Directory Account, although your organization has an Azure Active Directory?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Then you might be required to use your “personal” account to sign in to <bpt id="p1">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Then you might be required to use your “personal” account to sign in to <bpt id="p1">&lt;a href="https://my.visualstudio.com/"&gt;</bpt>https://my.visualstudio.com<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>Refer to the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/4013945/sign-in-with-work-or-school-account-and-personal-microsoft-account"&gt;</bpt>Sign In with &quot;Work or School&quot; Account and &quot;Personal&quot; Microsoft Account<ept id="p1">&lt;/a&gt;</ept> article for additional details on successful sign in and benefit validation.</source>
+            <target state="new">Refer to the <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/4013945/sign-in-with-work-or-school-account-and-personal-microsoft-account"&gt;</bpt>Sign In with &quot;Work or School&quot; Account and &quot;Personal&quot; Microsoft Account<ept id="p1">&lt;/a&gt;</ept> article for additional details on successful sign in and benefit validation.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Refer to the <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/subscriptions/signing-in#signing-in-with-your-work-or-school-account" rel="noopener" target="_blank"&gt;</bpt>Signing in with your work or school account<ept id="p1">&lt;/a&gt;</ept> article for additional details on successful sign in and benefit validation.</source>
+            <target state="new">Refer to the <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/subscriptions/signing-in#signing-in-with-your-work-or-school-account" rel="noopener" target="_blank"&gt;</bpt>Signing in with your work or school account<ept id="p1">&lt;/a&gt;</ept> article for additional details on successful sign in and benefit validation.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

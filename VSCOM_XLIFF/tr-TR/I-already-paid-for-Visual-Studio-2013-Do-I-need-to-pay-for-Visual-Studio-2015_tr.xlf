@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46510-8a306a593dada41f5cedc642120cdd8a" source-language="en" target-language="tr" parent-post-id="80145" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/already-paid-visual-studio-2013-need-pay-visual-studio-2015/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8gXyUzJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Licensing and Purchase on if already paid for Visual Studio 2013 does user need to pay for Visual Studio 2015.</source>
+            <target state="new">Visual Studio 2015 Licensing and Purchase on if already paid for Visual Studio 2013 does user need to pay for Visual Studio 2015.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>I already paid for Visual Studio 2013. Do I need to pay for Visual Studio 2015?</source>
+            <target state="new">I already paid for Visual Studio 2013. Do I need to pay for Visual Studio 2015?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Yes, Visual Studio 2015 doesn’t install on top of Visual Studio 2013, but is installed alongside Visual Studio 2013.</source>
+            <target state="new">Yes, Visual Studio 2015 doesn’t install on top of Visual Studio 2013, but is installed alongside Visual Studio 2013.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>But you can try Visual Studio 2015 for free for 30 days, after which your license will expire.</source>
+            <target state="new">But you can try Visual Studio 2015 for free for 30 days, after which your license will expire.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>Also, you can use <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/community/"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Visual Studio 2015 Community<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept> for free.</source>
+            <target state="new">Also, you can use <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/community/"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Visual Studio 2015 Community<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept> for free.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Check out the <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/support/legal/mt171547"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>license terms for using Visual Studio Community<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Check out the <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/support/legal/mt171547"&gt;</bpt><bpt id="p2">&lt;span class="s2"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>license terms for using Visual Studio Community<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/span&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

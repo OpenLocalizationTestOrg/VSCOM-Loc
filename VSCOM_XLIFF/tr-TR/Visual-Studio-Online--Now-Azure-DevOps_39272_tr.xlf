@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54288-c10d1d06217734015aac217b936ca9c7" source-language="en" target-language="tr" parent-post-id="39272" version="9" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vso/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9InllcyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9ImF6dXJlLWRldm9wcy0taGVybyIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iMHB4IiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iMCIgcGFkZGluZ190b3A9IjAiIHBhZGRpbmdfcmlnaHQ9IjAiIHBhZGRpbmdfYm90dG9tPSIwIiBwYWRkaW5nX2xlZnQ9IjAiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIwIiBwYWRkaW5nX3JpZ2h0PSIwIiBwYWRkaW5nX2JvdHRvbT0iMCIgcGFkZGluZ19sZWZ0PSIwIiBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIwIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9zZXBhcmF0b3Igc3R5bGVfdHlwZT0ic2luZ2xlIHNvbGlkIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzZXBfY29sb3I9IiNjY2NjY2MiIHRvcF9tYXJnaW49Ii01cHgiIGJvdHRvbV9tYXJnaW49IiIgYm9yZGVyX3NpemU9IiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ieWVzIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ibm8iIGNsYXNzPSJhenVyZS1kZXZvcHMtLWhlcm8iIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IjBweCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iM181IiBsYXlvdXQ9IjNfNSIgc3BhY2luZz0ieWVzIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0iZG93biIgYW5pbWF0aW9uX3NwZWVkPSIwLjEiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fc2VwYXJhdG9yIHN0eWxlX3R5cGU9Im5vbmUiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSIxNSUiIGJvdHRvbV9tYXJnaW49IiIgYm9yZGVyX3NpemU9IiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNpemU9IjEiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9Im5vbmUiIHNlcF9jb2xvcj0iIl1fJTAlXwpbL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyUxJV8KWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl9zZXBhcmF0b3Igc3R5bGVfdHlwZT0ibm9uZSIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2VwX2NvbG9yPSIiIHRvcF9tYXJnaW49IjI1cHgiIGJvdHRvbV9tYXJnaW49IiIgYm9yZGVyX3NpemU9IiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVtmdXNpb25fYnV0dG9uIGxpbms9Imh0dHBzOi8vZ28ubWljcm9zb2Z0LmNvbS9md2xpbmsvP0xpbmtJZD0yMDE0ODgxJmNhbXBhaWduPXZzY29tfmF6dXJlfmRldm9wc352c29+bWFpbn5oZXJvJmNsY2lkPTB4NDA5IiB0ZXh0X3RyYW5zZm9ybT0iIiB0aXRsZT0iIiB0YXJnZXQ9Il9ibGFuayIgbGlua19hdHRyaWJ1dGVzPSIiIGFsaWdubWVudD0ibGVmdCIgbW9kYWw9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXZzdHMwMDEzLXBtZXQiIGlkPSIiIG9zX2Rvd25sb2Fkcz0ibm8iIGRvd25sb2FkX3dpbmRvd3NfdGV4dD0iIiBkb3dubG9hZF93aW5kb3dzX3VybD0iIiBkb3dubG9hZF9tYWNfdGV4dD0iIiBkb3dubG9hZF9tYWNfdXJsPSIiIGRvd25sb2FkX2xpbnV4X3RleHQ9IiIgZG93bmxvYWRfbGludXhfdXJsPSIiIGFyaWFfbGFiZWw9Il8lMiVfIiBjb2xvcj0iZGVmYXVsdCIgYnV0dG9uX2dyYWRpZW50X3RvcF9jb2xvcj0iIiBidXR0b25fZ3JhZGllbnRfYm90dG9tX2NvbG9yPSIiIGJ1dHRvbl9ncmFkaWVudF90b3BfY29sb3JfaG92ZXI9IiIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcl9ob3Zlcj0iIiBhY2NlbnRfY29sb3I9IiIgYWNjZW50X2hvdmVyX2NvbG9yPSIiIHR5cGU9ImZsYXQiIGJldmVsX2NvbG9yPSIiIGJvcmRlcl93aWR0aD0iIiBzaXplPSJzbWFsbCIgc3RyZXRjaD0ibm8iIHNoYXBlPSJzcXVhcmUiIGljb249IiIgZmFicmljX2ljb249IkNoZXZyb25SaWdodFNtYWxsIiBpY29uX3Bvc2l0aW9uPSJyaWdodCIgaWNvbl9kaXZpZGVyPSJubyIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIxLjAiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUzJV9bL2Z1c2lvbl9idXR0b25dW2Z1c2lvbl9zZXBhcmF0b3Igc3R5bGVfdHlwZT0ibm9uZSIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2VwX2NvbG9yPSIiIHRvcF9tYXJnaW49IjI1cHgiIGJvdHRvbV9tYXJnaW49IiIgYm9yZGVyX3NpemU9IiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVtmdXNpb25fdGV4dF1fJTQlXwpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdPHNwYW4gY2xhc3M9ImJvbGQiPl8lNSVfPC9zcGFuPgpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fc2VwYXJhdG9yIHN0eWxlX3R5cGU9Im5vbmUiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSI1MHB4IiBib3R0b21fbWFyZ2luPSIiIGJvcmRlcl9zaXplPSIiIGljb249IiIgaWNvbl9jaXJjbGU9IiIgaWNvbl9jaXJjbGVfY29sb3I9IiIgd2lkdGg9IiIgYWxpZ25tZW50PSJjZW50ZXIiL11bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjJfNSIgbGF5b3V0PSIyXzUiIHNwYWNpbmc9InllcyIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImRvd24iIGFuaW1hdGlvbl9zcGVlZD0iMC4xIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX2ltYWdlZnJhbWUgaW1hZ2VfaWQ9IjEwNDk3NyIgbWF4X3dpZHRoPSIiIHN0eWxlX3R5cGU9Im5vbmUiIHN0eWxlY29sb3I9IiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iMHB4IiBib3JkZXJjb2xvcj0iIiBib3JkZXJyYWRpdXM9IjAiIGFsaWduPSJjZW50ZXIiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9IiIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJkb3duIiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTYlX1svZnVzaW9uX2ltYWdlZnJhbWVdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9Ijg1cHgiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IjE1JSIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIxNSUiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9ImF6dXJlLWRldm9wcy0tc3VidGl0bGUgIiBpZD0iIiBzaXplPSIzIiBjb250ZW50X2FsaWduPSJjZW50ZXIiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTclXwpbL2Z1c2lvbl90aXRsZV1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9jb250ZW50X2JveGVzIGxheW91dD0iaWNvbi1vbi10b3AiIGNvbHVtbnM9IjMiIHRpdGxlX3NpemU9IjE4cHgiIGhlYWRpbmdfc2l6ZT0iMiIgdGl0bGVfY29sb3I9IiIgYm9keV9jb2xvcj0iIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGljb25fY2lyY2xlPSIiIGljb25fY2lyY2xlX3JhZGl1cz0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGljb25fc2l6ZT0iIiBpY29uX2hvdmVyX3R5cGU9IiIgaG92ZXJfYWNjZW50X2NvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIiIGltYWdlX2hlaWdodD0iIiBsaW5rX3R5cGU9IiIgYnV0dG9uX3NwYW49IiIgbGlua19hcmVhPSIiIGxpbmtfdGFyZ2V0PSIiIGljb25fYWxpZ249ImxlZnQiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kZWxheT0iIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9ImRldm9wcy0tYm94ZXMiIGlkPSIiIGltYWdlX21heF93aWR0aD0iIl1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTglXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249IiIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA4L0Rldk9wc0ljb25Cb2FyZHM0MEAyeC5wbmciIGltYWdlX21heF93aWR0aD0iMzUiIGltYWdlX2hlaWdodD0iMzUiIGxpbms9IiIgbGlua3RleHQ9Il8lOSVfIiBsaW5rX3RhcmdldD0iIiBhcmlhX2xhYmVsPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lMTAlXw0KDQpfJTExJV8KWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUxMiVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSIiIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA4L0Rldk9wc0ljb25QaXBlbGluZXM0MEAyeC5wbmciIGltYWdlX21heF93aWR0aD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iIiBhcmlhX2xhYmVsPSJZb3VyIENvbnRlbnQgR29lcyBIZXJlIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTEzJV8gXyUxNCVfDQoNCl8lMTUlXwpbL2Z1c2lvbl9jb250ZW50X2JveF1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTE2JV8iIGJhY2tncm91bmRjb2xvcj0iIiBpY29uPSIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49IiIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDgvRGV2T3BzSWNvblJlcG9zNDBAMngucG5nIiBpbWFnZV9tYXhfd2lkdGg9IiIgaW1hZ2VfaGVpZ2h0PSIiIGxpbms9IiIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9IiIgYXJpYV9sYWJlbD0iWW91ciBDb250ZW50IEdvZXMgSGVyZSIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUxNyVfIF8lMTglXw0KDQpfJTE5JV8KWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUyMCVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSIiIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA4L0Rldk9wc0ljb25UZXN0UGxhbnM0MEAyeC5wbmciIGltYWdlX21heF93aWR0aD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iIiBhcmlhX2xhYmVsPSJZb3VyIENvbnRlbnQgR29lcyBIZXJlIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTIxJV8NCg0KXyUyMiVfClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lMjMlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249IiIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0iIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOC8wOC9EZXZPcHNJY29uQXJ0aWZhY3RzNDBAMngucG5nIiBpbWFnZV9tYXhfd2lkdGg9IiIgaW1hZ2VfaGVpZ2h0PSIiIGxpbms9IiIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9IiIgYXJpYV9sYWJlbD0iWW91ciBDb250ZW50IEdvZXMgSGVyZSIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUyNCVfIF8lMjUlXw0KDQpfJTI2JV8KWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUyNyVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSIiIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX21heF93aWR0aD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iIiBhcmlhX2xhYmVsPSJZb3VyIENvbnRlbnQgR29lcyBIZXJlIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTI4JV8NCg0KXyUyOSVfClsvZnVzaW9uX2NvbnRlbnRfYm94XVsvZnVzaW9uX2NvbnRlbnRfYm94ZXNdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUtLWdyYXlsYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3N3aW1sYW5lX2NvbnRlbnQgbGF5b3V0PSJiYXNpYy1yZXZlcnNlZCIgdGl0bGU9Il8lMzAlX18lMzElXyIgc3VidGl0bGU9Il8lMzIlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDMvQW55RGV2ZWxvcGVyQW55TGFuZ3VhZ2UxXzYzNngzNTAtb3AucG5nIiByZWFkbW9yZV91cmw9IiIgcmVhZG1vcmVfdGV4dD0iXyUzMyVfIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTM0JV8KWy92c2NvbV9zd2ltbGFuZV9jb250ZW50XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJ5ZXMiIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0td2hpdGVsYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgbGFzdD0ieWVzIiBzcGFjaW5nPSJ5ZXMiIGNlbnRlcl9jb250ZW50PSJubyIgaGlkZV9vbl9tb2JpbGU9Im5vIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGhvdmVyX3R5cGU9Im5vbmUiIGxpbms9IiIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIGJvcmRlcl9zaXplPSIwcHgiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIwcHgiIG1hcmdpbl9ib3R0b209Ii0yMHB4IiBhbmltYXRpb25fdHlwZT0iMCIgYW5pbWF0aW9uX2RpcmVjdGlvbj0iZG93biIgYW5pbWF0aW9uX3NwZWVkPSIwLjEiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgY2xhc3M9IiIgaWQ9IiIgbWluX2hlaWdodD0iIl1bZnVzaW9uX2NvbnRlbnRfYm94ZXMgbGF5b3V0PSJpY29uLW9uLXNpZGUiIGNvbHVtbnM9IjMiIHRpdGxlX3NpemU9IiIgaGVhZGluZ19zaXplPSIyIiB0aXRsZV9jb2xvcj0iIzAwNzhkNyIgYm9keV9jb2xvcj0iIzMzMzMzMyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiMxZTczYmUiIGljb25fY2lyY2xlPSJ5ZXMiIGljb25fY2lyY2xlX3JhZGl1cz0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIjZmZmZmZmIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IjJweCIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIzFlNzNiZSIgaWNvbl9zaXplPSIiIGljb25faG92ZXJfdHlwZT0ibm9uZSIgaG92ZXJfYWNjZW50X2NvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIiIGltYWdlX21heF93aWR0aD0iIiBsaW5rX3R5cGU9IiIgYnV0dG9uX3NwYW49IiIgbGlua19hcmVhPSIiIGxpbmtfdGFyZ2V0PSIiIGljb25fYWxpZ249ImxlZnQiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kZWxheT0iIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4xIiBtYXJnaW5fdG9wPSIzJSIgbWFyZ2luX2JvdHRvbT0iMyUiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSJ2c3RzLWZlYXR1cmVzIl1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTM1JV8iIGJhY2tncm91bmRjb2xvcj0iIiBmYWJyaWNfaWNvbj0iR2l0TG9nbyIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA1L2dpdC0yeC1jaXJjbGUucG5nIiBpbWFnZV9tYXhfd2lkdGg9IjcwIiBpbWFnZV9oZWlnaHQ9IjcwIiBsaW5rPSJodHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvc2VydmljZXMvZGV2b3BzL3JlcG9zLyIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYXJpYV9sYWJlbD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IiIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTM2JV9bL2Z1c2lvbl9jb250ZW50X2JveF1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTM3JV8iIGJhY2tncm91bmRjb2xvcj0iIiBmYWJyaWNfaWNvbj0iRGF0YWZsb3dzIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9IiIgaW1hZ2VfbWF4X3dpZHRoPSIzNSIgaW1hZ2VfaGVpZ2h0PSIzNSIgbGluaz0iaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3NlcnZpY2VzL2Rldm9wcy9yZXBvcy8iIGxpbmt0ZXh0PSIiIGxpbmtfdGFyZ2V0PSJfYmxhbmsiIGFyaWFfbGFiZWw9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUzOCVfWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUzOSVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgZmFicmljX2ljb249IkRldmVsb3BlclRvb2xzIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9IiIgaW1hZ2VfaWQ9IiIgaW1hZ2VfbWF4X3dpZHRoPSI3MCIgbGluaz0iaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL2VuLXVzL3NlcnZpY2VzL2Rldm9wcy9ib2FyZHMvIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IiIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lNDAlX1svZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lNDElXyIgYmFja2dyb3VuZGNvbG9yPSIiIGZhYnJpY19pY29uPSJXb3JrRmxvdyIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX21heF93aWR0aD0iMzUiIGltYWdlX2hlaWdodD0iMzUiIGxpbms9Imh0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS9lbi11cy9zZXJ2aWNlcy9kZXZvcHMvcGlwZWxpbmVzLyIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYXJpYV9sYWJlbD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IiIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTQyJV9bL2Z1c2lvbl9jb250ZW50X2JveF1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTQzJV8iIGJhY2tncm91bmRjb2xvcj0iIiBmYWJyaWNfaWNvbj0iR3JvdXAiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV9tYXhfd2lkdGg9IjM1IiBpbWFnZV9oZWlnaHQ9IjM1IiBsaW5rPSJodHRwczovL2F6dXJlLm1pY3Jvc29mdC5jb20vZW4tdXMvc2VydmljZXMvZGV2b3BzL2phdmEvIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBhcmlhX2xhYmVsPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lNDQlX1svZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lNDUlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGZhYnJpY19pY29uPSJEb2N1bWVudGF0aW9uIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9IiIgaW1hZ2VfbWF4X3dpZHRoPSIzNSIgaW1hZ2VfaGVpZ2h0PSIzNSIgbGluaz0iaHR0cHM6Ly9henVyZS5taWNyb3NvZnQuY29tL3NlcnZpY2VzL2Rldm9wcy93aWtpLyIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYXJpYV9sYWJlbD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IiIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTQ2JV9bL2Z1c2lvbl9jb250ZW50X2JveF1bL2Z1c2lvbl9jb250ZW50X2JveGVzXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fZ2xvYmFsIGlkPSIxMDAwNjEiXQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_title-0" id="0" xml:space="preserve">
+            <source>Visual Studio Online | Now Azure DevOps</source>
+            <target state="new">Visual Studio Online | Now Azure DevOps</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="1" xml:space="preserve">
+            <source>Plan better, code together, and ship faster with Kanban or scrum boards, unlimited free private Git repos, and Continuous Integration.</source>
+            <target state="new">Plan better, code together, and ship faster with Kanban or scrum boards, unlimited free private Git repos, and Continuous Integration.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_focuskw-0" id="2" xml:space="preserve">
+            <source>Visual Studio Online</source>
+            <target state="new">Visual Studio Online</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Visual Studio Online | Now Azure DevOps</source>
+            <target state="new">Visual Studio Online | Now Azure DevOps</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="bolder-text"&gt;</bpt>VSO is now <bpt id="p2">&lt;span style="color: #0067b8;"&gt;</bpt>Azure DevOps<ept id="p2">&lt;/span&gt;</ept>!<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="bolder-text"&gt;</bpt>VSO is now <bpt id="p2">&lt;span style="color: #0067b8;"&gt;</bpt>Azure DevOps<ept id="p2">&lt;/span&gt;</ept>!<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="bold"&gt;</bpt>Plan smarter, collaborate better, and ship faster with a set of modern dev services<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="bold"&gt;</bpt>Plan smarter, collaborate better, and ship faster with a set of modern dev services<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="6" xml:space="preserve">
+            <source>Get Azure DevOps for free</source>
+            <target state="new">Get Azure DevOps for free</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="7" xml:space="preserve">
+            <source>Get Azure DevOps free</source>
+            <target state="new">Get Azure DevOps free</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="bold"&gt;</bpt>Already have an account?<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="bold"&gt;</bpt>Already have an account?<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/azdev-signin" target="_blank" rel="noopener noreferrer"&gt;</bpt>Sign in to Azure DevOps <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/azdev-signin" target="_blank" rel="noopener noreferrer"&gt;</bpt>Sign in to Azure DevOps <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="10" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/08/devopshero@2x.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/08/devopshero@2x.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="bold"&gt;</bpt>Use all of the DevOps services, or pick just what your team needs to complement your existing workflows.<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="bold"&gt;</bpt>Use all of the DevOps services, or pick just what your team needs to complement your existing workflows.<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="12" xml:space="preserve">
+            <source>Azure Boards</source>
+            <target state="new">Azure Boards</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="13" xml:space="preserve">
+            <source>Learn More</source>
+            <target state="new">Learn More</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="14" xml:space="preserve">
+            <source>Plan, track, and discuss work across your teams so that you can deliver value to your users faster.</source>
+            <target state="new">Plan, track, and discuss work across your teams so that you can deliver value to your users faster.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="15" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/boards/" target="_blank" aria-label="Learn more about Azure Boards" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/boards/" target="_blank" aria-label="Learn more about Azure Boards" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="16" xml:space="preserve">
+            <source>Azure Pipelines</source>
+            <target state="new">Azure Pipelines</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="17" xml:space="preserve">
+            <source>CI/CD that works with any language, platform, and cloud.</source>
+            <target state="new">CI/CD that works with any language, platform, and cloud.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="18" xml:space="preserve">
+            <source>Connect to GitHub or any Git provider and deploy continuously to any cloud.</source>
+            <target state="new">Connect to GitHub or any Git provider and deploy continuously to any cloud.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="19" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/pipelines/" target="_blank" aria-label="Learn more about Azure Pipelines" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/pipelines/" target="_blank" aria-label="Learn more about Azure Pipelines" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="20" xml:space="preserve">
+            <source>Azure Repos</source>
+            <target state="new">Azure Repos</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="21" xml:space="preserve">
+            <source>Unlimited cloud-hosted private Git repos for your project.</source>
+            <target state="new">Unlimited cloud-hosted private Git repos for your project.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="22" xml:space="preserve">
+            <source>Collaborative pull requests, advanced file management, and more.</source>
+            <target state="new">Collaborative pull requests, advanced file management, and more.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="23" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/repos/" target="_blank" aria-label="Learn more about Azure Repos" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/repos/" target="_blank" aria-label="Learn more about Azure Repos" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="24" xml:space="preserve">
+            <source>Azure Test Plans</source>
+            <target state="new">Azure Test Plans</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="25" xml:space="preserve">
+            <source>The manual and exploratory testing toolkit to ship with confidence.</source>
+            <target state="new">The manual and exploratory testing toolkit to ship with confidence.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="26" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/test-plans/" target="_blank" aria-label="Learn more about Azure Test Plans" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/test-plans/" target="_blank" aria-label="Learn more about Azure Test Plans" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="27" xml:space="preserve">
+            <source>Azure Artifacts</source>
+            <target state="new">Azure Artifacts</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="28" xml:space="preserve">
+            <source>Create, host, and share packages with your team.</source>
+            <target state="new">Create, host, and share packages with your team.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="29" xml:space="preserve">
+            <source>Add artifacts to your CI/CD pipelines with a single click.</source>
+            <target state="new">Add artifacts to your CI/CD pipelines with a single click.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="30" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/artifacts/" target="_blank" aria-label="Learn more about Azure Artifacts" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://azure.microsoft.com/services/devops/artifacts/" target="_blank" aria-label="Learn more about Azure Artifacts" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="31" xml:space="preserve">
+            <source>Extensions Marketplace</source>
+            <target state="new">Extensions Marketplace</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="32" xml:space="preserve">
+            <source>Built by the community – access extensions from Slack to SonarCloud to 1,000 other amazing things.</source>
+            <target state="new">Built by the community – access extensions from Slack to SonarCloud to 1,000 other amazing things.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="33" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/AzureDevOps" target="_blank" aria-label="Learn more about Extensions Marketplace" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/AzureDevOps" target="_blank" aria-label="Learn more about Extensions Marketplace" rel="noopener noreferrer"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="34" xml:space="preserve">
+            <source>Your language.</source>
+            <target state="new">Your language.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="35" xml:space="preserve">
+            <source> Your platform.</source>
+            <target state="new"> Your platform.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="36" xml:space="preserve">
+            <source>Tools for every member of your team.</source>
+            <target state="new">Tools for every member of your team.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="37" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="38" xml:space="preserve">
+            <source>
+
+Use the IDE of your choice with plug-ins for <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/java/download-android-studio-plug-in" target="_blank" rel="noopener noreferrer"&gt;</bpt>Android Studio<ept id="p1">&lt;/a&gt;</ept>, <bpt id="p2">&lt;a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio Code<ept id="p2">&lt;/a&gt;</ept>, and more.
+
+</source>
+            <target state="new">
+
+Use the IDE of your choice with plug-ins for <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/java/download-android-studio-plug-in" target="_blank" rel="noopener noreferrer"&gt;</bpt>Android Studio<ept id="p1">&lt;/a&gt;</ept>, <bpt id="p2">&lt;a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"&gt;</bpt>Visual Studio Code<ept id="p2">&lt;/a&gt;</ept>, and more.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="39" xml:space="preserve">
+            <source>Git</source>
+            <target state="new">Git</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="40" xml:space="preserve">
+            <source>Everything you love about git – plus free private repos, social code reviews, and more…
+
+</source>
+            <target state="new">Everything you love about git – plus free private repos, social code reviews, and more…
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="41" xml:space="preserve">
+            <source>TFVC</source>
+            <target state="new">TFVC</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="42" xml:space="preserve">
+            <source>A centralized version control system with free private repos.
+
+</source>
+            <target state="new">A centralized version control system with free private repos.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="43" xml:space="preserve">
+            <source>Agile Tools</source>
+            <target state="new">Agile Tools</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="44" xml:space="preserve">
+            <source>The tools you need to effectively run your Agile team.
+
+</source>
+            <target state="new">The tools you need to effectively run your Agile team.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="45" xml:space="preserve">
+            <source>Continuous Integration</source>
+            <target state="new">Continuous Integration</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="46" xml:space="preserve">
+            <source>Simplify continuous integration for your apps for any platform or programming language.
+
+</source>
+            <target state="new">Simplify continuous integration for your apps for any platform or programming language.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="47" xml:space="preserve">
+            <source>Tools for Java Teams</source>
+            <target state="new">Tools for Java Teams</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="48" xml:space="preserve">
+            <source>Make your software lifecycle faster and better with your favorite tools such as Eclipse or IntelliJ.
+
+</source>
+            <target state="new">Make your software lifecycle faster and better with your favorite tools such as Eclipse or IntelliJ.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="49" xml:space="preserve">
+            <source>Wiki</source>
+            <target state="new">Wiki</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="50" xml:space="preserve">
+            <source>Create rich documents to get your team on the same page.
+
+</source>
+            <target state="new">Create rich documents to get your team on the same page.
+
+</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

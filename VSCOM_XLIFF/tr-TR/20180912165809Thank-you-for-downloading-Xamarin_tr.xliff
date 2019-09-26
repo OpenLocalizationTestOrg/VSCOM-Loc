@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="38202-3ace05a59176da4d97a6538fc08d351f" source-language="en" target-language="tr" parent-post-id="94780" version="7" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/thank-downloading-xamarin/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0idnNjb20taGVybyIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIzJjM2U1MCIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IjBweCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iMHB4IiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIwcHgiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBzcGFjaW5nPSJ5ZXMiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSJub25lIiBoaWRlX29uX21vYmlsZT0ibm8iIGNsYXNzPSJ2c2NvbS1oZXJvLXRleHRjb2wgZnVzaW9uLWxheW91dC1jb2x1bW4tLWNlbnRlci10ZXh0IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjBweCIgbWFyZ2luX2JvdHRvbT0iMHB4IiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8tdGl0bGUiIGlkPSIiIHNpemU9IjEiIGNvbnRlbnRfYWxpZ249ImNlbnRlciIgc3R5bGVfdHlwZT0ibm9uZSIgc2VwX2NvbG9yPSIiXV8lMCVfWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0XV8lMSVfClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJ5ZXMiIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9InZzY29tLXN3aW1sYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIwcHgiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IjQwIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIyMCIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9jb2xvcj0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgc3BhY2luZz0ieWVzIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjBweCIgbWFyZ2luX2JvdHRvbT0iMHB4IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjZW50ZXJfY29udGVudD0ibm8iIG1pbl9oZWlnaHQ9Im5vbmUiIGxhc3Q9Im5vIiBob3Zlcl90eXBlPSJub25lIiBsaW5rPSIiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIl1bZnVzaW9uX2NvbnRlbnRfYm94ZXMgbGF5b3V0PSJjbGVhbi12ZXJ0aWNhbCIgY29sdW1ucz0iMyIgdGl0bGVfc2l6ZT0iMjRweCIgdGl0bGVfY29sb3I9IiMxZTczYmUiIGJvZHlfY29sb3I9IiMzMzMzMzMiIGJhY2tncm91bmRjb2xvcj0iIiBpY29uPSIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiMxZTczYmUiIGljb25fY2lyY2xlPSIiIGljb25fY2lyY2xlX3JhZGl1cz0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIjZmZmZmZmIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IjJweCIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIzFlNzNiZSIgaWNvbl9zaXplPSIiIGljb25faG92ZXJfdHlwZT0icHVsc2F0ZSIgaG92ZXJfYWNjZW50X2NvbG9yPSIjMWU3M2JlIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGlua190eXBlPSIiIGxpbmtfYXJlYT0iYm94IiBsaW5rX3RhcmdldD0iX3NlbGYiIGljb25fYWxpZ249ImxlZnQiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kZWxheT0iIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4xIiBtYXJnaW5fdG9wPSIyJSIgbWFyZ2luX2JvdHRvbT0iMiUiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJsaW5laGVpZ2h0Zml4IiBpZD0iIl1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTIlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249ImZhLWZpbGUtYWx0IGZhbCIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSI3MCIgaW1hZ2VfaGVpZ2h0PSI3MCIgbGluaz0iL3ZzL2dldHRpbmctc3RhcnRlZC8iIGxpbmt0ZXh0PSIiIGxpbmtfdGFyZ2V0PSJfc2VsZiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUzJV8NCg0KXyU0JV8NCg0KClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lNSVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iZmEta2V5Ym9hcmQgZmFsIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9IiIgaW1hZ2Vfd2lkdGg9IjcwIiBpbWFnZV9oZWlnaHQ9IjcwIiBsaW5rPSJodHRwczovL3R1dG9yaWFscy52aXN1YWxzdHVkaW8uY29tL2NwcC1jb25zb2xlL2ludHJvLmh0bWwiIGxpbmt0ZXh0PSIiIGxpbmtfdGFyZ2V0PSJfYmxhbmsiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lNiVfDQoNCl8lNyVfClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lOCVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iZmEtdXNlcnMiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iNzAiIGltYWdlX2hlaWdodD0iNzAiIGxpbms9Imh0dHBzOi8vZ28ubWljcm9zb2Z0LmNvbS9md2xpbmsvP0xpbmtJZD0zMDcxMzcmY2xjaWQ9MHg0MDkmd3QubWNfaWQ9b35tc2Z0fnZzY29tfnBvc3RkbH4xMjI5NSZjYW1wYWlnbj1vfm1zZnR+dnNjb21+cG9zdGRsfjEyMjk1IiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IiIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTklXw0KDQpfJTEwJV8KWy9mdXNpb25fY29udGVudF9ib3hdWy9mdXNpb25fY29udGVudF9ib3hlc11bZnVzaW9uX2NvZGVdVzJSdmQyNXNiMkZrYzE5elkzSnBjSFJkQ2dvbWJIUTdjMk55YVhCMElHUmhkR0V0Wkc4dGJtOTBMVzF2ZG1VOUpuRjFiM1E3ZEhKMVpTWnhkVzkwT3lCa1lYUmhMWEJ5YjNacFpHVnpQU1p4ZFc5ME8ycFJkV1Z5ZVNaeGRXOTBPeUJ6Y21NOUpuRjFiM1E3YUhSMGNITTZMeTloYW1GNExtRnpjRzVsZEdOa2JpNWpiMjB2WVdwaGVDOXFVWFZsY25rdmFuRjFaWEo1TFRJdU1TNHdMbTFwYmk1cWN5WnhkVzkwT3dvZ0lDQWdJQ0FnSUhSNWNHVTlKbkYxYjNRN2RHVjRkQzlxWVhaaGMyTnlhWEIwSm5GMWIzUTdKbWQwT3dvbWJIUTdMM05qY21sd2RDWm5kRHNLQ2lac2REdHpZM0pwY0hRZ1pHRjBZUzFrYnkxdWIzUXRiVzkyWlQwbWNYVnZkRHQwY25WbEpuRjFiM1E3SUhOeVl6MG1jWFZ2ZER0b2RIUndjem92TDJSdlkzTXViV2xqY205emIyWjBMbU52YlM5bGJpMTFjeTl0YzJSdUxXWnBiR1Z6TDJabFpXUnpMMjF6Wkc0dlpXNHRkWE12ZG5OMGRXUnBieTlrYjNkdWJHOWhaQzF5Wlc1aGJXVXROQzQwTG1wekpuRjFiM1E3SUhSNWNHVTlKbkYxYjNRN2RHVjRkQzlxWVhaaGMyTnlhWEIwSm5GMWIzUTdKbWQwT3dvbWJIUTdMM05qY21sd2RDWm5kRHNLQ2lac2REdHpZM0pwY0hRZ2MzSmpQU1p4ZFc5ME95OHZZWEJ3TFhOcU1UZ3ViV0Z5YTJWMGJ5NWpiMjB2YW5NdlptOXliWE15TDJwekwyWnZjbTF6TWk1dGFXNHVhbk1tY1hWdmREc21aM1E3Sm14ME95OXpZM0pwY0hRbVozUTdbL2Z1c2lvbl9jb2RlXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS1yZWR1Y2VkLXBhZGRpbmcgdnNjb20tc3dpbWxhbmUtLWJsdWUtYmFyIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIjMDA2N2I4IiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iMHB4IiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIyMCIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iMjAiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfY29sb3I9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIHNwYWNpbmc9InllcyIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIwcHgiIG1hcmdpbl9ib3R0b209IjBweCIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGhpZGVfb25fbW9iaWxlPSJubyIgY2VudGVyX2NvbnRlbnQ9Im5vIiBtaW5faGVpZ2h0PSJub25lIiBsYXN0PSJubyIgaG92ZXJfdHlwZT0ibm9uZSIgbGluaz0iIiBib3JkZXJfcG9zaXRpb249ImFsbCJdW2Z1c2lvbl90ZXh0XV8lMTElXwpbL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Thank you for downloading Xamarin</source>
+            <target state="new">Thank you for downloading Xamarin</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Thank you for downloading Visual Studio and Xamarin
+
+</source>
+            <target state="new">Thank you for downloading Visual Studio and Xamarin
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>
+
+If your download does not begin, <bpt id="p1">&lt;a class="bold" id="retryLink" style="text-decoration: underline;" href="https://aka.ms/vs/15/release/vs_community.exe"&gt;</bpt>click here to retry<ept id="p1">&lt;/a&gt;</ept>
+
+</source>
+            <target state="new">
+
+If your download does not begin, <bpt id="p1">&lt;a class="bold" id="retryLink" style="text-decoration: underline;" href="https://aka.ms/vs/15/release/vs_community.exe"&gt;</bpt>click here to retry<ept id="p1">&lt;/a&gt;</ept>
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Install guide</source>
+            <target state="new">Install guide</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>
+
+Read the installation guide for step-by-step instructions to setting up your machine.</source>
+            <target state="new">
+
+Read the installation guide for step-by-step instructions to setting up your machine.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;a class="bold" href="https://developer.xamarin.com/guides/cross-platform/getting_started/installation/"&gt;</bpt>Read now <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a class="bold" href="https://developer.xamarin.com/guides/cross-platform/getting_started/installation/"&gt;</bpt>Read now <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>Build an app</source>
+            <target state="new">Build an app</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Use the Xamarin Live Player and your iOS or Android device to see your first app on screen within minutes.</source>
+            <target state="new">Use the Xamarin Live Player and your iOS or Android device to see your first app on screen within minutes.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;a class="bold" href="https://developer.xamarin.com/getting-started/" target="_blank" rel="noopener"&gt;</bpt>Get started <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a class="bold" href="https://developer.xamarin.com/getting-started/" target="_blank" rel="noopener"&gt;</bpt>Get started <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>Guided learning</source>
+            <target state="new">Guided learning</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>Accelerate your learning with free on-demand, or paid live courses from Xamarin University.</source>
+            <target state="new">Accelerate your learning with free on-demand, or paid live courses from Xamarin University.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;a class="bold" href="https://university.xamarin.com/classes" target="_blank" rel="noopener noreferrer"&gt;</bpt>Sign up <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a class="bold" href="https://university.xamarin.com/classes" target="_blank" rel="noopener noreferrer"&gt;</bpt>Sign up <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>
+
+<bpt id="p1">&lt;a style="text-decoration: underline; color: #ffffff;" href="/?p=80123"&gt;</bpt>Three quick steps<ept id="p1">&lt;/a&gt;</ept> that may help simplify your Visual Studio installation
+
+</source>
+            <target state="new">
+
+<bpt id="p1">&lt;a style="text-decoration: underline; color: #ffffff;" href="/?p=80123"&gt;</bpt>Three quick steps<ept id="p1">&lt;/a&gt;</ept> that may help simplify your Visual Studio installation
+
+</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

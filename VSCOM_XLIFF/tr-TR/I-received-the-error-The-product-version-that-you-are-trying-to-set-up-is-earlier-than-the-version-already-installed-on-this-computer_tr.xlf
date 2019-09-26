@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46757-bd61d77bdf9ef906da7a8e3b5ab06f13" source-language="en" target-language="tr" parent-post-id="80194" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/received-error-product-version-trying-set-earlier-version-already-installed-computer/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXyBfJTMlXwo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Common Installation Issues on receiving the error “The product version that you are trying to set up is earlier than the version already installed on this computer.”</source>
+            <target state="new">Visual Studio 2015 Common Installation Issues on receiving the error “The product version that you are trying to set up is earlier than the version already installed on this computer.”</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>I received the error "The product version that you are trying to set up is earlier than the version already installed on this computer."</source>
+            <target state="new">I received the error "The product version that you are trying to set up is earlier than the version already installed on this computer."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>When attempting to install Visual Studio you receive the following error "The product version that you are trying to set up is earlier than the version already installed on this computer."
+<bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new">When attempting to install Visual Studio you receive the following error "The product version that you are trying to set up is earlier than the version already installed on this computer."
+<bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>Check to make sure that the version of Visual Studio 2015 you are downloading is not earlier than the current version or update you are installing.</source>
+            <target state="new">Check to make sure that the version of Visual Studio 2015 you are downloading is not earlier than the current version or update you are installing.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>If you determine that the version of Visual Studio you are downloading is not earlier than the existing, please see this <bpt id="p1">&lt;a href="https://social.msdn.microsoft.com/Forums/en-US/abaecb1a-2ed6-4c9d-9676-794039ba3422/visual-studio-community-2015-setup-blocked-the-product-version-that-you-are-trying-to-set-up-is?forum=vssetup" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>MSDN Post <ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>for guidance in resolving this issue.</source>
+            <target state="new">If you determine that the version of Visual Studio you are downloading is not earlier than the existing, please see this <bpt id="p1">&lt;a href="https://social.msdn.microsoft.com/Forums/en-US/abaecb1a-2ed6-4c9d-9676-794039ba3422/visual-studio-community-2015-setup-blocked-the-product-version-that-you-are-trying-to-set-up-is?forum=vssetup" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>MSDN Post <ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>for guidance in resolving this issue.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

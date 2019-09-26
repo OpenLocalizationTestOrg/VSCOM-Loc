@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53885-c11be81d1f4969e1a4af0b636d279c3f" source-language="en" target-language="tr" parent-post-id="143626" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/benefits/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgc3RhdHVzPSJwdWJsaXNoZWQiIHB1Ymxpc2hfZGF0ZT0iIiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIjZmFmOWY4IiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IjYwcHgiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IjYwcHgiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iZnVzaW9uLWxheW91dC1jb2x1bW4tLW5vLW1hcmdpbnMiIGlkPSIiIGJhY2tncm91bmRfaW1hZ2VfaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgYm9yZGVyX3JhZGl1c190b3BfbGVmdD0iIiBib3JkZXJfcmFkaXVzX3RvcF9yaWdodD0iIiBib3JkZXJfcmFkaXVzX2JvdHRvbV9sZWZ0PSIiIGJvcmRlcl9yYWRpdXNfYm90dG9tX3JpZ2h0PSIiIGJveF9zaGFkb3c9Im5vIiBib3hfc2hhZG93X3ZlcnRpY2FsPSIiIGJveF9zaGFkb3dfaG9yaXpvbnRhbD0iIiBib3hfc2hhZG93X2JsdXI9IjAiIGJveF9zaGFkb3dfc3ByZWFkPSIwIiBib3hfc2hhZG93X2NvbG9yPSIiIGJveF9zaGFkb3dfc3R5bGU9IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iMCIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9mZWF0dXJlX2hlcm8gbGF5b3V0PSJmZWF0dXJlLWhlcm8iIHRpdGxlPSJfJTAlXyIgaW1hZ2Vfc3JjPSIiIGltYWdlX2lkPSIiIGNzc19jbGFzc2VzPSIiIHJlYWRtb3JlX3VybD0iIiByZWFkbW9yZV90ZXh0PSJfJTElXyIgcmVhZG1vcmVfYXJpYT0iIiByZWFkbW9yZV90YXJnZXQ9Il9zZWxmIiByZWFkbW9yZV9yZWw9IiJdXyU0JV9bZnVzaW9uX2J1dHRvbiBsaW5rPSIvdnMvcHJpY2luZy8iIHRpdGxlPSIiIHRhcmdldD0iX3NlbGYiIGxpbmtfYXR0cmlidXRlcz0iIiBhbGlnbm1lbnQ9ImxlZnQiIG1vZGFsPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIG9zX2Rvd25sb2Fkcz0ibm8iIGRvd25sb2FkX3dpbmRvd3NfdGV4dD0iIiBkb3dubG9hZF93aW5kb3dzX3VybD0iIiBkb3dubG9hZF9tYWNfdGV4dD0iIiBkb3dubG9hZF9tYWNfdXJsPSIiIGFyaWFfbGFiZWw9Il8lMiVfIiBjb2xvcj0iZGVmYXVsdCIgYnV0dG9uX2dyYWRpZW50X3RvcF9jb2xvcj0iIzAwOGEwMSIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcj0iIzAwOGEwMSIgYnV0dG9uX2dyYWRpZW50X3RvcF9jb2xvcl9ob3Zlcj0iIzRkYWQ0ZCIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcl9ob3Zlcj0iIzRkYWQ0ZCIgYWNjZW50X2NvbG9yPSIiIGFjY2VudF9ob3Zlcl9jb2xvcj0iIiB0eXBlPSIiIGJldmVsX2NvbG9yPSIiIGJvcmRlcl93aWR0aD0iIiBzaXplPSJtZWRpdW0iIHN0cmV0Y2g9Im5vIiBzaGFwZT0ic3F1YXJlIiBpY29uPSIiIGZhYnJpY19pY29uPSJDaGV2cm9uUmlnaHRTbWFsbCIgaWNvbl9wb3NpdGlvbj0icmlnaHQiIGljb25fZGl2aWRlcj0ibm8iIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMS4wIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lMyVfWy9mdXNpb25fYnV0dG9uXQoKWy92c2NvbV9mZWF0dXJlX2hlcm9dWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgc3RhdHVzPSJwdWJsaXNoZWQiIHB1Ymxpc2hfZGF0ZT0iIiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2ltYWdlX2lkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIGJvcmRlcl9yYWRpdXNfdG9wX2xlZnQ9IiIgYm9yZGVyX3JhZGl1c190b3BfcmlnaHQ9IiIgYm9yZGVyX3JhZGl1c19ib3R0b21fbGVmdD0iIiBib3JkZXJfcmFkaXVzX2JvdHRvbV9yaWdodD0iIiBib3hfc2hhZG93PSJubyIgYm94X3NoYWRvd192ZXJ0aWNhbD0iIiBib3hfc2hhZG93X2hvcml6b250YWw9IiIgYm94X3NoYWRvd19ibHVyPSIwIiBib3hfc2hhZG93X3NwcmVhZD0iMCIgYm94X3NoYWRvd19jb2xvcj0iIiBib3hfc2hhZG93X3N0eWxlPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjM2cHgiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgY29udGVudF9hbGlnbj0ibGVmdCIgc2l6ZT0iMyIgZm9udF9zaXplPSIiIGxpbmVfaGVpZ2h0PSIiIGxldHRlcl9zcGFjaW5nPSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iMTZweCIgbWFyZ2luX3RvcF9tb2JpbGU9IiIgbWFyZ2luX2JvdHRvbV9tb2JpbGU9IiIgdGV4dF9jb2xvcj0iIiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyU1JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiXVt2c2NvbV9iZW5lZml0cyBkZWZhdWx0X2NhdGVnb3J5PSJ2aXN1YWwtc3R1ZGlvLWVudGVycHJpc2Utc3Vic2NyaXB0aW9uIl1fJTYlXwpbL3ZzY29tX2JlbmVmaXRzXVsvZnVzaW9uX3RleHRdW2Z1c2lvbl9jb2RlXVBITmpjbWx3ZEQ0S2FsRjFaWEo1S0daMWJtTjBhVzl1S0NsN0NpQjJZWElnYVU5VElEMGdMMmxRYUc5dVpTOHVkR1Z6ZENodVlYWnBaMkYwYjNJdWRYTmxja0ZuWlc1MEtTQW1KaUFoZDJsdVpHOTNMazFUVTNSeVpXRnRPd29nSUdsbUtHbFBVeWw3Q2lBZ0lDQnFVWFZsY25rb0p5NTJjMk52YlMxaVpXNWxabWwwSUM1MmMyTnZiUzFpWlc1bFptbDBMWE5sYkdWamRDY3BMbUZ3Y0dWdVpDZ25QRzl3ZEdkeWIzVndJR3hoWW1Wc1BTSWlQand2YjNCMFozSnZkWEErSnlrN0NpQWdmUXA5S1RzS1BDOXpZM0pwY0hRK1svZnVzaW9uX2NvZGVdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJd]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_title-0" id="0" xml:space="preserve">
+            <source>Visual Studio Subscription benefits</source>
+            <target state="new">Visual Studio Subscription benefits</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="1" xml:space="preserve">
+            <source>Visual Studio Subscriptions give you a comprehensive set of resources to help you develop the next app of your dreams. Explore the wide range of tools, services, and benefits that come in the different subscription levels.</source>
+            <target state="new">Visual Studio Subscriptions give you a comprehensive set of resources to help you develop the next app of your dreams. Explore the wide range of tools, services, and benefits that come in the different subscription levels.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="2" xml:space="preserve">
+            <source>Visual Studio Subscription benefits</source>
+            <target state="new">Visual Studio Subscription benefits</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="3" xml:space="preserve">
+            <source>Visual Studio Subscription benefits</source>
+            <target state="new">Visual Studio Subscription benefits</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="4" xml:space="preserve">
+            <source>Buy Visual Studio</source>
+            <target state="new">Buy Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="5" xml:space="preserve">
+            <source>Buy a Visual Studio subscription</source>
+            <target state="new">Buy a Visual Studio subscription</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="6" xml:space="preserve">
+            <source>Buy a subscription</source>
+            <target state="new">Buy a subscription</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="7" xml:space="preserve">
+            <source>Everything you need to know about what’s included in a Visual Studio Subscription.
+
+
+</source>
+            <target state="new">Everything you need to know about what’s included in a Visual Studio Subscription.
+
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="8" xml:space="preserve">
+            <source>Select a subscription to compare benefits
+
+</source>
+            <target state="new">Select a subscription to compare benefits
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="9" xml:space="preserve">
+            <source>Visit our <bpt id="p1">&lt;a href="/vs/pricing"&gt;</bpt>pricing page<ept id="p1">&lt;/a&gt;</ept> to find out the cost of each subscription level.</source>
+            <target state="new">Visit our <bpt id="p1">&lt;a href="/vs/pricing"&gt;</bpt>pricing page<ept id="p1">&lt;/a&gt;</ept> to find out the cost of each subscription level.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
