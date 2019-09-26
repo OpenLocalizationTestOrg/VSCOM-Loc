@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53810-860542303e5129342debce9226d30d85" source-language="en" target-language="cs" parent-post-id="149735" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/i-already-paid-for-an-older-version-of-visual-studio-professional-do-i-need-to-pay-for-visual-studio-2019-and-later-versions/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV9fJTElXw==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2017 Licensing and Purchase question on payment if already paid for Visual Studio 2015 do we need to pay for Visual Studio 2017?</source>
+            <target state="new">Visual Studio 2017 Licensing and Purchase question on payment if already paid for Visual Studio 2015 do we need to pay for Visual Studio 2017?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>I already paid for an older version of Visual Studio Professional. Do I need to pay for Visual Studio 2019 and later versions?</source>
+            <target state="new">I already paid for an older version of Visual Studio Professional. Do I need to pay for Visual Studio 2019 and later versions?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>If you purchased Visual Studio Professional 2015 or Visual Studio Professional 2017 as a stand alone license, you are not entitled to Visual Studio Professional 2019.
+
+</source>
+            <target state="new">If you purchased Visual Studio Professional 2015 or Visual Studio Professional 2017 as a stand alone license, you are not entitled to Visual Studio Professional 2019.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Also, if you purchased a Visual Studio Subscription in the calendar year 2015 but did not renew it, you don't have access to Visual Studio 2019.</source>
+            <target state="new">Also, if you purchased a Visual Studio Subscription in the calendar year 2015 but did not renew it, you don't have access to Visual Studio 2019.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

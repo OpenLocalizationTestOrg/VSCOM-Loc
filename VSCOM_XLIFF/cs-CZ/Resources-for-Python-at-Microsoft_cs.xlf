@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="42772-973edaa25a8ecaf79fda4c56dd7b8419" source-language="en" target-language="cs" parent-post-id="100660" version="4" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/python-at-microsoft/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gSGVybyIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ieWVzIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tZmVhdHVyZS1oZXJvIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8tdGV4dGNvbCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fZmVhdHVyZV9oZXJvIHRpdGxlPSJfJTAlXyIgY3NzX2NsYXNzZXM9IiIgcmVhZG1vcmVfdXJsPSIiIHJlYWRtb3JlX3RleHQ9Il8lMSVfIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTIlXwpbL3ZzY29tX2ZlYXR1cmVfaGVyb11bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGFkbWluX2xhYmVsPSJWU0NPTSBTd2ltbGFuZSIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0td2hpdGVsYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBhZG1pbl90b2dnbGVkPSJubyJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10ZXh0LWNvbnRlbnQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9jb250ZW50X2JveGVzIGxheW91dD0iaWNvbi1vbi1zaWRlIiBjb2x1bW5zPSIzIiB0aXRsZV9zaXplPSIyNHB4IiBoZWFkaW5nX3NpemU9IjIiIHRpdGxlX2NvbG9yPSIjMDAwMDAwIiBib2R5X2NvbG9yPSIiIGJhY2tncm91bmRjb2xvcj0icmdiYSgyNTUsMjU1LDI1NSwwKSIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGljb25fY2lyY2xlPSJubyIgaWNvbl9jaXJjbGVfcmFkaXVzPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaWNvbl9zaXplPSIiIGljb25faG92ZXJfdHlwZT0iIiBob3Zlcl9hY2NlbnRfY29sb3I9InJnYmEoMCwwLDAsMCkiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIiIGltYWdlX2hlaWdodD0iIiBsaW5rX3R5cGU9IiIgYnV0dG9uX3NwYW49IiIgbGlua19hcmVhPSJsaW5rLWljb24iIGxpbmtfdGFyZ2V0PSJfYmxhbmsiIGljb25fYWxpZ249ImxlZnQiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kZWxheT0iIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBtYXJnaW5fdG9wPSI0NXB4IiBtYXJnaW5fYm90dG9tPSIwIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0icHl0aG9uLWJveGVzIiBpZD0iIl1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTMlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249Im5vbmUiIGZhYnJpY19pY29uPSJWaXN1YWxTdHVkaW9JREVMb2dvMzIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iMTUwIiBpbWFnZV9pZD0iIiBpbWFnZV9oZWlnaHQ9IjE1MCIgbGluaz0iaHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20vZG9jcy9sYW5ndWFnZXMvcHl0aG9uIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lNCVfDQoNCl8lNSVfDQoNCgpbL2Z1c2lvbl9jb250ZW50X2JveF1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTYlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249Im5vbmUgZmFzIiBmYWJyaWNfaWNvbj0iRGljdGlvbmFyeSIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0iIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iMTUxIiBpbWFnZV9pZD0iIiBpbWFnZV9oZWlnaHQ9IjE1MCIgbGluaz0iaHR0cHM6Ly9ub3RlYm9va3MuYXp1cmUuY29tLyIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgYXJpYV9sYWJlbD0iWW91ciBDb250ZW50IEdvZXMgSGVyZSJdXyU3JV8NCg0KXyU4JV8NCg0KClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lOSVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0ibm9uZSBmYXMiIGZhYnJpY19pY29uPSJMaW51eExvZ28zMiIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0iIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iMTUxIiBpbWFnZV9pZD0iIiBpbWFnZV9oZWlnaHQ9IjE1MiIgbGluaz0iaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy93c2wvP19faHN0Yz0yNjgyNjQzMzcuZjJjYzFmNjZmZTIzYzFlYzQwMGExYTg5MDY1OGJlNTQuMTUyNzEwOTYzMjU1Ny4xNTI3MTgxMzI1ODg3LjE1MjcyNjc4OTgxMTguMyZfX2hzc2M9MjY4MjY0MzM3LjEuMTUyNzI2Nzg5ODExOCZfX2hzZnA9MTY5MjE0MDY2MSIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgYXJpYV9sYWJlbD0iWW91ciBDb250ZW50IEdvZXMgSGVyZSJdXyUxMCVfDQoNCl8lMTElXw0KDQoKWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUxMiVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0ibm9uZSBmYXMiIGZhYnJpY19pY29uPSJWaXN1YWxTdHVkaW9JREVMb2dvMzIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49IiIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9IiIgaW1hZ2Vfd2lkdGg9IjE1MCIgaW1hZ2VfaWQ9IiIgaW1hZ2VfaGVpZ2h0PSIxNTEiIGxpbms9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vdnMvcHl0aG9uLyIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9zZWxmIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSJZb3VyIENvbnRlbnQgR29lcyBIZXJlIl1fJTEzJV8NCg0KXyUxNCVfDQoNCgpbL2Z1c2lvbl9jb250ZW50X2JveF1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTE1JV8iIGJhY2tncm91bmRjb2xvcj0iIiBpY29uPSJub25lIiBmYWJyaWNfaWNvbj0iU2VydmVyIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSIiIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIxNTAiIGltYWdlX2lkPSIiIGltYWdlX2hlaWdodD0iMTUxIiBsaW5rPSJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9zcWwvYWR2YW5jZWQtYW5hbHl0aWNzL3doYXQtaXMtc3FsLXNlcnZlci1tYWNoaW5lLWxlYXJuaW5nP3ZpZXc9c3FsLXNlcnZlci0yMDE3IiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSJZb3VyIENvbnRlbnQgR29lcyBIZXJlIl1fJTE2JV8NCg0KXyUxNyVfDQpfJTE4JV8NCg0KClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lMTklXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249Im5vbmUiIGZhYnJpY19pY29uPSJSb2JvdCIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0iIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iMTUwIiBpbWFnZV9pZD0iIiBpbWFnZV9oZWlnaHQ9IjE1MSIgbGluaz0iaHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9haT9fX2hzdGM9MjY4MjY0MzM3LmYyY2MxZjY2ZmUyM2MxZWM0MDBhMWE4OTA2NThiZTU0LjE1MjcxMDk2MzI1NTcuMTUyNzE4MTMyNTg4Ny4xNTI3MjY3ODk4MTE4LjMmX19oc3NjPTI2ODI2NDMzNy4xLjE1MjcyNjc4OTgxMTgmX19oc2ZwPTE2OTIxNDA2NjEiIGxpbmt0ZXh0PSIiIGxpbmtfdGFyZ2V0PSJfYmxhbmsiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGFyaWFfbGFiZWw9IllvdXIgQ29udGVudCBHb2VzIEhlcmUiXV8lMjAlXw0KDQpfJTIxJV8NCg0KClsvZnVzaW9uX2NvbnRlbnRfYm94XVsvZnVzaW9uX2NvbnRlbnRfYm94ZXNdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUtLXdoaXRlbGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgYWRtaW5fdG9nZ2xlZD0ibm8iXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJ5ZXMiIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGV4dC1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10aXRsZSIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0iY2VudGVyIiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdDQoNCl8lMjIlXw0KDQoKWy9mdXNpb25fdGl0bGVdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJweXRob24tcG9zdHMiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSIxMDA2NjgiIHN0eWxlX3R5cGU9Im5vbmUiIHN0eWxlY29sb3I9IiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iIiBib3JkZXJjb2xvcj0iIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9IiIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUyMyVfWy9mdXNpb25faW1hZ2VmcmFtZV1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtc3VidGl0bGUiIGlkPSIiIHNpemU9IjMiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTI0JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHRdXyUyNSVfDQpfJTI2JV8NCg0KXyUyNyVfClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJweXRob24tcG9zdHMiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSIxMDA2NjQiIHN0eWxlX3R5cGU9Im5vbmUiIHN0eWxlY29sb3I9IiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iIiBib3JkZXJjb2xvcj0iIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9IiIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUyOCVfWy9mdXNpb25faW1hZ2VmcmFtZV1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtc3VidGl0bGUiIGlkPSIiIHNpemU9IjMiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTI5JV8NCg0KWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0XV8lMzAlXw0KXyUzMSVfIF8lMzIlXw0KDQpfJTMzJV8KWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMiIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InB5dGhvbi1wb3N0cyIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX2ltYWdlZnJhbWUgaW1hZ2VfaWQ9IjEwMDY3MSIgc3R5bGVfdHlwZT0ibm9uZSIgc3R5bGVjb2xvcj0iIiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJzaXplPSIiIGJvcmRlcmNvbG9yPSIiIGJvcmRlcnJhZGl1cz0iIiBhbGlnbj0ibm9uZSIgbGlnaHRib3g9Im5vIiBnYWxsZXJ5X2lkPSIiIGxpZ2h0Ym94X2ltYWdlPSIiIGFsdD0iIiBsaW5rPSIiIGxpbmt0YXJnZXQ9Il9zZWxmIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTM0JV9bL2Z1c2lvbl9pbWFnZWZyYW1lXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS1zdWJ0aXRsZSIgaWQ9IiIgc2l6ZT0iMyIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lMzUlX1svZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dF1fJTM2JV8NCl8lMzclXyBfJTM4JV8NCg0KXyUzOSVfClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJweXRob24tcG9zdHMiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSIxMDA2NzMiIHN0eWxlX3R5cGU9Im5vbmUiIHN0eWxlY29sb3I9IiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iIiBib3JkZXJjb2xvcj0iIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249Im5vbmUiIGxpZ2h0Ym94PSJubyIgZ2FsbGVyeV9pZD0iIiBsaWdodGJveF9pbWFnZT0iIiBhbHQ9IiIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyU0MCVfWy9mdXNpb25faW1hZ2VmcmFtZV1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtc3VidGl0bGUiIGlkPSIiIHNpemU9IjMiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTQxJV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHRdXyU0MiVfDQpfJTQzJV8gXyU0NCVfDQoNCl8lNDUlXwpbL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS0td2hpdGUtdGV4dCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIzNhNTA2OCIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIzNXB4IiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIzNXB4IiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMiIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX2ltYWdlZnJhbWUgaW1hZ2VfaWQ9IjEwMDY3MCIgc3R5bGVfdHlwZT0ibm9uZSIgc3R5bGVjb2xvcj0iIiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJzaXplPSIiIGJvcmRlcmNvbG9yPSIiIGJvcmRlcnJhZGl1cz0iIiBhbGlnbj0iY2VudGVyIiBsaWdodGJveD0ibm8iIGdhbGxlcnlfaWQ9IiIgbGlnaHRib3hfaW1hZ2U9IiIgYWx0PSIiIGxpbms9IiIgbGlua3RhcmdldD0iX3NlbGYiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lNDYlX1svZnVzaW9uX2ltYWdlZnJhbWVdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzIiIGxheW91dD0iMV8yIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgZGltZW5zaW9uX21hcmdpbj0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLXRpdGxlIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyU0NyVfWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0XV8lNDglXwpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fYnV0dG9uIGxpbms9Imh0dHBzOi8vY3RhLXNlcnZpY2UtY21zMi5odWJzcG90LmNvbS9jdGFzL3YyL3B1YmxpYy9jcy9jLz9jdGFfZ3VpZD1kMjIyZWEyNy1iMTRmLTQzN2MtYWUwOS04ZGJhN2I3ZGFiYjgmcGxhY2VtZW50X2d1aWQ9NWMwOGIxMzQtY2IzNS00NjEwLWEzYjgtNDUzOWUzYzUzYjM2JnBvcnRhbF9pZD0xNzM5NzYzJnJlZGlyZWN0X3VybD1BUGVmanBHR3FpeWE5NDEzdFhlU01lV3RYckJSQlkwa1NhTFdpQUM5MGt4UGRHdlZ4TUY3YkthV01jaGRDV2ZiUG0wYVhGRDlBRGVIZXlFclFMM1hpOFJIRVlMdGJmQ1FlM1VCaXlEdnlFcS1fYk9yT29oa21TY29NTkRDeWRMbU1NYTB0M3ktVkNTUE13VnNBWnF2MWxscmpqTVZZNl8xd3ZDcTRfY2NHVHRZU01rNjk1SE5MVEtNOFBPUWM1aV9kanY4blZXMnpSUmJGRmpIbDdNbTNRRUtlZHZ0QVZEQmN3JmhzdXRrPWYyY2MxZjY2ZmUyM2MxZWM0MDBhMWE4OTA2NThiZTU0JmNhbm9uPWh0dHAlM0ElMkYlMkZsYW5kaW5naHViLnZpc3VhbHN0dWRpby5jb20lMkZweXRob24mY2xpY2s9MWIzYzEyOTgtM2Y2Yy00NDIyLWFhNzAtNDY5YzBlMTA1OGU1JnBhZ2VJZD00MTc0MzgwNDUzJl9faHN0Yz0yNjgyNjQzMzcuZjJjYzFmNjZmZTIzYzFlYzQwMGExYTg5MDY1OGJlNTQuMTUyNzEwOTYzMjU1Ny4xNTI3MTgxMzI1ODg3LjE1MjcyNjc4OTgxMTguMyZfX2hzc2M9MjY4MjY0MzM3LjEuMTUyNzI2Nzg5ODExOCZfX2hzZnA9MTY5MjE0MDY2MSIgdGl0bGU9IiIgdGFyZ2V0PSJfc2VsZiIgbGlua19hdHRyaWJ1dGVzPSIiIGFsaWdubWVudD0iIiBtb2RhbD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBvc19kb3dubG9hZHM9Im5vIiBkb3dubG9hZF93aW5kb3dzX3RleHQ9IiIgZG93bmxvYWRfd2luZG93c191cmw9IiIgZG93bmxvYWRfbWFjX3RleHQ9IiIgZG93bmxvYWRfbWFjX3VybD0iIiBkb3dubG9hZF9saW51eF90ZXh0PSIiIGRvd25sb2FkX2xpbnV4X3VybD0iIiBhcmlhX2xhYmVsPSJfJTQ5JV8iIGNvbG9yPSJkZWZhdWx0IiBidXR0b25fZ3JhZGllbnRfdG9wX2NvbG9yPSIiIGJ1dHRvbl9ncmFkaWVudF9ib3R0b21fY29sb3I9IiIgYnV0dG9uX2dyYWRpZW50X3RvcF9jb2xvcl9ob3Zlcj0iIiBidXR0b25fZ3JhZGllbnRfYm90dG9tX2NvbG9yX2hvdmVyPSIiIGFjY2VudF9jb2xvcj0iIiBhY2NlbnRfaG92ZXJfY29sb3I9IiIgdHlwZT0iIiBiZXZlbF9jb2xvcj0iIiBib3JkZXJfd2lkdGg9IiIgc2l6ZT0iIiBzdHJldGNoPSJkZWZhdWx0IiBzaGFwZT0iIiBpY29uPSIiIGljb25fcG9zaXRpb249ImxlZnQiIGljb25fZGl2aWRlcj0ibm8iIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lNTAlX1svZnVzaW9uX2J1dHRvbl1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl0=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Resources for Python at Microsoft</source>
+            <target state="new">Resources for Python at Microsoft</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Welcome Python Developers</source>
+            <target state="new">Welcome Python Developers</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>See how Microsoft is making our platform better for Python developers
+
+<bpt id="p1">&lt;span style="color: #000;"&gt;</bpt><bpt id="p2">&lt;a style="color: #000;" href="https://blogs.msdn.microsoft.com/pythonengineering/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527267898118.1527283636611.4&amp;__hssc=268264337.1.1527283636611&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Python Blog <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/span&gt;</ept><bpt id="p3">&lt;span style="color: #000; margin-left: 25px;"&gt;</bpt><bpt id="p4">&lt;a href="https://www.microsoft.com/en-us/openness/default.aspx?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527267898118.1527283636611.4&amp;__hssc=268264337.1.1527283636611&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt><bpt id="p5">&lt;span style="color: #000;"&gt;</bpt>Openness @ Microsoft <ph id="ph2">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p5">&lt;/span&gt;</ept><ept id="p4">&lt;/a&gt;</ept><ept id="p3">&lt;/span&gt;</ept><bpt id="p6">&lt;span style="color: #000;"&gt;</bpt>
+<bpt id="p7">&lt;a style="color: #000;" href="https://pypi.org/user/microsoft/" target="_blank" rel="noopener"&gt;</bpt>Microsoft PyPI Packages <ph id="ph3">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p7">&lt;/a&gt;</ept><ept id="p6">&lt;/span&gt;</ept><bpt id="p8">&lt;span style="color: #000; margin-left: 25px;"&gt;</bpt><bpt id="p9">&lt;a href="http://docs.microsoft.com/python/azure" target="_blank" rel="noopener"&gt;</bpt><bpt id="p10">&lt;span style="color: #000;"&gt;</bpt>Python in Azure <ph id="ph4">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p10">&lt;/span&gt;</ept><ept id="p9">&lt;/a&gt;</ept><ept id="p8">&lt;/span&gt;</ept></source>
+            <target state="new">See how Microsoft is making our platform better for Python developers
+
+<bpt id="p1">&lt;span style="color: #000;"&gt;</bpt><bpt id="p2">&lt;a style="color: #000;" href="https://blogs.msdn.microsoft.com/pythonengineering/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527267898118.1527283636611.4&amp;__hssc=268264337.1.1527283636611&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Python Blog <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/span&gt;</ept><bpt id="p3">&lt;span style="color: #000; margin-left: 25px;"&gt;</bpt><bpt id="p4">&lt;a href="https://www.microsoft.com/en-us/openness/default.aspx?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527267898118.1527283636611.4&amp;__hssc=268264337.1.1527283636611&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt><bpt id="p5">&lt;span style="color: #000;"&gt;</bpt>Openness @ Microsoft <ph id="ph2">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p5">&lt;/span&gt;</ept><ept id="p4">&lt;/a&gt;</ept><ept id="p3">&lt;/span&gt;</ept><bpt id="p6">&lt;span style="color: #000;"&gt;</bpt>
+<bpt id="p7">&lt;a style="color: #000;" href="https://pypi.org/user/microsoft/" target="_blank" rel="noopener"&gt;</bpt>Microsoft PyPI Packages <ph id="ph3">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p7">&lt;/a&gt;</ept><ept id="p6">&lt;/span&gt;</ept><bpt id="p8">&lt;span style="color: #000; margin-left: 25px;"&gt;</bpt><bpt id="p9">&lt;a href="http://docs.microsoft.com/python/azure" target="_blank" rel="noopener"&gt;</bpt><bpt id="p10">&lt;span style="color: #000;"&gt;</bpt>Python in Azure <ph id="ph4">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p10">&lt;/span&gt;</ept><ept id="p9">&lt;/a&gt;</ept><ept id="p8">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Visual Studio Code</source>
+            <target state="new">Visual Studio Code</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>
+
+Free, lightweight editor for Linux, MacOS, and Windows with Python support.</source>
+            <target state="new">
+
+Free, lightweight editor for Linux, MacOS, and Windows with Python support.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Learn more about Visual Studio Code" href="https://code.visualstudio.com/docs/languages/python" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Learn more about Visual Studio Code" href="https://code.visualstudio.com/docs/languages/python" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Azure Notebooks</source>
+            <target state="new">Azure Notebooks</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>
+
+Run and share your ideas on Azure using Jupyter notebooks for free.</source>
+            <target state="new">
+
+Run and share your ideas on Azure using Jupyter notebooks for free.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Learn more about Azure Notebooks" href="https://notebooks.azure.com/" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Learn more about Azure Notebooks" href="https://notebooks.azure.com/" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>Linux on Windows</source>
+            <target state="new">Linux on Windows</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>
+
+Choose from a range of distros and run native Linux tools without a virtual machine.</source>
+            <target state="new">
+
+Choose from a range of distros and run native Linux tools without a virtual machine.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Install Linux on Windows <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Install Linux on Windows <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>Visual Studio 2017</source>
+            <target state="new">Visual Studio 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source>
+
+Try our latest Python support in Microsoft's premier development platform.</source>
+            <target state="new">
+
+Try our latest Python support in Microsoft's premier development platform.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Learn more about Visual Studio 2017" href="https://visualstudio.microsoft.com/vs/python/" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Learn more about Visual Studio 2017" href="https://visualstudio.microsoft.com/vs/python/" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source>SQL Server</source>
+            <target state="new">SQL Server</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>
+
+Industry-leading DBMS for Windows, Linux and Docker with in-database analytics using Python.</source>
+            <target state="new">
+
+Industry-leading DBMS for Windows, Linux and Docker with in-database analytics using Python.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Learn more about SQL Server" href="https://docs.microsoft.com/sql/advanced-analytics/what-is-sql-server-machine-learning?view=sql-server-2017" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Learn more about SQL Server" href="https://docs.microsoft.com/sql/advanced-analytics/what-is-sql-server-machine-learning?view=sql-server-2017" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;a href="https://github.com/dbcli/mssql-cli/blob/master/README.rst" target="_blank" rel="noopener"&gt;</bpt>Command line tools <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;a href="https://github.com/dbcli/mssql-cli/blob/master/README.rst" target="_blank" rel="noopener"&gt;</bpt>Command line tools <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source>Microsoft AI</source>
+            <target state="new">Microsoft AI</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source>
+
+Innovate and accelerate with powerful tools and services that bring AI to every developer.</source>
+            <target state="new">
+
+Innovate and accelerate with powerful tools and services that bring AI to every developer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Learn more about Microsoft AI" href="https://www.microsoft.com/ai?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Learn more about Microsoft AI" href="https://www.microsoft.com/ai?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="23" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="bold"&gt;</bpt>Featured blog posts<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="bold"&gt;</bpt>Featured blog posts<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="24" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/05/PythonVSCode_AkaMsPython.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/05/PythonVSCode_AkaMsPython.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="25" xml:space="preserve">
+            <source>Python in Visual Studio Code – April 2018 Release
+
+</source>
+            <target state="new">Python in Visual Studio Code – April 2018 Release
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="26" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>Dan Taylor | May 2, 2018<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>Dan Taylor | May 2, 2018<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="27" xml:space="preserve">
+            <source>We are pleased to announce that the April 2018 release of the Python Extension for Visual Studio Code is now available from the marketplace and the gallery. ...</source>
+            <target state="new">We are pleased to announce that the April 2018 release of the Python Extension for Visual Studio Code is now available from the marketplace and the gallery. ...</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="28" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Read more about Python in Visual Studio Code – April 2018 Release" href="https://blogs.msdn.microsoft.com/pythonengineering/2018/05/02/python-in-visual-studio-code-april-2018-release/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Read more about Python in Visual Studio Code – April 2018 Release" href="https://blogs.msdn.microsoft.com/pythonengineering/2018/05/02/python-in-visual-studio-code-april-2018-release/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="29" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/05/AnacondaVSCode.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/05/AnacondaVSCode.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="30" xml:space="preserve">
+            <source>Visual Studio Code is now shipping with Anaconda!</source>
+            <target state="new">Visual Studio Code is now shipping with Anaconda!</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="31" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>John Lam | February 15, 2018<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>John Lam | February 15, 2018<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="32" xml:space="preserve">
+            <source>Anaconda, the most popular Python data science platform, provides 6 million users with a streamlined Python environment on Windows, Mac or Linux.</source>
+            <target state="new">Anaconda, the most popular Python data science platform, provides 6 million users with a streamlined Python environment on Windows, Mac or Linux.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="33" xml:space="preserve">
+            <source>And starting today, Visual Studio Code, Microsoft's free and cross-platform code editor, is included in the Anaconda distribution! ...</source>
+            <target state="new">And starting today, Visual Studio Code, Microsoft's free and cross-platform code editor, is included in the Anaconda distribution! ...</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="34" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Read more about Visual Studio Code is now shipping with Anaconda!" href="https://blogs.msdn.microsoft.com/pythonengineering/2018/02/15/visual-studio-code-is-now-shipping-with-anaconda/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Read more about Visual Studio Code is now shipping with Anaconda!" href="https://blogs.msdn.microsoft.com/pythonengineering/2018/02/15/visual-studio-code-is-now-shipping-with-anaconda/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="35" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/05/TypeHints.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/05/TypeHints.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="36" xml:space="preserve">
+            <source>Python in Visual Studio 2017 version 15.7
+
+</source>
+            <target state="new">Python in Visual Studio 2017 version 15.7
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="37" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>Dan Taylor | April 18, 2018<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>Dan Taylor | April 18, 2018<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="38" xml:space="preserve">
+            <source>Today we have released the first preview of our next update to Visual Studio 2017.</source>
+            <target state="new">Today we have released the first preview of our next update to Visual Studio 2017.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="39" xml:space="preserve">
+            <source>You will see a notification in Visual Studio within the next few days, or you can download the new installer from visualstudio.com. ...</source>
+            <target state="new">You will see a notification in Visual Studio within the next few days, or you can download the new installer from visualstudio.com. ...</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="40" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Read more about Python in Visual Studio 2017 version 15.7" href="https://blogs.msdn.microsoft.com/pythonengineering/2018/04/18/python-in-visual-studio-15-7-preview-4/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Read more about Python in Visual Studio 2017 version 15.7" href="https://blogs.msdn.microsoft.com/pythonengineering/2018/04/18/python-in-visual-studio-15-7-preview-4/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="41" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/05/vcvarsall-blog.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/05/vcvarsall-blog.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="42" xml:space="preserve">
+            <source>How to deal with the pain of “unable to find vcvarsall.bat”
+
+</source>
+            <target state="new">How to deal with the pain of “unable to find vcvarsall.bat”
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="43" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>Steve Dower | April 11, 2016<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;p class="author-date"&gt;</bpt>Steve Dower | April 11, 2016<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="44" xml:space="preserve">
+            <source>Python's packaging ecosystem is one of it's biggest strengths, but Windows users are often frustrated by packages that do not install properly.</source>
+            <target state="new">Python's packaging ecosystem is one of it's biggest strengths, but Windows users are often frustrated by packages that do not install properly.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="45" xml:space="preserve">
+            <source>One of the most common errors you will see is this one: "unable to find vcvarsall.bat" ...</source>
+            <target state="new">One of the most common errors you will see is this one: "unable to find vcvarsall.bat" ...</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="46" xml:space="preserve">
+            <source><bpt id="p1">&lt;a aria-label="Read more about How to deal with the pain of “unable to find vcvarsall.bat”" href="https://blogs.msdn.microsoft.com/pythonengineering/2016/04/11/unable-to-find-vcvarsall-bat/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a aria-label="Read more about How to deal with the pain of “unable to find vcvarsall.bat”" href="https://blogs.msdn.microsoft.com/pythonengineering/2016/04/11/unable-to-find-vcvarsall-bat/?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527181325887.1527267898118.3&amp;__hssc=268264337.1.1527267898118&amp;__hsfp=1692140661" target="_blank" rel="noopener"&gt;</bpt>Read more <ph id="ph1">&lt;i class="fa fa-angle-right fa-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="47" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/05/Try-Azure.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/05/Try-Azure.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="48" xml:space="preserve">
+            <source>Try Azure for free
+
+</source>
+            <target state="new">Try Azure for free
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="49" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #ffffff;"&gt;</bpt>Get started with $200 of Azure credits and 12 months of popular services - for free.<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #ffffff;"&gt;</bpt>Get started with $200 of Azure credits and 12 months of popular services - for free.<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="50" xml:space="preserve">
+            <source>Free trial of Microsoft Azure</source>
+            <target state="new">Free trial of Microsoft Azure</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="51" xml:space="preserve">
+            <source>Free trial</source>
+            <target state="new">Free trial</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

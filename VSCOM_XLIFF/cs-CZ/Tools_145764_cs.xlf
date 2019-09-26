@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54317-9b5aede671aafe9715bde01707c88b8f" source-language="en" target-language="cs" parent-post-id="145764" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/tools-8/"/></reference>
+		<skl>
+			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+            <source>Learn more about Azure DevOps Server 2019</source>
+            <target state="new">Learn more about Azure DevOps Server 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <source>Azure DevOps Server 2019 lets you share code, track work, and ship software using integrated software delivery tools, self-hosted in your environment.</source>
+            <target state="new">Azure DevOps Server 2019 lets you share code, track work, and ship software using integrated software delivery tools, self-hosted in your environment.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="3" xml:space="preserve">
+            <source>Azure DevOps Server 2019</source>
+            <target state="new">Azure DevOps Server 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="4" xml:space="preserve">
+            <source>Tools</source>
+            <target state="new">Tools</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

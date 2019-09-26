@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="42876-d2f76bd85945f690c3aa35a3bd730539" source-language="en" target-language="cs" parent-post-id="121168" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/get-support-for-visual-studio-tools-for-xamarin/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCg0KXyUyJV8NCl8lMyVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Get support for Visual Studio Tools for Xamarin</source>
+            <target state="new">Get support for Visual Studio Tools for Xamarin</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_focuskw-0" id="1" xml:space="preserve">
+            <source>Xamarin</source>
+            <target state="new">Xamarin</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="2" xml:space="preserve">
+            <source>Get support for Visual Studio Tools for Xamarin</source>
+            <target state="new">Get support for Visual Studio Tools for Xamarin</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="3" xml:space="preserve">
+            <source>Have questions about Xamarin?</source>
+            <target state="new">Have questions about Xamarin?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="4" xml:space="preserve">
+            <source>Here are a few resources that can help.</source>
+            <target state="new">Here are a few resources that can help.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;a style="color: #0067b7;" href="https://forums.xamarin.com/" target="_blank" rel="noopener"&gt;</bpt>Ask the Community<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a style="color: #0067b7;" href="https://forums.xamarin.com/" target="_blank" rel="noopener"&gt;</bpt>Ask the Community<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="6" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;a style="color: #0067b7;" href="https://support.microsoft.com/supportforbusiness/productselection?sapId=211dd84f-3474-c3c5-79bf-66db630c92a6" target="_blank" rel="noopener"&gt;</bpt>Contact Us<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;a style="color: #0067b7;" href="https://support.microsoft.com/supportforbusiness/productselection?sapId=211dd84f-3474-c3c5-79bf-66db630c92a6" target="_blank" rel="noopener"&gt;</bpt>Contact Us<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

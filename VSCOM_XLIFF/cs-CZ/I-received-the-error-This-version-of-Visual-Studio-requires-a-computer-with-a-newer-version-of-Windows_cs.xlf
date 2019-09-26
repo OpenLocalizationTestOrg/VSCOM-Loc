@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46721-7d5f37512d1df10496f9f7476bec20f7" source-language="en" target-language="cs" parent-post-id="80154" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/received-error-version-visual-studio-requires-computer-newer-version-windows/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfDQpfJTMlXw0KPGgzIGRhdGEtZm9udHNpemU9IjIyIiBkYXRhLWxpbmVoZWlnaHQ9IjI5Ij4xLiBfJTQlXw0KXyU1JV8NCjxoMyBkYXRhLWZvbnRzaXplPSIyMiIgZGF0YS1saW5laGVpZ2h0PSIyOSI+Mi4gXyU2JV8NCl8lNyVfDQpfJTglXw0KPC9vbD4NCjxpbWcgc3JjPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA0L3Zpc3VhbC1zdHVkaW8tcmVxdWlyZXMtbmV3ZXItdmVyc2lvbi1vZi13aW5kb3dzLnBuZyIgYWx0PSJXaW5kb3dzIGVkaXRpb24gc2VjdGlvbiBvZiBQcm9wZXJ0aWVzIj48L2ltZz4NCjxoMyBjbGFzcz0iIiBkYXRhLWZvbnRzaXplPSIyMiIgZGF0YS1saW5laGVpZ2h0PSIyOSI+My4gXyU5JV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I received the error "This version of Visual Studio requires a computer with a newer version of Windows!"</source>
+            <target state="new">I received the error "This version of Visual Studio requires a computer with a newer version of Windows!"</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>When attempting to install Visual Studio 2015, you receive the message: "This version of Visual Studio requires a computer with a newer version of Windows!".</source>
+            <target state="new">When attempting to install Visual Studio 2015, you receive the message: "This version of Visual Studio requires a computer with a newer version of Windows!".</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Visual Studio 2015 minimum operating <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2015-sysrequirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>system requirement<ept id="p1">&lt;/a&gt;</ept> is Windows 7 with Service Pack 1 (or higher).</source>
+            <target state="new">Visual Studio 2015 minimum operating <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/productinfo/vs2015-sysrequirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt>system requirement<ept id="p1">&lt;/a&gt;</ept> is Windows 7 with Service Pack 1 (or higher).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>Download Service Pack 1 (SP1)<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Download Service Pack 1 (SP1)<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>You can download and install SP1 for Windows 7 from <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free.</source>
+            <target state="new">You can download and install SP1 for Windows 7 from <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Confirm that SP1 is installed by following these steps<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Confirm that SP1 is installed by following these steps<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Click Start, right-click Computer, and then click Properties.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Click Start, right-click Computer, and then click Properties.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Check the Windows edition section: If Service Pack 1 is listed, Windows 7 SP1 is already installed on your computer.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Check the Windows edition section: If Service Pack 1 is listed, Windows 7 SP1 is already installed on your computer.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>Launch the Visual Studio installer again<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Launch the Visual Studio installer again<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

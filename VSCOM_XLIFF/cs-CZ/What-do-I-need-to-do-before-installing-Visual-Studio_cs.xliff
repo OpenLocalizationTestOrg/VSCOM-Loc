@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="38670-2ee9d3715d29f4ae047a4afc06033bd5" source-language="en" target-language="cs" parent-post-id="80209" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/need-installing-visual-studio/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCjxoMiBkYXRhLWxpbmVoZWlnaHQ9IjI2IiBkYXRhLWZvbnRzaXplPSIyMCI+MS4gXyUyJV8NCl8lMyVfIF8lNCVfIF8lNSVfDQo8aDIgZGF0YS1saW5laGVpZ2h0PSIyNiIgZGF0YS1mb250c2l6ZT0iMjAiPjIuIF8lNiVfDQpfJTclXw0KPGgyIGRhdGEtbGluZWhlaWdodD0iMjYiIGRhdGEtZm9udHNpemU9IjIwIj4zLiBfJTglXw0KXyU5JV8gXyUxMCVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Download and Installation on what is needed before installing Visual Studio.</source>
+            <target state="new">Visual Studio 2015 Download and Installation on what is needed before installing Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>What do I need to do before installing Visual Studio?</source>
+            <target state="new">What do I need to do before installing Visual Studio?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Depending on your requirements and component selection, Visual Studio must manage a complex orchestration of packages, tools and SDK's.</source>
+            <target state="new">Depending on your requirements and component selection, Visual Studio must manage a complex orchestration of packages, tools and SDK's.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>In order to minimize any risk of incompatibility, we recommend going through this quick pre-flight check list to ensure that the underlying operation system can support Visual Studio.</source>
+            <target state="new">In order to minimize any risk of incompatibility, we recommend going through this quick pre-flight check list to ensure that the underlying operation system can support Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>Check your operating system and apply latest Windows Updates<ept id="p">&lt;/h2&gt;</ept></source>
+            <target state="new">Check your operating system and apply latest Windows Updates<ept id="p">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Visual Studio requires Windows 7 Service Pack 1 or newer.</source>
+            <target state="new">Visual Studio requires Windows 7 Service Pack 1 or newer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>Please make sure that at a minimum you have Service Pack 1 installed and apply the latest Windows Updates.</source>
+            <target state="new">Please make sure that at a minimum you have Service Pack 1 installed and apply the latest Windows Updates.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source>For more information about system requirements, please find the system requirements below.</source>
+            <target state="new">For more information about system requirements, please find the system requirements below.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source>Run the installer as an Administrator<ept id="p">&lt;/h2&gt;</ept></source>
+            <target state="new">Run the installer as an Administrator<ept id="p">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source>The Visual Studio installer requires admin rights to install system packages and other dependencies.</source>
+            <target state="new">The Visual Studio installer requires admin rights to install system packages and other dependencies.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source>Check for disk space<ept id="p">&lt;/h2&gt;</ept></source>
+            <target state="new">Check for disk space<ept id="p">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source>Visual Studio requires 4GB of disk space at the minimum.</source>
+            <target state="new">Visual Studio requires 4GB of disk space at the minimum.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source>Depending on your selection of workloads, installation packages can grow up to 30GB.</source>
+            <target state="new">Depending on your selection of workloads, installation packages can grow up to 30GB.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

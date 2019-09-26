@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="43805-3a00846aa86d5d8142a85ee69de75162" source-language="en" target-language="cs" parent-post-id="120512" version="4" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/older-downloads/isolated-shell/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWZlYXR1cmUtaGVybyB2c2NvbS1mZWF0dXJlLWhlcm8tLWNlbnRlciIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8tdGV4dGNvbCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fZmVhdHVyZV9oZXJvIHRpdGxlPSJfJTAlXyIgY3NzX2NsYXNzZXM9IiIgcmVhZG1vcmVfdXJsPSIiIHJlYWRtb3JlX3RleHQ9Il8lMSVfIiByZWFkbW9yZV9hcmlhPSIiIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIi9dWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9Ijc1cHgiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgZGltZW5zaW9uX21hcmdpbj0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl1fJTIlX18lMyVfXyU0JV9fJTUlX18lNiVfXyU3JV9bL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0ibGljZW5zZSIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyU4JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3NlcGFyYXRvciBzdHlsZV90eXBlPSJzaW5nbGUgc29saWQiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSIiIGJvdHRvbV9tYXJnaW49IiIgYm9yZGVyX3NpemU9IiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdXyU5JV9fJTEwJV9fJTExJV9bL2Z1c2lvbl90ZXh0XVtmdXNpb25fc2VwYXJhdG9yIHN0eWxlX3R5cGU9InNpbmdsZSBzb2xpZCIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2VwX2NvbG9yPSIiIHRvcF9tYXJnaW49IiIgYm90dG9tX21hcmdpbj0iIiBib3JkZXJfc2l6ZT0iIiBpY29uPSIiIGljb25fY2lyY2xlPSIiIGljb25fY2lyY2xlX2NvbG9yPSIiIHdpZHRoPSIiIGFsaWdubWVudD0iY2VudGVyIi9dW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl1fJTEyJV8NCjxzdHJvbmc+MS4gXyUxMyVfDQpfJTE0JV8gXyUxNSVfDQoNCl8lMTYlXyBfJTE3JV8NCg0KXyUxOCVfIF8lMTklXyBfJTIwJV8NCg0KXyUyMSVfIF8lMjIlXyBfJTIzJV8NCg0KPHN0cm9uZz4yLiBfJTI0JV8gXyUyNSVfIF8lMjYlXw0KDQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXQ0KPHVsPg0KIAlfJTI3JV8gXyUyOCVfDQogCV8lMjklXw0KPC91bD4NCgpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdXyUzMCVfIF8lMzElXw0KXyUzMiVfDQpfJTMzJV8NCjwvdWw+DQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lMzQlXyBfJTM1JV8NCl8lMzYlXw0KXyUzNyVfIF8lMzglXw0KPC91bD4NCgpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdXyUzOSVfIF8lNDAlXw0KXyU0MSVfDQo8L3VsPg0KClsvZnVzaW9uX3RleHRdW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl0NCg0KPHN0cm9uZz4zLiBfJTQyJV8NCl8lNDMlXyBfJTQ0JV8gXyU0NSVfIF8lNDYlXyBfJTQ3JV8gXyU0OCVfIF8lNDklXw0KXyU1MCVfIF8lNTElXw0KDQpfJTUyJV8gXyU1MyVfIF8lNTQlXyBfJTU1JV8gXyU1NiVfDQoNCjxzdHJvbmc+NC4gXyU1NyVfIF8lNTglXyBfJTU5JV8gXyU2MCVfIF8lNjElXw0KXyU2MiVfDQpfJTYzJV8NCl8lNjQlXw0KXyU2NSVfDQpfJTY2JV8NCjwvdWw+DQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXTxzdHJvbmc+NS4gXyU2NyVfIF8lNjglXw0KDQo8c3Ryb25nPjYuIF8lNjklXw0KDQo8c3Ryb25nPjcuIF8lNzAlXw0KDQo8c3Ryb25nPjguIF8lNzElXw0KDQo8c3Ryb25nPjkuIF8lNzIlXyBfJTczJV8gXyU3NCVfIF8lNzUlXyBfJTc2JV8gXyU3NyVfDQoNCl8lNzglXyBfJTc5JV8gXyU4MCVfDQoNCl8lODElXyBfJTgyJV8NCl8lODMlXyBfJTg0JV8NCl8lODUlXw0KDQpfJTg2JV8gXyU4NyVfDQoNCjxzdHJvbmc+MTAuIF8lODglXyBfJTg5JV8gXyU5MCVfIF8lOTElXw0KDQo8c3Ryb25nPjExLiBfJTkyJV8gXyU5MyVfIF8lOTQlXw0KXyU5NSVfIF8lOTYlXyBfJTk3JV8KWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lOTglXwpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fY29kZV1QSE5qY21sd2RENEthbEYxWlhKNUtHWjFibU4wYVc5dUtDbDdDaUFnYWxGMVpYSjVLQ2NqWVdOalpYQjBKeWt1WTJoaGJtZGxLR1oxYm1OMGFXOXVLQ2w3Q2lBZ0lHbG1LSFJvYVhNdVkyaGxZMnRsWkNsN0NpQWdJQ0FnSUdwUmRXVnllU2duTG5SaFlteGxMV052Ym5SbGJuUW5LUzVqYzNNb0oyUnBjM0JzWVhrbkxDZGliRzlqYXljcE93b2dJQ0FnZldWc2MyVjdDaUFnSUNBZ0lDQWdhbEYxWlhKNUtDY3VkR0ZpYkdVdFkyOXVkR1Z1ZENjcExtaHBaR1VvS1RzS0lDQWdJSDBLSUNBZ0lBb2dJSDBwT3dwOUtUc0tQQzl6WTNKcGNIUStbL2Z1c2lvbl9jb2RlXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ0YWJsZS1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGRpbWVuc2lvbl9tYXJnaW49IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTk5JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lMTAwJV8KWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXTx0YWJsZT4NCjx0aGVhZD4NCjx0cj4NCl8lMTAxJV8NCjwvdHI+DQo8L3RoZWFkPg0KPHRib2R5Pg0KPHRyPg0KPHRkPl8lMTAyJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMDMlXwoKCgo8L3RkPg0KPC90cj4NCjx0cj4NCjx0ZD5fJTEwNCVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMTA1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMDYlXwoKCgo8L3RkPg0KPC90cj4NCjx0cj4NCjx0ZD5fJTEwNyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMTA4JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMDklXwoKCgo8L3RkPg0KPC90cj4NCjx0cj4NCjx0ZD5fJTExMCVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMTExJV8KCgoKPC90ZD4NCjwvdHI+DQo8L3Rib2R5Pg0KPC90YWJsZT4KWy9mdXNpb25fdGV4dF0KWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dClsvZnVzaW9uX2J1aWxkZXJfcm93XQpbL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idGFibGUtY29udGVudCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lMTEyJV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lMTEzJV8KWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXQ0KPHRhYmxlPg0KPHRoZWFkPg0KPHRyPg0KXyUxMTQlXw0KXyUxMTUlXw0KPC90cj4NCjwvdGhlYWQ+DQo8dGJvZHk+DQo8dHI+DQo8dGQ+XyUxMTYlXwoKCgo8L3RkPg0KPHRkPl8lMTE3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMTglXwoKCgo8L3RkPg0KPHRkPl8lMTE5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMjAlXwoKCgo8L3RkPg0KPHRkPl8lMTIxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMjIlXwoKCgo8L3RkPg0KPHRkPl8lMTIzJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMjQlXwoKCgo8L3RkPg0KPHRkPl8lMTI1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMjYlXwoKCgo8L3RkPg0KPHRkPl8lMTI3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMjglXwoKCgo8L3RkPg0KPHRkPl8lMTI5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMzAlXwoKCgo8L3RkPg0KPHRkPl8lMTMxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMzIlXwoKCgo8L3RkPg0KPHRkPl8lMTMzJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMzQlXwoKCgo8L3RkPg0KPHRkPl8lMTM1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMzYlXwoKCgo8L3RkPg0KPHRkPl8lMTM3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxMzglXwoKCgo8L3RkPg0KPHRkPl8lMTM5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNDAlXwoKCgo8L3RkPg0KPHRkPl8lMTQxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNDIlXwoKCgo8L3RkPg0KPHRkPl8lMTQzJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNDQlXwoKCgo8L3RkPg0KPHRkPl8lMTQ1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNDYlXwoKCgo8L3RkPg0KPHRkPl8lMTQ3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNDglXwoKCgo8L3RkPg0KPHRkPl8lMTQ5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNTAlXwoKCgo8L3RkPg0KPHRkPl8lMTUxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNTIlXwoKCgo8L3RkPg0KPHRkPl8lMTUzJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNTQlXwoKCgo8L3RkPg0KPHRkPl8lMTU1JV8KCgoKPC90ZD4NCjwvdHI+DQo8L3Rib2R5Pg0KPC90YWJsZT4NCgpbL2Z1c2lvbl90ZXh0XQpbL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl0KWy9mdXNpb25fYnVpbGRlcl9yb3ddClsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ0YWJsZS1jb250ZW50IiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIyIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyUxNTYlX1svZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdXyUxNTclXwpbL2Z1c2lvbl90ZXh0XVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdPHRhYmxlPg0KPHRoZWFkPg0KPHRyPg0KXyUxNTglXw0KXyUxNTklXw0KPC90cj4NCjwvdGhlYWQ+DQo8dGJvZHk+DQo8dHI+DQo8dGQ+XyUxNjAlXwoKCgo8L3RkPg0KPHRkPl8lMTYxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNjIlXwoKCgo8L3RkPg0KPHRkPl8lMTYzJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNjQlXwoKCgo8L3RkPg0KPHRkPl8lMTY1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNjYlXwoKCgo8L3RkPg0KPHRkPl8lMTY3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNjglXwoKCgo8L3RkPg0KPHRkPl8lMTY5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNzAlXwoKCgo8L3RkPg0KPHRkPl8lMTcxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNzIlXwoKCgo8L3RkPg0KPHRkPl8lMTczJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNzQlXwoKCgo8L3RkPg0KPHRkPl8lMTc1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNzYlXwoKCgo8L3RkPg0KPHRkPl8lMTc3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxNzglXwoKCgo8L3RkPg0KPHRkPl8lMTc5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxODAlXwoKCgo8L3RkPg0KPHRkPl8lMTgxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxODIlXwoKCgo8L3RkPg0KPHRkPl8lMTgzJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxODQlXwoKCgo8L3RkPg0KPHRkPl8lMTg1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxODYlXwoKCgo8L3RkPg0KPHRkPl8lMTg3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxODglXwoKCgo8L3RkPg0KPHRkPl8lMTg5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxOTAlXwoKCgo8L3RkPg0KPHRkPl8lMTkxJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxOTIlXwoKCgo8L3RkPg0KPHRkPl8lMTkzJV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxOTQlXwoKCgo8L3RkPg0KPHRkPl8lMTk1JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxOTYlXwoKCgo8L3RkPg0KPHRkPl8lMTk3JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUxOTglXwoKCgo8L3RkPg0KPHRkPl8lMTk5JV8KCgoKPC90ZD4NCjwvdHI+DQo8dHI+DQo8dGQ+XyUyMDAlXwoKCgo8L3RkPg0KPHRkPl8lMjAxJV8KCgoKPC90ZD4NCjwvdHI+DQo8L3Rib2R5Pg0KPC90YWJsZT4KWy9mdXNpb25fdGV4dF0KWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dClsvZnVzaW9uX2J1aWxkZXJfcm93XQpbL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idGFibGUtY29udGVudCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMyIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lMjAyJV8KWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl1fJTIwMyVfClsvZnVzaW9uX3RleHRdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lMjA0JV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXV8lMjA1JV8KWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXTx0YWJsZT4NCjx0aGVhZD4NCjx0cj4NCl8lMjA2JV8NCl8lMjA3JV8NCjwvdHI+DQo8L3RoZWFkPg0KPHRib2R5Pg0KPHRyPg0KPHRkPl8lMjA4JV8KCgoKPC90ZD4NCjx0ZD5fJTIwOSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjEwJV8KCgoKPC90ZD4NCjx0ZD5fJTIxMSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjEyJV8KCgoKPC90ZD4NCjx0ZD5fJTIxMyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjE0JV8KCgoKPC90ZD4NCjx0ZD5fJTIxNSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjE2JV8KCgoKPC90ZD4NCjx0ZD5fJTIxNyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjE4JV8KCgoKPC90ZD4NCjx0ZD5fJTIxOSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjIwJV8KCgoKPC90ZD4NCjx0ZD5fJTIyMSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjIyJV8KCgoKPC90ZD4NCjx0ZD5fJTIyMyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjI0JV8KCgoKPC90ZD4NCjx0ZD5fJTIyNSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjI2JV8KCgoKPC90ZD4NCjx0ZD5fJTIyNyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjI4JV8KCgoKPC90ZD4NCjx0ZD5fJTIyOSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjMwJV8KCgoKPC90ZD4NCjx0ZD5fJTIzMSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjMyJV8KCgoKPC90ZD4NCjx0ZD5fJTIzMyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjM0JV8KCgoKPC90ZD4NCjx0ZD5fJTIzNSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjM2JV8KCgoKPC90ZD4NCjx0ZD5fJTIzNyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjM4JV8KCgoKPC90ZD4NCjx0ZD5fJTIzOSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjQwJV8KCgoKPC90ZD4NCjx0ZD5fJTI0MSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjQyJV8KCgoKPC90ZD4NCjx0ZD5fJTI0MyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjQ0JV8KCgoKPC90ZD4NCjx0ZD5fJTI0NSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjQ2JV8KCgoKPC90ZD4NCjx0ZD5fJTI0NyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjQ4JV8KCgoKPC90ZD4NCjx0ZD5fJTI0OSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjUwJV8KCgoKPC90ZD4NCjx0ZD5fJTI1MSVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjUyJV8KCgoKPC90ZD4NCjx0ZD5fJTI1MyVfCgoKCjwvdGQ+DQo8L3RyPg0KPHRyPg0KPHRkPl8lMjU0JV8KCgoKPC90ZD4NCjx0ZD5fJTI1NSVfCgoKCjwvdGQ+DQo8L3RyPg0KPC90Ym9keT4NCjwvdGFibGU+ClsvZnVzaW9uX3RleHRdClsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXQpbL2Z1c2lvbl9idWlsZGVyX3Jvd10KWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Visual Studio Isolated Shell</source>
+            <target state="new">Visual Studio Isolated Shell</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Visual Studio Isolated Shell</source>
+            <target state="new">Visual Studio Isolated Shell</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>The Visual Studio Shell enables Visual Studio Partners to build tools and applications on top of the Visual Studio IDE.</source>
+            <target state="new">The Visual Studio Shell enables Visual Studio Partners to build tools and applications on top of the Visual Studio IDE.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source> Using integrated mode, you can release a Visual Studio extension for use by customers who have not installed Visual Studio.</source>
+            <target state="new"> Using integrated mode, you can release a Visual Studio extension for use by customers who have not installed Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source> In isolated mode, you can release a custom application that makes use of a subset of Visual Studio IDE features.
+
+</source>
+            <target state="new"> In isolated mode, you can release a custom application that makes use of a subset of Visual Studio IDE features.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>The Visual Studio Shell is available for Visual Studio 2015, Visual Studio 2013, Visual Studio 2012, and Visual Studio 2010.</source>
+            <target state="new">The Visual Studio Shell is available for Visual Studio 2015, Visual Studio 2013, Visual Studio 2012, and Visual Studio 2010.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source> It is not available for Visual Studio 2017.
+
+</source>
+            <target state="new"> It is not available for Visual Studio 2017.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>To access the Visual Studio Shell downloads and documentation, you must accept the Microsoft Software License Terms below.</source>
+            <target state="new">To access the Visual Studio Shell downloads and documentation, you must accept the Microsoft Software License Terms below.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>MICROSOFT SOFTWARE LICENSE TERMS | MICROSOFT VISUAL STUDIO ISOLATED AND INTEGRATED SHELLS</source>
+            <target state="new">MICROSOFT SOFTWARE LICENSE TERMS | MICROSOFT VISUAL STUDIO ISOLATED AND INTEGRATED SHELLS</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.</source>
+            <target state="new">These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source> They apply to the software named above.</source>
+            <target state="new"> They apply to the software named above.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source> The terms also apply to any Microsoft services or updates for the software, except to the extent those have different terms.
+
+</source>
+            <target state="new"> The terms also apply to any Microsoft services or updates for the software, except to the extent those have different terms.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>
+
+<bpt id="p1">&lt;strong&gt;</bpt>IF YOU COMPLY WITH THESE LICENSE TERMS, YOU HAVE THE RIGHTS BELOW.<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new">
+
+<bpt id="p1">&lt;strong&gt;</bpt>IF YOU COMPLY WITH THESE LICENSE TERMS, YOU HAVE THE RIGHTS BELOW.<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source>INSTALLATION AND USE RIGHTS.<ept id="p">&lt;/strong&gt;</ept></source>
+            <target state="new">INSTALLATION AND USE RIGHTS.<ept id="p">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;strong&gt;</bpt>a.</source>
+            <target state="new">
+<bpt id="p1">&lt;strong&gt;</bpt>a.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source>Installation and Use.<ept id="p">&lt;/strong&gt;</ept> You and your organization may use copies of the Visual Studio Isolated or Integrated Shells (the “software” or “the Shell”) with Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, or Visual Studio 2015 to develop and test your applications.</source>
+            <target state="new">Installation and Use.<ept id="p">&lt;/strong&gt;</ept> You and your organization may use copies of the Visual Studio Isolated or Integrated Shells (the “software” or “the Shell”) with Visual Studio 2008, Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, or Visual Studio 2015 to develop and test your applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>b.</source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>b.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>Demo Use.<ept id="p">&lt;/strong&gt;</ept> The uses permitted above include use of the software in demonstrating your applications.</source>
+            <target state="new">Demo Use.<ept id="p">&lt;/strong&gt;</ept> The uses permitted above include use of the software in demonstrating your applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source>c.</source>
+            <target state="new">c.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source>Sample Code and Templates.</source>
+            <target state="new">Sample Code and Templates.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source>You and your organization may use and modify the sample code and templates in the software to customize your applications.</source>
+            <target state="new">You and your organization may use and modify the sample code and templates in the software to customize your applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>d.</source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>d.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="23" xml:space="preserve">
+            <source>Third Party Components.<ept id="p">&lt;/strong&gt;</ept> The software may include third party components with separate legal notices or governed by other agreements, as may be described in the ThirdPartyNotices file(s) accompanying the software.</source>
+            <target state="new">Third Party Components.<ept id="p">&lt;/strong&gt;</ept> The software may include third party components with separate legal notices or governed by other agreements, as may be described in the ThirdPartyNotices file(s) accompanying the software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="24" xml:space="preserve">
+            <source>Even if such components are governed by other agreements, the disclaimers and the limitations on and exclusions of damages below also apply.</source>
+            <target state="new">Even if such components are governed by other agreements, the disclaimers and the limitations on and exclusions of damages below also apply.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="25" xml:space="preserve">
+            <source>DISTRIBUTABLE CODE.<ept id="p">&lt;/strong&gt;</ept> The software contains code that you are permitted to distribute in applications you develop if you comply with the terms below.</source>
+            <target state="new">DISTRIBUTABLE CODE.<ept id="p">&lt;/strong&gt;</ept> The software contains code that you are permitted to distribute in applications you develop if you comply with the terms below.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="26" xml:space="preserve">
+            <source>(For this Section the term “distribution” also means deployment of your applications for third parties to access over the Internet.)
+<bpt id="p1">&lt;strong&gt;</bpt>a.</source>
+            <target state="new">(For this Section the term “distribution” also means deployment of your applications for third parties to access over the Internet.)
+<bpt id="p1">&lt;strong&gt;</bpt>a.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="27" xml:space="preserve">
+            <source>Distribution Rights.<ept id="p">&lt;/strong&gt;</ept></source>
+            <target state="new">Distribution Rights.<ept id="p">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="28" xml:space="preserve">
+            <source><bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;em&gt;</bpt>Shell.<ept id="p2">&lt;/em&gt;</ept> You may copy and distribute the unmodified object code form of the software provided by Microsoft.</source>
+            <target state="new"><bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;em&gt;</bpt>Shell.<ept id="p2">&lt;/em&gt;</ept> You may copy and distribute the unmodified object code form of the software provided by Microsoft.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="29" xml:space="preserve">
+            <source>You may modify certain
+configuration files as indicated in the documentation for the software.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">You may modify certain
+configuration files as indicated in the documentation for the software.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="30" xml:space="preserve">
+            <source><bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;em&gt;</bpt>Third Party Distribution.<ept id="p2">&lt;/em&gt;</ept> You may permit distributors of your applications to copy and distribute the software as part of those
+applications.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;em&gt;</bpt>Third Party Distribution.<ept id="p2">&lt;/em&gt;</ept> You may permit distributors of your applications to copy and distribute the software as part of those
+applications.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="31" xml:space="preserve">
+            <source>
+
+<bpt id="p1">&lt;strong&gt;</bpt>b.</source>
+            <target state="new">
+
+<bpt id="p1">&lt;strong&gt;</bpt>b.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="32" xml:space="preserve">
+            <source>Distribution Requirements.<ept id="p">&lt;/strong&gt;</ept> To distribute the Shell you must:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>add significant primary functionality to it in your applications;<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">Distribution Requirements.<ept id="p">&lt;/strong&gt;</ept> To distribute the Shell you must:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>add significant primary functionality to it in your applications;<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="33" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>require distributors and external end users to agree to terms that
+protect the software at least as much as this agreement does;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>require distributors and external end users to agree to terms that
+protect the software at least as much as this agreement does;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="34" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>indemnify, defend, and hold harmless Microsoft from any claims,
+including attorneys’ fees, related to the distribution or use of your
+applications, except to the extent that any claim is based solely on
+the distributable code described in Section 2 above.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>indemnify, defend, and hold harmless Microsoft from any claims,
+including attorneys’ fees, related to the distribution or use of your
+applications, except to the extent that any claim is based solely on
+the distributable code described in Section 2 above.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="35" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>c.</source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>c.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="36" xml:space="preserve">
+            <source>Distribution Restrictions.<ept id="p">&lt;/strong&gt;</ept> You may not:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>use Microsoft’s trademarks in your applications’ names in a way that suggests your applications come from or are endorsed by Microsoft;<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">Distribution Restrictions.<ept id="p">&lt;/strong&gt;</ept> You may not:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>use Microsoft’s trademarks in your applications’ names in a way that suggests your applications come from or are endorsed by Microsoft;<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="37" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>distribute any extraction script that Microsoft may provide; or,<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>distribute any extraction script that Microsoft may provide; or,<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="38" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>modify or distribute the software so that any part of it becomes subject to an Excluded License.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>modify or distribute the software so that any part of it becomes subject to an Excluded License.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="39" xml:space="preserve">
+            <source>An Excluded License is one that requires, as a condition of use, modification or distribution, that (i) the software be disclosed or distributed in source code form; or (ii) others have the right to modify it.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">An Excluded License is one that requires, as a condition of use, modification or distribution, that (i) the software be disclosed or distributed in source code form; or (ii) others have the right to modify it.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="40" xml:space="preserve">
+            <source>
+
+<bpt id="p1">&lt;strong&gt;</bpt>d.</source>
+            <target state="new">
+
+<bpt id="p1">&lt;strong&gt;</bpt>d.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="41" xml:space="preserve">
+            <source>Developing for the Shell.<ept id="p">&lt;/strong&gt;</ept> In addition to the requirements and restrictions for the software
+described above, the following applies to your applications that work with the software:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;em&gt;</bpt>Limits on Extensions and Functionality.<ept id="p3">&lt;/em&gt;</ept> You will not develop, or
+enable others to develop, functionality for or any extension to the
+software that circumvents the technical limitations implemented in the software; or is substantially
+similar to or otherwise competes with any Microsoft products.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">Developing for the Shell.<ept id="p">&lt;/strong&gt;</ept> In addition to the requirements and restrictions for the software
+described above, the following applies to your applications that work with the software:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;em&gt;</bpt>Limits on Extensions and Functionality.<ept id="p3">&lt;/em&gt;</ept> You will not develop, or
+enable others to develop, functionality for or any extension to the
+software that circumvents the technical limitations implemented in the software; or is substantially
+similar to or otherwise competes with any Microsoft products.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="42" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;em&gt;</bpt>No Degrading Visual Studio.<ept id="p2">&lt;/em&gt;</ept> You will design and test the
+installation, uninstallation, and operation of your applications to
+ensure that such processes do not disable any features or adversely
+affect the functionality of any edition of the Visual Studio family
+of products.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;em&gt;</bpt>No Degrading Visual Studio.<ept id="p2">&lt;/em&gt;</ept> You will design and test the
+installation, uninstallation, and operation of your applications to
+ensure that such processes do not disable any features or adversely
+affect the functionality of any edition of the Visual Studio family
+of products.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="43" xml:space="preserve">
+            <source>DATA.<ept id="p">&lt;/strong&gt;</ept></source>
+            <target state="new">DATA.<ept id="p">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="44" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;strong&gt;</bpt>a.</source>
+            <target state="new">
+<bpt id="p1">&lt;strong&gt;</bpt>a.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="45" xml:space="preserve">
+            <source>Collection and Use.<ept id="p">&lt;/strong&gt;</ept> The software may collect information about you and your use of the software and send that to Microsoft.</source>
+            <target state="new">Collection and Use.<ept id="p">&lt;/strong&gt;</ept> The software may collect information about you and your use of the software and send that to Microsoft.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="46" xml:space="preserve">
+            <source>Microsoft may use this information to provide services and improve our products and services.</source>
+            <target state="new">Microsoft may use this information to provide services and improve our products and services.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="47" xml:space="preserve">
+            <source>You may opt out of many of these scenarios, but not all, as described in the product documentation.</source>
+            <target state="new">You may opt out of many of these scenarios, but not all, as described in the product documentation.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="48" xml:space="preserve">
+            <source>There are also some features in the software that may enable you and Microsoft to collect data
+from users of your applications.</source>
+            <target state="new">There are also some features in the software that may enable you and Microsoft to collect data
+from users of your applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="49" xml:space="preserve">
+            <source>If you use these features, you must comply with applicable law, including providing appropriate notices to users of your applications and you should provide a copy of our privacy statement to your users.</source>
+            <target state="new">If you use these features, you must comply with applicable law, including providing appropriate notices to users of your applications and you should provide a copy of our privacy statement to your users.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="50" xml:space="preserve">
+            <source>Our privacy statement is located <bpt id="p1">&lt;a href="https://go.microsoft.com/fwlink/?LinkID=824704"&gt;</bpt>here<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Our privacy statement is located <bpt id="p1">&lt;a href="https://go.microsoft.com/fwlink/?LinkID=824704"&gt;</bpt>here<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="51" xml:space="preserve">
+            <source>You can learn more about data collection and use in the help documentation and our privacy statement.</source>
+            <target state="new">You can learn more about data collection and use in the help documentation and our privacy statement.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%51%_" id="52" xml:space="preserve">
+            <source>Your use of the software operates as your consent to these practices.</source>
+            <target state="new">Your use of the software operates as your consent to these practices.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%52%_" id="53" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>b.</source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>b.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%53%_" id="54" xml:space="preserve">
+            <source>Automatic Download Feature.<ept id="p">&lt;/strong&gt;</ept> The software includes a feature that will detect whether your customer’s machine contains Microsoft components that are needed for the software to run, such as the .NET Framework.</source>
+            <target state="new">Automatic Download Feature.<ept id="p">&lt;/strong&gt;</ept> The software includes a feature that will detect whether your customer’s machine contains Microsoft components that are needed for the software to run, such as the .NET Framework.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%54%_" id="55" xml:space="preserve">
+            <source>The software will automatically download and install such components over the Internet if they are not present on your customer’s machine.</source>
+            <target state="new">The software will automatically download and install such components over the Internet if they are not present on your customer’s machine.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%55%_" id="56" xml:space="preserve">
+            <source>The software does not notify the user that such components are being installed.</source>
+            <target state="new">The software does not notify the user that such components are being installed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%56%_" id="57" xml:space="preserve">
+            <source>You will comply with all applicable laws and notice obligations necessary to inform your customer of this automatic download feature.</source>
+            <target state="new">You will comply with all applicable laws and notice obligations necessary to inform your customer of this automatic download feature.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%57%_" id="58" xml:space="preserve">
+            <source>SCOPE OF LICENSE.<ept id="p">&lt;/strong&gt;</ept> The software is licensed, not sold.</source>
+            <target state="new">SCOPE OF LICENSE.<ept id="p">&lt;/strong&gt;</ept> The software is licensed, not sold.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%58%_" id="59" xml:space="preserve">
+            <source>This agreement only gives you some rights to use the software.</source>
+            <target state="new">This agreement only gives you some rights to use the software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%59%_" id="60" xml:space="preserve">
+            <source>Microsoft reserves all other rights.</source>
+            <target state="new">Microsoft reserves all other rights.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%60%_" id="61" xml:space="preserve">
+            <source>Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.</source>
+            <target state="new">Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%61%_" id="62" xml:space="preserve">
+            <source>In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.</source>
+            <target state="new">In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%62%_" id="63" xml:space="preserve">
+            <source>You may not:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>work around any technical limitations in the software;<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">You may not:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>work around any technical limitations in the software;<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%63%_" id="64" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>reverse engineer, decompile or disassemble the software, or otherwise attempt to derive the source code for the software except and to the extent required by third party licensing terms governing use of certain open source components that may be included in the software;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>reverse engineer, decompile or disassemble the software, or otherwise attempt to derive the source code for the software except and to the extent required by third party licensing terms governing use of certain open source components that may be included in the software;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%64%_" id="65" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>remove, minimize, block or modify any notices of Microsoft or its suppliers in the software;<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>remove, minimize, block or modify any notices of Microsoft or its suppliers in the software;<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%65%_" id="66" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>use the software in any way that is against the law; or<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>use the software in any way that is against the law; or<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%66%_" id="67" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>share, publish, rent or lease the software, or provide the software as a stand-alone hosted solution for others to use, or transfer the
+software or this agreement to any third party.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>share, publish, rent or lease the software, or provide the software as a stand-alone hosted solution for others to use, or transfer the
+software or this agreement to any third party.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%67%_" id="68" xml:space="preserve">
+            <source>EXPORT RESTRICTIONS.<ept id="p">&lt;/strong&gt;</ept> You must comply with all domestic and international export laws and regulations that apply to the software, which include restrictions on destinations, end users, and end use.</source>
+            <target state="new">EXPORT RESTRICTIONS.<ept id="p">&lt;/strong&gt;</ept> You must comply with all domestic and international export laws and regulations that apply to the software, which include restrictions on destinations, end users, and end use.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%68%_" id="69" xml:space="preserve">
+            <source>For further information on export restrictions, visit <bpt id="p1">&lt;a href="https://www.microsoft.com/exporting"&gt;</bpt>www.microsoft.com/exporting<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">For further information on export restrictions, visit <bpt id="p1">&lt;a href="https://www.microsoft.com/exporting"&gt;</bpt>www.microsoft.com/exporting<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%69%_" id="70" xml:space="preserve">
+            <source>SUPPORT SERVICES.<ept id="p">&lt;/strong&gt;</ept> Because this software is “as is,” we may not provide support services for it.</source>
+            <target state="new">SUPPORT SERVICES.<ept id="p">&lt;/strong&gt;</ept> Because this software is “as is,” we may not provide support services for it.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%70%_" id="71" xml:space="preserve">
+            <source>ENTIRE AGREEMENT.<ept id="p">&lt;/strong&gt;</ept> This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.</source>
+            <target state="new">ENTIRE AGREEMENT.<ept id="p">&lt;/strong&gt;</ept> This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%71%_" id="72" xml:space="preserve">
+            <source>APPLICABLE LAW.<ept id="p">&lt;/strong&gt;</ept> If you acquired the software in the United States, Washington State law applies to interpretation of and claims for breach of this agreement, and the laws of the state where you live apply to all other claims. If you acquired the software in any other country, its laws apply.</source>
+            <target state="new">APPLICABLE LAW.<ept id="p">&lt;/strong&gt;</ept> If you acquired the software in the United States, Washington State law applies to interpretation of and claims for breach of this agreement, and the laws of the state where you live apply to all other claims. If you acquired the software in any other country, its laws apply.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%72%_" id="73" xml:space="preserve">
+            <source>CONSUMER RIGHTS; REGIONAL VARIATIONS.<ept id="p">&lt;/strong&gt;</ept> This agreement describes certain legal rights.</source>
+            <target state="new">CONSUMER RIGHTS; REGIONAL VARIATIONS.<ept id="p">&lt;/strong&gt;</ept> This agreement describes certain legal rights.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%73%_" id="74" xml:space="preserve">
+            <source>You may have other rights, including consumer rights, under the laws of your state or country.</source>
+            <target state="new">You may have other rights, including consumer rights, under the laws of your state or country.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%74%_" id="75" xml:space="preserve">
+            <source>Separate and apart from your relationship with Microsoft, you may also have rights with respect to the party from which you acquired the software.</source>
+            <target state="new">Separate and apart from your relationship with Microsoft, you may also have rights with respect to the party from which you acquired the software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%75%_" id="76" xml:space="preserve">
+            <source>This agreement does not change those other rights if the laws of your state or country do not permit it to do so.</source>
+            <target state="new">This agreement does not change those other rights if the laws of your state or country do not permit it to do so.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%76%_" id="77" xml:space="preserve">
+            <source>For example, if you acquired the software in one of the below regions, or mandatory country law applies, then the following provisions apply to you:
+
+<bpt id="p1">&lt;strong&gt;</bpt>a.</source>
+            <target state="new">For example, if you acquired the software in one of the below regions, or mandatory country law applies, then the following provisions apply to you:
+
+<bpt id="p1">&lt;strong&gt;</bpt>a.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%77%_" id="78" xml:space="preserve">
+            <source>Australia.<ept id="p">&lt;/strong&gt;</ept> You have statutory guarantees under the Australian Consumer Law and nothing in this agreement is intended to affect those rights.</source>
+            <target state="new">Australia.<ept id="p">&lt;/strong&gt;</ept> You have statutory guarantees under the Australian Consumer Law and nothing in this agreement is intended to affect those rights.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%78%_" id="79" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>b.</source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>b.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%79%_" id="80" xml:space="preserve">
+            <source>Canada.<ept id="p">&lt;/strong&gt;</ept> If you acquired this software in Canada, you may stop receiving updates by turning off the automatic update feature, disconnecting your device from the Internet (if and when you re-connect to the Internet, however, the software will resume checking for and installing updates), or uninstalling the software.</source>
+            <target state="new">Canada.<ept id="p">&lt;/strong&gt;</ept> If you acquired this software in Canada, you may stop receiving updates by turning off the automatic update feature, disconnecting your device from the Internet (if and when you re-connect to the Internet, however, the software will resume checking for and installing updates), or uninstalling the software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%80%_" id="81" xml:space="preserve">
+            <source>The product documentation, if any, may also specify how to turn off updates for your specific device or software.</source>
+            <target state="new">The product documentation, if any, may also specify how to turn off updates for your specific device or software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%81%_" id="82" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>c.</source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>c.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%82%_" id="83" xml:space="preserve">
+            <source>Germany and Austria.<ept id="p">&lt;/strong&gt;</ept></source>
+            <target state="new">Germany and Austria.<ept id="p">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%83%_" id="84" xml:space="preserve">
+            <source><bpt id="p1">&lt;em&gt;</bpt>(i) Warranty.<ept id="p1">&lt;/em&gt;</ept> The properly licensed software will perform substantially as described in any Microsoft materials that accompany the software.</source>
+            <target state="new"><bpt id="p1">&lt;em&gt;</bpt>(i) Warranty.<ept id="p1">&lt;/em&gt;</ept> The properly licensed software will perform substantially as described in any Microsoft materials that accompany the software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%84%_" id="85" xml:space="preserve">
+            <source>However, Microsoft gives no contractual guarantee in relation to the licensed software.</source>
+            <target state="new">However, Microsoft gives no contractual guarantee in relation to the licensed software.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%85%_" id="86" xml:space="preserve">
+            <source><bpt id="p1">&lt;em&gt;</bpt>(ii) Limitation of Liability.<ept id="p1">&lt;/em&gt;</ept> In case of intentional conduct, gross negligence, claims based on the Product Liability Act, as well as, in case of death or personal or physical injury, Microsoft is liable according to the statutory law.</source>
+            <target state="new"><bpt id="p1">&lt;em&gt;</bpt>(ii) Limitation of Liability.<ept id="p1">&lt;/em&gt;</ept> In case of intentional conduct, gross negligence, claims based on the Product Liability Act, as well as, in case of death or personal or physical injury, Microsoft is liable according to the statutory law.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%86%_" id="87" xml:space="preserve">
+            <source>Subject to the foregoing clause (ii), Microsoft will only be liable for slight negligence if Microsoft is in breach of such material contractual obligations, the fulfillment of which facilitate the due performance of this agreement, the breach of which would endanger the purpose of this agreement and the compliance with which a party may constantly trust in (so-called "cardinal obligations").</source>
+            <target state="new">Subject to the foregoing clause (ii), Microsoft will only be liable for slight negligence if Microsoft is in breach of such material contractual obligations, the fulfillment of which facilitate the due performance of this agreement, the breach of which would endanger the purpose of this agreement and the compliance with which a party may constantly trust in (so-called "cardinal obligations").</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%87%_" id="88" xml:space="preserve">
+            <source>In other cases of slight negligence,
+Microsoft will not be liable for slight negligence.</source>
+            <target state="new">In other cases of slight negligence,
+Microsoft will not be liable for slight negligence.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%88%_" id="89" xml:space="preserve">
+            <source>DISCLAIMER OF WARRANTY.</source>
+            <target state="new">DISCLAIMER OF WARRANTY.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%89%_" id="90" xml:space="preserve">
+            <source>THE SOFTWARE IS LICENSED “AS-IS.” YOU BEAR THE RISK OF USING IT.</source>
+            <target state="new">THE SOFTWARE IS LICENSED “AS-IS.” YOU BEAR THE RISK OF USING IT.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%90%_" id="91" xml:space="preserve">
+            <source>MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.</source>
+            <target state="new">MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%91%_" id="92" xml:space="preserve">
+            <source>TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.<ept id="p">&lt;/strong&gt;</ept></source>
+            <target state="new">TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.<ept id="p">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%92%_" id="93" xml:space="preserve">
+            <source>LIMITATION ON AND EXCLUSION OF DAMAGES.</source>
+            <target state="new">LIMITATION ON AND EXCLUSION OF DAMAGES.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%93%_" id="94" xml:space="preserve">
+            <source>YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.</source>
+            <target state="new">YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%94%_" id="95" xml:space="preserve">
+            <source>YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.<ept id="p">&lt;/strong&gt;</ept></source>
+            <target state="new">YOU CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.<ept id="p">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%95%_" id="96" xml:space="preserve">
+            <source>This limitation applies to (a) anything related to the software, services, content (including code) on third party Internet sites, or third party applications; and (b) claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.</source>
+            <target state="new">This limitation applies to (a) anything related to the software, services, content (including code) on third party Internet sites, or third party applications; and (b) claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%96%_" id="97" xml:space="preserve">
+            <source>It also applies even if Microsoft knew or should have known about the possibility of the damages.</source>
+            <target state="new">It also applies even if Microsoft knew or should have known about the possibility of the damages.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%97%_" id="98" xml:space="preserve">
+            <source>The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.</source>
+            <target state="new">The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%98%_" id="99" xml:space="preserve">
+            <source>I have read and accept the license <ph id="ph1">&lt;input type="checkbox" id="accept"&gt;&lt;/input&gt;</ph></source>
+            <target state="new">I have read and accept the license <ph id="ph1">&lt;input type="checkbox" id="accept"&gt;&lt;/input&gt;</ph></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%99%_" id="100" xml:space="preserve">
+            <source>Visual Studio 2010</source>
+            <target state="new">Visual Studio 2010</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%100%_" id="101" xml:space="preserve">
+            <source><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2010/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2010/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%101%_" id="102" xml:space="preserve">
+            <source><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%102%_" id="103" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/de-DE"&gt;</bpt>Visual Studio 2010 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/de-DE"&gt;</bpt>Visual Studio 2010 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%103%_" id="104" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/en-US"&gt;</bpt>Visual Studio 2010 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/en-US"&gt;</bpt>Visual Studio 2010 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%104%_" id="105" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/es-ES"&gt;</bpt>Visual Studio 2010 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/es-ES"&gt;</bpt>Visual Studio 2010 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%105%_" id="106" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2010 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2010 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%106%_" id="107" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/it-IT"&gt;</bpt>Visual Studio 2010 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/it-IT"&gt;</bpt>Visual Studio 2010 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%107%_" id="108" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2010 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2010 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%108%_" id="109" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2010 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2010 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%109%_" id="110" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2010 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2010 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%110%_" id="111" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2010 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2010 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%111%_" id="112" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/zh-CW"&gt;</bpt>Visual Studio 2010 Isolated Shell (zh-CW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2010/IsoShell/zh-CW"&gt;</bpt>Visual Studio 2010 Isolated Shell (zh-CW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%112%_" id="113" xml:space="preserve">
+            <source>Visual Studio 2012</source>
+            <target state="new">Visual Studio 2012</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%113%_" id="114" xml:space="preserve">
+            <source><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2012/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2012/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%114%_" id="115" xml:space="preserve">
+            <source><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%115%_" id="116" xml:space="preserve">
+            <source><bpt id="p1">&lt;th&gt;</bpt>Isolated Shell<ept id="p1">&lt;/th&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;th&gt;</bpt>Isolated Shell<ept id="p1">&lt;/th&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%116%_" id="117" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/de-DE"&gt;</bpt>Visual Studio 2012 Integrated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/de-DE"&gt;</bpt>Visual Studio 2012 Integrated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%117%_" id="118" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/de-DE"&gt;</bpt>Visual Studio 2012 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/de-DE"&gt;</bpt>Visual Studio 2012 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%118%_" id="119" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/en-US"&gt;</bpt>Visual Studio 2012 Integrated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/en-US"&gt;</bpt>Visual Studio 2012 Integrated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%119%_" id="120" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/en-US"&gt;</bpt>Visual Studio 2012 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/en-US"&gt;</bpt>Visual Studio 2012 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%120%_" id="121" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/es-ES"&gt;</bpt>Visual Studio 2012 Integrated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/es-ES"&gt;</bpt>Visual Studio 2012 Integrated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%121%_" id="122" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/es-ES"&gt;</bpt>Visual Studio 2012 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/es-ES"&gt;</bpt>Visual Studio 2012 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%122%_" id="123" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/fr-FR"&gt;</bpt>Visual Studio 2012 Integrated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/fr-FR"&gt;</bpt>Visual Studio 2012 Integrated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%123%_" id="124" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2012 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2012 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%124%_" id="125" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/it-IT"&gt;</bpt>Visual Studio 2012 Integrated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/it-IT"&gt;</bpt>Visual Studio 2012 Integrated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%125%_" id="126" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/it-IT"&gt;</bpt>Visual Studio 2012 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/it-IT"&gt;</bpt>Visual Studio 2012 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%126%_" id="127" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/ja-JP"&gt;</bpt>Visual Studio 2012 Integrated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/ja-JP"&gt;</bpt>Visual Studio 2012 Integrated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%127%_" id="128" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2012 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2012 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%128%_" id="129" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/ko-KR"&gt;</bpt>Visual Studio 2012 Integrated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/ko-KR"&gt;</bpt>Visual Studio 2012 Integrated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%129%_" id="130" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2012 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2012 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%130%_" id="131" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/ru-RU"&gt;</bpt>Visual Studio 2012 Integrated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/ru-RU"&gt;</bpt>Visual Studio 2012 Integrated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%131%_" id="132" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2012 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2012 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%132%_" id="133" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/zh-CN"&gt;</bpt>Visual Studio 2012 Integrated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/zh-CN"&gt;</bpt>Visual Studio 2012 Integrated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%133%_" id="134" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2012 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2012 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%134%_" id="135" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/zh-TW"&gt;</bpt>Visual Studio 2012 Integrated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell/zh-TW"&gt;</bpt>Visual Studio 2012 Integrated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%135%_" id="136" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/zh-TW"&gt;</bpt>Visual Studio 2012 Isolated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell/zh-TW"&gt;</bpt>Visual Studio 2012 Isolated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%136%_" id="137" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/de-DE"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/de-DE"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%137%_" id="138" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/de-DE"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/de-DE"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%138%_" id="139" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/en-US"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/en-US"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%139%_" id="140" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/en-US"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/en-US"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%140%_" id="141" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/es-ES"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/es-ES"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%141%_" id="142" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/es-ES"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/es-ES"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%142%_" id="143" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/fr-FR"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/fr-FR"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%143%_" id="144" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/fr-FR"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/fr-FR"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%144%_" id="145" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/it-IT"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/it-IT"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%145%_" id="146" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/it-IT"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/it-IT"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%146%_" id="147" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/ja-JP"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/ja-JP"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%147%_" id="148" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/ja-JP"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/ja-JP"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%148%_" id="149" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/ko-KR"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/ko-KR"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%149%_" id="150" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/ko-KR"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/ko-KR"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%150%_" id="151" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/ru-RU"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/ru-RU"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%151%_" id="152" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/ru-RU"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/ru-RU"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%152%_" id="153" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/zh-CN"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/zh-CN"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%153%_" id="154" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/zh-CN"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/zh-CN"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%154%_" id="155" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/zh-TW"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IntShell-LP/zh-TW"&gt;</bpt>Visual Studio 2012 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%155%_" id="156" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/zh-TW"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2012/IsoShell-LP/zh-TW"&gt;</bpt>Visual Studio 2012 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%156%_" id="157" xml:space="preserve">
+            <source>Visual Studio 2013
+
+</source>
+            <target state="new">Visual Studio 2013
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%157%_" id="158" xml:space="preserve">
+            <source><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2013/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2013/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%158%_" id="159" xml:space="preserve">
+            <source><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%159%_" id="160" xml:space="preserve">
+            <source><bpt id="p1">&lt;th&gt;</bpt>Isolated Shell<ept id="p1">&lt;/th&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;th&gt;</bpt>Isolated Shell<ept id="p1">&lt;/th&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%160%_" id="161" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/de-DE"&gt;</bpt>Visual Studio 2013 Integrated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/de-DE"&gt;</bpt>Visual Studio 2013 Integrated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%161%_" id="162" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/de-DE"&gt;</bpt>Visual Studio 2013 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/de-DE"&gt;</bpt>Visual Studio 2013 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%162%_" id="163" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/en-US"&gt;</bpt>Visual Studio 2013 Integrated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/en-US"&gt;</bpt>Visual Studio 2013 Integrated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%163%_" id="164" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/en-US"&gt;</bpt>Visual Studio 2013 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/en-US"&gt;</bpt>Visual Studio 2013 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%164%_" id="165" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/es-ES"&gt;</bpt>Visual Studio 2013 Integrated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/es-ES"&gt;</bpt>Visual Studio 2013 Integrated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%165%_" id="166" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/es-ES"&gt;</bpt>Visual Studio 2013 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/es-ES"&gt;</bpt>Visual Studio 2013 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%166%_" id="167" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/fr-FR"&gt;</bpt>Visual Studio 2013 Integrated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/fr-FR"&gt;</bpt>Visual Studio 2013 Integrated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%167%_" id="168" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2013 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2013 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%168%_" id="169" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/it-IT"&gt;</bpt>Visual Studio 2013 Integrated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/it-IT"&gt;</bpt>Visual Studio 2013 Integrated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%169%_" id="170" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/it-IT"&gt;</bpt>Visual Studio 2013 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/it-IT"&gt;</bpt>Visual Studio 2013 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%170%_" id="171" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/ja-JP"&gt;</bpt>Visual Studio 2013 Integrated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/ja-JP"&gt;</bpt>Visual Studio 2013 Integrated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%171%_" id="172" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2013 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2013 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%172%_" id="173" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/ko-KR"&gt;</bpt>Visual Studio 2013 Integrated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/ko-KR"&gt;</bpt>Visual Studio 2013 Integrated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%173%_" id="174" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2013 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2013 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%174%_" id="175" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/ru-RU"&gt;</bpt>Visual Studio 2013 Integrated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/ru-RU"&gt;</bpt>Visual Studio 2013 Integrated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%175%_" id="176" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2013 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2013 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%176%_" id="177" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/zh-CN"&gt;</bpt>Visual Studio 2013 Integrated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/zh-CN"&gt;</bpt>Visual Studio 2013 Integrated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%177%_" id="178" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2013 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2013 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%178%_" id="179" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/zh-TW"&gt;</bpt>Visual Studio 2013 Integrated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell/zh-TW"&gt;</bpt>Visual Studio 2013 Integrated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%179%_" id="180" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/zh-TW"&gt;</bpt>Visual Studio 2013 Isolated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell/zh-TW"&gt;</bpt>Visual Studio 2013 Isolated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%180%_" id="181" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/de-DE"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/de-DE"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%181%_" id="182" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/de-DE"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/de-DE"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%182%_" id="183" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/en-US"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/en-US"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%183%_" id="184" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/en-US"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/en-US"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%184%_" id="185" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/es-ES"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/es-ES"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%185%_" id="186" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/es-ES"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/es-ES"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%186%_" id="187" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/fr-FR"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/fr-FR"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%187%_" id="188" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/fr-FR"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/fr-FR"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%188%_" id="189" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/it-IT"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/it-IT"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%189%_" id="190" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/it-IT"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/it-IT"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%190%_" id="191" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/ja-JP"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/ja-JP"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%191%_" id="192" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/ja-JP"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/ja-JP"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%192%_" id="193" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/ko-KR"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/ko-KR"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%193%_" id="194" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/ko-KR"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/ko-KR"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%194%_" id="195" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/pt-BR"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/pt-BR"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%195%_" id="196" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/pt-BR"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/pt-BR"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%196%_" id="197" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/ru-RU"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/ru-RU"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%197%_" id="198" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/ru-RU"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/ru-RU"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%198%_" id="199" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/zh-CN"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/zh-CN"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language
+Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%199%_" id="200" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/zh-CN"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/zh-CN"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%200%_" id="201" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/zh-TW"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IntShell-LP/zh-TW"&gt;</bpt>Visual Studio 2013 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%201%_" id="202" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/zh-TW"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/zh-TW"&gt;</bpt>Visual Studio 2013 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%202%_" id="203" xml:space="preserve">
+            <source><ph id="ph1">&lt;a id="KB3107629_102"&gt;&lt;/a&gt;</ph>KB3107629</source>
+            <target state="new"><ph id="ph1">&lt;a id="KB3107629_102"&gt;&lt;/a&gt;</ph>KB3107629</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%203%_" id="204" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/all"&gt;</bpt>KB3107629 for Visual Studio 2013 Isolated Shell<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2013/IsoShell-LP/all"&gt;</bpt>KB3107629 for Visual Studio 2013 Isolated Shell<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%204%_" id="205" xml:space="preserve">
+            <source>Visual Studio 2015</source>
+            <target state="new">Visual Studio 2015</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%205%_" id="206" xml:space="preserve">
+            <source><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2013/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a class="documentation" href="https://aka.ms/vs2013/ShellDocs"&gt;</bpt>Documentation <ph id="ph1">&lt;i class="fabric-icon vscom-icon vscom-icon--ChevronRight"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%206%_" id="207" xml:space="preserve">
+            <source><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;th&gt;</bpt>Integrated Shell<ept id="p1">&lt;/th&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%207%_" id="208" xml:space="preserve">
+            <source><bpt id="p1">&lt;th&gt;</bpt>Isolated Shell<ept id="p1">&lt;/th&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;th&gt;</bpt>Isolated Shell<ept id="p1">&lt;/th&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%208%_" id="209" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/de-DE"&gt;</bpt>Visual Studio 2015 Integrated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/de-DE"&gt;</bpt>Visual Studio 2015 Integrated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%209%_" id="210" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/de-DE"&gt;</bpt>Visual Studio 2015 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/de-DE"&gt;</bpt>Visual Studio 2015 Isolated Shell (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%210%_" id="211" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/en-US"&gt;</bpt>Visual Studio 2015 Integrated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/en-US"&gt;</bpt>Visual Studio 2015 Integrated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%211%_" id="212" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/en-US"&gt;</bpt>Visual Studio 2015 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/en-US"&gt;</bpt>Visual Studio 2015 Isolated Shell (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%212%_" id="213" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/es-ES"&gt;</bpt>Visual Studio 2015 Integrated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/es-ES"&gt;</bpt>Visual Studio 2015 Integrated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%213%_" id="214" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/es-ES"&gt;</bpt>Visual Studio 2015 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/es-ES"&gt;</bpt>Visual Studio 2015 Isolated Shell (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%214%_" id="215" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/fr-FR"&gt;</bpt>Visual Studio 2015 Integrated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/fr-FR"&gt;</bpt>Visual Studio 2015 Integrated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%215%_" id="216" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2015 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/fr-FR"&gt;</bpt>Visual Studio 2015 Isolated Shell (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%216%_" id="217" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/it-IT"&gt;</bpt>Visual Studio 2015 Integrated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/it-IT"&gt;</bpt>Visual Studio 2015 Integrated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%217%_" id="218" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/it-IT"&gt;</bpt>Visual Studio 2015 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/it-IT"&gt;</bpt>Visual Studio 2015 Isolated Shell (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%218%_" id="219" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/ja-JP"&gt;</bpt>Visual Studio 2015 Integrated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/ja-JP"&gt;</bpt>Visual Studio 2015 Integrated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%219%_" id="220" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2015 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/ja-JP"&gt;</bpt>Visual Studio 2015 Isolated Shell (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%220%_" id="221" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/ko-KR"&gt;</bpt>Visual Studio 2015 Integrated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/ko-KR"&gt;</bpt>Visual Studio 2015 Integrated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%221%_" id="222" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2015 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/ko-KR"&gt;</bpt>Visual Studio 2015 Isolated Shell (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%222%_" id="223" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/ru-RU"&gt;</bpt>Visual Studio 2015 Integrated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/ru-RU"&gt;</bpt>Visual Studio 2015 Integrated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%223%_" id="224" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2015 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/ru-RU"&gt;</bpt>Visual Studio 2015 Isolated Shell (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%224%_" id="225" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/zh-CN"&gt;</bpt>Visual Studio 2015 Integrated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/zh-CN"&gt;</bpt>Visual Studio 2015 Integrated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%225%_" id="226" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2015 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/zh-CN"&gt;</bpt>Visual Studio 2015 Isolated Shell (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%226%_" id="227" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/zh-TW"&gt;</bpt>Visual Studio 2015 Integrated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell/zh-TW"&gt;</bpt>Visual Studio 2015 Integrated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%227%_" id="228" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/zh-TW"&gt;</bpt>Visual Studio 2015 Isolated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell/zh-TW"&gt;</bpt>Visual Studio 2015 Isolated Shell (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%228%_" id="229" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/cs-CZ"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (cs-CZ)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/cs-CZ"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (cs-CZ)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%229%_" id="230" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/cs-CZ"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (cs-CZ)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/cs-CZ"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (cs-CZ)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%230%_" id="231" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/de-DE"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/de-DE"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%231%_" id="232" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/de-DE"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/de-DE"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (de-DE)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%232%_" id="233" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/en-US"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/en-US"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%233%_" id="234" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/en-US"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/en-US"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (en-US)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%234%_" id="235" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/es-ES"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/es-ES"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%235%_" id="236" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/es-ES"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/es-ES"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (es-ES)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%236%_" id="237" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/fr-FR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/fr-FR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%237%_" id="238" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/fr-FR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/fr-FR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (fr-FR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%238%_" id="239" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/it-IT"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/it-IT"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%239%_" id="240" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/it-IT"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/it-IT"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (it-IT)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%240%_" id="241" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/ja-JP"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/ja-JP"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%241%_" id="242" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/ja-JP"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/ja-JP"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ja-JP)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%242%_" id="243" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/ko-KR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/ko-KR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%243%_" id="244" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/ko-KR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/ko-KR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ko-KR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%244%_" id="245" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/pl-PL"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pl-PL)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/pl-PL"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pl-PL)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%245%_" id="246" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/pl-PL"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pl-PL)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/pl-PL"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pl-PL)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%246%_" id="247" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/pt-BR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/pt-BR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%247%_" id="248" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/pt-BR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/pt-BR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (pt-BR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%248%_" id="249" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/ru-RU"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/ru-RU"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%249%_" id="250" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/ru-RU"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/ru-RU"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (ru-RU)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%250%_" id="251" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/tr-TR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (tr-TR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/tr-TR"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (tr-TR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%251%_" id="252" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/tr-TR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (tr-TR)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/tr-TR"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (tr-TR)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%252%_" id="253" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/zh-CN"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/zh-CN"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%253%_" id="254" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/zh-CN"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/zh-CN"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-CN)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%254%_" id="255" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/zh-TW"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IntShell-LP/zh-TW"&gt;</bpt>Visual Studio 2015 Integrated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%255%_" id="256" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/zh-TW"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://aka.ms/VS2015/IsoShell-LP/zh-TW"&gt;</bpt>Visual Studio 2015 Isolated Shell - <bpt id="p2">&lt;em&gt;</bpt>Language Pack<ept id="p2">&lt;/em&gt;</ept> (zh-TW)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

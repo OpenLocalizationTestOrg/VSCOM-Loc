@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53732-90348e586013a45eacd6e41bd9e5f704" source-language="en" target-language="cs" parent-post-id="149980" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/mac/can-i-use-my-existing-visual-studio-license-on-a-mac/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio Mac Licensing and Purchase on to use existing Visual Studio license on a Mac.</source>
+            <target state="new">Visual Studio Mac Licensing and Purchase on to use existing Visual Studio license on a Mac.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Can I use my existing Visual Studio license on a Mac?</source>
+            <target state="new">Can I use my existing Visual Studio license on a Mac?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>If you have purchased a Visual Studio Professional or Enterprise Subscription (Standard or Cloud), the license applies to Visual Studio for Mac as well.</source>
+            <target state="new">If you have purchased a Visual Studio Professional or Enterprise Subscription (Standard or Cloud), the license applies to Visual Studio for Mac as well.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Standalone Licenses for Visual Studio Professional 2019 do not apply to Visual Studio for Mac.</source>
+            <target state="new">Standalone Licenses for Visual Studio Professional 2019 do not apply to Visual Studio for Mac.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>For more information, please refer to the <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/mac/activation" target="_blank" rel="noopener noreferrer"&gt;</bpt>subscription documentation<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">For more information, please refer to the <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/mac/activation" target="_blank" rel="noopener noreferrer"&gt;</bpt>subscription documentation<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="38244-21db9f4ed29226d23451ed97a5f60794" source-language="en" target-language="cs" parent-post-id="107020" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/purchasing-visual-studio-professional-2/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8NCl8lMyVfIF8lNCVfDQo8L3VsPgo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Licensing and Purchase of purchasing Visual Studio Professional.</source>
+            <target state="new">Visual Studio 2015 Licensing and Purchase of purchasing Visual Studio Professional.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Purchasing Visual Studio Professional</source>
+            <target state="new">Purchasing Visual Studio Professional</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>You can purchase Visual Studio Professional without subscriber benefits (formerly called MSDN benefits).</source>
+            <target state="new">You can purchase Visual Studio Professional without subscriber benefits (formerly called MSDN benefits).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Here are your options:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;a href="https://www.microsoft.com/en-us/store/b/visualstudio?Cat-Software-mosaic_linknav-VS-051717-en_US" target="_blank" rel="noopener"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>Buy an annual Visual Studio subscription<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept> to access all supported versions of Visual Studio Professional, including access to Azure DevOps and Team Foundation Server.</source>
+            <target state="new">Here are your options:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>
+<bpt id="p3">&lt;a href="https://www.microsoft.com/en-us/store/b/visualstudio?Cat-Software-mosaic_linknav-VS-051717-en_US" target="_blank" rel="noopener"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>Buy an annual Visual Studio subscription<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept> to access all supported versions of Visual Studio Professional, including access to Azure DevOps and Team Foundation Server.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>You can also <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/items?itemName=ms.vs-professional-monthly" target="_blank" rel="noopener"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>buy a monthly Visual Studio subscription<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> from the Visual Studio Marketplace.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">You can also <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/items?itemName=ms.vs-professional-monthly" target="_blank" rel="noopener"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>buy a monthly Visual Studio subscription<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept> from the Visual Studio Marketplace.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Want more options to buy?</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Want more options to buy?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>Check out the <bpt id="p1">&lt;a href="/?page_id=42693"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Pricing Page<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Check out the <bpt id="p1">&lt;a href="/?page_id=42693"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio Pricing Page<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

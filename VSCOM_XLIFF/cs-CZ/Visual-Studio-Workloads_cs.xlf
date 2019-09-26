@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="45694-c67d97588ee98e96582992f209f4dfc3" source-language="en" target-language="cs" parent-post-id="65356" version="18" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/visual-studio-workloads/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0idnNjb20tZmVhdHVyZS1oZXJvIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IjBweCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ibm8iIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iMCIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0iZG93biIgYW5pbWF0aW9uX3NwZWVkPSIwLjEiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9mZWF0dXJlX2hlcm8gbGF5b3V0PSJmZWF0dXJlLWhlcm8iIHRpdGxlPSJfJTAlXyIgaW1hZ2Vfc3JjPSIiIGltYWdlX2lkPSIiIGNzc19jbGFzc2VzPSIiIHJlYWRtb3JlX3VybD0iIiByZWFkbW9yZV90ZXh0PSJfJTElXyIgcmVhZG1vcmVfYXJpYT0iIiByZWFkbW9yZV90YXJnZXQ9Il9zZWxmIiByZWFkbW9yZV9yZWw9IiJdPHNwYW4+XyUzJV88L3NwYW4+DQoNCgpbdnNjb21fZG93bmxvYWRzX2J1dHRvbiBzZWxlY3RlZF9vcz0id2luZG93cyIgYnJhbmRpbmc9IiIgY3VzdG9tX2NsYXNzZXM9IiIvXQogCltmdXNpb25fYnV0dG9uIGxpbms9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Zpc3VhbHN0dWRpby9pbnN0YWxsL21vZGlmeS12aXN1YWwtc3R1ZGlvP3ZpZXc9dnMtMjAxOSIgdGV4dF90cmFuc2Zvcm09IiIgdGl0bGU9IiIgYXJpYV9sYWJlbD0iIiB0YXJnZXQ9Il9zZWxmIiBsaW5rX2F0dHJpYnV0ZXM9IiIgYWxpZ25tZW50PSIiIG1vZGFsPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJzbWFsbC1pY29uIiBpZD0iIiBjb2xvcj0iY3VzdG9tIiBidXR0b25fZ3JhZGllbnRfdG9wX2NvbG9yPSJyZ2JhKDAsMTAzLDE4NCwwKSIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcj0icmdiYSgwLDEwMywxODQsMCkiIGJ1dHRvbl9ncmFkaWVudF90b3BfY29sb3JfaG92ZXI9InJnYmEoMCwxMDMsMTg0LDApIiBidXR0b25fZ3JhZGllbnRfYm90dG9tX2NvbG9yX2hvdmVyPSJyZ2JhKDAsMTAzLDE4NCwwKSIgYWNjZW50X2NvbG9yPSIjMDA3OGQ0IiBhY2NlbnRfaG92ZXJfY29sb3I9IiMwMDc4ZDQiIHR5cGU9IiIgYmV2ZWxfY29sb3I9IiIgYm9yZGVyX3dpZHRoPSIiIHNpemU9IiIgc3RyZXRjaD0iZGVmYXVsdCIgc2hhcGU9IiIgaWNvbj0iIiBpY29uX3Bvc2l0aW9uPSJyaWdodCIgaWNvbl9kaXZpZGVyPSJubyIgZmFicmljX2ljb249IkNoZXZyb25SaWdodFNtYWxsIiBmYWJyaWNfaWNvbl9wb3NpdGlvbj0icmlnaHQiIGZhYnJpY19pY29uX2RpdmlkZXI9Im5vIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTIlX1svZnVzaW9uX2J1dHRvbl0KClsvdnNjb21fZmVhdHVyZV9oZXJvXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10aXRsZSIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lNCVfWy9mdXNpb25fdGl0bGVdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3JldmVhbF9jb250YWluZXIgZ3JvdXBfdGl0bGU9IldlYiAmIGNsb3VkIiBhZGRpdGlvbmFsX2NsYXNzZXM9IiIgbGF6eV9sb2FkaW5nPSJubyJdW3ZzY29tX3JldmVhbF9jYXJkIHRpdGxlPSJfJTUlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvQVNQTkVUV2ViRGV2LnN2ZyIgaW1hZ2VfaWQ9IjEzMDkzNCIgcmVhZG1vcmVfdXJsPSJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9hc3BuZXQvb3ZlcnZpZXciIHJlYWRtb3JlX3RleHQ9Il8lNiVfIiByZWFkbW9yZV9hcmlhPSIiXV8lNyVfDQpfJTglXw0KXyU5JV8NCl8lMTAlXw0KXyUxMSVfDQpfJTEyJV8NCl8lMTMlXw0KXyUxNCVfDQpfJTE1JV8KWy92c2NvbV9yZXZlYWxfY2FyZF1bdnNjb21fcmV2ZWFsX2NhcmQgdGl0bGU9Il8lMTYlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvQXp1cmUuc3ZnIiBpbWFnZV9pZD0iMTMxMDA3IiByZWFkbW9yZV91cmw9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Zpc3VhbHN0dWRpby9henVyZS8iIHJlYWRtb3JlX3RleHQ9Il8lMTclXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTE4JV8NCl8lMTklXw0KXyUyMCVfIF8lMjElXw0KXyUyMiVfDQpfJTIzJV8NCl8lMjQlXw0KXyUyNSVfDQpfJTI2JV8NCl8lMjclXwpbL3ZzY29tX3JldmVhbF9jYXJkXVt2c2NvbV9yZXZlYWxfY2FyZCB0aXRsZT0iXyUyOCVfIiBpbWFnZV9tZWRpYT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wMy9QeXRob24uc3ZnIiBpbWFnZV9pZD0iMTMwOTY0IiByZWFkbW9yZV91cmw9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Zpc3VhbHN0dWRpby9weXRob24vb3ZlcnZpZXctb2YtcHl0aG9uLXRvb2xzLWZvci12aXN1YWwtc3R1ZGlvP3ZpZXc9dnMtMjAxOSIgcmVhZG1vcmVfdGV4dD0iXyUyOSVfIiByZWFkbW9yZV9hcmlhPSIiXV8lMzAlXw0KXyUzMSVfDQpfJTMyJV8NCl8lMzMlXw0KXyUzNCVfDQpfJTM1JV8NCl8lMzYlXw0KXyUzNyVfClsvdnNjb21fcmV2ZWFsX2NhcmRdW3ZzY29tX3JldmVhbF9jYXJkIHRpdGxlPSJfJTM4JV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAzL05vZGVKUy5zdmciIGltYWdlX2lkPSIxMzA5OTIiIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvdmlzdWFsc3R1ZGlvL2lkZS9xdWlja3N0YXJ0LW5vZGVqcz90b2M9L3Zpc3VhbHN0dWRpby9qYXZhc2NyaXB0L3RvYy5qc29uJnZpZXc9dnMtMjAxOSIgcmVhZG1vcmVfdGV4dD0iXyUzOSVfIiByZWFkbW9yZV9hcmlhPSIiXV8lNDAlXw0KXyU0MSVfDQpfJTQyJV8NCl8lNDMlXw0KXyU0NCVfDQpfJTQ1JV8NCl8lNDYlXw0KXyU0NyVfDQpfJTQ4JV8NCl8lNDklXw0KDQoKWy92c2NvbV9yZXZlYWxfY2FyZF1bL3ZzY29tX3JldmVhbF9jb250YWluZXJdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIwIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIwIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9zZXBhcmF0b3Igc3R5bGVfdHlwZT0ic2luZ2xlIHNvbGlkIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzZXBfY29sb3I9IiIgdG9wX21hcmdpbj0iIiBib3R0b21fbWFyZ2luPSIiIGJvcmRlcl9zaXplPSIiIGljb249IiIgaWNvbl9jaXJjbGU9IiIgaWNvbl9jaXJjbGVfY29sb3I9IiIgd2lkdGg9IiIgYWxpZ25tZW50PSJjZW50ZXIiL11bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fcmV2ZWFsX2NvbnRhaW5lciBncm91cF90aXRsZT0iV2luZG93cyIgYWRkaXRpb25hbF9jbGFzc2VzPSIiIGxhenlfbG9hZGluZz0ibm8iXVt2c2NvbV9yZXZlYWxfY2FyZCB0aXRsZT0iXyU1MCVfIiBpbWFnZV9tZWRpYT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wMy9ORVREZXNrdG9wRGV2LnN2ZyIgaW1hZ2VfaWQ9IjEzMTAzOCIgcmVhZG1vcmVfdXJsPSJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9kb3RuZXQvZnJhbWV3b3JrL2RldmVsb3AtY2xpZW50LWFwcHMiIHJlYWRtb3JlX3RleHQ9Il8lNTElXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTUyJV8NCl8lNTMlXw0KXyU1NCVfDQpfJTU1JV8NCl8lNTYlXw0KXyU1NyVfDQpfJTU4JV8NCl8lNTklXw0KXyU2MCVfDQpfJTYxJV8NCl8lNjIlXw0KDQoKWy92c2NvbV9yZXZlYWxfY2FyZF1bdnNjb21fcmV2ZWFsX2NhcmQgdGl0bGU9Il8lNjMlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvRGVza3RvcERldkNQUC5zdmciIGltYWdlX2lkPSIxMzEwNTIiIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvY3BwLyIgcmVhZG1vcmVfdGV4dD0iXyU2NCVfIiByZWFkbW9yZV9hcmlhPSIiXV8lNjUlXw0KXyU2NiVfDQpfJTY3JV8gXyU2OCVfDQpfJTY5JV8NCl8lNzAlXw0KXyU3MSVfDQpfJTcyJV8NCl8lNzMlXw0KXyU3NCVfDQpfJTc1JV8NCl8lNzYlXw0KXyU3NyVfDQpfJTc4JV8NCl8lNzklXw0KXyU4MCVfDQoNCgpbL3ZzY29tX3JldmVhbF9jYXJkXVt2c2NvbV9yZXZlYWxfY2FyZCB0aXRsZT0iXyU4MSVfIiBpbWFnZV9tZWRpYT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wMy9VV1BEZXYuc3ZnIiBpbWFnZV9pZD0iMTMxMDY2IiByZWFkbW9yZV91cmw9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Zpc3VhbHN0dWRpby9jcm9zcy1wbGF0Zm9ybS9kZXZlbG9wLWFwcHMtZm9yLXRoZS11bml2ZXJzYWwtd2luZG93cy1wbGF0Zm9ybS11d3A/dmlldz12cy0yMDE5IiByZWFkbW9yZV90ZXh0PSJfJTgyJV8iIHJlYWRtb3JlX2FyaWE9IiJdXyU4MyVfDQpfJTg0JV8NCl8lODUlXw0KXyU4NiVfDQpfJTg3JV8NCl8lODglXwpbL3ZzY29tX3JldmVhbF9jYXJkXVsvdnNjb21fcmV2ZWFsX2NvbnRhaW5lcl1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IjAiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IjAiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3NlcGFyYXRvciBzdHlsZV90eXBlPSJzaW5nbGUgc29saWQiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSIiIGJvdHRvbV9tYXJnaW49IiIgYm9yZGVyX3NpemU9IiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9yZXZlYWxfY29udGFpbmVyIGdyb3VwX3RpdGxlPSJNb2JpbGUgJiBnYW1pbmciIGFkZGl0aW9uYWxfY2xhc3Nlcz0iIiBsYXp5X2xvYWRpbmc9Im5vIl1bdnNjb21fcmV2ZWFsX2NhcmQgdGl0bGU9Il8lODklXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvTW9iaWxlRGV2d05FVC5zdmciIGltYWdlX2lkPSIxMzEwODEiIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMveGFtYXJpbi9nZXQtc3RhcnRlZC8iIHJlYWRtb3JlX3RleHQ9Il8lOTAlXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTkxJV8NCl8lOTIlXw0KXyU5MyVfIF8lOTQlXw0KXyU5NSVfDQpfJTk2JV8NCl8lOTclXw0KXyU5OCVfClsvdnNjb21fcmV2ZWFsX2NhcmRdW3ZzY29tX3JldmVhbF9jYXJkIHRpdGxlPSJfJTk5JV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAzL01vYmlsZURldkNQUC5zdmciIGltYWdlX2lkPSIxMzEwOTUiIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvdmlzdWFsc3R1ZGlvL2Nyb3NzLXBsYXRmb3JtL3Zpc3VhbC1jcHAtZm9yLWNyb3NzLXBsYXRmb3JtLW1vYmlsZS1kZXZlbG9wbWVudD92aWV3PXZzLTIwMTkiIHJlYWRtb3JlX3RleHQ9Il8lMTAwJV8iIHJlYWRtb3JlX2FyaWE9IiJdXyUxMDElXw0KXyUxMDIlXw0KXyUxMDMlXw0KXyUxMDQlXw0KXyUxMDUlXw0KXyUxMDYlXw0KXyUxMDclXwpbL3ZzY29tX3JldmVhbF9jYXJkXVt2c2NvbV9yZXZlYWxfY2FyZCB0aXRsZT0iXyUxMDglXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvVW5pdHkuc3ZnIiBpbWFnZV9pZD0iMTMxMTI0IiByZWFkbW9yZV91cmw9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL3Zpc3VhbHN0dWRpby9jcm9zcy1wbGF0Zm9ybS92aXN1YWwtc3R1ZGlvLXRvb2xzLWZvci11bml0eT92aWV3PXZzLTIwMTkiIHJlYWRtb3JlX3RleHQ9Il8lMTA5JV8iIHJlYWRtb3JlX2FyaWE9IiJdXyUxMTAlXw0KXyUxMTElXw0KXyUxMTIlXw0KXyUxMTMlXw0KXyUxMTQlXw0KXyUxMTUlXw0KXyUxMTYlXwpbL3ZzY29tX3JldmVhbF9jYXJkXVt2c2NvbV9yZXZlYWxfY2FyZCB0aXRsZT0iXyUxMTclXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvR2FtZURldkNQUC5zdmciIGltYWdlX2lkPSIxMzExMDkiIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvd2luZG93cy91d3AvZ2FtaW5nL2UyZSIgcmVhZG1vcmVfdGV4dD0iXyUxMTglXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTExOSVfDQpfJTEyMCVfDQpfJTEyMSVfDQpfJTEyMiVfDQpfJTEyMyVfDQpfJTEyNCVfDQpfJTEyNSVfDQpfJTEyNiVfDQoNCgpbL3ZzY29tX3JldmVhbF9jYXJkXVsvdnNjb21fcmV2ZWFsX2NvbnRhaW5lcl1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IjAiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IjAiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3NlcGFyYXRvciBzdHlsZV90eXBlPSJzaW5nbGUgc29saWQiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNlcF9jb2xvcj0iIiB0b3BfbWFyZ2luPSIiIGJvdHRvbV9tYXJnaW49IiIgYm9yZGVyX3NpemU9IiIgaWNvbj0iIiBpY29uX2NpcmNsZT0iIiBpY29uX2NpcmNsZV9jb2xvcj0iIiB3aWR0aD0iIiBhbGlnbm1lbnQ9ImNlbnRlciIvXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9yZXZlYWxfY29udGFpbmVyIGdyb3VwX3RpdGxlPSJPdGhlciB0b29sc2V0cyIgYWRkaXRpb25hbF9jbGFzc2VzPSIiIGxhenlfbG9hZGluZz0ibm8iXVt2c2NvbV9yZXZlYWxfY2FyZCB0aXRsZT0iXyUxMjclXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvRGF0YVN0b3JhZ2VQcm9jZXNzLnN2ZyIgaW1hZ2VfaWQ9IjEzMDk0OSIgcmVhZG1vcmVfdXJsPSJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy92aXN1YWxzdHVkaW8vZGF0YS10b29scy8/dmlldz12cy0yMDE5IiByZWFkbW9yZV90ZXh0PSJfJTEyOCVfIiByZWFkbW9yZV9hcmlhPSIiXV8lMTI5JV8NCl8lMTMwJV8NCl8lMTMxJV8NCl8lMTMyJV8gXyUxMzMlXyBfJTEzNCVfDQpfJTEzNSVfDQpfJTEzNiVfDQpfJTEzNyVfDQpfJTEzOCVfDQpfJTEzOSVfClsvdnNjb21fcmV2ZWFsX2NhcmRdW3ZzY29tX3JldmVhbF9jYXJkIHRpdGxlPSJfJTE0MCVfIiBpbWFnZV9tZWRpYT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOS8wMy9EYXRhU2NpZW5jZS5zdmciIGltYWdlX2lkPSIxMzA5NzgiIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly9kb2NzLm1pY3Jvc29mdC5jb20vZW4tdXMvdmlzdWFsc3R1ZGlvL3B5dGhvbi9kYXRhLXNjaWVuY2UtYW5kLWFuYWx5dGljYWwtYXBwbGljYXRpb25zLXdvcmtsb2FkP3ZpZXc9dnMtMjAxOSIgcmVhZG1vcmVfdGV4dD0iXyUxNDElXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTE0MiVfDQpfJTE0MyVfDQpfJTE0NCVfIF8lMTQ1JV8NCl8lMTQ2JV8NCl8lMTQ3JV8NCl8lMTQ4JV8NCl8lMTQ5JV8NCl8lMTUwJV8NCl8lMTUxJV8KWy92c2NvbV9yZXZlYWxfY2FyZF1bdnNjb21fcmV2ZWFsX2NhcmQgdGl0bGU9Il8lMTUyJV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAzL1ZTRXh0ZW5zaW9uRGV2LnN2ZyIgaW1hZ2VfaWQ9IjEzMTEzOCIgcmVhZG1vcmVfdXJsPSJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy92aXN1YWxzdHVkaW8vZXh0ZW5zaWJpbGl0eS9zdGFydGluZy10by1kZXZlbG9wLXZpc3VhbC1zdHVkaW8tZXh0ZW5zaW9ucz92aWV3PXZzLTIwMTkiIHJlYWRtb3JlX3RleHQ9Il8lMTUzJV8iIHJlYWRtb3JlX2FyaWE9IiJdXyUxNTQlXw0KXyUxNTUlXw0KXyUxNTYlXyBfJTE1NyVfDQpfJTE1OCVfDQpfJTE1OSVfDQpfJTE2MCVfDQpfJTE2MSVfDQpfJTE2MiVfDQpfJTE2MyVfDQoNCgpbL3ZzY29tX3JldmVhbF9jYXJkXVt2c2NvbV9yZXZlYWxfY2FyZCB0aXRsZT0iXyUxNjQlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDMvT2ZmaWNlLnN2ZyIgaW1hZ2VfaWQ9IjEzMTAyMSIgcmVhZG1vcmVfdXJsPSJodHRwczovL2RldmVsb3Blci5taWNyb3NvZnQuY29tL2VuLXVzL29mZmljZSIgcmVhZG1vcmVfdGV4dD0iXyUxNjUlXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTE2NiVfDQpfJTE2NyVfDQpfJTE2OCVfIF8lMTY5JV8NCl8lMTcwJV8NCl8lMTcxJV8NCl8lMTcyJV8KWy92c2NvbV9yZXZlYWxfY2FyZF1bdnNjb21fcmV2ZWFsX2NhcmQgdGl0bGU9Il8lMTczJV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAzL0xpbnV4LnN2ZyIgaW1hZ2VfaWQ9IjEzMTE1MiIgcmVhZG1vcmVfdXJsPSJodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9jcHAvbGludXgvZG93bmxvYWQtaW5zdGFsbC1hbmQtc2V0dXAtdGhlLWxpbnV4LWRldmVsb3BtZW50LXdvcmtsb2FkP3ZpZXc9dnMtMjAxOSIgcmVhZG1vcmVfdGV4dD0iXyUxNzQlXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTE3NSVfDQpfJTE3NiVfDQpfJTE3NyVfIF8lMTc4JV8NCl8lMTc5JV8NCl8lMTgwJV8NCl8lMTgxJV8NCl8lMTgyJV8KWy92c2NvbV9yZXZlYWxfY2FyZF1bdnNjb21fcmV2ZWFsX2NhcmQgdGl0bGU9Il8lMTgzJV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAzL05FVENvcmUuc3ZnIiBpbWFnZV9pZD0iMTMxMTY2IiByZWFkbW9yZV91cmw9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL2RvdG5ldC9jb3JlLyIgcmVhZG1vcmVfdGV4dD0iXyUxODQlXyIgcmVhZG1vcmVfYXJpYT0iIl1fJTE4NSVfDQpfJTE4NiVfDQpfJTE4NyVfIF8lMTg4JV8NCl8lMTg5JV8NCl8lMTkwJV8NCl8lMTkxJV8NCl8lMTkyJV8NCl8lMTkzJV8NCl8lMTk0JV8NCl8lMTk1JV8NCl8lMTk2JV8KWy92c2NvbV9yZXZlYWxfY2FyZF1bL3ZzY29tX3JldmVhbF9jb250YWluZXJdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9nbG9iYWwgaWQ9Ijk3NjAzIl0=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_title-0" id="0" xml:space="preserve">
+            <source>Visual Studio Workloads</source>
+            <target state="new">Visual Studio Workloads</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="1" xml:space="preserve">
+            <source>Install only the tool and component bundles you need for development in Visual Studio</source>
+            <target state="new">Install only the tool and component bundles you need for development in Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="2" xml:space="preserve">
+            <source>Visual Studio Workloads</source>
+            <target state="new">Visual Studio Workloads</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="3" xml:space="preserve">
+            <source>Visual Studio workloads</source>
+            <target state="new">Visual Studio workloads</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="4" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="5" xml:space="preserve">
+            <source>Modify Visual Studio</source>
+            <target state="new">Modify Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="6" xml:space="preserve">
+            <source>Install only the tool and component bundles you need for development in Visual Studio</source>
+            <target state="new">Install only the tool and component bundles you need for development in Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="7" xml:space="preserve">
+            <source>Visual Studio workloads</source>
+            <target state="new">Visual Studio workloads</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="8" xml:space="preserve">
+            <source>ASP.NET &amp; web development</source>
+            <target state="new">ASP.NET &amp; web development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="9" xml:space="preserve">
+            <source>Learn more about ASP.NET &amp; web development</source>
+            <target state="new">Learn more about ASP.NET &amp; web development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="10" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>ASP.NET &amp; web development<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>ASP.NET &amp; web development<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="11" xml:space="preserve">
+            <source>Build web applications using ASP.NET Core, ASP.NET (.NET Framework), HTML/JavaScript, and Containers including Docker support
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Build web applications using ASP.NET Core, ASP.NET (.NET Framework), HTML/JavaScript, and Containers including Docker support
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="12" xml:space="preserve">
+            <source>Maximize your productivity developing .NET web applications using ASP.NET Core, standards-based technologies like HTML, and JavaScript.</source>
+            <target state="new">Maximize your productivity developing .NET web applications using ASP.NET Core, standards-based technologies like HTML, and JavaScript.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="13" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="14" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.2&amp;tabs=visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Website using Razor Pages in ASP.NET Core<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.2&amp;tabs=visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Website using Razor Pages in ASP.NET Core<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="15" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&amp;tabs=visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Web API with ASP.NET Core MVC<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&amp;tabs=visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Web API with ASP.NET Core MVC<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="16" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-2.2&amp;tabs=visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Real-time web apps with ASP.NET Core SignalR<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-2.2&amp;tabs=visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Real-time web apps with ASP.NET Core SignalR<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="17" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="18" xml:space="preserve">
+            <source>- .NET Framework 4.x development tools
+- .NET Core 2.1 development tools
+- ASP.NET and web development tools
+- .NET profiling tools
+- Container development tools
+- Cloud tools for web development
+- IntelliSense, code navigation, and refactoring for C#, Visual Basic, and F#
+
+</source>
+            <target state="new">- .NET Framework 4.x development tools
+- .NET Core 2.1 development tools
+- ASP.NET and web development tools
+- .NET profiling tools
+- Container development tools
+- Cloud tools for web development
+- IntelliSense, code navigation, and refactoring for C#, Visual Basic, and F#
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="19" xml:space="preserve">
+            <source>Azure</source>
+            <target state="new">Azure</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="20" xml:space="preserve">
+            <source>Learn more about Azure</source>
+            <target state="new">Learn more about Azure</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="21" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Azure<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Azure<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="22" xml:space="preserve">
+            <source>Azure SDKs, tools, and projects for developing cloud apps, creating resources, and building Containers including Docker support
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Azure SDKs, tools, and projects for developing cloud apps, creating resources, and building Containers including Docker support
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="23" xml:space="preserve">
+            <source>Easily build, test, deploy, and manage scalable apps and services on the Microsoft cloud.</source>
+            <target state="new">Easily build, test, deploy, and manage scalable apps and services on the Microsoft cloud.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="24" xml:space="preserve">
+            <source>Install to view resources in Cloud Explorer, create resources using Azure Manage tools, build applications for Azure Web and Cloud Services, and perform big data operations using Azure Datalake tools.</source>
+            <target state="new">Install to view resources in Cloud Explorer, create resources using Azure Manage tools, build applications for Azure Web and Cloud Services, and perform big data operations using Azure Datalake tools.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="25" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="26" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-2.1" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Publish an ASP.NET Core app to Azure in the IDE<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-webapp-using-vs?view=aspnetcore-2.1" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Publish an ASP.NET Core app to Azure in the IDE<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="27" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-performance-profiling-cloud-services" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Test performance of a cloud service<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-performance-profiling-cloud-services" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Test performance of a cloud service<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="28" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-intellitrace-debug-published-cloud-services" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Debug a published Azure cloud service<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-intellitrace-debug-published-cloud-services" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Debug a published Azure cloud service<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="29" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="30" xml:space="preserve">
+            <source>- Azure development prerequisites
+- .NET Framework 4.x development tools
+- .NET Core 2.1 development tools
+- ASP.NET and web development tools
+- Container development tools
+
+</source>
+            <target state="new">- Azure development prerequisites
+- .NET Framework 4.x development tools
+- .NET Core 2.1 development tools
+- ASP.NET and web development tools
+- Container development tools
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="31" xml:space="preserve">
+            <source>Python</source>
+            <target state="new">Python</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="32" xml:space="preserve">
+            <source>Learn more about Python</source>
+            <target state="new">Learn more about Python</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="33" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Python<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Python<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="34" xml:space="preserve">
+            <source>Editing, debugging, interactive development, and source control for Python
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Editing, debugging, interactive development, and source control for Python
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="35" xml:space="preserve">
+            <source>Support for building Python web applications using familiar frameworks including Django and Flask, and Data Science applications with built-in Conda and IPython support.</source>
+            <target state="new">Support for building Python web applications using familiar frameworks including Django and Flask, and Data Science applications with built-in Conda and IPython support.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="36" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="37" xml:space="preserve">
+            <source>- Python applications
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-01-project-and-solution?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Django web apps<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- Python applications
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-01-project-and-solution?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Django web apps<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="38" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Flask web apps<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/python/learn-flask-visual-studio-step-01-project-solution?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Flask web apps<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="39" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="40" xml:space="preserve">
+            <source>- Support for CPython, virtualenv, venv, and conda environments
+- Rich editing, IntelliSense, and code comprehension
+- Interactive (REPL) environment window
+- Support for Python in open folder workspaces
+- Project and item templates to simplify new project creating process
+- Profiling and unit testing tools
+- Manage Conda environments using Miniconda
+- Live Share
+
+</source>
+            <target state="new">- Support for CPython, virtualenv, venv, and conda environments
+- Rich editing, IntelliSense, and code comprehension
+- Interactive (REPL) environment window
+- Support for Python in open folder workspaces
+- Project and item templates to simplify new project creating process
+- Profiling and unit testing tools
+- Manage Conda environments using Miniconda
+- Live Share
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="41" xml:space="preserve">
+            <source>Node.js</source>
+            <target state="new">Node.js</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="42" xml:space="preserve">
+            <source>Learn more about Node.js</source>
+            <target state="new">Learn more about Node.js</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="43" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Node.js development<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Node.js development<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="44" xml:space="preserve">
+            <source>Build fast and scalable applications using Node.js, a server-side JavaScript runtime environment
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Build fast and scalable applications using Node.js, a server-side JavaScript runtime environment
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="45" xml:space="preserve">
+            <source>Easily build Node.js applications using web frameworks like Express and front-end frameworks like React.</source>
+            <target state="new">Easily build Node.js applications using web frameworks like Express and front-end frameworks like React.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="46" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="47" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Node.js app with Express<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Node.js app with Express<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="48" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs-with-react-and-jsx?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Node.js app with React<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs-with-react-and-jsx?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Node.js app with React<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="49" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/javascript/publish-nodejs-app-azure?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Publish Node.js app to Azure cloud<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/javascript/publish-nodejs-app-azure?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Publish Node.js app to Azure cloud<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="50" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="51" xml:space="preserve">
+            <source>- Project templates
+- IntelliCode
+- npm integration
+- Interactive (REPL) environment window
+- Local and remote <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/features/debugging-and-diagnostics/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>advanced debugging<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- Project templates
+- IntelliCode
+- npm integration
+- Interactive (REPL) environment window
+- Local and remote <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/features/debugging-and-diagnostics/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>advanced debugging<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="52" xml:space="preserve">
+            <source>- Profiling tools to track performance
+- Unit testing support
+- <bpt id="p1">&lt;a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>TypeScript integration<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- Profiling tools to track performance
+- Unit testing support
+- <bpt id="p1">&lt;a href="https://www.typescriptlang.org/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>TypeScript integration<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="53" xml:space="preserve">
+            <source>.NET desktop development</source>
+            <target state="new">.NET desktop development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%51%_" id="54" xml:space="preserve">
+            <source>Learn more about .NET desktop development</source>
+            <target state="new">Learn more about .NET desktop development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%52%_" id="55" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>.NET desktop development<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>.NET desktop development<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%53%_" id="56" xml:space="preserve">
+            <source>Build WPF, Windows Forms, and console applications using C#, Visual Basic, and F#
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Build WPF, Windows Forms, and console applications using C#, Visual Basic, and F#
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%54%_" id="57" xml:space="preserve">
+            <source>Create Windows-based applications by using Windows Presentation Foundation or by using Windows Forms. Also create web applications using the .NET Framework, and client applications for computers or devices that you make available through the Microsoft Store.</source>
+            <target state="new">Create Windows-based applications by using Windows Presentation Foundation or by using Windows Forms. Also create web applications using the .NET Framework, and client applications for computers or devices that you make available through the Microsoft Store.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%55%_" id="58" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%56%_" id="59" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/designers/introduction-to-wpf?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Windows Presentation Foundation (WPF)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/designers/introduction-to-wpf?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Windows Presentation Foundation (WPF)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%57%_" id="60" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/framework/winforms/index" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Windows Forms<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/framework/winforms/index" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Windows Forms<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%58%_" id="61" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%59%_" id="62" xml:space="preserve">
+            <source>- .NET desktop development tools
+- .NET Framework 4.x development tools
+- .NET profiling tools
+- C# and Visual Basic language support
+- Entity Framework 6 tools
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- .NET desktop development tools
+- .NET Framework 4.x development tools
+- .NET profiling tools
+- C# and Visual Basic language support
+- Entity Framework 6 tools
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%60%_" id="63" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Just-In-Time debugger<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Just-In-Time debugger<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%61%_" id="64" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/live-unit-testing?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Unit Testing<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/live-unit-testing?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Unit Testing<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%62%_" id="65" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/services/live-share/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Share<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/services/live-share/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Share<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%63%_" id="66" xml:space="preserve">
+            <source>Desktop development with C++</source>
+            <target state="new">Desktop development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%64%_" id="67" xml:space="preserve">
+            <source>Learn more about Desktop development with C++</source>
+            <target state="new">Learn more about Desktop development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%65%_" id="68" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Desktop development with C++<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Desktop development with C++<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%66%_" id="69" xml:space="preserve">
+            <source>Build modern C++ apps for Windows using the tools of your choice, including MSVC, Clang, CMake, or MS Build
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Build modern C++ apps for Windows using the tools of your choice, including MSVC, Clang, CMake, or MS Build
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%67%_" id="70" xml:space="preserve">
+            <source>C++ desktop apps run in a console or in a window.</source>
+            <target state="new">C++ desktop apps run in a console or in a window.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%68%_" id="71" xml:space="preserve">
+            <source>Take advantage of the powerful MSVC compiler and libraries toolset or bring your own build tools to do the job.</source>
+            <target state="new">Take advantage of the powerful MSVC compiler and libraries toolset or bring your own build tools to do the job.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%69%_" id="72" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%70%_" id="73" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Traditional Windows Desktop applications using C++<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Traditional Windows Desktop applications using C++<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%71%_" id="74" xml:space="preserve">
+            <source>- Windows console applications using C++
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">- Windows console applications using C++
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%72%_" id="75" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/projects-and-build-systems-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>MSVC x64/x86 build tools<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/projects-and-build-systems-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>MSVC x64/x86 build tools<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%73%_" id="76" xml:space="preserve">
+            <source>- Visual C++ core desktop features
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>C++ profiling tools<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- Visual C++ core desktop features
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/profiling/profiling-feature-tour?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>C++ profiling tools<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%74%_" id="77" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/windows/how-to-use-the-windows-10-sdk-in-a-windows-desktop-application?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Windows 10 SDK<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/windows/how-to-use-the-windows-10-sdk-in-a-windows-desktop-application?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Windows 10 SDK<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%75%_" id="78" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>C++ CMake tools for Windows<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>C++ CMake tools for Windows<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%76%_" id="79" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/how-to-use-google-test-for-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Test adapter for Google Test<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/how-to-use-google-test-for-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Test adapter for Google Test<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%77%_" id="80" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/how-to-use-boost-test-for-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Test adapter for Boost.Test<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/how-to-use-boost-test-for-cpp?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Test adapter for Boost.Test<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%78%_" id="81" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%79%_" id="82" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Just-In-Time debugger<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Just-In-Time debugger<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%80%_" id="83" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/services/live-share/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Share<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/services/live-share/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Share<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%81%_" id="84" xml:space="preserve">
+            <source>UWP development</source>
+            <target state="new">UWP development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%82%_" id="85" xml:space="preserve">
+            <source>Learn more about UWP development</source>
+            <target state="new">Learn more about UWP development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%83%_" id="86" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>UWP development<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>UWP development<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%84%_" id="87" xml:space="preserve">
+            <source>Create applications for the Universal Windows Platform with C#, VB, or optionally C++
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Create applications for the Universal Windows Platform with C#, VB, or optionally C++
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%85%_" id="88" xml:space="preserve">
+            <source>Build applications that target Windows Desktop, Xbox, HoloLens, SurfaceHub, and even Windows 10 IoT.</source>
+            <target state="new">Build applications that target Windows Desktop, Xbox, HoloLens, SurfaceHub, and even Windows 10 IoT.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%86%_" id="89" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%87%_" id="90" xml:space="preserve">
+            <source>- Universal Windows Platform (UWP)
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">- Universal Windows Platform (UWP)
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%88%_" id="91" xml:space="preserve">
+            <source>- Blend for Visual Studio
+- .NET Native and .NET Standard
+- NuGet package manager
+- Universal Windows Platform tools
+- Windows 10 SDK
+
+</source>
+            <target state="new">- Blend for Visual Studio
+- .NET Native and .NET Standard
+- NuGet package manager
+- Universal Windows Platform tools
+- Windows 10 SDK
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%89%_" id="92" xml:space="preserve">
+            <source>Mobile development with .NET</source>
+            <target state="new">Mobile development with .NET</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%90%_" id="93" xml:space="preserve">
+            <source>Learn more about Mobile development with .NET</source>
+            <target state="new">Learn more about Mobile development with .NET</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%91%_" id="94" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Mobile development with .NET<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Mobile development with .NET<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%92%_" id="95" xml:space="preserve">
+            <source>Build cross-platform applications for iOS, Android, or Windows using Xamarin
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Build cross-platform applications for iOS, Android, or Windows using Xamarin
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%93%_" id="96" xml:space="preserve">
+            <source>Build fully-native iOS, Android, and Universal Windows Platform apps using C# and XAML.</source>
+            <target state="new">Build fully-native iOS, Android, and Universal Windows Platform apps using C# and XAML.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%94%_" id="97" xml:space="preserve">
+            <source>Xamarin gives you full access to platform APIs and features using a single language and allows you to have a shared codebase with other .NET platforms.
+<bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Xamarin gives you full access to platform APIs and features using a single language and allows you to have a shared codebase with other .NET platforms.
+<bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%95%_" id="98" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Build cross-platform apps using Xamarin.Forms<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/xamarin/xamarin-forms/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Build cross-platform apps using Xamarin.Forms<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%96%_" id="99" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/xamarin/essentials/?context=xamarin/xamarin-forms" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Access native features with the Xamarin.Essentials API<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/xamarin/essentials/?context=xamarin/xamarin-forms" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Access native features with the Xamarin.Essentials API<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%97%_" id="100" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%98%_" id="101" xml:space="preserve">
+            <source>- Xamarin
+- .NET Framework4.x development tools
+- C# and Visual Basic language support
+- Android SDK setup
+
+</source>
+            <target state="new">- Xamarin
+- .NET Framework4.x development tools
+- C# and Visual Basic language support
+- Android SDK setup
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%99%_" id="102" xml:space="preserve">
+            <source>Mobile development with C++</source>
+            <target state="new">Mobile development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%100%_" id="103" xml:space="preserve">
+            <source>Learn more about Mobile development with C++</source>
+            <target state="new">Learn more about Mobile development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%101%_" id="104" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Mobile development with C++<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Mobile development with C++<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%102%_" id="105" xml:space="preserve">
+            <source>Build cross-platform C++ apps for iOS or Android
+<bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Build cross-platform C++ apps for iOS or Android
+<bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%103%_" id="106" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/create-an-android-native-activity-app" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Android Native App<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/create-an-android-native-activity-app" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Android Native App<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%104%_" id="107" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/import-an-xcode-project" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Import an XCode Project<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/import-an-xcode-project" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Import an XCode Project<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%105%_" id="108" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/build-an-opengl-es-application-on-android-and-ios" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>OpenGL ES application on Android and iOS<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/build-an-opengl-es-application-on-android-and-ios" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>OpenGL ES application on Android and iOS<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%106%_" id="109" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%107%_" id="110" xml:space="preserve">
+            <source>- Visual Studio C++ core features
+- Android SDK setup
+- Android NDK
+- Apache Ant
+- C++ Android development tools
+
+</source>
+            <target state="new">- Visual Studio C++ core features
+- Android SDK setup
+- Android NDK
+- Apache Ant
+- C++ Android development tools
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%108%_" id="111" xml:space="preserve">
+            <source>Game development with Unity</source>
+            <target state="new">Game development with Unity</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%109%_" id="112" xml:space="preserve">
+            <source>Learn more about Game development with Unity</source>
+            <target state="new">Learn more about Game development with Unity</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%110%_" id="113" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Game development with Unity<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Game development with Unity<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%111%_" id="114" xml:space="preserve">
+            <source>Create 2D and 3D games with Unity, a powerful cross-platform development environment
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Create 2D and 3D games with Unity, a powerful cross-platform development environment
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%112%_" id="115" xml:space="preserve">
+            <source>Create games and interactive content and publish to 21 platforms, including all mobile platforms, WebGL, Mac, PC and Linux desktop, web or consoles.</source>
+            <target state="new">Create games and interactive content and publish to 21 platforms, including all mobile platforms, WebGL, Mac, PC and Linux desktop, web or consoles.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%113%_" id="116" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%114%_" id="117" xml:space="preserve">
+            <source>Develop <bpt id="p1">&lt;a href="https://unity.com/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Unity games<ept id="p1">&lt;/a&gt;</ept> with a premium debugging experience
+<bpt id="p2">&lt;h4&gt;</bpt>Components<ept id="p2">&lt;/h4&gt;</ept></source>
+            <target state="new">Develop <bpt id="p1">&lt;a href="https://unity.com/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Unity games<ept id="p1">&lt;/a&gt;</ept> with a premium debugging experience
+<bpt id="p2">&lt;h4&gt;</bpt>Components<ept id="p2">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%115%_" id="118" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/using-visual-studio-tools-for-unity" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Visual Studio Tools for Unity<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/cross-platform/using-visual-studio-tools-for-unity" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Visual Studio Tools for Unity<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%116%_" id="119" xml:space="preserve">
+            <source>- C# and Visual Basic
+
+</source>
+            <target state="new">- C# and Visual Basic
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%117%_" id="120" xml:space="preserve">
+            <source>Game development with C++</source>
+            <target state="new">Game development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%118%_" id="121" xml:space="preserve">
+            <source>Learn more about Game development with C++</source>
+            <target state="new">Learn more about Game development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%119%_" id="122" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Game development with C++<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Game development with C++<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%120%_" id="123" xml:space="preserve">
+            <source>Use the full power of C++ to build professional games powered by DirectX, Unreal, or Cocos2d
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Use the full power of C++ to build professional games powered by DirectX, Unreal, or Cocos2d
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%121%_" id="124" xml:space="preserve">
+            <source>Use the full power of C++ to build professional games for Windows, Xbox, and other consoles powered by DirectX, Unreal Engine, or Cocos2d.</source>
+            <target state="new">Use the full power of C++ to build professional games for Windows, Xbox, and other consoles powered by DirectX, Unreal Engine, or Cocos2d.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%122%_" id="125" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%123%_" id="126" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://github.com/Microsoft/xbox-live-samples" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Xbox live apps<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://github.com/Microsoft/xbox-live-samples" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Xbox live apps<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%124%_" id="127" xml:space="preserve">
+            <source>- UWP apps on HoloLens
+- Marble Maze
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">- UWP apps on HoloLens
+- Marble Maze
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%125%_" id="128" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/projects-and-build-systems-cpp" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>MSVC x64/x86 build tools<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/projects-and-build-systems-cpp" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>MSVC x64/x86 build tools<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%126%_" id="129" xml:space="preserve">
+            <source>- Visual Studio C++ core features
+- Windows Universal C Runtime
+- C++ profiling tools
+- Windows 10 SDK
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- Visual Studio C++ core features
+- Windows Universal C Runtime
+- C++ profiling tools
+- Windows 10 SDK
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%127%_" id="130" xml:space="preserve">
+            <source>Data storage &amp; processing</source>
+            <target state="new">Data storage &amp; processing</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%128%_" id="131" xml:space="preserve">
+            <source>Learn more about Data storage &amp; processing</source>
+            <target state="new">Learn more about Data storage &amp; processing</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%129%_" id="132" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Data storage &amp; processing<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Data storage &amp; processing<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%130%_" id="133" xml:space="preserve">
+            <source><bpt id="p1">&lt;span&gt;</bpt>Connect, develop, and test data solutions using SQL Server, Azure Data Lake, Hadoop, or Azure ML<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span&gt;</bpt>Connect, develop, and test data solutions using SQL Server, Azure Data Lake, Hadoop, or Azure ML<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%131%_" id="134" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%132%_" id="135" xml:space="preserve">
+            <source>The Data workload enables you to develop across a wide range of relational and big data assets.</source>
+            <target state="new">The Data workload enables you to develop across a wide range of relational and big data assets.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%133%_" id="136" xml:space="preserve">
+            <source>It provides you the tools to develop queries against databases, data warehouses and data lakes, whether on-premises or in Azure.</source>
+            <target state="new">It provides you the tools to develop queries against databases, data warehouses and data lakes, whether on-premises or in Azure.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%134%_" id="137" xml:space="preserve">
+            <source>It provides support for SQL, U-SQL, and Hive.</source>
+            <target state="new">It provides support for SQL, U-SQL, and Hive.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%135%_" id="138" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%136%_" id="139" xml:space="preserve">
+            <source>- Use <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>SQL Server Data Tools<ept id="p1">&lt;/a&gt;</ept> to design, deploy, and mantain databases
+- Develop <bpt id="p2">&lt;a href="https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-data-lake-tools-get-started" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>U-SQL scripts by using Azure Data Lake Tools<ept id="p2">&lt;/a&gt;</ept></source>
+            <target state="new">- Use <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-2017" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>SQL Server Data Tools<ept id="p1">&lt;/a&gt;</ept> to design, deploy, and mantain databases
+- Develop <bpt id="p2">&lt;a href="https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-data-lake-tools-get-started" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>U-SQL scripts by using Azure Data Lake Tools<ept id="p2">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%137%_" id="140" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-visual-studio-tools-get-started" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Run Hive queries with Hadoop on Azure HDInsight<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-visual-studio-tools-get-started" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Run Hive queries with Hadoop on Azure HDInsight<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%138%_" id="141" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%139%_" id="142" xml:space="preserve">
+            <source>- SQL Server Data Tools
+- Azure Data Lake and Stream Analytics Tools
+- .NET Framework 4.x development tools
+
+</source>
+            <target state="new">- SQL Server Data Tools
+- Azure Data Lake and Stream Analytics Tools
+- .NET Framework 4.x development tools
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%140%_" id="143" xml:space="preserve">
+            <source>Data science &amp; analytical applications</source>
+            <target state="new">Data science &amp; analytical applications</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%141%_" id="144" xml:space="preserve">
+            <source>Learn more about Data science &amp; analytical applications</source>
+            <target state="new">Learn more about Data science &amp; analytical applications</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%142%_" id="145" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Data science &amp; analytical applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Data science &amp; analytical applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%143%_" id="146" xml:space="preserve">
+            <source>Languages and tooling for creating data science applications, including Python and F#
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Languages and tooling for creating data science applications, including Python and F#
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%144%_" id="147" xml:space="preserve">
+            <source>Use R and Python for wide range of scenarios such as data acquisition, cleaning, model training, deployment, and plotting.</source>
+            <target state="new">Use R and Python for wide range of scenarios such as data acquisition, cleaning, model training, deployment, and plotting.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%145%_" id="148" xml:space="preserve">
+            <source>Use F#, a powerful functional-first .NET language, for a wide variety of data processing tasks.</source>
+            <target state="new">Use F#, a powerful functional-first .NET language, for a wide variety of data processing tasks.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%146%_" id="149" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%147%_" id="150" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/visualizing-data-with-r-in-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Create visual data plots with R<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/visualizing-data-with-r-in-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Create visual data plots with R<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%148%_" id="151" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/interactive-repl-for-r-in-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Work with the R interactive (REPL) window<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/interactive-repl-for-r-in-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Work with the R interactive (REPL) window<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%149%_" id="152" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/getting-started-samples" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Create machine learning models using R and Microsoft ML Server<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/getting-started-samples" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Create machine learning models using R and Microsoft ML Server<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%150%_" id="153" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%151%_" id="154" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/index" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>R and Microsoft R Client<ept id="p1">&lt;/a&gt;</ept> language support &amp; runtime distributions
+- <bpt id="p2">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/python/overview-of-python-tools-for-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Python and Anaconda<ept id="p2">&lt;/a&gt;</ept> language support &amp; runtime distributions
+- <bpt id="p3">&lt;a href="https://docs.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>F# with the .NET framework<ept id="p3">&lt;/a&gt;</ept> language support &amp; runtime distributions
+
+</source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/rtvs/index" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>R and Microsoft R Client<ept id="p1">&lt;/a&gt;</ept> language support &amp; runtime distributions
+- <bpt id="p2">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/python/overview-of-python-tools-for-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Python and Anaconda<ept id="p2">&lt;/a&gt;</ept> language support &amp; runtime distributions
+- <bpt id="p3">&lt;a href="https://docs.microsoft.com/en-us/dotnet/fsharp/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>F# with the .NET framework<ept id="p3">&lt;/a&gt;</ept> language support &amp; runtime distributions
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%152%_" id="155" xml:space="preserve">
+            <source>Visual Studio extension development</source>
+            <target state="new">Visual Studio extension development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%153%_" id="156" xml:space="preserve">
+            <source>Learn more about Visual Studio extension development</source>
+            <target state="new">Learn more about Visual Studio extension development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%154%_" id="157" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Visual Studio extension development<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Visual Studio extension development<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%155%_" id="158" xml:space="preserve">
+            <source>Create add-ons and extensions for Visual Studio, including new commands, code analyzers, and tool windows
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Create add-ons and extensions for Visual Studio, including new commands, code analyzers, and tool windows
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%156%_" id="159" xml:space="preserve">
+            <source>Add the SDKs and tools you need to create new commands, code analyzers, tool windows, and language services using C#.</source>
+            <target state="new">Add the SDKs and tools you need to create new commands, code analyzers, tool windows, and language services using C#.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%157%_" id="160" xml:space="preserve">
+            <source>Then, share your extension with the community in the <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/vs" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Visual Studio Marketplace<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Then, share your extension with the community in the <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/vs" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Visual Studio Marketplace<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%158%_" id="161" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%159%_" id="162" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/features/extend/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Extensions for Visual Studio IDE<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/features/extend/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Extensions for Visual Studio IDE<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%160%_" id="163" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/extensibility/creating-a-software-development-kit?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Software development kit development<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/extensibility/creating-a-software-development-kit?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Software development kit development<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%161%_" id="164" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%162%_" id="165" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/extensibility/visual-studio-sdk?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Visual Studio SDK<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/extensibility/visual-studio-sdk?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Visual Studio SDK<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%163%_" id="166" xml:space="preserve">
+            <source>- Visual Studio extension development prerequisites
+- .NET profiling tools
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- Visual Studio extension development prerequisites
+- .NET profiling tools
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%164%_" id="167" xml:space="preserve">
+            <source>Office/SharePoint</source>
+            <target state="new">Office/SharePoint</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%165%_" id="168" xml:space="preserve">
+            <source>Learn more about Office/SharePoint</source>
+            <target state="new">Learn more about Office/SharePoint</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%166%_" id="169" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Office/SharePoint<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Office/SharePoint<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%167%_" id="170" xml:space="preserve">
+            <source>Create Office and SharePoint add-ins, SharePoint solutions, and VSTO add-ins using C#, VB, and JavaScript
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Create Office and SharePoint add-ins, SharePoint solutions, and VSTO add-ins using C#, VB, and JavaScript
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%168%_" id="171" xml:space="preserve">
+            <source>Take advantage of various project templates to extend Office and SharePoint.</source>
+            <target state="new">Take advantage of various project templates to extend Office and SharePoint.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%169%_" id="172" xml:space="preserve">
+            <source>Easily build, debug, and publish your add-ins and solutions from Visual Studio.</source>
+            <target state="new">Easily build, debug, and publish your add-ins and solutions from Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%170%_" id="173" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%171%_" id="174" xml:space="preserve">
+            <source>- Office add-ins
+- VSTO add-ins
+- SharePoint add-ins
+- SharePoint solutions
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">- Office add-ins
+- VSTO add-ins
+- SharePoint add-ins
+- SharePoint solutions
+<bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%172%_" id="175" xml:space="preserve">
+            <source>- Office Developer Tools for Visual Studio
+- .NET Framework 4.5 targeting pack
+- .NET Framework 4.x development tools
+- Developer Analytics tools
+
+</source>
+            <target state="new">- Office Developer Tools for Visual Studio
+- .NET Framework 4.5 targeting pack
+- .NET Framework 4.x development tools
+- Developer Analytics tools
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%173%_" id="176" xml:space="preserve">
+            <source>Linux development with C++</source>
+            <target state="new">Linux development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%174%_" id="177" xml:space="preserve">
+            <source>Learn more about Linux development with C++</source>
+            <target state="new">Learn more about Linux development with C++</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%175%_" id="178" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>Linux development with C++<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>Linux development with C++<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%176%_" id="179" xml:space="preserve">
+            <source>Create and debug applications running in a Linux environment or Windows Subsystem for Linux (WSL)
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Create and debug applications running in a Linux environment or Windows Subsystem for Linux (WSL)
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%177%_" id="180" xml:space="preserve">
+            <source>Build and run code on a remote machine or Windows Subsystem for Linux and browse, edit, and debug from within Visual Studio.</source>
+            <target state="new">Build and run code on a remote machine or Windows Subsystem for Linux and browse, edit, and debug from within Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%178%_" id="181" xml:space="preserve">
+            <source>Use CMake to target multiple platforms from the comfort of a single IDE.</source>
+            <target state="new">Use CMake to target multiple platforms from the comfort of a single IDE.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%179%_" id="182" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%180%_" id="183" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/get-started-linux-cmake?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Get Started<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/cpp/build/get-started-linux-cmake?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Get Started<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%181%_" id="184" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%182%_" id="185" xml:space="preserve">
+            <source>- Visual Studio C++ core features
+- Windows Universal C Runtime
+- Visual C++ for Linux Development
+- Visual C++ tools for CMake and Linux
+
+</source>
+            <target state="new">- Visual Studio C++ core features
+- Windows Universal C Runtime
+- Visual C++ for Linux Development
+- Visual C++ tools for CMake and Linux
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%183%_" id="186" xml:space="preserve">
+            <source>.NET Core cross-platform development</source>
+            <target state="new">.NET Core cross-platform development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%184%_" id="187" xml:space="preserve">
+            <source>Learn more about .NET Core cross-platform development</source>
+            <target state="new">Learn more about .NET Core cross-platform development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%185%_" id="188" xml:space="preserve">
+            <source>
+<bpt id="p1">&lt;h4&gt;</bpt>.NET Core cross-platform development<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">
+<bpt id="p1">&lt;h4&gt;</bpt>.NET Core cross-platform development<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%186%_" id="189" xml:space="preserve">
+            <source>Build cross-platform applications using .NET Core, ASP.NET Core, HTML/JavaScript, and Containers including Docker support
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new">Build cross-platform applications using .NET Core, ASP.NET Core, HTML/JavaScript, and Containers including Docker support
+<bpt id="p1">&lt;h4&gt;</bpt>Description<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%187%_" id="190" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/about" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>.NET Core<ept id="p1">&lt;/a&gt;</ept> is an open source, general-purpose development platform maintained by Microsoft and the .NET community on GitHub.</source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/about" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>.NET Core<ept id="p1">&lt;/a&gt;</ept> is an open source, general-purpose development platform maintained by Microsoft and the .NET community on GitHub.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%188%_" id="191" xml:space="preserve">
+            <source>It’s cross-platform (supporting Windows, macOS, and Linux), and can be used to build device, cloud, and IoT applications.</source>
+            <target state="new">It’s cross-platform (supporting Windows, macOS, and Linux), and can be used to build device, cloud, and IoT applications.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%189%_" id="192" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Development applications<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%190%_" id="193" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Complete .NET Core solution on Windows<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Complete .NET Core solution on Windows<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%191%_" id="194" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/docker/intro-net-docker" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Docker images for .NET Core applications<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/docker/intro-net-docker" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Docker images for .NET Core applications<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%192%_" id="195" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>C# console application using .NET Core<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>C# console application using .NET Core<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%193%_" id="196" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4&gt;</bpt>Components<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%194%_" id="197" xml:space="preserve">
+            <source>- .NET Core 2.x development tools
+- .NET Framework 4.x development tools
+- ASP.NET and web development tools prerequisites
+- Cloud tools for web development
+- .NET profiling tools
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- .NET Core 2.x development tools
+- .NET Framework 4.x development tools
+- ASP.NET and web development tools prerequisites
+- Cloud tools for web development
+- .NET profiling tools
+- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/debugger/intellitrace?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>IntelliTrace<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%195%_" id="198" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/live-unit-testing?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Unit Testing<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/test/live-unit-testing?view=vs-2019" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Unit Testing<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%196%_" id="199" xml:space="preserve">
+            <source>- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/services/live-share/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Share<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">- <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/services/live-share/" target="_blank" rel="nofollow noopener noreferrer"&gt;</bpt>Live Share<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
