@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53633-9ad778f36ee2e542b273352747e9325b" source-language="en" target-language="ja" parent-post-id="96266" version="4" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/mac/can-get-visual-studio-mac-installation-logs/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV9fJTElXw==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio Mac Download and Installation on how to get Mac installation logs?</source>
+            <target state="new">Visual Studio Mac Download and Installation on how to get Mac installation logs?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>How can I get the Visual Studio for Mac installation logs?</source>
+            <target state="new">How can I get the Visual Studio for Mac installation logs?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Installation logs for Visual Studio for Mac can be found in the following location:
+
+</source>
+            <target state="new">Installation logs for Visual Studio for Mac can be found in the following location:
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>~/Library/Logs/VisualStudioInstaller</source>
+            <target state="new">~/Library/Logs/VisualStudioInstaller</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54400-00e054b253dd6c46a48e9af39a44a5d3" source-language="en" target-language="ja" parent-post-id="145320" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/tools/"/></reference>
+		<skl>
+			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+            <source>Learn more about Visual Studio Enterprise</source>
+            <target state="new">Learn more about Visual Studio Enterprise</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <source>An integrated, end-to-end solution for teams of any size with demanding quality and scale needs. 
+</source>
+            <target state="new">An integrated, end-to-end solution for teams of any size with demanding quality and scale needs. 
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve">
+            <source>Enterprise-class development</source>
+            <target state="new">Enterprise-class development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve">
+            <source>Visual Studio Enterprise</source>
+            <target state="new">Visual Studio Enterprise</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_aria_label-0" id="5" xml:space="preserve">
+            <source>Learn more about Visual Studio Enterprise for Mac</source>
+            <target state="new">Learn more about Visual Studio Enterprise for Mac</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_content-0" id="6" xml:space="preserve">
+            <source>An integrated, end-to-end solution for teams of any size with demanding quality and scale needs. 
+</source>
+            <target state="new">An integrated, end-to-end solution for teams of any size with demanding quality and scale needs. 
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_link_text-0" id="7" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_sub_title-0" id="8" xml:space="preserve">
+            <source>Enterprise-class development</source>
+            <target state="new">Enterprise-class development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_title-0" id="9" xml:space="preserve">
+            <source>Visual Studio Enterprise for Mac</source>
+            <target state="new">Visual Studio Enterprise for Mac</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_aria_label-0" id="10" xml:space="preserve">
+            <source>Learn more about Azure DevOps Server 2019</source>
+            <target state="new">Learn more about Azure DevOps Server 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_content-0" id="11" xml:space="preserve">
+            <source>Azure DevOps Server 2019 lets you share code, track work, and ship software using integrated software delivery tools, self-hosted in your environment.</source>
+            <target state="new">Azure DevOps Server 2019 lets you share code, track work, and ship software using integrated software delivery tools, self-hosted in your environment.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_link_text-0" id="12" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_title-0" id="13" xml:space="preserve">
+            <source>Azure DevOps Server 2019</source>
+            <target state="new">Azure DevOps Server 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_aria_label-0" id="14" xml:space="preserve">
+            <source>Learn more about Parasoft Virtualize/SOAtest Professional Desktop</source>
+            <target state="new">Learn more about Parasoft Virtualize/SOAtest Professional Desktop</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_content-0" id="15" xml:space="preserve">
+            <source>Test earlier and more often. Simulate and test the behavior of unavailable and evolving applications and systems. 
+</source>
+            <target state="new">Test earlier and more often. Simulate and test the behavior of unavailable and evolving applications and systems. 
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_link_text-0" id="16" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_sub_title-0" id="17" xml:space="preserve">
+            <source>Free 6 month subscription</source>
+            <target state="new">Free 6 month subscription</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_title-0" id="18" xml:space="preserve">
+            <source>Parasoft Virtualize/SOAtest Professional Desktop</source>
+            <target state="new">Parasoft Virtualize/SOAtest Professional Desktop</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="19" xml:space="preserve">
+            <source>Tools</source>
+            <target state="new">Tools</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

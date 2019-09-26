@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="42634-89758382f8c9b3e9c9889ca11d3c4f88" source-language="en" target-language="ja" parent-post-id="136422" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/hello-world-in-c-using-visual-studio-2017/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXw0KXyUzJV8NCl8lNCVfDQpfJTUlXw0KDQo8aW1nIHNyYz0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOC8wNS9EcndEQTJVd0NHTFU4YnFtLUMyQjJCLVR1dG9yaWFsMkMtV2l6YXJkLnBuZyIgYWx0PSJzY3JlZW5zaG90IG9mIFdpbjMyIEFwcGxpY2F0aW9uIFdpemFyZCI+PC9pbWc+CjwvbGk+DQpfJTYlXw0KXyU3JV8NCl8lOCVfDQpfJTklXyBfJTEwJV8NCg0KXyUxMSVfDQpfJTEyJV8NCg0KPGltZyBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDUvWDZMdHROVm9pM05VZ2R0MC04LnBuZyIgYWx0PSJzY3JlZW5zaG90IG9mIGNvbnNvbGUgd2luZG93LiI+PC9pbWc+CjwvbGk+DQo8L29sPg0KXyUxMyVfDQoNCl8lMTQlXw0KXyUxNSVfIF8lMTYlXyBfJTE3JV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Hello World in C++ using Visual Studio 2017</source>
+            <target state="new">Hello World in C++ using Visual Studio 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 class="" data-fontsize="22" data-lineheight="29"&gt;</bpt>Thank you for downloading Visual Studio and start your first C++ journey!<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 class="" data-fontsize="22" data-lineheight="29"&gt;</bpt>Thank you for downloading Visual Studio and start your first C++ journey!<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>First, understand the layout and views once you launch Visual Studio 2017:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/cBQYEMClMBQLJiTA-2017-03-09-13_52_37-Start-Page-Microsoft-Visual-Studio.png" alt="screenshot of Visual Studio 2017 launch window"&gt;&lt;/img&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>First, understand the layout and views once you launch Visual Studio 2017:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/cBQYEMClMBQLJiTA-2017-03-09-13_52_37-Start-Page-Microsoft-Visual-Studio.png" alt="screenshot of Visual Studio 2017 launch window"&gt;&lt;/img&gt;</ph>
+<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Next, review the standard build process for a Visual Studio project: <ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/WD7OTJDopZydtTZt-flow.png" alt="graphic for standard build process for a Visual Studio project"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Next, review the standard build process for a Visual Studio project: <ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/WD7OTJDopZydtTZt-flow.png" alt="graphic for standard build process for a Visual Studio project"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>If C++ is not an already installed language in Visual Studio, you need to install <bpt id="p2">&lt;strong&gt;</bpt>Desktop development with C++<ept id="p2">&lt;/strong&gt;</ept> through the Visual Studio Installer:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/LUHboih732iHV6xl-C2B2B-Tutorial2C-Installing-C2B2B.png" alt="screenshot of Desktop development with C++ installer"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>If C++ is not an already installed language in Visual Studio, you need to install <bpt id="p2">&lt;strong&gt;</bpt>Desktop development with C++<ept id="p2">&lt;/strong&gt;</ept> through the Visual Studio Installer:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/LUHboih732iHV6xl-C2B2B-Tutorial2C-Installing-C2B2B.png" alt="screenshot of Desktop development with C++ installer"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>After installing the Desktop development with C++ workload, you can choose the <bpt id="p2">&lt;strong&gt;</bpt>Win32 Console Application<ept id="p2">&lt;/strong&gt;</ept> template and create your <bpt id="p3">&lt;strong&gt;</bpt>HelloWorld<ept id="p3">&lt;/strong&gt;</ept> project:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/QXOsa7E54Zegqfxp-C2B2B-Tutorial2C-New-Project-Dialog.png" alt="screenshot of Win32 Console Application"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>After installing the Desktop development with C++ workload, you can choose the <bpt id="p2">&lt;strong&gt;</bpt>Win32 Console Application<ept id="p2">&lt;/strong&gt;</ept> template and create your <bpt id="p3">&lt;strong&gt;</bpt>HelloWorld<ept id="p3">&lt;/strong&gt;</ept> project:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/QXOsa7E54Zegqfxp-C2B2B-Tutorial2C-New-Project-Dialog.png" alt="screenshot of Win32 Console Application"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Click <bpt id="p2">&lt;strong&gt;</bpt>Finish<ept id="p2">&lt;/strong&gt;</ept> to exit the <bpt id="p3">&lt;strong&gt;</bpt>Win32 Application Wizard<ept id="p3">&lt;/strong&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Click <bpt id="p2">&lt;strong&gt;</bpt>Finish<ept id="p2">&lt;/strong&gt;</ept> to exit the <bpt id="p3">&lt;strong&gt;</bpt>Win32 Application Wizard<ept id="p3">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You can see your first C++ project:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/tDkKyeWaf4Sb3iTG-C2B2B-Tutorial2C-Editor.png" alt="screenshot of C++ project"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You can see your first C++ project:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/tDkKyeWaf4Sb3iTG-C2B2B-Tutorial2C-Editor.png" alt="screenshot of C++ project"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Replace<ept id="p2">&lt;/strong&gt;</ept> the code with below lines:
+<pre>&lt;code&gt;#include &quot;stdafx.h&quot;
+#include &amp;lt;iostream&amp;gt; 
+using namespace std;    
+
+    int main()      
+    {    
+        cout &amp;lt;&amp;lt; &quot;Hello World! &quot;;    
+        return 0;      
+    }
+&lt;/code&gt;</pre>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>
+<bpt id="p2">&lt;strong&gt;</bpt>Replace<ept id="p2">&lt;/strong&gt;</ept> the code with below lines:
+<pre>&lt;code&gt;#include &quot;stdafx.h&quot;
+#include &amp;lt;iostream&amp;gt; 
+using namespace std;    
+
+    int main()      
+    {    
+        cout &amp;lt;&amp;lt; &quot;Hello World! &quot;;    
+        return 0;      
+    }
+&lt;/code&gt;</pre>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Next, add a <bpt id="p2">&lt;strong&gt;</bpt>breakpoint<ept id="p2">&lt;/strong&gt;</ept> by clicking the grey area in front of <bpt id="p3">&lt;strong&gt;</bpt>line 12<ept id="p3">&lt;/strong&gt;</ept>:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/JPQaqbOHqT7Z0rZ7-2017-03-09-13_47_14-HelloWorld-Microsoft-Visual-Studio.png" alt="screenshot of breakpoint"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Next, add a <bpt id="p2">&lt;strong&gt;</bpt>breakpoint<ept id="p2">&lt;/strong&gt;</ept> by clicking the grey area in front of <bpt id="p3">&lt;strong&gt;</bpt>line 12<ept id="p3">&lt;/strong&gt;</ept>:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/JPQaqbOHqT7Z0rZ7-2017-03-09-13_47_14-HelloWorld-Microsoft-Visual-Studio.png" alt="screenshot of breakpoint"&gt;&lt;/img&gt;</ph>
+<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Compile and run your project by clicking the <bpt id="p2">&lt;strong&gt;</bpt>green triangle<ept id="p2">&lt;/strong&gt;</ept> in the tool bar (<bpt id="p3">&lt;strong&gt;</bpt>Local Windows Debugger<ept id="p3">&lt;/strong&gt;</ept>) or press F5.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Compile and run your project by clicking the <bpt id="p2">&lt;strong&gt;</bpt>green triangle<ept id="p2">&lt;/strong&gt;</ept> in the tool bar (<bpt id="p3">&lt;strong&gt;</bpt>Local Windows Debugger<ept id="p3">&lt;/strong&gt;</ept>) or press F5.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>Visual Studio allows single-click for build and debugging.</source>
+            <target state="new">Visual Studio allows single-click for build and debugging.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>Click <bpt id="p1">&lt;strong&gt;</bpt>Yes<ept id="p1">&lt;/strong&gt;</ept> to build the project:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/DD23cgR1noOLMnUP-2017-03-09-13_47_47-Microsoft-Visual-Studio.png" alt="screenshot of build and debugging window"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Click <bpt id="p1">&lt;strong&gt;</bpt>Yes<ept id="p1">&lt;/strong&gt;</ept> to build the project:
+
+<ph id="ph1">&lt;img src="https://visualstudio.microsoft.com/wp-content/uploads/2018/05/DD23cgR1noOLMnUP-2017-03-09-13_47_47-Microsoft-Visual-Studio.png" alt="screenshot of build and debugging window"&gt;&lt;/img&gt;</ph>
+<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You can see a &quot;Hello World!&quot; in the <bpt id="p2">&lt;strong&gt;</bpt>console window<ept id="p2">&lt;/strong&gt;</ept>.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You can see a &quot;Hello World!&quot; in the <bpt id="p2">&lt;strong&gt;</bpt>console window<ept id="p2">&lt;/strong&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source>Troubleshooting:
+
+If the console window immediately closes, you need to set the breakpoint in step 8.</source>
+            <target state="new">Troubleshooting:
+
+If the console window immediately closes, you need to set the breakpoint in step 8.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source>If you are on Windows 8.1, you need to re-run the installer for Visual Studio, click modify, select languages, and choose C++.</source>
+            <target state="new">If you are on Windows 8.1, you need to re-run the installer for Visual Studio, click modify, select languages, and choose C++.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class=""&gt;</bpt>Congratulations on your first C++ project!</source>
+            <target state="new"><bpt id="p1">&lt;p class=""&gt;</bpt>Congratulations on your first C++ project!</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>Please let us know whether you find this article useful or not.</source>
+            <target state="new">Please let us know whether you find this article useful or not.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>Thank you!<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">Thank you!<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

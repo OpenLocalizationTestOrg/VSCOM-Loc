@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46518-1a605570edfe625d776fb1de2d1fcf62" source-language="en" target-language="ja" parent-post-id="80142" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/cannot-find-visual-studio-2015-start-menu/"/></reference>
+		<skl>
+			<internal-file><![CDATA[PHAgY2xhc3M9InAxIj5fJTAlXyBfJTElXyBfJTIlXyBfJTMlXyBfJTQlXzwvcD4NCjxwIGNsYXNzPSJwMSI+XyU1JV88L3A+DQo8cCBjbGFzcz0icDEiPl8lNiVfIF8lNyVfwqBfJTglX8KgPC9zcGFuPjwvcD4K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Tools and Features on not being able to find Visual Studio 2015 in the Start Menu.</source>
+            <target state="new">Visual Studio 2015 Tools and Features on not being able to find Visual Studio 2015 in the Start Menu.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>I cannot find Visual Studio 2015 in the Start Menu.</source>
+            <target state="new">I cannot find Visual Studio 2015 in the Start Menu.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="s1"&gt;</bpt>No, your Visual Studio install is not corrupt.</source>
+            <target state="new"><bpt id="p1">&lt;span class="s1"&gt;</bpt>No, your Visual Studio install is not corrupt.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>The Visual Studio 2015 application icon has been moved outside of the Visual Studio 2015 folder.</source>
+            <target state="new">The Visual Studio 2015 application icon has been moved outside of the Visual Studio 2015 folder.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>If you’re running Windows 7, you can find the application at the top of the “All Programs” list grouped with other application icons.</source>
+            <target state="new">If you’re running Windows 7, you can find the application at the top of the “All Programs” list grouped with other application icons.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>If you are running Windows 8, 8.1 or 10, you can find the application listed under the ‘V’ grouping.</source>
+            <target state="new">If you are running Windows 8, 8.1 or 10, you can find the application listed under the ‘V’ grouping.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>If you are still unable to find it, use Windows search (press the Windows key, then type “Visual Studio 2015”).<ept id="p">&lt;/span&gt;</ept></source>
+            <target state="new">If you are still unable to find it, use Windows search (press the Windows key, then type “Visual Studio 2015”).<ept id="p">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="s1"&gt;</bpt>The application icon will no longer be located in the Visual Studio 2015 folder.<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="s1"&gt;</bpt>The application icon will no longer be located in the Visual Studio 2015 folder.<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="s1"&gt;</bpt>If you are still unable to find Visual Studio after a successful install open your File Explorer and navigate to the following path.</source>
+            <target state="new"><bpt id="p1">&lt;span class="s1"&gt;</bpt>If you are still unable to find Visual Studio after a successful install open your File Explorer and navigate to the following path.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source>C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe and double click on the devenv.exe.</source>
+            <target state="new">C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe and double click on the devenv.exe.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source>If you installed Visual Studio to a drive other than C, go to the location where you installed Visual Studio and navigate to this path Common7\IDE\devenv.exe.</source>
+            <target state="new">If you installed Visual Studio to a drive other than C, go to the location where you installed Visual Studio and navigate to this path Common7\IDE\devenv.exe.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

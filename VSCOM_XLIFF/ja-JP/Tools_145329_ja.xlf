@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54361-40680b61c2872638adeb65fe468b8d85" source-language="en" target-language="ja" parent-post-id="145329" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/tools-3/"/></reference>
+		<skl>
+			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+            <source>Learn more about Visual Studio Professional</source>
+            <target state="new">Learn more about Visual Studio Professional</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <source>Professional developer tools for making any app for any platform.
+
+
+
+</source>
+            <target state="new">Professional developer tools for making any app for any platform.
+
+
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve">
+            <source>IDE for individuals or small teams</source>
+            <target state="new">IDE for individuals or small teams</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve">
+            <source>Visual Studio Professional</source>
+            <target state="new">Visual Studio Professional</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_aria_label-0" id="5" xml:space="preserve">
+            <source>Learn more about Visual Studio Professional for Mac</source>
+            <target state="new">Learn more about Visual Studio Professional for Mac</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_content-0" id="6" xml:space="preserve">
+            <source>Professional developer tools for making any app for any platform.
+</source>
+            <target state="new">Professional developer tools for making any app for any platform.
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_link_text-0" id="7" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_sub_title-0" id="8" xml:space="preserve">
+            <source>IDE for individuals or small teams</source>
+            <target state="new">IDE for individuals or small teams</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_title-0" id="9" xml:space="preserve">
+            <source>Visual Studio Professional for Mac</source>
+            <target state="new">Visual Studio Professional for Mac</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_aria_label-0" id="10" xml:space="preserve">
+            <source>Learn more about Azure DevOps Server 2019</source>
+            <target state="new">Learn more about Azure DevOps Server 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_content-0" id="11" xml:space="preserve">
+            <source>Azure DevOps Server 2019 lets you share code, track work, and ship software using integrated software delivery tools, self-hosted in your environment.</source>
+            <target state="new">Azure DevOps Server 2019 lets you share code, track work, and ship software using integrated software delivery tools, self-hosted in your environment.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_link_text-0" id="12" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_title-0" id="13" xml:space="preserve">
+            <source>Azure DevOps Server 2019</source>
+            <target state="new">Azure DevOps Server 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="14" xml:space="preserve">
+            <source>Tools</source>
+            <target state="new">Tools</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46804-350c0ca1d305cd1739b14748eca8a00b" source-language="en" target-language="ja" parent-post-id="80157" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/received-error-net-framework-installed-machine-not-meet-minimum-required-version/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQoNCl8lMiVfDQo8aDMgZGF0YS1mb250c2l6ZT0iMjIiIGRhdGEtbGluZWhlaWdodD0iMjkiPjEuIF8lMyVfDQpfJTQlXyBfJTUlXwo=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I received the error "The .Net Framework installed on this machine does not meet the minimum required version"</source>
+            <target state="new">I received the error "The .Net Framework installed on this machine does not meet the minimum required version"</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class="" data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class="" data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>When attempting to install Visual Studio 2015 you receive this error "The .Net Framework installed on this machine does not meet the minimum required version".</source>
+            <target state="new">When attempting to install Visual Studio 2015 you receive this error "The .Net Framework installed on this machine does not meet the minimum required version".</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Visual Studio 2015 requires the .NET Framework version 4.6 or higher
+<bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new">Visual Studio 2015 requires the .NET Framework version 4.6 or higher
+<bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Download .NET Framework 4.6 or higher<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Download .NET Framework 4.6 or higher<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>You can download and install .NET 4.6 from <bpt id="p1">&lt;a href="https://www.microsoft.com/en-us/download/details.aspx?id=48137" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free
+<bpt id="p2">&lt;h3 class="" data-fontsize="22" data-lineheight="29"&gt;</bpt>2.</source>
+            <target state="new">You can download and install .NET 4.6 from <bpt id="p1">&lt;a href="https://www.microsoft.com/en-us/download/details.aspx?id=48137" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free
+<bpt id="p2">&lt;h3 class="" data-fontsize="22" data-lineheight="29"&gt;</bpt>2.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>Launch the Visual Studio installer again<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Launch the Visual Studio installer again<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

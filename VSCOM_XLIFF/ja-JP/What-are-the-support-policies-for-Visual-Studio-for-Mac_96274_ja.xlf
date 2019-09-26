@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53724-03e1eab0bfdee5e5720de750f9a3387c" source-language="en" target-language="ja" parent-post-id="96274" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/mac/support-policies-visual-studio-mac/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>What are the support policies for Visual Studio for Mac?</source>
+            <target state="new">What are the support policies for Visual Studio for Mac?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-servicing-mac-2019"&gt;</bpt>https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-servicing-mac-2019<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-servicing-mac-2019"&gt;</bpt>https://docs.microsoft.com/en-us/visualstudio/productinfo/vs-servicing-mac-2019<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
