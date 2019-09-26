@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="44475-9871ad9e86c57a72d09f0d1b6fd4fcfc" source-language="en" target-language="fr" parent-post-id="129729" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/microsoft-visual-c-redistributable-for-visual-studio-2019/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/VC_redist.x86.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/VC_redist.x86.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>x86</source>
+            <target state="new">x86</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-url" id="3" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/VC_redist.x64.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/VC_redist.x64.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-language" id="4" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-1-format" id="5" xml:space="preserve">
+            <source>x64</source>
+            <target state="new">x64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-url" id="6" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/VC_redist.arm64.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/VC_redist.arm64.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-language" id="7" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-2-format" id="8" xml:space="preserve">
+            <source>arm64</source>
+            <target state="new">arm64</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="9" xml:space="preserve">
+            <source>Microsoft Visual C++ Redistributable for Visual Studio 2019</source>
+            <target state="new">Microsoft Visual C++ Redistributable for Visual Studio 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="10" xml:space="preserve">
+            <source>This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2019 installed.</source>
+            <target state="new">This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2019 installed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="11" xml:space="preserve">
+            <source>Microsoft Visual C++ Redistributable for Visual Studio 2019</source>
+            <target state="new">Microsoft Visual C++ Redistributable for Visual Studio 2019</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

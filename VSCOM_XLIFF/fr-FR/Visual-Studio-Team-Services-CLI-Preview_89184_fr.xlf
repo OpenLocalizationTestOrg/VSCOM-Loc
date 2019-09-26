@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47568-40fb0f066edcd84c921c726432f0ab2d" source-language="en" target-language="fr" parent-post-id="89184" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/visual-studio-team-services-cli-preview/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8gXyUzJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://aka.ms/vsts-cli-windows-installer</source>
+            <target state="new">https://aka.ms/vsts-cli-windows-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>all-languges</source>
+            <target state="new">all-languges</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>windows</source>
+            <target state="new">windows</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Visual Studio Team Services CLI (Preview)</source>
+            <target state="new">Visual Studio Team Services CLI (Preview)</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>Open source command line interface for Visual Studio Team Services from Windows, Linux, and Mac.</source>
+            <target state="new">Open source command line interface for Visual Studio Team Services from Windows, Linux, and Mac.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source>Manage pull requests, builds, work items, and more directly from a command prompt or from scripts.</source>
+            <target state="new">Manage pull requests, builds, work items, and more directly from a command prompt or from scripts.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="6" xml:space="preserve">
+            <source>See the <bpt id="p1">&lt;a href="https://aka.ms/vsts-cli" aria-label="See more information about using command prompts"&gt;</bpt>docs<ept id="p1">&lt;/a&gt;</ept> for more information.</source>
+            <target state="new">See the <bpt id="p1">&lt;a href="https://aka.ms/vsts-cli" aria-label="See more information about using command prompts"&gt;</bpt>docs<ept id="p1">&lt;/a&gt;</ept> for more information.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="7" xml:space="preserve">
+            <source>For manual download and install steps check out these links - <bpt id="p1">&lt;a href="https://aka.ms/vsts-cli-windows" aria-label="Manual download and install steps for Windows"&gt;</bpt>Windows<ept id="p1">&lt;/a&gt;</ept>, <bpt id="p2">&lt;a href="https://aka.ms/vsts-cli-linux" aria-label="Manual download and install steps for Linux"&gt;</bpt>Linux<ept id="p2">&lt;/a&gt;</ept>, <bpt id="p3">&lt;a href="https://aka.ms/vsts-cli-mac" aria-label="Manual download and install steps for Mac"&gt;</bpt>Mac<ept id="p3">&lt;/a&gt;</ept>.</source>
+            <target state="new">For manual download and install steps check out these links - <bpt id="p1">&lt;a href="https://aka.ms/vsts-cli-windows" aria-label="Manual download and install steps for Windows"&gt;</bpt>Windows<ept id="p1">&lt;/a&gt;</ept>, <bpt id="p2">&lt;a href="https://aka.ms/vsts-cli-linux" aria-label="Manual download and install steps for Linux"&gt;</bpt>Linux<ept id="p2">&lt;/a&gt;</ept>, <bpt id="p3">&lt;a href="https://aka.ms/vsts-cli-mac" aria-label="Manual download and install steps for Mac"&gt;</bpt>Mac<ept id="p3">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="8" xml:space="preserve">
+            <source>Visual Studio Team Services CLI (Preview)</source>
+            <target state="new">Visual Studio Team Services CLI (Preview)</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

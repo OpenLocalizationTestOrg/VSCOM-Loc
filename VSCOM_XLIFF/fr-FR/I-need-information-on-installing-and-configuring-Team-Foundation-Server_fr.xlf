@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47347-732fbf7bc49b202ffc0618d50a4e59b1" source-language="en" target-language="fr" parent-post-id="80227" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/need-information-installing-configuring-team-foundation-server/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCg0KXyUyJV8gXyUzJV8gXyU0JV8NCl8lNSVfIF8lNiVfIF8lNyVfDQo8L3VsPg0KXyU4JV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I need information on installing and configuring Team Foundation Server</source>
+            <target state="new">I need information on installing and configuring Team Foundation Server</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Work on apps anytime, anywhere.</source>
+            <target state="new">Work on apps anytime, anywhere.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Use integrated, powerful, cross-platform, enterprise-level Agile tools for DevOps so your team can share code, build often, test early, and ship faster.</source>
+            <target state="new">Use integrated, powerful, cross-platform, enterprise-level Agile tools for DevOps so your team can share code, build often, test early, and ship faster.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Use this index to setup and manage your account or servers as well as configure key settings to support your teams.
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Want to work in the cloud?</source>
+            <target state="new">Use this index to setup and manage your account or servers as well as configure key settings to support your teams.
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Want to work in the cloud?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Set up a Team Services account.</source>
+            <target state="new">Set up a Team Services account.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>Connect your dev tools, share code, invite team members, and start working.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Connect your dev tools, share code, invite team members, and start working.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Need to keep everything on site?</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Need to keep everything on site?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Install on-premises TFS on your own servers.</source>
+            <target state="new">Install on-premises TFS on your own servers.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>Or upgrade TFS, if you have an earlier version.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Or upgrade TFS, if you have an earlier version.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>Learn about setting up and configuring both <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server" target="_blank" rel="noopener"&gt;</bpt>here.<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">Learn about setting up and configuring both <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server" target="_blank" rel="noopener"&gt;</bpt>here.<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="42073-6938fa28be53ecc9fe1696cd1e4f718d" source-language="en" target-language="fr" parent-post-id="80134" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/uninstall-visual-studio-2017/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfDQpfJTIlXw0KPC9vbD4K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Uninstall Visual Studio</source>
+            <target state="new">Uninstall Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Follow this link to see detailed instructions to uninstall the IDE: <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/install/uninstall-visual-studio" target="_blank" rel="noopener noreferrer"&gt;</bpt>Uninstall Visual Studio<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">Follow this link to see detailed instructions to uninstall the IDE: <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/install/uninstall-visual-studio" target="_blank" rel="noopener noreferrer"&gt;</bpt>Uninstall Visual Studio<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>
+To uninstall Visual Studio Installer by using the standard uninstallation method:
+<bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>In <bpt id="p3">&lt;b&gt;</bpt>Control Panel<ept id="p3">&lt;/b&gt;</ept>, on the <bpt id="p4">&lt;b&gt;</bpt>Programs and Features<ept id="p4">&lt;/b&gt;</ept> page, choose the product edition that you want to uninstall, and then choose <bpt id="p5">&lt;b&gt;</bpt>Change<ept id="p5">&lt;/b&gt;</ept>.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">
+To uninstall Visual Studio Installer by using the standard uninstallation method:
+<bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>In <bpt id="p3">&lt;b&gt;</bpt>Control Panel<ept id="p3">&lt;/b&gt;</ept>, on the <bpt id="p4">&lt;b&gt;</bpt>Programs and Features<ept id="p4">&lt;/b&gt;</ept> page, choose the product edition that you want to uninstall, and then choose <bpt id="p5">&lt;b&gt;</bpt>Change<ept id="p5">&lt;/b&gt;</ept>.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>In the Setup wizard, choose <bpt id="p2">&lt;b&gt;</bpt>Uninstall<ept id="p2">&lt;/b&gt;</ept>, choose <bpt id="p3">&lt;b&gt;</bpt>Yes<ept id="p3">&lt;/b&gt;</ept>, and then follow the remaining instructions in the wizard.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>In the Setup wizard, choose <bpt id="p2">&lt;b&gt;</bpt>Uninstall<ept id="p2">&lt;/b&gt;</ept>, choose <bpt id="p3">&lt;b&gt;</bpt>Yes<ept id="p3">&lt;/b&gt;</ept>, and then follow the remaining instructions in the wizard.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

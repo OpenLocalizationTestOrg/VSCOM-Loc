@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="53982-9944e2d48d6bbe9e1ced0e15fc2b6547" source-language="en" target-language="fr" parent-post-id="100986" version="6" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/visual-cpp-build-tools/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gSGVybyIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ieWVzIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tZmVhdHVyZS1oZXJvIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8tdGV4dGNvbCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fZmVhdHVyZV9oZXJvIGxheW91dD0iZmVhdHVyZS1oZXJvIiB0aXRsZT0iXyUwJV8iIGltYWdlX3NyYz0iIiBpbWFnZV9pZD0iIiBjc3NfY2xhc3Nlcz0iIiByZWFkbW9yZV91cmw9IiIgcmVhZG1vcmVfdGV4dD0iXyUxJV8iIHJlYWRtb3JlX2FyaWE9IiIgcmVhZG1vcmVfdGFyZ2V0PSJfc2VsZiIgcmVhZG1vcmVfcmVsPSIiXV8lMyVfW2Z1c2lvbl9idXR0b24gbGluaz0iaHR0cHM6Ly9nby5taWNyb3NvZnQuY29tL2Z3bGluay8/bGlua2lkPTg0MDkzMSIgdGl0bGU9IiIgdGFyZ2V0PSJfYmxhbmsiIGxpbmtfYXR0cmlidXRlcz0iIiBhbGlnbm1lbnQ9IiIgbW9kYWw9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgb3NfZG93bmxvYWRzPSJubyIgZG93bmxvYWRfd2luZG93c190ZXh0PSIiIGRvd25sb2FkX3dpbmRvd3NfdXJsPSIiIGRvd25sb2FkX21hY190ZXh0PSIiIGRvd25sb2FkX21hY191cmw9IiIgZG93bmxvYWRfbGludXhfdGV4dD0iIiBkb3dubG9hZF9saW51eF91cmw9IiIgYXJpYV9sYWJlbD0iIiBjb2xvcj0iZGVmYXVsdCIgYnV0dG9uX2dyYWRpZW50X3RvcF9jb2xvcj0iIiBidXR0b25fZ3JhZGllbnRfYm90dG9tX2NvbG9yPSIiIGJ1dHRvbl9ncmFkaWVudF90b3BfY29sb3JfaG92ZXI9IiIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcl9ob3Zlcj0iIiBhY2NlbnRfY29sb3I9IiIgYWNjZW50X2hvdmVyX2NvbG9yPSIiIHR5cGU9IiIgYmV2ZWxfY29sb3I9IiIgYm9yZGVyX3dpZHRoPSIiIHNpemU9IiIgc3RyZXRjaD0iZGVmYXVsdCIgc2hhcGU9IiIgaWNvbj0iIiBmYWJyaWNfaWNvbj0iQ2hldnJvblJpZ2h0U21hbGwiIGljb25fcG9zaXRpb249InJpZ2h0IiBpY29uX2RpdmlkZXI9Im5vIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTIlX1svZnVzaW9uX2J1dHRvbl0KClsvdnNjb21fZmVhdHVyZV9oZXJvXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJ5ZXMiIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10ZXh0LWNvbnRlbnQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl0NCl8lNCVfIF8lNSVfIF8lNiVfDQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHQgY29sdW1ucz0iIiBjb2x1bW5fbWluX3dpZHRoPSIiIGNvbHVtbl9zcGFjaW5nPSIiIHJ1bGVfc3R5bGU9ImRlZmF1bHQiIHJ1bGVfc2l6ZT0iIiBydWxlX2NvbG9yPSIiIGNsYXNzPSIiIGlkPSIiXQ0KXyU3JV8gXyU4JV8gXyU5JV8NCgpbL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS1ncmF5bGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzIiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9InllcyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10ZXh0LWNvbnRlbnQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMyIgY29udGVudF9hbGlnbj0iY2VudGVyIiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyUxMCVfClsvZnVzaW9uX3RpdGxlXVtmdXNpb25fY29udGVudF9ib3hlcyBsYXlvdXQ9Imljb24tb24tdG9wIiBjb2x1bW5zPSIzIiB0aXRsZV9zaXplPSIyNHB4IiBoZWFkaW5nX3NpemU9IjIiIHRpdGxlX2NvbG9yPSIjMDAwMDAwIiBib2R5X2NvbG9yPSIiIGJhY2tncm91bmRjb2xvcj0iI2ZmZmZmZiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGljb25fY2lyY2xlPSIiIGljb25fY2lyY2xlX3JhZGl1cz0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGljb25fc2l6ZT0iIiBpY29uX2hvdmVyX3R5cGU9IiIgaG92ZXJfYWNjZW50X2NvbG9yPSJyZ2JhKDAsMCwwLDApIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGlua190eXBlPSIiIGJ1dHRvbl9zcGFuPSIiIGxpbmtfYXJlYT0ibGluay1pY29uIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBpY29uX2FsaWduPSJsZWZ0IiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGVsYXk9IiIgYW5pbWF0aW9uX29mZnNldD0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgbWFyZ2luX3RvcD0iNDVweCIgbWFyZ2luX2JvdHRvbT0iMCIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9ImJ1aWxkLXRvb2xzLWJveGVzIiBpZD0iIiBpbWFnZV9tYXhfd2lkdGg9IiJdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUxMSVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBmYWJyaWNfaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSJubyIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDUvQmFzaC0xLnBuZyIgaW1hZ2VfbWF4X3dpZHRoPSIxMDAiIGltYWdlX2lkPSIiIGltYWdlX2hlaWdodD0iIiBsaW5rPSJodHRwczovL21zZG4ubWljcm9zb2Z0LmNvbS9lbi11cy9saWJyYXJ5L21zMjM1NjM5LmFzcHg/X19oc3RjPTI2ODI2NDMzNy5mMmNjMWY2NmZlMjNjMWVjNDAwYTFhODkwNjU4YmU1NC4xNTI3MTA5NjMyNTU3LjE1MjcyODM2MzY2MTEuMTUyNzcwMTQxMDg2OC41Jl9faHNzYz0yNjgyNjQzMzcuMS4xNTI3NzAxNDEwODY4Jl9faHNmcD0zMjc4ODA1MCIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgYXJpYV9sYWJlbD0iIl1fJTEyJV88cD5fJTEzJV88L3A+ClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lMTQlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249IiIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0iIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOC8wNS9jb2RlNC5wbmciIGltYWdlX21heF93aWR0aD0iMTAwIiBpbWFnZV9oZWlnaHQ9IiIgbGluaz0iaHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20vIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iX2JsYW5rIiBhcmlhX2xhYmVsPSJZb3VyIENvbnRlbnQgR29lcyBIZXJlIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTE1JV8NCg0KXyUxNiVfDQoNCgpbL2Z1c2lvbl9jb250ZW50X2JveF1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTE3JV8iIGJhY2tncm91bmRjb2xvcj0iIiBpY29uPSIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49IiIgaWNvbmNvbG9yPSIiIGNpcmNsZWNvbG9yPSIiIGNpcmNsZWJvcmRlcnNpemU9IiIgY2lyY2xlYm9yZGVyY29sb3I9IiIgb3V0ZXJjaXJjbGVib3JkZXJzaXplPSIiIG91dGVyY2lyY2xlYm9yZGVyY29sb3I9IiIgaW1hZ2U9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMDUvY2xvdWQucG5nIiBpbWFnZV9tYXhfd2lkdGg9IjEwMCIgaW1hZ2VfaGVpZ2h0PSIiIGxpbms9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vZG9jcy9idWlsZC9vdmVydmlldyIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYXJpYV9sYWJlbD0iWW91ciBDb250ZW50IEdvZXMgSGVyZSIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUxOCVfDQoNCl8lMTklXw0KDQoKWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUyMCVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSIiIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA1L3B5dGhvbjIucG5nIiBpbWFnZV9tYXhfd2lkdGg9IjE0NSIgaW1hZ2VfaGVpZ2h0PSIxNDUiIGxpbms9Imh0dHBzOi8vd2lraS5weXRob24ub3JnL21vaW4vV2luZG93c0NvbXBpbGVycyIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9Il9ibGFuayIgYXJpYV9sYWJlbD0iWW91ciBDb250ZW50IEdvZXMgSGVyZSIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiJdXyUyMSVfDQoNCl8lMjIlXw0KDQoKWy9mdXNpb25fY29udGVudF9ib3hdW2Z1c2lvbl9jb250ZW50X2JveCB0aXRsZT0iXyUyMyVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iIiBpY29uZmxpcD0iIiBpY29ucm90YXRlPSIiIGljb25zcGluPSIiIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA1L25vZGVqczMucG5nIiBpbWFnZV9tYXhfd2lkdGg9IjE0NSIgaW1hZ2VfaGVpZ2h0PSIxNDUiIGxpbms9Imh0dHBzOi8vZ2l0aHViLmNvbS9ub2RlanMvbm9kZS1neXAiIGxpbmt0ZXh0PSIiIGxpbmtfdGFyZ2V0PSJfYmxhbmsiIGFyaWFfbGFiZWw9IllvdXIgQ29udGVudCBHb2VzIEhlcmUiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lMjQlXw0KDQpfJTI1JV8NCg0KClsvZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lMjYlXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249IiIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0iIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxOC8wNS9ydXN0LWxvZ28ucG5nIiBpbWFnZV9tYXhfd2lkdGg9IjE0NSIgaW1hZ2VfaGVpZ2h0PSIxNDUiIGxpbms9Imh0dHBzOi8vd3d3LnJ1c3QtbGFuZy5vcmcvZG93bmxvYWRzLmh0bWwiIGxpbmt0ZXh0PSIiIGxpbmtfdGFyZ2V0PSJfYmxhbmsiIGFyaWFfbGFiZWw9IllvdXIgQ29udGVudCBHb2VzIEhlcmUiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lMjclXw0KDQpfJTI4JV8NCg0KClsvZnVzaW9uX2NvbnRlbnRfYm94XVsvZnVzaW9uX2NvbnRlbnRfYm94ZXNdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgc3RhdHVzPSJwdWJsaXNoZWQiIHB1Ymxpc2hfZGF0ZT0iIiBjbGFzcz0iYmxhY2stZm9vdGVyIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIjM2E1MDY4IiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IjM1cHgiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IjM1cHgiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9pbWFnZWZyYW1lIGltYWdlX2lkPSIxMDEwMTUiIHN0eWxlX3R5cGU9Im5vbmUiIHN0eWxlY29sb3I9IiIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyc2l6ZT0iIiBib3JkZXJjb2xvcj0iIiBib3JkZXJyYWRpdXM9IiIgYWxpZ249ImNlbnRlciIgbGlnaHRib3g9Im5vIiBnYWxsZXJ5X2lkPSIiIGxpZ2h0Ym94X2ltYWdlPSIiIGFsdD0iIiBsaW5rPSIiIGxpbmt0YXJnZXQ9Il9zZWxmIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTI5JV9bL2Z1c2lvbl9pbWFnZWZyYW1lXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMyIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lMzAlXwpbL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHRdXyUzMSVfClsvZnVzaW9uX3RleHRdW2Z1c2lvbl9idXR0b24gbGluaz0iaHR0cHM6Ly9jdGEtc2VydmljZS1jbXMyLmh1YnNwb3QuY29tL2N0YXMvdjIvcHVibGljL2NzL2MvP2N0YV9ndWlkPWI4YzZjZmU4LWJjNmItNDMxMi1iNWY5LTU2NzUzOTMwNjgxNiZwbGFjZW1lbnRfZ3VpZD1hOWE5NWU4NS1lMTE3LTRlNTgtYTkyZC0zMjVlYjcwNGUwNWEmcG9ydGFsX2lkPTE3Mzk3NjMmcmVkaXJlY3RfdXJsPUFQZWZqcEU3blNVc0ZzQnZBTGZ1ak80ellZVHM3Q0pUNXlIZFl6Q3ZDank1M05DaFljZEJJWFBHRU1ZVjR3aVJYY1RVZFZNemJCdXdPWm1YTnkxaGU0NEZSNTVTS3M2VzBPd0cxTWJvcUdiWjN2VTUxSDFma1dBRkc5ZlY2RUhha0JndTNLZ0RMdEo0bUhQSzJQazVkVDNQb21UWWJza2lnaGp0NktXUndkLTI0VW93RzVkWFUxMWZ6dWNSRk1QeDBMZ0dPWnFmU2JsS2p2bDFDaWo1WG5CVFRBejhScUgyN1RIa042V1o4MlBiY2toanE0TlJsalpzV0hLYnY1SlhVWHgyWUhaNjdncDY4Q2MyZjhDeF9pbmlfYzJvLVV3M3lyWWdhbVB0bkp5QnI1di1RQ0EtS0MwJmhzdXRrPWYyY2MxZjY2ZmUyM2MxZWM0MDBhMWE4OTA2NThiZTU0JmNhbm9uPWh0dHAlM0ElMkYlMkZsYW5kaW5naHViLnZpc3VhbHN0dWRpby5jb20lMkZ2aXN1YWwtY3BwLWJ1aWxkLXRvb2xzJmNsaWNrPWQ3NWI2NjNkLWYyYjgtNGQzZC1hOTNhLWM2YmQ3N2JhZmU0YiZwYWdlSWQ9NDE0MDI3OTY1MyZfX2hzdGM9MjY4MjY0MzM3LmYyY2MxZjY2ZmUyM2MxZWM0MDBhMWE4OTA2NThiZTU0LjE1MjcxMDk2MzI1NTcuMTUyNzI4MzYzNjYxMS4xNTI3NzAxNDEwODY4LjUmX19oc3NjPTI2ODI2NDMzNy4xLjE1Mjc3MDE0MTA4NjgmX19oc2ZwPTMyNzg4MDUwIiB0aXRsZT0iIiB0YXJnZXQ9Il9ibGFuayIgbGlua19hdHRyaWJ1dGVzPSIiIGFsaWdubWVudD0iIiBtb2RhbD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBvc19kb3dubG9hZHM9Im5vIiBkb3dubG9hZF93aW5kb3dzX3RleHQ9IiIgZG93bmxvYWRfd2luZG93c191cmw9IiIgZG93bmxvYWRfbWFjX3RleHQ9IiIgZG93bmxvYWRfbWFjX3VybD0iIiBkb3dubG9hZF9saW51eF90ZXh0PSIiIGRvd25sb2FkX2xpbnV4X3VybD0iIiBhcmlhX2xhYmVsPSJfJTMyJV8iIGNvbG9yPSJkZWZhdWx0IiBidXR0b25fZ3JhZGllbnRfdG9wX2NvbG9yPSIiIGJ1dHRvbl9ncmFkaWVudF9ib3R0b21fY29sb3I9IiIgYnV0dG9uX2dyYWRpZW50X3RvcF9jb2xvcl9ob3Zlcj0iIiBidXR0b25fZ3JhZGllbnRfYm90dG9tX2NvbG9yX2hvdmVyPSIiIGFjY2VudF9jb2xvcj0iIiBhY2NlbnRfaG92ZXJfY29sb3I9IiIgdHlwZT0iIiBiZXZlbF9jb2xvcj0iIiBib3JkZXJfd2lkdGg9IiIgc2l6ZT0iIiBzdHJldGNoPSJkZWZhdWx0IiBzaGFwZT0iIiBpY29uPSIiIGZhYnJpY19pY29uPSJDaGV2cm9uUmlnaHRTbWFsbCIgaWNvbl9wb3NpdGlvbj0icmlnaHQiIGljb25fZGl2aWRlcj0ibm8iIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiXV8lMzMlX1svZnVzaW9uX2J1dHRvbl1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl0=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Visual C++ Build Tools</source>
+            <target state="new">Visual C++ Build Tools</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>C++ Build Tools</source>
+            <target state="new">C++ Build Tools</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Download Build Tools</source>
+            <target state="new">Download Build Tools</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Standalone compiler, libraries, and scripts
+
+
+</source>
+            <target state="new">Standalone compiler, libraries, and scripts
+
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: center;"&gt;</bpt>The C++ Build Tools allow you to build C++ libraries and applications targeting Windows desktop.</source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: center;"&gt;</bpt>The C++ Build Tools allow you to build C++ libraries and applications targeting Windows desktop.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>They are the same tools that you find in Visual Studio 2019, Visual Studio 2017, and Visual Studio 2015 in a scriptable standalone installer.</source>
+            <target state="new">They are the same tools that you find in Visual Studio 2019, Visual Studio 2017, and Visual Studio 2015 in a scriptable standalone installer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Now you only need to download the MSVC compiler toolset you need to build C++ projects on your build servers.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">Now you only need to download the MSVC compiler toolset you need to build C++ projects on your build servers.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;p style="text-align: center;"&gt;</bpt>The C++ Build Tools download is refreshed to include every Visual Studio update.</source>
+            <target state="new"><bpt id="p1">&lt;p style="text-align: center;"&gt;</bpt>The C++ Build Tools download is refreshed to include every Visual Studio update.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>The installer includes the most up-to-date MSVC compiler toolset from Visual Studio 2019.</source>
+            <target state="new">The installer includes the most up-to-date MSVC compiler toolset from Visual Studio 2019.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>The installer also includes the MSVC compilers from Visual Studio 2017 version 15.9 and Visual Studio 2015 Update 3.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">The installer also includes the MSVC compilers from Visual Studio 2017 version 15.9 and Visual Studio 2015 Update 3.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="bold"&gt;</bpt>How you can use the Build Tools<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="bold"&gt;</bpt>How you can use the Build Tools<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>Standalone Compiler</source>
+            <target state="new">Standalone Compiler</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source><bpt id="p1">&lt;p&gt;</bpt>Use the C++ Build Tools compiler on Windows to build your tools.<ept id="p1">&lt;/p&gt;</ept>
+</source>
+            <target state="new"><bpt id="p1">&lt;p&gt;</bpt>Use the C++ Build Tools compiler on Windows to build your tools.<ept id="p1">&lt;/p&gt;</ept>
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://msdn.microsoft.com/en-us/library/ms235639.aspx?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527283636611.1527701410868.5&amp;__hssc=268264337.1.1527701410868&amp;__hsfp=32788050" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Standalone Compiler"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://msdn.microsoft.com/en-us/library/ms235639.aspx?__hstc=268264337.f2cc1f66fe23c1ec400a1a890658be54.1527109632557.1527283636611.1527701410868.5&amp;__hssc=268264337.1.1527701410868&amp;__hsfp=32788050" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Standalone Compiler"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source>Visual Studio Code</source>
+            <target state="new">Visual Studio Code</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source>
+
+Lightweight editor for Linux, MacOS, and Windows with its <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" rel="noopener noreferrer" target="_blank"&gt;</bpt>C++ Extension<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">
+
+Lightweight editor for Linux, MacOS, and Windows with its <bpt id="p1">&lt;a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" rel="noopener noreferrer" target="_blank"&gt;</bpt>C++ Extension<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://code.visualstudio.com/" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Visual Studio Code"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://code.visualstudio.com/" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Visual Studio Code"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>Team Build Server</source>
+            <target state="new">Team Build Server</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source>
+
+Use the tools to set up a build server for your team.</source>
+            <target state="new">
+
+Use the tools to set up a build server for your team.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Team Build Server"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Team Build Server"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source>Python</source>
+            <target state="new">Python</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source>
+
+Install non-pure Python packages or compile a Cython or Pyrex file.</source>
+            <target state="new">
+
+Install non-pure Python packages or compile a Cython or Pyrex file.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="23" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://wiki.python.org/moin/WindowsCompilers" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Python"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://wiki.python.org/moin/WindowsCompilers" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Python"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="24" xml:space="preserve">
+            <source>Node.js</source>
+            <target state="new">Node.js</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="25" xml:space="preserve">
+            <source>
+
+Use native add-ons in Node.js with node-gyp.</source>
+            <target state="new">
+
+Use native add-ons in Node.js with node-gyp.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="26" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://github.com/nodejs/node-gyp" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Node.js"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://github.com/nodejs/node-gyp" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Node.js"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="27" xml:space="preserve">
+            <source>Rust</source>
+            <target state="new">Rust</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="28" xml:space="preserve">
+            <source>
+
+Build Rust for Windows for use with the MSVC ABI.</source>
+            <target state="new">
+
+Build Rust for Windows for use with the MSVC ABI.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="29" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://www.rust-lang.org/downloads.html" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Rust"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://www.rust-lang.org/downloads.html" rel="noopener noreferrer" target="_blank" aria-label="Learn more about Rust"&gt;</bpt>Learn more <ph id="ph1">&lt;i class="vscom-icon vscom-icon--ChevronRightSmall vscom-lg x-hidden-focus"&gt;&lt;/i&gt;</ph><ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="30" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/wp-content/uploads/2018/05/cpp-editor.png</source>
+            <target state="new">https://visualstudio.microsoft.com/wp-content/uploads/2018/05/cpp-editor.png</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="31" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #fff;"&gt;</bpt>Develop C++ tools and libraries with Visual Studio<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #fff;"&gt;</bpt>Develop C++ tools and libraries with Visual Studio<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="32" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #ffffff;"&gt;</bpt>Visual Studio provides a free, fully featured development environment for C++ developers<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #ffffff;"&gt;</bpt>Visual Studio provides a free, fully featured development environment for C++ developers<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="33" xml:space="preserve">
+            <source>Learn more about C++ tools and libraries</source>
+            <target state="new">Learn more about C++ tools and libraries</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="34" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
