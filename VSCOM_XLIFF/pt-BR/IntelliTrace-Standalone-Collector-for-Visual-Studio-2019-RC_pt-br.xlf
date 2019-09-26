@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="41216-decc5beb0ab779f013ace77198847a09" source-language="en" target-language="pt-br" parent-post-id="129743" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/intellitrace-standalone-collector-for-visual-studio-2019/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://aka.ms/vs/16/release/IntelliTraceCollector.x86ret.enu.exe</source>
+            <target state="new">https://aka.ms/vs/16/release/IntelliTraceCollector.x86ret.enu.exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>IntelliTrace Standalone Collector for Visual Studio 2019 RC</source>
+            <target state="new">IntelliTrace Standalone Collector for Visual Studio 2019 RC</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>The IntelliTrace stand-alone collector lets you collect diagnostic data for your apps on production servers without installing Visual Studio or redeploying your application.</source>
+            <target state="new">The IntelliTrace stand-alone collector lets you collect diagnostic data for your apps on production servers without installing Visual Studio or redeploying your application.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="5" xml:space="preserve">
+            <source>IntelliTrace Standalone Collector for Visual Studio 2019</source>
+            <target state="new">IntelliTrace Standalone Collector for Visual Studio 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="t_39316" id="6" xml:space="preserve">
+            <source>Visual Studio 2019 RC</source>
+            <target state="new">Visual Studio 2019 RC</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

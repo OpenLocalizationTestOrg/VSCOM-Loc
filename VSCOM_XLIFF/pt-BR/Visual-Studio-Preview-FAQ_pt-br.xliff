@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="40129-ed0747554ea398507b5a1fb2074a033b" source-language="en" target-language="pt-br" parent-post-id="123569" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/preview/faq/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8gdnNjb20taGVyby0tbGlnaHQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiNmNGVkZmYiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGRpbWVuc2lvbl9tYXJnaW49IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIHNpemU9IjEiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl1fJTAlX1svZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdXyUxJV8KWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjAiIG1hcmdpbl9ib3R0b209IjAiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IjAiIG1hcmdpbl9ib3R0b209IjAiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10aXRsZSIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0idW5kZXJsaW5lIHNvbGlkIiBzZXBfY29sb3I9IiJdXyUyJV9bL2Z1c2lvbl90aXRsZV1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iMCIgbWFyZ2luX2JvdHRvbT0iMzBweCIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fYWNjb3JkaW9uIHR5cGU9IiIgYm94ZWRfbW9kZT0iIiBib3JkZXJfc2l6ZT0iMSIgYm9yZGVyX2NvbG9yPSIiIGJhY2tncm91bmRfY29sb3I9IiIgaG92ZXJfY29sb3I9IiIgZGl2aWRlcl9saW5lPSIiIHRpdGxlX2ZvbnRfc2l6ZT0iIiBpY29uX3NpemU9IiIgaWNvbl9jb2xvcj0iIiBpY29uX2JveGVkX21vZGU9IiIgaWNvbl9ib3hfY29sb3I9IiIgaWNvbl9hbGlnbm1lbnQ9IiIgdG9nZ2xlX2hvdmVyX2FjY2VudF9jb2xvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIl1bZnVzaW9uX3RvZ2dsZSB0aXRsZT0iXyUzJV8iIG9wZW49Im5vIl1fJTQlXyBfJTUlXyBfJTYlXyBfJTclXwpbL2Z1c2lvbl90b2dnbGVdWy9mdXNpb25fYWNjb3JkaW9uXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIwIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIwIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGl0bGUiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9InVuZGVybGluZSBzb2xpZCIgc2VwX2NvbG9yPSIiXV8lOCVfWy9mdXNpb25fdGl0bGVdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjAiIG1hcmdpbl9ib3R0b209IjMwcHgiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX2FjY29yZGlvbiB0eXBlPSIiIGJveGVkX21vZGU9IiIgYm9yZGVyX3NpemU9IjEiIGJvcmRlcl9jb2xvcj0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGhvdmVyX2NvbG9yPSIiIGRpdmlkZXJfbGluZT0iIiB0aXRsZV9mb250X3NpemU9IiIgaWNvbl9zaXplPSIiIGljb25fY29sb3I9IiIgaWNvbl9ib3hlZF9tb2RlPSIiIGljb25fYm94X2NvbG9yPSIiIGljb25fYWxpZ25tZW50PSIiIHRvZ2dsZV9ob3Zlcl9hY2NlbnRfY29sb3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiJdW2Z1c2lvbl90b2dnbGUgdGl0bGU9Il8lOSVfIiBvcGVuPSJubyJdXyUxMCVfXyUxMSVfXyUxMiVfXyUxMyVfWy9mdXNpb25fdG9nZ2xlXVtmdXNpb25fdG9nZ2xlIHRpdGxlPSJfJTE0JV8iIG9wZW49Im5vIl1fJTE1JV9fJTE2JV9fJTE3JV9bL2Z1c2lvbl90b2dnbGVdW2Z1c2lvbl90b2dnbGUgdGl0bGU9Il8lMTglXyIgb3Blbj0ibm8iXV8lMTklXwpbL2Z1c2lvbl90b2dnbGVdWy9mdXNpb25fYWNjb3JkaW9uXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIwIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIwIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGl0bGUiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImxlZnQiIHN0eWxlX3R5cGU9InVuZGVybGluZSBzb2xpZCIgc2VwX2NvbG9yPSIiXV8lMjAlX1svZnVzaW9uX3RpdGxlXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIwIiBtYXJnaW5fYm90dG9tPSIwIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl9hY2NvcmRpb24gdHlwZT0iIiBib3hlZF9tb2RlPSIiIGJvcmRlcl9zaXplPSIxIiBib3JkZXJfY29sb3I9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBob3Zlcl9jb2xvcj0iIiBkaXZpZGVyX2xpbmU9IiIgdGl0bGVfZm9udF9zaXplPSIiIGljb25fc2l6ZT0iIiBpY29uX2NvbG9yPSIiIGljb25fYm94ZWRfbW9kZT0iIiBpY29uX2JveF9jb2xvcj0iIiBpY29uX2FsaWdubWVudD0iIiB0b2dnbGVfaG92ZXJfYWNjZW50X2NvbG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiXVtmdXNpb25fdG9nZ2xlIHRpdGxlPSJfJTIxJV8iIG9wZW49Im5vIl1fJTIyJV8gXyUyMyVfIF8lMjQlXwpbL2Z1c2lvbl90b2dnbGVdW2Z1c2lvbl90b2dnbGUgdGl0bGU9Il8lMjUlXyIgb3Blbj0ibm8iXV8lMjYlXyBfJTI3JV8gXyUyOCVfClsvZnVzaW9uX3RvZ2dsZV1bZnVzaW9uX3RvZ2dsZSB0aXRsZT0iXyUyOSVfIiBvcGVuPSJubyJdXyUzMCVfXyUzMSVfWy9mdXNpb25fdG9nZ2xlXVtmdXNpb25fdG9nZ2xlIHRpdGxlPSJfJTMyJV8iIG9wZW49Im5vIl1fJTMzJV8gXyUzNCVfIF8lMzUlXyBfJTM2JV8gXyUzNyVfClsvZnVzaW9uX3RvZ2dsZV1bL2Z1c2lvbl9hY2NvcmRpb25dWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJd]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Learn more about Visual Studio Preview by exploring our frequently asked questions about installation, licensing, and support</source>
+            <target state="new">Learn more about Visual Studio Preview by exploring our frequently asked questions about installation, licensing, and support</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Visual Studio Preview FAQ</source>
+            <target state="new">Visual Studio Preview FAQ</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Visual Studio Preview FAQ
+
+</source>
+            <target state="new">Visual Studio Preview FAQ
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>
+
+Check out all the new features released on our <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/preview/"&gt;</bpt>preview page<ept id="p1">&lt;/a&gt;</ept>.
+
+</source>
+            <target state="new">
+
+Check out all the new features released on our <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/preview/"&gt;</bpt>preview page<ept id="p1">&lt;/a&gt;</ept>.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>General
+
+</source>
+            <target state="new">General
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Why would I choose Visual Studio 'Preview'?</source>
+            <target state="new">Why would I choose Visual Studio 'Preview'?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source>
+
+If you are a Visual Studio enthusiast you’ll want to get your hands on the latest pre-release Visual Studio Preview that contains innovations, bug fixes, and platform support not yet in Visual Studio.</source>
+            <target state="new">
+
+If you are a Visual Studio enthusiast you’ll want to get your hands on the latest pre-release Visual Studio Preview that contains innovations, bug fixes, and platform support not yet in Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source>Your feedback will help ensure we release only the best.</source>
+            <target state="new">Your feedback will help ensure we release only the best.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source>All new tools and platform support will be first released to “Preview”.</source>
+            <target state="new">All new tools and platform support will be first released to “Preview”.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source>Check out all the new features released on our <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/preview/"&gt;</bpt>preview page<ept id="p1">&lt;/a&gt;</ept>.
+
+</source>
+            <target state="new">Check out all the new features released on our <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/preview/"&gt;</bpt>preview page<ept id="p1">&lt;/a&gt;</ept>.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source>Installation
+
+</source>
+            <target state="new">Installation
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source>Can I install both Visual Studio and Visual Studio 'Preview' on the same machine?</source>
+            <target state="new">Can I install both Visual Studio and Visual Studio 'Preview' on the same machine?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source>Yes, Visual Studio and Visual Studio “Preview” can be installed side-by-side on the same device.</source>
+            <target state="new">Yes, Visual Studio and Visual Studio “Preview” can be installed side-by-side on the same device.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="13" xml:space="preserve">
+            <source> If you are using extensions, you will need to reinstall them for each instance of Visual Studio.</source>
+            <target state="new"> If you are using extensions, you will need to reinstall them for each instance of Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="14" xml:space="preserve">
+            <source> Note that installing both will not double the size of your Visual Studio installation because some components are shared between the two.</source>
+            <target state="new"> Note that installing both will not double the size of your Visual Studio installation because some components are shared between the two.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="15" xml:space="preserve">
+            <source> For example, if you install the Windows SDK for both instances, the Windows SDK will be installed only once on your computer.
+
+</source>
+            <target state="new"> For example, if you install the Windows SDK for both instances, the Windows SDK will be installed only once on your computer.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="16" xml:space="preserve">
+            <source>I no longer want to use 'Preview.' How do I remove it?</source>
+            <target state="new">I no longer want to use 'Preview.' How do I remove it?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="17" xml:space="preserve">
+            <source>If you no longer want to participate in “Preview”, you can use the Visual Studio Installer to remove it.</source>
+            <target state="new">If you no longer want to participate in “Preview”, you can use the Visual Studio Installer to remove it.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="18" xml:space="preserve">
+            <source> Once you have the installer open, uninstall any instances of “Preview” by clicking on the installation menu and chose “Uninstall”.</source>
+            <target state="new"> Once you have the installer open, uninstall any instances of “Preview” by clicking on the installation menu and chose “Uninstall”.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="19" xml:space="preserve">
+            <source> In case you have Visual Studio IDE installed side-by-side, we recommend running “Repair” on your other installation as a precaution.
+
+</source>
+            <target state="new"> In case you have Visual Studio IDE installed side-by-side, we recommend running “Repair” on your other installation as a precaution.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="20" xml:space="preserve">
+            <source>How do I install the latest released version of Visual Studio?</source>
+            <target state="new">How do I install the latest released version of Visual Studio?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="21" xml:space="preserve">
+            <source>
+
+To install the release (go-live) version of Visual Studio 2017, visit our&amp;#8239;<bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/downloads/"&gt;</bpt>Downloads<ept id="p1">&lt;/a&gt;</ept> page.
+
+</source>
+            <target state="new">
+
+To install the release (go-live) version of Visual Studio 2017, visit our&amp;#8239;<bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/downloads/"&gt;</bpt>Downloads<ept id="p1">&lt;/a&gt;</ept> page.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="22" xml:space="preserve">
+            <source>License &amp; Support
+
+</source>
+            <target state="new">License &amp; Support
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="23" xml:space="preserve">
+            <source>May I build production apps?</source>
+            <target state="new">May I build production apps?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="24" xml:space="preserve">
+            <source>
+
+No, “Preview” is not licensed to build shipping apps.</source>
+            <target state="new">
+
+No, “Preview” is not licensed to build shipping apps.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="25" xml:space="preserve">
+            <source>Like any other pre-releases of Visual Studio, it is not supported in production environments.</source>
+            <target state="new">Like any other pre-releases of Visual Studio, it is not supported in production environments.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="26" xml:space="preserve">
+            <source>You should install the release version for use in Production environments which you can acquire from our&amp;#8239;<bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/downloads/"&gt;</bpt>Downloads<ept id="p1">&lt;/a&gt;</ept> page.
+
+</source>
+            <target state="new">You should install the release version for use in Production environments which you can acquire from our&amp;#8239;<bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/downloads/"&gt;</bpt>Downloads<ept id="p1">&lt;/a&gt;</ept> page.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="27" xml:space="preserve">
+            <source>How do I report problems or suggestions on 'Preview'?</source>
+            <target state="new">How do I report problems or suggestions on 'Preview'?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="28" xml:space="preserve">
+            <source>
+
+To report bugs for any instance of Visual Studio, use “Report a Problem” from the Help menu in Visual Studio.</source>
+            <target state="new">
+
+To report bugs for any instance of Visual Studio, use “Report a Problem” from the Help menu in Visual Studio.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="29" xml:space="preserve">
+            <source>The Visual Studio team will automatically see that you’re using “Preview”.</source>
+            <target state="new">The Visual Studio team will automatically see that you’re using “Preview”.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="30" xml:space="preserve">
+            <source>Or visit our <bpt id="p1">&lt;a href="https://developercommunity.visualstudio.com/" target="_blank" rel="nofollow noopener"&gt;</bpt>Developer Community<ept id="p1">&lt;/a&gt;</ept> to suggest a feature.
+
+</source>
+            <target state="new">Or visit our <bpt id="p1">&lt;a href="https://developercommunity.visualstudio.com/" target="_blank" rel="nofollow noopener"&gt;</bpt>Developer Community<ept id="p1">&lt;/a&gt;</ept> to suggest a feature.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="31" xml:space="preserve">
+            <source>Is Visual Studio 'Preview' supported?</source>
+            <target state="new">Is Visual Studio 'Preview' supported?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="32" xml:space="preserve">
+            <source>Visual Studio “Preview” is designed for you to get an early look at upcoming features and changes, and to provide feedback on those changes.</source>
+            <target state="new">Visual Studio “Preview” is designed for you to get an early look at upcoming features and changes, and to provide feedback on those changes.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="33" xml:space="preserve">
+            <source> While, Visual Studio “Preview” is not covered by Microsoft Technical Support, we encourage you to submit your feedback via “Report a Problem”, and we’ll make every effort to respond to that feedback.
+
+</source>
+            <target state="new"> While, Visual Studio “Preview” is not covered by Microsoft Technical Support, we encourage you to submit your feedback via “Report a Problem”, and we’ll make every effort to respond to that feedback.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="34" xml:space="preserve">
+            <source>What are the pricing and/or licensing implications, if any, for this preview?</source>
+            <target state="new">What are the pricing and/or licensing implications, if any, for this preview?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="35" xml:space="preserve">
+            <source>
+
+There is no price change from Visual Studio 2017 to Visual Studio 2019.</source>
+            <target state="new">
+
+There is no price change from Visual Studio 2017 to Visual Studio 2019.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="36" xml:space="preserve">
+            <source>Go to our <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/pricing/"&gt;</bpt>pricing page<ept id="p1">&lt;/a&gt;</ept> for the most current pricing information or contact your Microsoft sales representative.</source>
+            <target state="new">Go to our <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/vs/pricing/"&gt;</bpt>pricing page<ept id="p1">&lt;/a&gt;</ept> for the most current pricing information or contact your Microsoft sales representative.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="37" xml:space="preserve">
+            <source>Visual Studio 2019 Preview 1 is available under a <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/" rel="noopener"&gt;</bpt>pre-release license<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Visual Studio 2019 Preview 1 is available under a <bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/" rel="noopener"&gt;</bpt>pre-release license<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="38" xml:space="preserve">
+            <source>All users can evaluate Visual Studio 2019 Preview 1, regardless of their current license, until the GA release in the first half of 2019.</source>
+            <target state="new">All users can evaluate Visual Studio 2019 Preview 1, regardless of their current license, until the GA release in the first half of 2019.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="39" xml:space="preserve">
+            <source>Visual Studio 2019 Preview releases cannot be used in production environments or for “go-live” use.
+
+</source>
+            <target state="new">Visual Studio 2019 Preview releases cannot be used in production environments or for “go-live” use.
+
+</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

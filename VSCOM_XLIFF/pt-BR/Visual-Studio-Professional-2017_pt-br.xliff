@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="39224-5599a692117d4210fb85577b6a46af08" source-language="en" target-language="pt-br" parent-post-id="59064" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/visual-studio-professional-2017-rc/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&amp;rel=15</source>
+            <target state="new">https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Professional&amp;rel=15</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>all-languges</source>
+            <target state="new">all-languges</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>web-installer</source>
+            <target state="new">web-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Visual Studio Professional 2017</source>
+            <target state="new">Visual Studio Professional 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>Improve productivity with professional developer tools and services to build applications for any platform.</source>
+            <target state="new">Improve productivity with professional developer tools and services to build applications for any platform.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source>Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes"&gt;</bpt>Release Notes<ept id="p1">&lt;/a&gt;</ept> for more information.</source>
+            <target state="new">Please see the <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes"&gt;</bpt>Release Notes<ept id="p1">&lt;/a&gt;</ept> for more information.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="6" xml:space="preserve">
+            <source>Visual Studio Professional 2017</source>
+            <target state="new">Visual Studio Professional 2017</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

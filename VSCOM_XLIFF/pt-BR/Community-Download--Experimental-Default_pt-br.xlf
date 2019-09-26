@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="44233-4d3d60dd0959f1aa3969a82c3d2868c0" source-language="en" target-language="pt-br" parent-post-id="142075" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/community-download-default/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Community Download - Experimental Default</source>
+            <target state="new">Community Download - Experimental Default</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Community Download - Experimental Default</source>
+            <target state="new">Community Download - Experimental Default</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="t_41742" id="2" xml:space="preserve">
+            <source>Tailored download</source>
+            <target state="new">Tailored download</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

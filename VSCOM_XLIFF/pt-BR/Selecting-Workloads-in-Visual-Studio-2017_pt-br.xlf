@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46365-bfb93f5e7adee52badb7663172abd1aa" source-language="en" target-language="pt-br" parent-post-id="80119" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/selecting-workloads-visual-studio-2017/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8NCg0KXyUzJV8NCl8lNCVfDQo8L3RkPg0KXyU1JV8NCjwvdGQ+DQo8L3RyPg0KXyU2JV8NCjx0ZD48aW1nIHdpZHRoPSI2NzEiIGhlaWdodD0iMTMxIiBjbGFzcz0iYWxpZ25ub25lIHNpemUtZnVsbCB3cC1pbWFnZS04MDUzMiIgYWx0PSJVbml2ZXJzYWwgV2luZG93cyBQbGF0Zm9ybSBEZXZlbG9wbWVudCIgc3JjPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA2L1VuaXZlcnNhbFdpbmRvd3NQbGF0Zm9ybURldmVsb3BtZW50LnBuZyI+PC9pbWc+PC90ZD4NCjwvdHI+DQpfJTclXw0KPHRkPjxpbWcgd2lkdGg9IjY2OSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTMxIiBhbHQ9Ii5OZXQgRGVza3RvcCBEZXZlbG9wbWVudCIgc3JjPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA2L2RvdE5ldERlc2t0b3BEZXZlbG9wbWVudC5wbmciPjwvaW1nPjwvdGQ+DQo8L3RyPg0KXyU4JV8NCjx0ZD48aW1nIHdpZHRoPSI2NzEiIGhlaWdodD0iMTMxIiBjbGFzcz0iYWxpZ25ub25lIHNpemUtZnVsbCB3cC1pbWFnZS04MDUzMCIgYWx0PSJEZXNrdG9wIERldmVsb3BtZW50IHdpdGggQysrIiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvRGVza3RvcERldmVsb3BtZW50V2l0aEMucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lOSVfDQo8dGQ+PGltZyB3aWR0aD0iNjcxIiBoZWlnaHQ9IjEzMSIgY2xhc3M9ImFsaWdubm9uZSBzaXplLWZ1bGwgd3AtaW1hZ2UtODA1MjkiIGFsdD0iQVNQLk5FVCBhbmQgV2ViIERldmVsb3BtZW50IiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvQVNQLk5FVGFuZFdlYkRldmVsb3BtZW50LnBuZyI+PC9pbWc+PC90ZD4NCjwvdHI+DQpfJTEwJV8NCjx0ZD48aW1nIHdpZHRoPSI2NjkiIGhlaWdodD0iMTMxIiBjbGFzcz0iYWxpZ25ub25lIHNpemUtZnVsbCB3cC1pbWFnZS04MDUyOCIgYWx0PSJBenVyZSBEZXZlbG9wbWVudCIgc3JjPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA2L0F6dXJlRGV2ZWxvcG1lbnQucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lMTElXw0KPHRkPjxpbWcgd2lkdGg9IjY3MSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTI3IiBhbHQ9Ik5vZGUuSlMgRGV2ZWxvcG1lbnQiIHNyYz0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wNi9Ob2RlSlNEZXZlbG9wbWVudC5wbmciPjwvaW1nPjwvdGQ+DQo8L3RyPg0KXyUxMiVfDQo8dGQ+PGltZyB3aWR0aD0iNjY5IiBoZWlnaHQ9IjEzMSIgY2xhc3M9ImFsaWdubm9uZSBzaXplLWZ1bGwgd3AtaW1hZ2UtODA1MjYiIGFsdD0iRGF0YSBTdG9yYWdlIGFuZCBQcm9jZXNzaW5nIiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvRGF0YVN0b3JhZ2VfYW5kX1Byb2Nlc3NpbmcucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lMTMlXw0KPHRkPjxpbWcgd2lkdGg9IjY3MSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTI1IiBhbHQ9Ik9mZmljZSBTaGFyZVBvaW50IERldmVsb3BtZW50IiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvT2ZmaWNlU2hhcmVQb2ludERldmVsb3BtZW50LnBuZyI+PC9pbWc+PC90ZD4NCjwvdHI+DQpfJTE0JV8NCjx0ZD48aW1nIHdpZHRoPSI2NzEiIGhlaWdodD0iMTMxIiBjbGFzcz0iYWxpZ25ub25lIHNpemUtZnVsbCB3cC1pbWFnZS04MDUyNCIgYWx0PSJNb2JpbGUgRGV2ZWxvcG1lbnQgd2l0aCAuTkVUIiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvTW9iaWxlRGV2ZWxvcG1lbnRfd2l0aF8uTkVUXy5wbmciPjwvaW1nPjwvdGQ+DQo8L3RyPg0KXyUxNSVfDQo8dGQ+PGltZyB3aWR0aD0iNjY5IiBoZWlnaHQ9IjEzMSIgY2xhc3M9ImFsaWdubm9uZSBzaXplLWZ1bGwgd3AtaW1hZ2UtODA1MjMiIGFsdD0iR2FtZSBEZXZlbG9wbWVudCB3aXRoIFVuaXR5IiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvR2FtZURldmVsb3BtZW50X3dpdGhfVW5pdHkucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lMTYlXw0KPHRkPjxpbWcgd2lkdGg9IjY3MSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTIyIiBhbHQ9Ik1vYmlsZSBEZXZlbG9wbWVudCB3aXRoIEphdmFTY3JpcHQiIHNyYz0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wNi9Nb2JpbGVEZXZlbG9wbWVudF93aXRoX0phdmFTY3JpcHQucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lMTclXw0KPHRkPjxpbWcgd2lkdGg9IjY2OSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTIxIiBhbHQ9Ik1vYmlsZSBEZXZlbG9wbWVudCB3aXRoIEMrKyIgc3JjPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA2L01vYmlsZURldmVsb3BtZW50X3dpdGhfQy5wbmciPjwvaW1nPjwvdGQ+DQo8L3RyPg0KXyUxOCVfDQo8dGQ+PGltZyB3aWR0aD0iNjcxIiBoZWlnaHQ9IjEzMSIgY2xhc3M9ImFsaWdubm9uZSBzaXplLWZ1bGwgd3AtaW1hZ2UtODA1MjAiIGFsdD0iR2FtZSBEZXZlbG9wbWVudCB3aXRoIEMrKyIgc3JjPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA2L0dhbWVEZXZlbG9wbWVudF93aXRoX0MucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lMTklXw0KPHRkPjxpbWcgd2lkdGg9IjY3MSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTE5IiBhbHQ9IlZpc3VhbCBTdHVkaW8gRXh0ZW5zaW9uIERldmVsb3BtZW50IiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvVmlzdWFsU3R1ZGlvRXh0ZW5zaW9uRGV2ZWxvcG1lbnQucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lMjAlXw0KPHRkPjxpbWcgd2lkdGg9IjY2OSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTE4IiBhbHQ9IkxpbnV4IERldmVsb3BtZW50IHdpdGggQysrIiBzcmM9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTcvMDYvTGludXhEZXZlbG9wbWVudF93aXRoX0MucG5nIj48L2ltZz48L3RkPg0KPC90cj4NCl8lMjElXw0KPHRkPjxpbWcgd2lkdGg9IjY3MSIgaGVpZ2h0PSIxMzEiIGNsYXNzPSJhbGlnbm5vbmUgc2l6ZS1mdWxsIHdwLWltYWdlLTgwNTM0IiBhbHQ9Ii5ORVQgQ29yZSBDcm9zcy1QbGF0Zm9ybSBEZXZlbG9wbWVudCIgc3JjPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzA2L05FVENvcmVDcm9zcy1QbGF0Zm9ybURldmVsb3BtZW50LnBuZyI+PC9pbWc+PC90ZD4NCjwvdHI+DQo8L3Rib2R5Pg0KPC90YWJsZT4K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2017 Download and Installation on selecting workloads in Visual Studio 2017.</source>
+            <target state="new">Visual Studio 2017 Download and Installation on selecting workloads in Visual Studio 2017.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Selecting Workloads in Visual Studio 2017</source>
+            <target state="new">Selecting Workloads in Visual Studio 2017</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>With Visual Studio, you can customize your Visual Studio installation with only the workloads you need.</source>
+            <target state="new">With Visual Studio, you can customize your Visual Studio installation with only the workloads you need.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>This guide will help you select the right workloads for your development.</source>
+            <target state="new">This guide will help you select the right workloads for your development.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>Once you start the installation, you will see a screen where you can select the workloads for your installation.</source>
+            <target state="new">Once you start the installation, you will see a screen where you can select the workloads for your installation.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>Please let us know through the feedback mechanism on the right if you don't find what you are looking for.</source>
+            <target state="new">Please let us know through the feedback mechanism on the right if you don't find what you are looking for.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source><bpt id="p1">&lt;table class="table table-bordered"&gt;</bpt>
+<bpt id="p2">&lt;tbody&gt;</bpt>
+<bpt id="p3">&lt;tr&gt;</bpt>
+<bpt id="p4">&lt;td&gt;</bpt>
+<bpt id="p5">&lt;h3&gt;</bpt>Project Types<ept id="p5">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;table class="table table-bordered"&gt;</bpt>
+<bpt id="p2">&lt;tbody&gt;</bpt>
+<bpt id="p3">&lt;tr&gt;</bpt>
+<bpt id="p4">&lt;td&gt;</bpt>
+<bpt id="p5">&lt;h3&gt;</bpt>Project Types<ept id="p5">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;td&gt;</bpt>
+<bpt id="p2">&lt;h3&gt;</bpt>Workload to Install<ept id="p2">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;td&gt;</bpt>
+<bpt id="p2">&lt;h3&gt;</bpt>Workload to Install<ept id="p2">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Universal Windows Platform development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Universal Windows Platform development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>.NET desktop development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>.NET desktop development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Desktop development with C++<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Desktop development with C++<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>ASP.NET and web development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>ASP.NET and web development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Azure development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Azure development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="13" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Node.js development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Node.js development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="14" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Data storage and processing<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Data storage and processing<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="15" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Office/SharePoint development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Office/SharePoint development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="16" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Mobile development with .NET<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Mobile development with .NET<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="17" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Game development with Unity<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Game development with Unity<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="18" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Mobile development with JavaScript<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Mobile development with JavaScript<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="19" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Mobile development with C++<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Mobile development with C++<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="20" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Game development with C++<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Game development with C++<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="21" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Visual Studio extension development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Visual Studio extension development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="22" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Linux development with C++<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>Linux development with C++<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="23" xml:space="preserve">
+            <source><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>.NET Core cross-platform development<ept id="p2">&lt;/td&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;tr&gt;</bpt>
+<bpt id="p2">&lt;td&gt;</bpt>.NET Core cross-platform development<ept id="p2">&lt;/td&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

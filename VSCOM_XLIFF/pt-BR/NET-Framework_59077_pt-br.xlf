@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47495-a1ed37f855ca7f2cbad7e733ffe00c1b" source-language="en" target-language="pt-br" parent-post-id="59077" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/net-framework/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://www.microsoft.com/net</source>
+            <target state="new">https://www.microsoft.com/net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>all-languges</source>
+            <target state="new">all-languges</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>exe</source>
+            <target state="new">exe</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>.NET Framework</source>
+            <target state="new">.NET Framework</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>The .NET Framework helps you create mobile, desktop, and web applications that run on Windows PCs, devices and servers.</source>
+            <target state="new">The .NET Framework helps you create mobile, desktop, and web applications that run on Windows PCs, devices and servers.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="5" xml:space="preserve">
+            <source>.NET Framework</source>
+            <target state="new">.NET Framework</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

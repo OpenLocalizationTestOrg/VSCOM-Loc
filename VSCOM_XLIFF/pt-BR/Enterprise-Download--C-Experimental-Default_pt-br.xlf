@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="44376-0d489feee8fcd69a04b4fd653e1ed587" source-language="en" target-language="pt-br" parent-post-id="142267" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/enterprise-download-c-experimental-default/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8=]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Enterprise Download - C++ Experimental Default</source>
+            <target state="new">Enterprise Download - C++ Experimental Default</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Enterprise Download - C++ Experimental Default</source>
+            <target state="new">Enterprise Download - C++ Experimental Default</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="t_41742" id="2" xml:space="preserve">
+            <source>Tailored download</source>
+            <target state="new">Tailored download</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

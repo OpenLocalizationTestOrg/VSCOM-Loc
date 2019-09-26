@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="40753-f0cb74e5d5a83bc0c3ab6d716b2af4d8" source-language="en" target-language="pt-br" parent-post-id="67650" version="7" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/enterprise-devops-offer/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0iZnVzaW9uLW1vYmlsZS1iZy1jb3ZlciIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE3LzAyL0VudERldm9wMTguanBnIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iMHB4IiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSI2MHB4IiBwYWRkaW5nX3JpZ2h0PSI0MHB4IiBwYWRkaW5nX2JvdHRvbT0iNjBweCIgcGFkZGluZ19sZWZ0PSI0MHB4Il1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgbGFzdD0ieWVzIiBzcGFjaW5nPSJ5ZXMiIGNlbnRlcl9jb250ZW50PSJubyIgaGlkZV9vbl9tb2JpbGU9Im5vIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGhvdmVyX3R5cGU9Im5vbmUiIGxpbms9IiIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIGJvcmRlcl9zaXplPSIwcHgiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IjAiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImRvd24iIGFuaW1hdGlvbl9zcGVlZD0iMC4xIiBhbmltYXRpb25fb2Zmc2V0PSIiIGNsYXNzPSIiIGlkPSIiIG1pbl9oZWlnaHQ9IiJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLXRpdGxlIiBpZD0iIiBzaXplPSIxIiBjb250ZW50X2FsaWduPSJsZWZ0IiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdXyUwJV9bL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHRdXyUxJV9fJTIlX18lMyVfWy9mdXNpb25fdGV4dF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9InllcyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0idnNjb20tc3dpbWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IjBweCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iMjAiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IjAiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0ieWVzIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjEiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25fdGl0bGUgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZS10aXRsZSIgaWQ9IiIgc2l6ZT0iMiIgY29udGVudF9hbGlnbj0ibGVmdCIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXQ0KDQpfJTQlXyBfJTUlXyA8L3NwYW4+DQoNCgpbL2Z1c2lvbl90aXRsZV1bZnVzaW9uX3RleHRdXyU2JV9bL2Z1c2lvbl90ZXh0XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8yIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0ieWVzIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIHVuZGVmaW5lZD0iIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0iZG93biIgYW5pbWF0aW9uX3NwZWVkPSIwLjEiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVtmdXNpb25faW1hZ2VmcmFtZSBsaWdodGJveD0ibm8iIGdhbGxlcnlfaWQ9IiIgbGlnaHRib3hfaW1hZ2U9IiIgc3R5bGVfdHlwZT0ibm9uZSIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyY29sb3I9IiIgYm9yZGVyc2l6ZT0iMHB4IiBib3JkZXJyYWRpdXM9IjAiIHN0eWxlY29sb3I9IiIgYWxpZ249ImNlbnRlciIgbGluaz0iIiBsaW5rdGFyZ2V0PSJfc2VsZiIgYW5pbWF0aW9uX3R5cGU9IjAiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImRvd24iIGFuaW1hdGlvbl9zcGVlZD0iMC4xIiBhbmltYXRpb25fb2Zmc2V0PSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9IiIgaWQ9IiJdIDxpbWcgYWx0PSJWZWN0b3JpemVkIGdyYXBoaWMgZGlzcGxheWluZyBwcm9kdWN0IGxpZmVjeWNsZS4iIHNyYz0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wMi9Db21wbGV0ZURldk9wc1NvbHV0aW9uLnBuZyIgLz5bL2Z1c2lvbl9pbWFnZWZyYW1lXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ieWVzIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ibm8iIGNsYXNzPSIiIGlkPSJlbnRlcnByaXNlLWRldm9wcyIgYmFja2dyb3VuZF9jb2xvcj0iI2ZmZmZmZiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IjBweCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iMCIgcGFkZGluZ19yaWdodD0iNDBweCIgcGFkZGluZ19ib3R0b209IjYwcHgiIHBhZGRpbmdfbGVmdD0iNDBweCJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfNCIgbGF5b3V0PSIxXzQiIHNwYWNpbmc9InllcyIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIjZjFmMWYxIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImRvd24iIGFuaW1hdGlvbl9zcGVlZD0iMC4xIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBzaXplPSIzIiBjb250ZW50X2FsaWduPSJjZW50ZXIiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIl0NCg0KXyU3JV8NCg0KClsvZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdXyU4JV9fJTklX1svZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzQiIGxheW91dD0iMV80IiBzcGFjaW5nPSJ5ZXMiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iI2YxZjFmMSIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJkb3duIiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMyIgY29udGVudF9hbGlnbj0iY2VudGVyIiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdDQoNCl8lMTAlXw0KDQoKWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0XV8lMTElX18lMTIlX18lMTMlX18lMTQlX1svZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzQiIGxheW91dD0iMV80IiBzcGFjaW5nPSJ5ZXMiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iI2YxZjFmMSIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJkb3duIiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMyIgY29udGVudF9hbGlnbj0iY2VudGVyIiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdDQoNCl8lMTUlXw0KDQoKWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0XV8lMTYlX18lMTclX1svZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzQiIGxheW91dD0iMV80IiBzcGFjaW5nPSJ5ZXMiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJubyIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iI2YxZjFmMSIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJkb3duIiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgc2l6ZT0iMyIgY29udGVudF9hbGlnbj0iY2VudGVyIiBzdHlsZV90eXBlPSJkZWZhdWx0IiBzZXBfY29sb3I9IiJdDQoNCl8lMTglXw0KDQoKWy9mdXNpb25fdGl0bGVdW2Z1c2lvbl90ZXh0XV8lMTklX18lMjAlX18lMjElX1svZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUtLW5hdnktYmx1ZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIzJjM2U1OCIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IjBweCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iNjBweCIgcGFkZGluZ19yaWdodD0iNDBweCIgcGFkZGluZ19ib3R0b209IjYwcHgiIHBhZGRpbmdfbGVmdD0iNDBweCJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjJfMyIgbGF5b3V0PSIyXzMiIHNwYWNpbmc9Im5vIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ibm8iIGNsYXNzPSJmdXNpb24tbGF5b3V0LWNvbHVtbi0tY2VudGVyZWQiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgdW5kZWZpbmVkPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJkb3duIiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW2Z1c2lvbl90aXRsZSBzaXplPSIzIiBjb250ZW50X2FsaWduPSJjZW50ZXIiIHN0eWxlX3R5cGU9ImRlZmF1bHQiIHNlcF9jb2xvcj0iIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgY2xhc3M9IiIgaWQ9IiJdXyUyMiVfClsvZnVzaW9uX3RpdGxlXVtmdXNpb25fdGV4dCBjb2x1bW5zPSIiIGNvbHVtbl9taW5fd2lkdGg9IiIgY29sdW1uX3NwYWNpbmc9IiIgcnVsZV9zdHlsZT0iZGVmYXVsdCIgcnVsZV9zaXplPSIiIHJ1bGVfY29sb3I9IiIgY2xhc3M9IiIgaWQ9IiJdDQpfJTIzJV8gXyUyNCVfDQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3RleHRdDQo8cCBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+XyUyNSVfPC9wPg0KClsvZnVzaW9uX3RleHRdW2Z1c2lvbl90ZXh0XQ0KXyUyNiVfDQoKWy9mdXNpb25fdGV4dF1bZnVzaW9uX3NlcGFyYXRvciBzdHlsZV90eXBlPSJub25lIiB0b3BfbWFyZ2luPSIyNXB4IiBib3R0b21fbWFyZ2luPSIiIHNlcF9jb2xvcj0iIiBib3JkZXJfc2l6ZT0iIiBpY29uPSIiIGljb25fY2lyY2xlPSIiIGljb25fY2lyY2xlX2NvbG9yPSIiIHdpZHRoPSIiIGFsaWdubWVudD0iY2VudGVyIiBjbGFzcz0iIiBpZD0iIi9dW2Z1c2lvbl90ZXh0IGNvbHVtbnM9IiIgY29sdW1uX21pbl93aWR0aD0iIiBjb2x1bW5fc3BhY2luZz0iIiBydWxlX3N0eWxlPSJkZWZhdWx0IiBydWxlX3NpemU9IiIgcnVsZV9jb2xvcj0iIiBjbGFzcz0iIiBpZD0iIl0NCjxwIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij5fJTI3JV8gXyUyOCVfPC9wPg0KClsvZnVzaW9uX3RleHRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJd]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_title-0" id="0" xml:space="preserve">
+            <source>Enterprise DevOps Offer | Visual Studio</source>
+            <target state="new">Enterprise DevOps Offer | Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="1" xml:space="preserve">
+            <source>The Enterprise DevOps Accelerator is a limited time offer for dev teams looking to modernize their app development infrastructure while managing costs.</source>
+            <target state="new">The Enterprise DevOps Accelerator is a limited time offer for dev teams looking to modernize their app development infrastructure while managing costs.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="2" xml:space="preserve">
+            <source>Enterprise DevOps Offer | Visual Studio</source>
+            <target state="new">Enterprise DevOps Offer | Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="3" xml:space="preserve">
+            <source>Enterprise DevOps Accelerator
+
+</source>
+            <target state="new">Enterprise DevOps Accelerator
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="4" xml:space="preserve">
+            <source>The Enterprise DevOps Accelerator is a limited time offer
+</source>
+            <target state="new">The Enterprise DevOps Accelerator is a limited time offer
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="5" xml:space="preserve">
+            <source>for mid-sized to large development teams looking to modernize
+</source>
+            <target state="new">for mid-sized to large development teams looking to modernize
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="6" xml:space="preserve">
+            <source>their tool chains and focus on innovation.</source>
+            <target state="new">their tool chains and focus on innovation.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>Powerful Tools.</source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>Powerful Tools.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="8" xml:space="preserve">
+            <source>Expert Guidance.</source>
+            <target state="new">Expert Guidance.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="9" xml:space="preserve">
+            <source>This offer provides unparalleled value - virtually everything your organization needs to implement DevOps practices at scale for more than 50% off regular pricing.</source>
+            <target state="new">This offer provides unparalleled value - virtually everything your organization needs to implement DevOps practices at scale for more than 50% off regular pricing.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>Our best tools for every developer<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>Our best tools for every developer<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="11" xml:space="preserve">
+            <source>Visual Studio Enterprise
+
+</source>
+            <target state="new">Visual Studio Enterprise
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="12" xml:space="preserve">
+            <source>Complete Azure DevOps access for all of your developers - .NET, Java or any application type</source>
+            <target state="new">Complete Azure DevOps access for all of your developers - .NET, Java or any application type</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="13" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>A highly customizable CI/CD service that scales<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>A highly customizable CI/CD service that scales<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="14" xml:space="preserve">
+            <source>Build &amp; release
+
+</source>
+            <target state="new">Build &amp; release
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="15" xml:space="preserve">
+            <source>Cloud based load testing
+
+</source>
+            <target state="new">Cloud based load testing
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="16" xml:space="preserve">
+            <source>Mobile app testing
+
+</source>
+            <target state="new">Mobile app testing
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="17" xml:space="preserve">
+            <source>Detection of security vulnerabilities and license reports of open source components
+
+</source>
+            <target state="new">Detection of security vulnerabilities and license reports of open source components
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="18" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>Cloud based dev/test labs<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>Cloud based dev/test labs<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="19" xml:space="preserve">
+            <source>Discounted Azure pricing to run your lab machines or dev workstations
+
+</source>
+            <target state="new">Discounted Azure pricing to run your lab machines or dev workstations
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="20" xml:space="preserve">
+            <source>Lab resource management tools to manage spend and quickly provision dev/test environments on Windows and Linux
+
+</source>
+            <target state="new">Lab resource management tools to manage spend and quickly provision dev/test environments on Windows and Linux
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="21" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>On-site Expert DevOps support<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #0067b8;"&gt;</bpt>On-site Expert DevOps support<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="22" xml:space="preserve">
+            <source>A two-week DevOps engagement delivered at your site by DevOps experts
+
+</source>
+            <target state="new">A two-week DevOps engagement delivered at your site by DevOps experts
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="23" xml:space="preserve">
+            <source>Tech support incidents
+
+</source>
+            <target state="new">Tech support incidents
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="24" xml:space="preserve">
+            <source>Training for your dev team from Pluralsight and Xamarin University
+
+</source>
+            <target state="new">Training for your dev team from Pluralsight and Xamarin University
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="25" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #ffffff; font-size: 32px;"&gt;</bpt>Get started with the Enterprise DevOps Accelerator today<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #ffffff; font-size: 32px;"&gt;</bpt>Get started with the Enterprise DevOps Accelerator today<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="26" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class="herocontent" style="text-align: center;"&gt;</bpt>Don’t miss out.</source>
+            <target state="new"><bpt id="p1">&lt;p class="herocontent" style="text-align: center;"&gt;</bpt>Don’t miss out.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="27" xml:space="preserve">
+            <source>If you have a team of 50 developers or more, contact your Microsoft account representative to get virtually everything your team needs to modernize your application development.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">If you have a team of 50 developers or more, contact your Microsoft account representative to get virtually everything your team needs to modernize your application development.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="28" xml:space="preserve">
+            <source><bpt id="p1">&lt;span class="herocontent bold"&gt;</bpt>Contact your Microsoft account representative<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span class="herocontent bold"&gt;</bpt>Contact your Microsoft account representative<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="29" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class="herocontent" style="text-align: center;"&gt;</bpt>Call your account manager or contact your regional Microsoft office for further details.<ept id="p1">&lt;/p&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;p class="herocontent" style="text-align: center;"&gt;</bpt>Call your account manager or contact your regional Microsoft office for further details.<ept id="p1">&lt;/p&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="30" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: #ffffff;"&gt;</bpt>*Some restrictions may apply.</source>
+            <target state="new"><bpt id="p1">&lt;span style="color: #ffffff;"&gt;</bpt>*Some restrictions may apply.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="31" xml:space="preserve">
+            <source>Limited time offer available until June 30, 2019.<ept id="p">&lt;/span&gt;</ept></source>
+            <target state="new">Limited time offer available until June 30, 2019.<ept id="p">&lt;/span&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

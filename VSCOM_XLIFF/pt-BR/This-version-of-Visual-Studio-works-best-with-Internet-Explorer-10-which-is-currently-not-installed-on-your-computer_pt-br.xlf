@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46768-5d1617ce0a75cb055595a141bd822b82" source-language="en" target-language="pt-br" parent-post-id="80151" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/version-visual-studio-works-best-internet-explorer-10-currently-not-installed-computer/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfDQoNCl8lMyVfIF8lNCVfIF8lNSVfDQpfJTYlXw0KXyU3JV8NCl8lOCVfDQpfJTklXw0KPC91bD4NCl8lMTAlXw0KXyUxMSVfDQpfJTEyJV8NCjwvdWw+DQpfJTEzJV8NCl8lMTQlXw0KXyUxNSVfIF8lMTYlXyBfJTE3JV8NCl8lMTglXw0KXyUxOSVfIF8lMjAlXyBfJTIxJV8NCl8lMjIlXw0KXyUyMyVfDQpfJTI0JV8NCjwvdWw+DQpfJTI1JV8NCl8lMjYlXw0KXyUyNyVfIF8lMjglXyBfJTI5JV8gXyUzMCVfDQpfJTMxJV8NCl8lMzIlXw0KXyUzMyVfIF8lMzQlXw0KXyUzNSVfDQpfJTM2JV8gXyUzNyVfIF8lMzglXw0KXyUzOSVfDQpfJTQwJV8gXyU0MSVfDQpfJTQyJV8NCl8lNDMlXyBfJTQ0JV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>"This version of Visual Studio works best with Internet Explorer 10 which is currently not installed on your computer."</source>
+            <target state="new">"This version of Visual Studio works best with Internet Explorer 10 which is currently not installed on your computer."</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 class="" data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptoms<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 class="" data-fontsize="24" data-lineheight="32"&gt;</bpt>Symptoms<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>You receive the error "This version of Visual Studio works best with Internet Explorer 10 which is currently not installed on your computer.</source>
+            <target state="new">You receive the error "This version of Visual Studio works best with Internet Explorer 10 which is currently not installed on your computer.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>If you choose to continue, some features might not work as expected.".</source>
+            <target state="new">If you choose to continue, some features might not work as expected.".</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Some Microsoft Visual Studio 2015 and Microsoft Visual Studio 2013 features do not work as expected when Internet Explorer 10 or a later version is not installed.</source>
+            <target state="new">Some Microsoft Visual Studio 2015 and Microsoft Visual Studio 2013 features do not work as expected when Internet Explorer 10 or a later version is not installed.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source>This problem affects only Windows 7 users.</source>
+            <target state="new">This problem affects only Windows 7 users.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>Users of Windows 8 and later versions are not affected because the required dependencies for the browser are built into those operating systems.
+
+The following features are known not to work as expected if Internet Explorer 10 or a later version is not installed:
+<bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2013<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new">Users of Windows 8 and later versions are not affected because the required dependencies for the browser are built into those operating systems.
+
+The following features are known not to work as expected if Internet Explorer 10 or a later version is not installed:
+<bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2013<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt><bpt id="p3">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#intellitrace"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>IntelliTrace: Performance Details page is not displayed as expected<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept><ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt><bpt id="p3">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#intellitrace"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>IntelliTrace: Performance Details page is not displayed as expected<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept><ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#debug"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Debug Managed Memory displays a blank page and an error dialog box<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#debug"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Debug Managed Memory displays a blank page and an error dialog box<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#tfs"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Load Testing by using Team Foundation Service: Load Test Runner results are not displayed as expected<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#tfs"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Load Testing by using Team Foundation Service: Load Test Runner results are not displayed as expected<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#javascript"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>JavaScript Console and DOM Explorer windows are not displayed as expected<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#javascript"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>JavaScript Console and DOM Explorer windows are not displayed as expected<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2015<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2015<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt><bpt id="p3">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#debugger15"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>Debugger and diagnostics tools<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept><ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt><bpt id="p3">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#debugger15"&gt;</bpt><bpt id="p4">&lt;u&gt;</bpt>Debugger and diagnostics tools<ept id="p4">&lt;/u&gt;</ept><ept id="p3">&lt;/a&gt;</ept><ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#explorer"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Cloud Explorer<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt><bpt id="p2">&lt;a href="https://visualstudio.microsoft.com/vs/support/vs2015/#explorer"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Cloud Explorer<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept><ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="14" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2013<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2013<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="15" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>IntelliTrace : Performance Details page is not displayed as expected<ph id="ph1">&lt;a id="intellitrace"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>IntelliTrace : Performance Details page is not displayed as expected<ph id="ph1">&lt;a id="intellitrace"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="16" xml:space="preserve">
+            <source>When you use IntelliTrace to examine a log file that contains a performance violation event, you experience issues after you click to view more details about the violation.</source>
+            <target state="new">When you use IntelliTrace to examine a log file that contains a performance violation event, you experience issues after you click to view more details about the violation.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="17" xml:space="preserve">
+            <source>The <bpt id="p1">&lt;strong&gt;</bpt>Performance Details<ept id="p1">&lt;/strong&gt;</ept> page contains information about the execution tree of a performance violation event.</source>
+            <target state="new">The <bpt id="p1">&lt;strong&gt;</bpt>Performance Details<ept id="p1">&lt;/strong&gt;</ept> page contains information about the execution tree of a performance violation event.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="18" xml:space="preserve">
+            <source>However, if Internet Explorer 10 or a later version is not installed, the <bpt id="p1">&lt;strong&gt;</bpt>Execution Tree<ept id="p1">&lt;/strong&gt;</ept> section is blank and you receive an error message.</source>
+            <target state="new">However, if Internet Explorer 10 or a later version is not installed, the <bpt id="p1">&lt;strong&gt;</bpt>Execution Tree<ept id="p1">&lt;/strong&gt;</ept> section is blank and you receive an error message.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="19" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Debug Managed Memory feature displays a blank page and an error message<ph id="ph1">&lt;a id="debug"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Debug Managed Memory feature displays a blank page and an error message<ph id="ph1">&lt;a id="debug"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="20" xml:space="preserve">
+            <source>When you open a managed dump file that contains heap information, the summary page includes a <bpt id="p1">&lt;strong&gt;</bpt>Debug Managed Memory<ept id="p1">&lt;/strong&gt;</ept> option.</source>
+            <target state="new">When you open a managed dump file that contains heap information, the summary page includes a <bpt id="p1">&lt;strong&gt;</bpt>Debug Managed Memory<ept id="p1">&lt;/strong&gt;</ept> option.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="21" xml:space="preserve">
+            <source>If Internet Explorer 10 or a later version is not installed when you click this option, the document window that opens is blank and you receive an error message.</source>
+            <target state="new">If Internet Explorer 10 or a later version is not installed when you click this option, the document window that opens is blank and you receive an error message.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="22" xml:space="preserve">
+            <source>If this occurs, you can safely ignore the error and close the document window.</source>
+            <target state="new">If this occurs, you can safely ignore the error and close the document window.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="23" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Load Testing by using Team Foundation Service: Load Test Runner results are not displayed as expected<ph id="ph1">&lt;a id="tfs"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Load Testing by using Team Foundation Service: Load Test Runner results are not displayed as expected<ph id="ph1">&lt;a id="tfs"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="24" xml:space="preserve">
+            <source>You do the following:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>You run Load Testing by using Team Foundation Service.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">You do the following:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>You run Load Testing by using Team Foundation Service.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="25" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You select the <bpt id="p2">&lt;strong&gt;</bpt>Load Test Manager<ept id="p2">&lt;/strong&gt;</ept> and <bpt id="p3">&lt;strong&gt;</bpt>Load Test Runner<ept id="p3">&lt;/strong&gt;</ept> options.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You select the <bpt id="p2">&lt;strong&gt;</bpt>Load Test Manager<ept id="p2">&lt;/strong&gt;</ept> and <bpt id="p3">&lt;strong&gt;</bpt>Load Test Runner<ept id="p3">&lt;/strong&gt;</ept> options.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="26" xml:space="preserve">
+            <source>If Internet Explorer 10 or a later version is not installed when you take these actions, the page that shows information about the test results is not displayed correctly.</source>
+            <target state="new">If Internet Explorer 10 or a later version is not installed when you take these actions, the page that shows information about the test results is not displayed correctly.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="27" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>JavaScript Console and DOM Explorer windows are not displayed as expected<ph id="ph1">&lt;a id="javascript"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>JavaScript Console and DOM Explorer windows are not displayed as expected<ph id="ph1">&lt;a id="javascript"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="28" xml:space="preserve">
+            <source>When you use Visual Studio 2013 for Web development and you do not have Internet Explorer 11 installed, the JavaScript Console and DOM Explorer windows are not displayed as expected.</source>
+            <target state="new">When you use Visual Studio 2013 for Web development and you do not have Internet Explorer 11 installed, the JavaScript Console and DOM Explorer windows are not displayed as expected.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="29" xml:space="preserve">
+            <source>These features require Internet Explorer 11.</source>
+            <target state="new">These features require Internet Explorer 11.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="30" xml:space="preserve">
+            <source>If you are using Internet Explorer 10, you receive an error message that states that these features are unsupported by your current browser.</source>
+            <target state="new">If you are using Internet Explorer 10, you receive an error message that states that these features are unsupported by your current browser.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="31" xml:space="preserve">
+            <source>If you are using Internet Explorer 9 or an earlier version, the browser window is blank but you do not receive the error message.</source>
+            <target state="new">If you are using Internet Explorer 9 or an earlier version, the browser window is blank but you do not receive the error message.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="32" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2015<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3 data-fontsize="22" data-lineheight="29"&gt;</bpt>Visual Studio 2015<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="33" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Debugger and diagnostics tools<ph id="ph1">&lt;a id="debugger15"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Debugger and diagnostics tools<ph id="ph1">&lt;a id="debugger15"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="34" xml:space="preserve">
+            <source>When you debug an application in Visual Studio 2015, several new debugging tool windows are not displayed as expected and may also generate an error message.</source>
+            <target state="new">When you debug an application in Visual Studio 2015, several new debugging tool windows are not displayed as expected and may also generate an error message.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="35" xml:space="preserve">
+            <source>These windows and tools include <bpt id="p1">&lt;strong&gt;</bpt>Diagnostics, CPU Usage, Memory Usage<ept id="p1">&lt;/strong&gt;</ept>, and <bpt id="p2">&lt;strong&gt;</bpt>Application Timeline<ept id="p2">&lt;/strong&gt;</ept>.</source>
+            <target state="new">These windows and tools include <bpt id="p1">&lt;strong&gt;</bpt>Diagnostics, CPU Usage, Memory Usage<ept id="p1">&lt;/strong&gt;</ept>, and <bpt id="p2">&lt;strong&gt;</bpt>Application Timeline<ept id="p2">&lt;/strong&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="36" xml:space="preserve">
+            <source><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Cloud Explorer<ph id="ph1">&lt;a id="explorer"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h4 data-fontsize="20" data-lineheight="26"&gt;</bpt>Cloud Explorer<ph id="ph1">&lt;a id="explorer"&gt;&lt;/a&gt;</ph>
+<ept id="p1">&lt;/h4&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="37" xml:space="preserve">
+            <source>If you install the Cloud Explorer for Visual Studio 2015, this new extension window to browse resources on Azure is not displayed correctly and may generate an error message.</source>
+            <target state="new">If you install the Cloud Explorer for Visual Studio 2015, this new extension window to browse resources on Azure is not displayed correctly and may generate an error message.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="38" xml:space="preserve">
+            <source>Cause
+
+These problems occur because Visual Studio 2015 and Visual Studio 2013 have features that work best together with Internet Explorer 10 or later versions.</source>
+            <target state="new">Cause
+
+These problems occur because Visual Studio 2015 and Visual Studio 2013 have features that work best together with Internet Explorer 10 or later versions.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="39" xml:space="preserve">
+            <source>If Internet Explorer 10 or a later version is not installed, these features do not work as expected.</source>
+            <target state="new">If Internet Explorer 10 or a later version is not installed, these features do not work as expected.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="40" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Cause<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Cause<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="41" xml:space="preserve">
+            <source>These problems occur because Visual Studio 2015 and Visual Studio 2013 have features that work best together with Internet Explorer 10 or later versions.</source>
+            <target state="new">These problems occur because Visual Studio 2015 and Visual Studio 2013 have features that work best together with Internet Explorer 10 or later versions.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="42" xml:space="preserve">
+            <source>If Internet Explorer 10 or a later version is not installed, these features do not work as expected.</source>
+            <target state="new">If Internet Explorer 10 or a later version is not installed, these features do not work as expected.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="43" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2 data-fontsize="24" data-lineheight="32"&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="44" xml:space="preserve">
+            <source><bpt id="p1">&lt;p class=""&gt;</bpt>To resolve these problems, install <bpt id="p2">&lt;a href="http://go.microsoft.com/fwlink/?LinkID=320085"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Internet Explorer 10<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept>.</source>
+            <target state="new"><bpt id="p1">&lt;p class=""&gt;</bpt>To resolve these problems, install <bpt id="p2">&lt;a href="http://go.microsoft.com/fwlink/?LinkID=320085"&gt;</bpt><bpt id="p3">&lt;u&gt;</bpt>Internet Explorer 10<ept id="p3">&lt;/u&gt;</ept><ept id="p2">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="45" xml:space="preserve">
+            <source>For full support of JavaScript Console and DOM Explorer, install <bpt id="p1">&lt;a href="http://windows.microsoft.com/en-us/internet-explorer/ie-11-release-preview"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Internet Explorer 11<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/p&gt;</ept></source>
+            <target state="new">For full support of JavaScript Console and DOM Explorer, install <bpt id="p1">&lt;a href="http://windows.microsoft.com/en-us/internet-explorer/ie-11-release-preview"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Internet Explorer 11<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.<ept id="p">&lt;/p&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

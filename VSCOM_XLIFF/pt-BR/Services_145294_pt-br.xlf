@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54640-02e2c6f5aa608b851595cc79d44e6365" source-language="en" target-language="pt-br" parent-post-id="145294" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/services-6/"/></reference>
+		<skl>
+			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+            <source>Learn more about Windows Developer Account</source>
+            <target state="new">Learn more about Windows Developer Account</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <source>Submit free and paid apps for all Windows devices to the Windows Store.
+</source>
+            <target state="new">Submit free and paid apps for all Windows devices to the Windows Store.
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="3" xml:space="preserve">
+            <source>Windows Developer Account</source>
+            <target state="new">Windows Developer Account</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="4" xml:space="preserve">
+            <source>Services</source>
+            <target state="new">Services</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

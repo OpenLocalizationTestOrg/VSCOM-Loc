@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="43722-59d14a2bfe96ad40a2969781892a88c5" source-language="en" target-language="pt-br" parent-post-id="49467" version="10" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/license-terms/"/></reference>
+		<skl>
+			<internal-file><![CDATA[PGgxIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Ij5fJTAlXzwvaDE+DQo8aDM+PHN0cm9uZz5fJTElXzwvc3Ryb25nPjwvaDM+DQo8aDQ+XyUyJV88L2g0Pg0KPGg1Pl8lMyVfPC9oNT4NCjx1bD4NCiAJPGxpPl8lNCVfPC9saT4NCiAJPGxpPl8lNSVfPC9saT4NCiAJPGxpPl8lNiVfPC9saT4NCiAJPGxpPl8lNyVfPC9saT4NCiAJPGxpPl8lOCVfPC9saT4NCjwvdWw+DQo8aDU+XyU5JV88L2g1Pg0KPHVsPg0KIAk8bGk+XyUxMCVfPC9saT4NCiAJPGxpPl8lMTElXzwvbGk+DQogCTxsaT5fJTEyJV88L2xpPg0KPC91bD4NCjxoNT5fJTEzJV88L2g1Pg0KPHVsPg0KIAk8bGk+XyUxNCVfPC9saT4NCjwvdWw+DQo8aDQ+XyUxNSVfPC9oND4NCjxoNT5fJTE2JV88L2g1Pg0KPHVsPg0KIAk8bGk+XyUxNyVfPC9saT4NCiAJPGxpPl8lMTglXzwvbGk+DQogCTxsaT5fJTE5JV88L2xpPg0KIAk8bGk+XyUyMCVfPC9saT4NCiAJPGxpPl8lMjElXzwvbGk+DQo8L3VsPg0KPGg1Pl8lMjIlXzwvaDU+DQo8dWw+DQogCTxsaT5fJTIzJV88L2xpPg0KIAk8bGk+XyUyNCVfPC9saT4NCiAJPGxpPl8lMjUlXzwvbGk+DQogCTxsaT5fJTI2JV88L2xpPg0KPC91bD4NCjxoNT5fJTI3JV88L2g1Pg0KPHVsPg0KIAk8bGk+XyUyOCVfPC9saT4NCiAJPGxpPl8lMjklXzwvbGk+DQo8L3VsPg0KPGg0Pl8lMzAlXzwvaDQ+DQo8aDU+XyUzMSVfPC9oNT4NCjx1bD4NCiAJPGxpPl8lMzIlXzwvbGk+DQogCTxsaT5fJTMzJV88L2xpPg0KIAk8bGk+XyUzNCVfPC9saT4NCiAJPGxpPl8lMzUlXzwvbGk+DQogCTxsaT5fJTM2JV88L2xpPg0KPC91bD4NCjxoNT5fJTM3JV88L2g1Pg0KPHVsPg0KIAk8bGk+XyUzOCVfPC9saT4NCiAJPGxpPl8lMzklXzwvbGk+DQogCTxsaT5fJTQwJV88L2xpPg0KPC91bD4NCjxoNT5fJTQxJV88L2g1Pg0KPHVsPg0KIAk8bGk+XyU0MiVfPC9saT4NCiAJPGxpPl8lNDMlXzwvbGk+DQo8L3VsPg0KPGg0Pl8lNDQlXzwvaDQ+DQo8aDU+XyU0NSVfPC9oNT4NCjx1bD4NCiAJPGxpPl8lNDYlXzwvbGk+DQo8L3VsPg0KPGg0Pl8lNDclXzwvaDQ+DQo8dWw+DQogCTxsaT5fJTQ4JV88L2xpPg0KIAk8bGk+XyU0OSVfPC9saT4NCiAJPGxpPl8lNTAlXzwvbGk+DQogCTxsaT5fJTUxJV88L2xpPg0KIAk8bGk+XyU1MiVfPC9saT4NCiAJPGxpPl8lNTMlXzwvbGk+DQogCTxsaT5fJTU0JV88L2xpPg0KIAk8bGk+XyU1NSVfPC9saT4NCiAJPGxpPl8lNTYlXzwvbGk+DQogCTxsaT5fJTU3JV88L2xpPg0KIAk8bGk+XyU1OCVfPC9saT4NCiAJPGxpPl8lNTklXzwvbGk+DQogCTxsaT5fJTYwJV88L2xpPg0KIAk8bGk+XyU2MSVfPC9saT4NCiAJPGxpPl8lNjIlXzwvbGk+DQogCTxsaT5fJTYzJV88L2xpPg0KIAk8bGk+XyU2NCVfPC9saT4NCiAJPGxpPl8lNjUlXzwvbGk+DQogCTxsaT5fJTY2JV88L2xpPg0KPC91bD4NCjxoND5fJTY3JV88L2g0Pg0KPHVsPg0KIAk8bGk+XyU2OCVfPC9saT4NCjwvdWw+DQo8aDM+PHN0cm9uZz5fJTY5JV88L3N0cm9uZz48L2gzPg0KPGg0Pl8lNzAlXzwvaDQ+DQo8aDU+XyU3MSVfPC9oNT4NCjx1bD4NCiAJPGxpPl8lNzIlXzwvbGk+DQo8L3VsPg0KPGg1Pl8lNzMlXzwvaDU+DQo8dWw+DQogCTxsaT5fJTc0JV88L2xpPg0KPC91bD4NCjxoMz48c3Ryb25nPl8lNzUlXzwvc3Ryb25nPjwvaDM+DQo8aDQ+XyU3NiVfPC9oND4NCjxoNT5fJTc3JV88L2g1Pg0KPHVsPg0KIAk8bGk+XyU3OCVfPC9saT4NCjwvdWw+DQo8aDU+XyU3OSVfPC9oNT4NCjx1bD4NCiAJPGxpPl8lODAlXzwvbGk+DQo8L3VsPg0KPGg0Pl8lODElXzwvaDQ+DQo8aDU+XyU4MiVfPC9oNT4NCjx1bD4NCiAJPGxpPl8lODMlXzwvbGk+DQo8L3VsPg0KPGg1Pl8lODQlXzwvaDU+DQo8dWw+DQogCTxsaT5fJTg1JV88L2xpPg0KIAk8bGk+XyU4NiVfDQo8dWw+DQogCTxsaSBzdHlsZT0ibGlzdC1zdHlsZS10eXBlOiBub25lOyI+DQo8L3VsPg0KPC9saT4NCjwvdWw+DQo8aDQ+XyU4NyVfPC9oND4NCjxoNT5fJTg4JV88L2g1Pg0KPHVsPg0KIAk8bGk+XyU4OSVfPC9saT4NCjwvdWw+DQo8aDU+XyU5MCVfPC9oNT4NCjx1bD4NCiAJPGxpPl8lOTElXzwvbGk+DQogCTxsaT5fJTkyJV88L2xpPg0KIAk8bGkgc3R5bGU9Imxpc3Qtc3R5bGUtdHlwZTogbm9uZTsiPg0KPC91bD4K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio License Directory for Visual Studio pre-releases, extensions, 2013, 2015 and 2017, Team Foundation Server 2015, 2017, 2018.</source>
+            <target state="new">Visual Studio License Directory for Visual Studio pre-releases, extensions, 2013, 2015 and 2017, Team Foundation Server 2015, 2017, 2018.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Legal Overview</source>
+            <target state="new">Legal Overview</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>License Directory<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>License Directory<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source><bpt id="p1">&lt;u&gt;</bpt>Visual Studio<ept id="p1">&lt;/u&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;u&gt;</bpt>Visual Studio<ept id="p1">&lt;/u&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2019<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2019<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031619/"&gt;</bpt>Microsoft Visual Studio Enterprise 2019, Visual Studio Professional 2019, Visual Studio Test Professional 2019, and Trial Edition<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031619/"&gt;</bpt>Microsoft Visual Studio Enterprise 2019, Visual Studio Professional 2019, Visual Studio Test Professional 2019, and Trial Edition<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031819/"&gt;</bpt>Microsoft Visual Studio Community 2019<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031819/"&gt;</bpt>Microsoft Visual Studio Community 2019<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031519/"&gt;</bpt>Microsoft Visual Studio 2019 Diagnostic Build Tools<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031519/"&gt;</bpt>Microsoft Visual Studio 2019 Diagnostic Build Tools<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031719/"&gt;</bpt>Microsoft Visual Studio 2019 Add-Ons and Extensions<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt031719/"&gt;</bpt>Microsoft Visual Studio 2019 Add-Ons and Extensions<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt040419/"&gt;</bpt>Microsoft Visual Studio Community 2019 for Mac, Visual Studio Professional 2019 for Mac, and Visual Studio Enterprise 2019 for Mac<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt040419/"&gt;</bpt>Microsoft Visual Studio Community 2019 for Mac, Visual Studio Professional 2019 for Mac, and Visual Studio Enterprise 2019 for Mac<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt021219/"&gt;</bpt>Microsoft Visual Studio Enterprise 2019, Visual Studio Professional 2019, and Trial Edition Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt021219/"&gt;</bpt>Microsoft Visual Studio Enterprise 2019, Visual Studio Professional 2019, and Trial Edition Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="13" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt022619//"&gt;</bpt>Microsoft Visual Studio Community 2019 Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt022619//"&gt;</bpt>Microsoft Visual Studio Community 2019 Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="14" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt110718/"&gt;</bpt>Microsoft Visual Studio 2019 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt110718/"&gt;</bpt>Microsoft Visual Studio 2019 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="15" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Supplemental Licenses<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Supplemental Licenses<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="16" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt120318/"&gt;</bpt>Supplemental License Terms for Microsoft Visual Studio IntelliCode Extension Preview<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt120318/"&gt;</bpt>Supplemental License Terms for Microsoft Visual Studio IntelliCode Extension Preview<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="17" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2017<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2017<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="18" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="19" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt687465/"&gt;</bpt>Microsoft Visual Studio Enterprise 2017, Visual Studio Professional 2017, Visual Studio Test Professional 2017 and Trial Edition<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt687465/"&gt;</bpt>Microsoft Visual Studio Enterprise 2017, Visual Studio Professional 2017, Visual Studio Test Professional 2017 and Trial Edition<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="20" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt553321/"&gt;</bpt>Microsoft Visual Studio Community 2017<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt553321/"&gt;</bpt>Microsoft Visual Studio Community 2017<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="21" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt080317/"&gt;</bpt>Microsoft Visual Studio 2017 Express for Windows Desktop<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt080317/"&gt;</bpt>Microsoft Visual Studio 2017 Express for Windows Desktop<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="22" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt552233/"&gt;</bpt>Microsoft Visual Studio 2017 Tools, Add-Ons, and C++ Redistributable<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt552233/"&gt;</bpt>Microsoft Visual Studio 2017 Tools, Add-Ons, and C++ Redistributable<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="23" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/connected-services-sdk-visual-studio-eula/"&gt;</bpt>Microsoft Connected Services SDK for Visual Studio 2017<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/connected-services-sdk-visual-studio-eula/"&gt;</bpt>Microsoft Connected Services SDK for Visual Studio 2017<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="24" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="25" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt551018/"&gt;</bpt>Microsoft Visual Studio Enterprise 2017, Microsoft Visual Studio Professional, and Microsoft Visual Studio Test Professional 2017 Product Family Pre-release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt551018/"&gt;</bpt>Microsoft Visual Studio Enterprise 2017, Microsoft Visual Studio Professional, and Microsoft Visual Studio Test Professional 2017 Product Family Pre-release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="26" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt558734/"&gt;</bpt>Microsoft Visual Studio Community 2017 Product Family Pre-release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt558734/"&gt;</bpt>Microsoft Visual Studio Community 2017 Product Family Pre-release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="27" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt080217/"&gt;</bpt>Microsoft Visual Studio 2017 Express for Windows Desktop Pre-release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt080217/"&gt;</bpt>Microsoft Visual Studio 2017 Express for Windows Desktop Pre-release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="28" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt591984/"&gt;</bpt>Microsoft Visual Studio 2017 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt591984/"&gt;</bpt>Microsoft Visual Studio 2017 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="29" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Supplemental Licenses <ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Supplemental Licenses <ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="30" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt553512/"&gt;</bpt>Supplement for Microsoft Visual Studio 2017<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt553512/"&gt;</bpt>Supplement for Microsoft Visual Studio 2017<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="31" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt553423/"&gt;</bpt>Supplemental License Terms for Microsoft Visual Studio Agents 2017<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt553423/"&gt;</bpt>Supplemental License Terms for Microsoft Visual Studio Agents 2017<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="32" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2015<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2015<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="33" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="34" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171576/"&gt;</bpt>Microsoft Visual Studio Enterprise 2015, Visual Studio Professional 2015, Visual Studio Test Professional 2015 and Trial Edition<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171576/"&gt;</bpt>Microsoft Visual Studio Enterprise 2015, Visual Studio Professional 2015, Visual Studio Test Professional 2015 and Trial Edition<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="35" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/microsoft-visual-studio-community-2015/"&gt;</bpt>Microsoft Visual Studio Community 2015<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/microsoft-visual-studio-community-2015/"&gt;</bpt>Microsoft Visual Studio Community 2015<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="36" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171551/"&gt;</bpt>Microsoft Visual Studio Express 2015<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171551/"&gt;</bpt>Microsoft Visual Studio Express 2015<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="37" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171586/"&gt;</bpt>Microsoft Visual Studio 2015 Software Development Kit<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171586/"&gt;</bpt>Microsoft Visual Studio 2015 Software Development Kit<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="38" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171552/"&gt;</bpt>Microsoft Visual Studio 2015 Add-ons, Visual Studio Shells and C++ Redistributable<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171552/"&gt;</bpt>Microsoft Visual Studio 2015 Add-ons, Visual Studio Shells and C++ Redistributable<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="39" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="40" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn891617/"&gt;</bpt>Microsoft Visual Studio 2015 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn891617/"&gt;</bpt>Microsoft Visual Studio 2015 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="41" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt650908/"&gt;</bpt>Microsoft Visual Studio Community 2015 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt650908/"&gt;</bpt>Microsoft Visual Studio Community 2015 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="42" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt591984/"&gt;</bpt>Microsoft Visual Studio 2015 (and Next Version Code-Name 15) Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt591984/"&gt;</bpt>Microsoft Visual Studio 2015 (and Next Version Code-Name 15) Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="43" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Supplemental Licenses <ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Supplemental Licenses <ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="44" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171554/"&gt;</bpt>Supplement for Microsoft Visual Studio 2015<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171554/"&gt;</bpt>Supplement for Microsoft Visual Studio 2015<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="45" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn763936/"&gt;</bpt>Supplemental License Terms for Microsoft Visual Studio 2015 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn763936/"&gt;</bpt>Supplemental License Terms for Microsoft Visual Studio 2015 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="46" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2013<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Visual Studio 2013<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="47" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="48" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn877550/"&gt;</bpt>Microsoft Visual Studio Community 2013<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn877550/"&gt;</bpt>Microsoft Visual Studio Community 2013<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="49" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Other Visual Studio Licensing Documents<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Other Visual Studio Licensing Documents<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="50" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/visual-studio-team-services-code-conduct/"&gt;</bpt>Visual Studio Team Services&#039; Code of Conduct<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/visual-studio-team-services-code-conduct/"&gt;</bpt>Visual Studio Team Services&#039; Code of Conduct<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="51" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt736439/"&gt;</bpt>Microsoft Visual Studio Internal Utilities<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt736439/"&gt;</bpt>Microsoft Visual Studio Internal Utilities<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="52" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt736441/"&gt;</bpt>Microsoft Visual Studio Remote Control<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt736441/"&gt;</bpt>Microsoft Visual Studio Remote Control<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%51%_" id="53" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt736442/"&gt;</bpt>Microsoft Visual Studio Telemetry<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt736442/"&gt;</bpt>Microsoft Visual Studio Telemetry<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%52%_" id="54" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt032818/"&gt;</bpt>Microsoft Visual Studio Glass Test Package<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt032818/"&gt;</bpt>Microsoft Visual Studio Glass Test Package<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%53%_" id="55" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt715422/"&gt;</bpt>Microsoft Visual Studio Graphics Tools Extension Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt715422/"&gt;</bpt>Microsoft Visual Studio Graphics Tools Extension Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%54%_" id="56" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt644895/"&gt;</bpt>Microsoft .NET Core Debugger<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt644895/"&gt;</bpt>Microsoft .NET Core Debugger<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%55%_" id="57" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt644918/"&gt;</bpt>Microsoft Visual C++ Build Tools<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt644918/"&gt;</bpt>Microsoft Visual C++ Build Tools<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%56%_" id="58" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt654037/"&gt;</bpt>Microsoft Visual C++ Build Tools NuGet Pre Release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt654037/"&gt;</bpt>Microsoft Visual C++ Build Tools NuGet Pre Release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%57%_" id="59" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt170620/"&gt;</bpt>Microsoft Visual Studio Tools For Unity<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt170620/"&gt;</bpt>Microsoft Visual Studio Tools For Unity<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%58%_" id="60" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt269423/"&gt;</bpt>Microsoft Project System Extensibility Preview<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt269423/"&gt;</bpt>Microsoft Project System Extensibility Preview<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%59%_" id="61" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt143615/"&gt;</bpt>Microsoft Visual Studio Pre-Release Servicing Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt143615/"&gt;</bpt>Microsoft Visual Studio Pre-Release Servicing Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%60%_" id="62" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt204514/"&gt;</bpt>Microsoft Visual Studio Emulator For Android<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt204514/"&gt;</bpt>Microsoft Visual Studio Emulator For Android<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%61%_" id="63" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt243299/"&gt;</bpt>Microsoft Visual C++ Cross-Platform Mobile Development (Android)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt243299/"&gt;</bpt>Microsoft Visual C++ Cross-Platform Mobile Development (Android)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%62%_" id="64" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt210418/"&gt;</bpt>Microsoft Visual C++ Cross-Platform Mobile Development (iOS)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt210418/"&gt;</bpt>Microsoft Visual C++ Cross-Platform Mobile Development (iOS)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%63%_" id="65" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt622585/"&gt;</bpt>Clang with Microsoft CodeGen<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt622585/"&gt;</bpt>Clang with Microsoft CodeGen<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%64%_" id="66" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt622369/"&gt;</bpt>Microsoft HLSL Compilation in C# and VB projects<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt622369/"&gt;</bpt>Microsoft HLSL Compilation in C# and VB projects<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%65%_" id="67" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/microsoft-visual-studio-test-platform/"&gt;</bpt>vstest Test Platform<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/microsoft-visual-studio-test-platform/"&gt;</bpt>vstest Test Platform<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%66%_" id="68" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt021319/"&gt;</bpt>Visual C++ Build Insights Software Development Kit<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt021319/"&gt;</bpt>Visual C++ Build Insights Software Development Kit<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%67%_" id="69" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Sample Applications<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Sample Applications<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%68%_" id="70" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt712788/"&gt;</bpt>IOT Sample Application Preview<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt712788/"&gt;</bpt>IOT Sample Application Preview<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%69%_" id="71" xml:space="preserve">
+            <source><bpt id="p1">&lt;u&gt;</bpt>Azure DevOps Server<ept id="p1">&lt;/u&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;u&gt;</bpt>Azure DevOps Server<ept id="p1">&lt;/u&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%70%_" id="72" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Azure DevOps Server 2019<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Azure DevOps Server 2019<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%71%_" id="73" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%72%_" id="74" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt022119/"&gt;</bpt>Microsoft Azure DeOps Server 2019, Trial Version, and Azure DevOps Server Express 2019 Version<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt022119/"&gt;</bpt>Microsoft Azure DeOps Server 2019, Trial Version, and Azure DevOps Server Express 2019 Version<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%73%_" id="75" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%74%_" id="76" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt102918/"&gt;</bpt>Microsoft Pre-Release Software License Terms Microsoft Azure DevOps Server 2019<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt102918/"&gt;</bpt>Microsoft Pre-Release Software License Terms Microsoft Azure DevOps Server 2019<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%75%_" id="77" xml:space="preserve">
+            <source><bpt id="p1">&lt;u&gt;</bpt>Team Foundation Server<ept id="p1">&lt;/u&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;u&gt;</bpt>Team Foundation Server<ept id="p1">&lt;/u&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%76%_" id="78" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Team Foundation Server 2018<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Team Foundation Server 2018<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%77%_" id="79" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%78%_" id="80" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt101817/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2018 and Team Foundation Server Express Edition<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt101817/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2018 and Team Foundation Server Express Edition<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%79%_" id="81" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%80%_" id="82" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt081517/"&gt;</bpt>Microsoft Pre-Release Software License Terms Microsoft Visual Studio Team Foundation Server 2018<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt081517/"&gt;</bpt>Microsoft Pre-Release Software License Terms Microsoft Visual Studio Team Foundation Server 2018<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%81%_" id="83" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Team Foundation Server 2017<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Team Foundation Server 2017<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%82%_" id="84" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%83%_" id="85" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt445191/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2017 and Team Foundation Server Express Edition<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mlt445191/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2017 and Team Foundation Server Express Edition<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%84%_" id="86" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%85%_" id="87" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/tfs2017-update1-rc/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2017 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/tfs2017-update1-rc/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2017 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%86%_" id="88" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt743195/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server Code-Name 15 Product Family Pre-release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt743195/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server Code-Name 15 Product Family Pre-release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%87%_" id="89" xml:space="preserve">
+            <source><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Team Foundation Server 2015<ept id="p1">&lt;/span&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;span style="color: purple;"&gt;</bpt>Team Foundation Server 2015<ept id="p1">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%88%_" id="90" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%89%_" id="91" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171584/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2015, Trial Edition, and Team Foundation Server Express Edition<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt171584/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2015, Trial Edition, and Team Foundation Server Express Edition<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%90%_" id="92" xml:space="preserve">
+            <source><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;strong&gt;</bpt>Pre-release EULAs<ept id="p1">&lt;/strong&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%91%_" id="93" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn948522/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2015 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/dn948522/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2015 Product Family Pre-Release Software (RC)<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%92%_" id="94" xml:space="preserve">
+            <source><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt592025/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2015 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;a href="https://visualstudio.microsoft.com/license-terms/mt592025/"&gt;</bpt>Microsoft Visual Studio Team Foundation Server 2015 Product Family Pre-Release Software<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

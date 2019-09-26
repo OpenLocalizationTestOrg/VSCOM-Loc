@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="40935-7a8fd1241ce2fd05c2e171dc5b6264ca" source-language="en" target-language="pt-br" parent-post-id="239" version="6" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/hockey-app/"/></reference>
+		<skl>
+			<internal-file><![CDATA[W2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gSGVybyIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ieWVzIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tZmVhdHVyZS1oZXJvIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLWhlcm8tdGV4dGNvbCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fZmVhdHVyZV9oZXJvIHRpdGxlPSJfJTAlXyIgY3NzX2NsYXNzZXM9IiIgcmVhZG1vcmVfdXJsPSJodHRwczovL2hvY2tleWFwcC5uZXQvcHJpY2luZy8iIHJlYWRtb3JlX3RleHQ9Il8lMSVfIiByZWFkbW9yZV9hcmlhPSJfJTIlXyIgcmVhZG1vcmVfdGFyZ2V0PSJfYmxhbmsiIHJlYWRtb3JlX3JlbD0iIl1fJTQlX18lNSVfW2Z1c2lvbl9idXR0b24gbGluaz0iaHR0cHM6Ly9yaW5rLmhvY2tleWFwcC5uZXQvdXNlcnMvc2lnbl91cD93dC5tY19pZD1wX09MQV9XZWJDb250ZW50X1ZTQ09NX0hBX1ZTQ09NJnV0bV9zb3VyY2U9VlNDT00mdXRtX21lZGl1bT1XRUJDT05URU5UJnV0bV90ZXJtPUNUQSZ1dG1fY2FtcGFpZ249SG9ja2V5QXBwIiB0aXRsZT0iIiB0YXJnZXQ9Il9ibGFuayIgbGlua19hdHRyaWJ1dGVzPSIiIGFsaWdubWVudD0iIiBtb2RhbD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBvc19kb3dubG9hZHM9Im5vIiBkb3dubG9hZF93aW5kb3dzX3RleHQ9IiIgZG93bmxvYWRfd2luZG93c191cmw9IiIgZG93bmxvYWRfbWFjX3RleHQ9IiIgZG93bmxvYWRfbWFjX3VybD0iIiBkb3dubG9hZF9saW51eF90ZXh0PSIiIGRvd25sb2FkX2xpbnV4X3VybD0iIiBhcmlhX2xhYmVsPSJHZXQgc3RhcnRlZCB3aXRoIEhvY2tleUFwcCBmb3IgZnJlZSIgY29sb3I9ImRlZmF1bHQiIGJ1dHRvbl9ncmFkaWVudF90b3BfY29sb3I9IiIgYnV0dG9uX2dyYWRpZW50X2JvdHRvbV9jb2xvcj0iIiBidXR0b25fZ3JhZGllbnRfdG9wX2NvbG9yX2hvdmVyPSIiIGJ1dHRvbl9ncmFkaWVudF9ib3R0b21fY29sb3JfaG92ZXI9IiIgYWNjZW50X2NvbG9yPSIiIGFjY2VudF9ob3Zlcl9jb2xvcj0iIiB0eXBlPSJmbGF0IiBiZXZlbF9jb2xvcj0iIiBib3JkZXJfd2lkdGg9IiIgc2l6ZT0ibWVkaXVtIiBzdHJldGNoPSJubyIgc2hhcGU9InNxdWFyZSIgaWNvbj0iZmEtYW5nbGUtcmlnaHQiIGljb25fcG9zaXRpb249InJpZ2h0IiBpY29uX2RpdmlkZXI9Im5vIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjEuMCIgYW5pbWF0aW9uX29mZnNldD0iIl1fJTMlX1svZnVzaW9uX2J1dHRvbl0KClsvdnNjb21fZmVhdHVyZV9oZXJvXVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMiIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ieWVzIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lLXRleHQtY29udGVudCIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiB1bmRlZmluZWQ9IiIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bZnVzaW9uX3RpdGxlIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUtdGl0bGUiIGlkPSIiIHNpemU9IjIiIGNvbnRlbnRfYWxpZ249ImNlbnRlciIgc3R5bGVfdHlwZT0iZGVmYXVsdCIgc2VwX2NvbG9yPSIiXV8lNiVfWy9mdXNpb25fdGl0bGVdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9jb2xvcj0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgc3BhY2luZz0ieWVzIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIG1hcmdpbl90b3A9IjBweCIgbWFyZ2luX2JvdHRvbT0iMHB4IiBjbGFzcz0iIiBpZD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgaGlkZV9vbl9tb2JpbGU9Im5vIiBjZW50ZXJfY29udGVudD0ibm8iIG1pbl9oZWlnaHQ9Im5vbmUiIGxhc3Q9Im5vIiBob3Zlcl90eXBlPSJub25lIiBsaW5rPSIiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIl1bZnVzaW9uX2NvbnRlbnRfYm94ZXMgbGF5b3V0PSJpY29uLW9uLXRvcCIgY29sdW1ucz0iMyIgdGl0bGVfc2l6ZT0iIiBoZWFkaW5nX3NpemU9IjIiIHRpdGxlX2NvbG9yPSIjMWU3M2JlIiBib2R5X2NvbG9yPSIjMzMzMzMzIiBiYWNrZ3JvdW5kY29sb3I9InRyYW5zcGFyZW50IiBpY29uPSIiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiMxZTczYmUiIGljb25fY2lyY2xlPSJ5ZXMiIGljb25fY2lyY2xlX3JhZGl1cz0iIiBjaXJjbGVjb2xvcj0iI2Y3ZjdmNyIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0idHJhbnNwYXJlbnQiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iMCIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIzFlNzNiZSIgaWNvbl9zaXplPSIiIGljb25faG92ZXJfdHlwZT0ibm9uZSIgaG92ZXJfYWNjZW50X2NvbG9yPSIjZjdmN2Y3IiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iIiBpbWFnZV9oZWlnaHQ9IiIgbGlua190eXBlPSIiIGJ1dHRvbl9zcGFuPSIiIGxpbmtfYXJlYT0iIiBsaW5rX3RhcmdldD0iIiBpY29uX2FsaWduPSJsZWZ0IiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGVsYXk9IiIgYW5pbWF0aW9uX29mZnNldD0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgbWFyZ2luX3RvcD0iMiUiIG1hcmdpbl9ib3R0b209IjIlIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIl1bZnVzaW9uX2NvbnRlbnRfYm94IHRpdGxlPSJfJTclXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249ImZhLXdpbmRvd3MgZmFiIiBmYWJyaWNfaWNvbj0iRGV2aWNlczMiIGljb25mbGlwPSIiIGljb25yb3RhdGU9IiIgaWNvbnNwaW49Im5vIiBpY29uY29sb3I9IiIgY2lyY2xlY29sb3I9IiIgY2lyY2xlYm9yZGVyc2l6ZT0iIiBjaXJjbGVib3JkZXJjb2xvcj0iIiBvdXRlcmNpcmNsZWJvcmRlcnNpemU9IiIgb3V0ZXJjaXJjbGVib3JkZXJjb2xvcj0iIiBpbWFnZT0iIiBpbWFnZV93aWR0aD0iNzAiIGltYWdlX2lkPSIiIGltYWdlX2hlaWdodD0iNzAiIGxpbms9IiIgbGlua3RleHQ9IiIgbGlua190YXJnZXQ9IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjEiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgYXJpYV9sYWJlbD0iIl1fJTglX1svZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lOSVfIiBiYWNrZ3JvdW5kY29sb3I9IiIgaWNvbj0iZmEtY29kZS1icmFuY2ggZmFyIiBmYWJyaWNfaWNvbj0iT3BlblNvdXJjZSIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSIzNSIgaW1hZ2VfaWQ9IiIgaW1hZ2VfaGVpZ2h0PSIzNSIgbGluaz0iIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lMTAlX1svZnVzaW9uX2NvbnRlbnRfYm94XVtmdXNpb25fY29udGVudF9ib3ggdGl0bGU9Il8lMTElXyIgYmFja2dyb3VuZGNvbG9yPSIiIGljb249ImZhLWNsb3VkIGZhcyIgZmFicmljX2ljb249IkNlbGxQaG9uZSIgaWNvbmZsaXA9IiIgaWNvbnJvdGF0ZT0iIiBpY29uc3Bpbj0ibm8iIGljb25jb2xvcj0iIiBjaXJjbGVjb2xvcj0iIiBjaXJjbGVib3JkZXJzaXplPSIiIGNpcmNsZWJvcmRlcmNvbG9yPSIiIG91dGVyY2lyY2xlYm9yZGVyc2l6ZT0iIiBvdXRlcmNpcmNsZWJvcmRlcmNvbG9yPSIiIGltYWdlPSIiIGltYWdlX3dpZHRoPSI3MCIgaW1hZ2VfaWQ9IiIgaW1hZ2VfaGVpZ2h0PSI3MCIgbGluaz0iIiBsaW5rdGV4dD0iIiBsaW5rX3RhcmdldD0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMSIgYW5pbWF0aW9uX29mZnNldD0iIiBhcmlhX2xhYmVsPSIiXV8lMTIlX1svZnVzaW9uX2NvbnRlbnRfYm94XVsvZnVzaW9uX2NvbnRlbnRfYm94ZXNdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUtLWdyYXlsYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGRpbWVuc2lvbl9tYXJnaW49IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9zd2ltbGFuZV9jb250ZW50IGxheW91dD0iYmFzaWMiIHRpdGxlPSJfJTEzJV8iIHN1YnRpdGxlPSJfJTE0JV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzAzL2NyYXNocmVwb3J0c19vcC5wbmciIHJlYWRtb3JlX3VybD0iaHR0cHM6Ly9ob2NrZXlhcHAubmV0L2ZlYXR1cmVzL2NyYXNocmVwb3J0cy8/d3QubWNfaWQ9cF9PTEFfV2ViQ29udGVudF9WU0NPTV9DUkFTSFJFUE9SVFNfSE9DS0VZQVBQJnV0bV9zb3VyY2U9VlNDT00mdXRtX21lZGl1bT1XRUJDT05URU5UJnV0bV90ZXJtPUNSQVNIUkVQT1JUUyZ1dG1fY2FtcGFpZ249SE9DS0VZQVBQIiByZWFkbW9yZV90ZXh0PSJfJTE1JV8iIHJlYWRtb3JlX2FyaWE9Il8lMTYlXyIgcmVhZG1vcmVfdGFyZ2V0PSJfYmxhbmsiIHJlYWRtb3JlX3JlbD0ibm9vcGVuZXIiXQ0KDQpfJTE3JV8gXyUxOCVfIF8lMTklXw0KDQoKWy92c2NvbV9zd2ltbGFuZV9jb250ZW50XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0iY2VudGVyIGNlbnRlciIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgZmFkZT0ibm8iIGJhY2tncm91bmRfcGFyYWxsYXg9Im5vbmUiIGVuYWJsZV9tb2JpbGU9Im5vIiBwYXJhbGxheF9zcGVlZD0iMC4zIiB2aWRlb19tcDQ9IiIgdmlkZW9fd2VibT0iIiB2aWRlb19vZ3Y9IiIgdmlkZW9fdXJsPSIiIHZpZGVvX2FzcGVjdF9yYXRpbz0iMTY6OSIgdmlkZW9fbG9vcD0ieWVzIiB2aWRlb19tdXRlPSJ5ZXMiIHZpZGVvX3ByZXZpZXdfaW1hZ2U9IiIgYm9yZGVyX3NpemU9IiIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIG1hcmdpbl90b3A9IiIgbWFyZ2luX2JvdHRvbT0iIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIl1bZnVzaW9uX2J1aWxkZXJfcm93XVtmdXNpb25fYnVpbGRlcl9jb2x1bW4gdHlwZT0iMV8xIiBsYXlvdXQ9IjFfMSIgc3BhY2luZz0iIiBjZW50ZXJfY29udGVudD0ibm8iIGxpbms9IiIgdGFyZ2V0PSJfc2VsZiIgbWluX2hlaWdodD0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0iIiBpZD0iIiBiYWNrZ3JvdW5kX2NvbG9yPSIiIGJhY2tncm91bmRfaW1hZ2U9IiIgYmFja2dyb3VuZF9wb3NpdGlvbj0ibGVmdCB0b3AiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGhvdmVyX3R5cGU9Im5vbmUiIGJvcmRlcl9zaXplPSIwIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgYm9yZGVyX3Bvc2l0aW9uPSJhbGwiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiIGRpbWVuc2lvbl9tYXJnaW49IiIgYW5pbWF0aW9uX3R5cGU9IiIgYW5pbWF0aW9uX2RpcmVjdGlvbj0ibGVmdCIgYW5pbWF0aW9uX3NwZWVkPSIwLjMiIGFuaW1hdGlvbl9vZmZzZXQ9IiIgbGFzdD0ibm8iXVt2c2NvbV9zd2ltbGFuZV9jb250ZW50IGxheW91dD0iYmFzaWMtcmV2ZXJzZWQiIHRpdGxlPSJfJTIwJV8iIHN1YnRpdGxlPSJfJTIxJV8iIGltYWdlX21lZGlhPSJodHRwczovL3Zpc3VhbHN0dWRpby5taWNyb3NvZnQuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzAzL2ZlZWRiYWNrX29wLnBuZyIgcmVhZG1vcmVfdXJsPSJodHRwczovL2hvY2tleWFwcC5uZXQvZmVhdHVyZXMvZmVlZGJhY2svP3d0Lm1jX2lkPXBfT0xBX1dlYkNvbnRlbnRfVlNDT01fSU5BUFBGRUVEQkFDS19IT0NLRVlBUFAmdXRtX3NvdXJjZT1WU0NPTSZ1dG1fbWVkaXVtPVdFQkNPTlRFTlQmdXRtX3Rlcm09SU5BUFBGRUVEQkFDSyZ1dG1fY2FtcGFpZ249SE9DS0VZQVBQIiByZWFkbW9yZV90ZXh0PSJfJTIyJV8iIHJlYWRtb3JlX2FyaWE9Il8lMjMlXyIgcmVhZG1vcmVfdGFyZ2V0PSJfYmxhbmsiIHJlYWRtb3JlX3JlbD0ibm9vcGVuZXIiXQ0KDQpfJTI0JV8gXyUyNSVfIF8lMjYlXw0KDQoKWy92c2NvbV9zd2ltbGFuZV9jb250ZW50XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS1ncmF5bGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fc3dpbWxhbmVfY29udGVudCBsYXlvdXQ9ImJhc2ljIiB0aXRsZT0iXyUyNyVfIiBzdWJ0aXRsZT0iXyUyOCVfIiBpbWFnZV9tZWRpYT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wMy9kaXN0cmlidXRpb25fb3AucG5nIiByZWFkbW9yZV91cmw9Imh0dHBzOi8vaG9ja2V5YXBwLm5ldC9mZWF0dXJlcy9kaXN0cmlidXRpb24vP3d0Lm1jX2lkPXBfT0xBX1dlYkNvbnRlbnRfVlNDT01fRElTVFJJQlVUSU9OX0hPQ0tFWUFQUCZ1dG1fc291cmNlPVZTQ09NJnV0bV9tZWRpdW09V0VCQ09OVEVOVCZ1dG1fdGVybT1ESVNUUklCVVRJT04mdXRtX2NhbXBhaWduPUhPQ0tFWUFQUCIgcmVhZG1vcmVfdGV4dD0iXyUyOSVfIiByZWFkbW9yZV9hcmlhPSJfJTMwJV8iIHJlYWRtb3JlX3RhcmdldD0iX2JsYW5rIiByZWFkbW9yZV9yZWw9Im5vb3BlbmVyIl0NCg0KXyUzMSVfIF8lMzIlXyBfJTMzJV8gXyUzNCVfDQoNCgpbL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgZGltZW5zaW9uX21hcmdpbj0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3N3aW1sYW5lX2NvbnRlbnQgbGF5b3V0PSJiYXNpYy1yZXZlcnNlZCIgdGl0bGU9Il8lMzUlXyIgc3VidGl0bGU9IiIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDMvVHJhY2tVc2VyTWV0cmljc182MzZ4MzAwX29wLnBuZyIgcmVhZG1vcmVfdXJsPSJodHRwczovL2FrYS5tcy9oYXVzZXJtZXRyaWNzIiByZWFkbW9yZV90ZXh0PSJfJTM2JV8iIHJlYWRtb3JlX2FyaWE9Il8lMzclXyIgcmVhZG1vcmVfdGFyZ2V0PSJfYmxhbmsiIHJlYWRtb3JlX3JlbD0ibm9vcGVuZXIiXQ0KDQpfJTM4JV8gXyUzOSVfIF8lNDAlXyBfJTQxJV8NCg0KClsvdnNjb21fc3dpbWxhbmVfY29udGVudF1bL2Z1c2lvbl9idWlsZGVyX2NvbHVtbl1bL2Z1c2lvbl9idWlsZGVyX3Jvd11bL2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lcl1bZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyIGFkbWluX2xhYmVsPSJWU0NPTSBTd2ltbGFuZSIgaHVuZHJlZF9wZXJjZW50PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfc2Nyb2xsPSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9jZW50ZXJfY29udGVudD0ieWVzIiBlcXVhbF9oZWlnaHRfY29sdW1ucz0ibm8iIG1lbnVfYW5jaG9yPSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSJ2c2NvbS1zd2ltbGFuZSB2c2NvbS1zd2ltbGFuZS0tZ3JheWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgZGltZW5zaW9uX21hcmdpbj0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3N3aW1sYW5lX2NvbnRlbnQgbGF5b3V0PSJiYXNpYyIgdGl0bGU9Il8lNDIlXyIgc3VidGl0bGU9Il8lNDMlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDMvQmV0YVRlc3RDb3ZlcmFnZV82MzZ4MzAwX29wLnBuZyIgcmVhZG1vcmVfdXJsPSJodHRwczovL2hvY2tleWFwcC5uZXQvZmVhdHVyZXMvYW5hbHl0aWNzLz93dC5tY19pZD1wX09MQV9XZWJDb250ZW50X1ZTQ09NX1RFU1RDT1ZFUkFHRV9IT0NLRVlBUFAmdXRtX3NvdXJjZT1WU0NPTSZ1dG1fbWVkaXVtPVdFQkNPTlRFTlQmdXRtX3Rlcm09VEVTVENPVkVSQUdFJnV0bV9jYW1wYWlnbj1IT0NLRVlBUFAiIHJlYWRtb3JlX3RleHQ9Il8lNDQlXyIgcmVhZG1vcmVfYXJpYT0iXyU0NSVfIiByZWFkbW9yZV90YXJnZXQ9Il9ibGFuayIgcmVhZG1vcmVfcmVsPSJub29wZW5lciJdDQoNCl8lNDYlXyBfJTQ3JV8gXyU0OCVfDQoNCgpbL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJdW2Z1c2lvbl9idWlsZGVyX2NvbnRhaW5lciBhZG1pbl9sYWJlbD0iVlNDT00gU3dpbWxhbmUiIGh1bmRyZWRfcGVyY2VudD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X3Njcm9sbD0ibm8iIGh1bmRyZWRfcGVyY2VudF9oZWlnaHRfY2VudGVyX2NvbnRlbnQ9InllcyIgZXF1YWxfaGVpZ2h0X2NvbHVtbnM9Im5vIiBtZW51X2FuY2hvcj0iIiBoaWRlX29uX21vYmlsZT0ic21hbGwtdmlzaWJpbGl0eSxtZWRpdW0tdmlzaWJpbGl0eSxsYXJnZS12aXNpYmlsaXR5IiBjbGFzcz0idnNjb20tc3dpbWxhbmUgdnNjb20tc3dpbWxhbmUiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJjZW50ZXIgY2VudGVyIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBmYWRlPSJubyIgYmFja2dyb3VuZF9wYXJhbGxheD0ibm9uZSIgZW5hYmxlX21vYmlsZT0ibm8iIHBhcmFsbGF4X3NwZWVkPSIwLjMiIHZpZGVvX21wND0iIiB2aWRlb193ZWJtPSIiIHZpZGVvX29ndj0iIiB2aWRlb191cmw9IiIgdmlkZW9fYXNwZWN0X3JhdGlvPSIxNjo5IiB2aWRlb19sb29wPSJ5ZXMiIHZpZGVvX211dGU9InllcyIgdmlkZW9fcHJldmlld19pbWFnZT0iIiBib3JkZXJfc2l6ZT0iIiBib3JkZXJfY29sb3I9IiIgYm9yZGVyX3N0eWxlPSJzb2xpZCIgbWFyZ2luX3RvcD0iIiBtYXJnaW5fYm90dG9tPSIiIHBhZGRpbmdfdG9wPSIiIHBhZGRpbmdfcmlnaHQ9IiIgcGFkZGluZ19ib3R0b209IiIgcGFkZGluZ19sZWZ0PSIiXVtmdXNpb25fYnVpbGRlcl9yb3ddW2Z1c2lvbl9idWlsZGVyX2NvbHVtbiB0eXBlPSIxXzEiIGxheW91dD0iMV8xIiBzcGFjaW5nPSIiIGNlbnRlcl9jb250ZW50PSJubyIgbGluaz0iIiB0YXJnZXQ9Il9zZWxmIiBtaW5faGVpZ2h0PSIiIGhpZGVfb25fbW9iaWxlPSJzbWFsbC12aXNpYmlsaXR5LG1lZGl1bS12aXNpYmlsaXR5LGxhcmdlLXZpc2liaWxpdHkiIGNsYXNzPSIiIGlkPSIiIGJhY2tncm91bmRfY29sb3I9IiIgYmFja2dyb3VuZF9pbWFnZT0iIiBiYWNrZ3JvdW5kX3Bvc2l0aW9uPSJsZWZ0IHRvcCIgYmFja2dyb3VuZF9yZXBlYXQ9Im5vLXJlcGVhdCIgaG92ZXJfdHlwZT0ibm9uZSIgYm9yZGVyX3NpemU9IjAiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBib3JkZXJfcG9zaXRpb249ImFsbCIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiIgZGltZW5zaW9uX21hcmdpbj0iIiBhbmltYXRpb25fdHlwZT0iIiBhbmltYXRpb25fZGlyZWN0aW9uPSJsZWZ0IiBhbmltYXRpb25fc3BlZWQ9IjAuMyIgYW5pbWF0aW9uX29mZnNldD0iIiBsYXN0PSJubyJdW3ZzY29tX3N3aW1sYW5lX2NvbnRlbnQgbGF5b3V0PSJiYXNpYy1yZXZlcnNlZCIgdGl0bGU9Il8lNDklXyIgc3VidGl0bGU9Il8lNTAlXyIgaW1hZ2VfbWVkaWE9Imh0dHBzOi8vdmlzdWFsc3R1ZGlvLm1pY3Jvc29mdC5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTYvMDMvTW9iaWxlRGV2T3BzXzYzNngzMDBfb3AucG5nIiByZWFkbW9yZV91cmw9Imh0dHBzOi8vaG9ja2V5YXBwLm5ldC9mZWF0dXJlcy9lbnRlcnByaXNlLz93dC5tY19pZD1wX09MQV9XZWJDb250ZW50X1ZTQ09NX01PQklMRURFVk9QU19IT0NLRVlBUFAmdXRtX3NvdXJjZT1WU0NPTSZ1dG1fbWVkaXVtPVdFQkNPTlRFTlQmdXRtX3Rlcm09TU9CSUxFREVWT1BTJnV0bV9jYW1wYWlnbj1IT0NLRVlBUFAiIHJlYWRtb3JlX3RleHQ9Il8lNTElXyIgcmVhZG1vcmVfYXJpYT0iXyU1MiVfIiByZWFkbW9yZV90YXJnZXQ9Il9ibGFuayIgcmVhZG1vcmVfcmVsPSJub29wZW5lciJdXyU1MyVfIF8lNTQlXyBfJTU1JV8KWy92c2NvbV9zd2ltbGFuZV9jb250ZW50XVsvZnVzaW9uX2J1aWxkZXJfY29sdW1uXVsvZnVzaW9uX2J1aWxkZXJfcm93XVsvZnVzaW9uX2J1aWxkZXJfY29udGFpbmVyXVtmdXNpb25fYnVpbGRlcl9jb250YWluZXIgYWRtaW5fbGFiZWw9IlZTQ09NIFN3aW1sYW5lIiBodW5kcmVkX3BlcmNlbnQ9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0PSJubyIgaHVuZHJlZF9wZXJjZW50X2hlaWdodF9zY3JvbGw9Im5vIiBodW5kcmVkX3BlcmNlbnRfaGVpZ2h0X2NlbnRlcl9jb250ZW50PSJ5ZXMiIGVxdWFsX2hlaWdodF9jb2x1bW5zPSJubyIgbWVudV9hbmNob3I9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9InZzY29tLXN3aW1sYW5lIHZzY29tLXN3aW1sYW5lLS1ncmF5bGFuZSIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImNlbnRlciBjZW50ZXIiIGJhY2tncm91bmRfcmVwZWF0PSJuby1yZXBlYXQiIGZhZGU9Im5vIiBiYWNrZ3JvdW5kX3BhcmFsbGF4PSJub25lIiBlbmFibGVfbW9iaWxlPSJubyIgcGFyYWxsYXhfc3BlZWQ9IjAuMyIgdmlkZW9fbXA0PSIiIHZpZGVvX3dlYm09IiIgdmlkZW9fb2d2PSIiIHZpZGVvX3VybD0iIiB2aWRlb19hc3BlY3RfcmF0aW89IjE2OjkiIHZpZGVvX2xvb3A9InllcyIgdmlkZW9fbXV0ZT0ieWVzIiB2aWRlb19wcmV2aWV3X2ltYWdlPSIiIGJvcmRlcl9zaXplPSIiIGJvcmRlcl9jb2xvcj0iIiBib3JkZXJfc3R5bGU9InNvbGlkIiBtYXJnaW5fdG9wPSIiIG1hcmdpbl9ib3R0b209IiIgcGFkZGluZ190b3A9IiIgcGFkZGluZ19yaWdodD0iIiBwYWRkaW5nX2JvdHRvbT0iIiBwYWRkaW5nX2xlZnQ9IiJdW2Z1c2lvbl9idWlsZGVyX3Jvd11bZnVzaW9uX2J1aWxkZXJfY29sdW1uIHR5cGU9IjFfMSIgbGF5b3V0PSIxXzEiIHNwYWNpbmc9IiIgY2VudGVyX2NvbnRlbnQ9Im5vIiBsaW5rPSIiIHRhcmdldD0iX3NlbGYiIG1pbl9oZWlnaHQ9IiIgaGlkZV9vbl9tb2JpbGU9InNtYWxsLXZpc2liaWxpdHksbWVkaXVtLXZpc2liaWxpdHksbGFyZ2UtdmlzaWJpbGl0eSIgY2xhc3M9IiIgaWQ9IiIgYmFja2dyb3VuZF9jb2xvcj0iIiBiYWNrZ3JvdW5kX2ltYWdlPSIiIGJhY2tncm91bmRfcG9zaXRpb249ImxlZnQgdG9wIiBiYWNrZ3JvdW5kX3JlcGVhdD0ibm8tcmVwZWF0IiBob3Zlcl90eXBlPSJub25lIiBib3JkZXJfc2l6ZT0iMCIgYm9yZGVyX2NvbG9yPSIiIGJvcmRlcl9zdHlsZT0ic29saWQiIGJvcmRlcl9wb3NpdGlvbj0iYWxsIiBwYWRkaW5nX3RvcD0iIiBwYWRkaW5nX3JpZ2h0PSIiIHBhZGRpbmdfYm90dG9tPSIiIHBhZGRpbmdfbGVmdD0iIiBkaW1lbnNpb25fbWFyZ2luPSIiIGFuaW1hdGlvbl90eXBlPSIiIGFuaW1hdGlvbl9kaXJlY3Rpb249ImxlZnQiIGFuaW1hdGlvbl9zcGVlZD0iMC4zIiBhbmltYXRpb25fb2Zmc2V0PSIiIGxhc3Q9Im5vIl1bdnNjb21fc3dpbWxhbmVfY29udGVudCBsYXlvdXQ9ImJhc2ljIiB0aXRsZT0iXyU1NiVfIiBzdWJ0aXRsZT0iIiBpbWFnZV9tZWRpYT0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wOS92aXN1YWwtc3R1ZGlvLWFwcC1jZW50ZXItZ3JhcGhpYzIucG5nIiByZWFkbW9yZV91cmw9Ii9hcHAtY2VudGVyLyIgcmVhZG1vcmVfdGV4dD0iXyU1NyVfIiByZWFkbW9yZV9hcmlhPSJfJTU4JV8iIHJlYWRtb3JlX3RhcmdldD0iX3NlbGYiIHJlYWRtb3JlX3JlbD0iIl1fJTU5JV8gXyU2MCVfDQpfJTYxJV8NCl8lNjIlXw0KXyU2MyVfDQpfJTY0JV8NCl8lNjUlXw0KPC91bD4NCgpbL3ZzY29tX3N3aW1sYW5lX2NvbnRlbnRdWy9mdXNpb25fYnVpbGRlcl9jb2x1bW5dWy9mdXNpb25fYnVpbGRlcl9yb3ddWy9mdXNpb25fYnVpbGRlcl9jb250YWluZXJd]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_title-0" id="0" xml:space="preserve">
+            <source>Mobile App Development Testing &amp; Feedback | HockeyApp</source>
+            <target state="new">Mobile App Development Testing &amp; Feedback | HockeyApp</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="1" xml:space="preserve">
+            <source>Develop, distribute, and beta-test great mobile apps. Get live and reliable crash reports to ensure your app is stable on all platforms, across all releases.</source>
+            <target state="new">Develop, distribute, and beta-test great mobile apps. Get live and reliable crash reports to ensure your app is stable on all platforms, across all releases.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-_yoast_wpseo_focuskw-0" id="2" xml:space="preserve">
+            <source>Mobile App Development</source>
+            <target state="new">Mobile App Development</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>HockeyApp | Visual Studio</source>
+            <target state="new">HockeyApp | Visual Studio</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>HockeyApp</source>
+            <target state="new">HockeyApp</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source>Pricing</source>
+            <target state="new">Pricing</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="6" xml:space="preserve">
+            <source>Pricing for HockeyApp</source>
+            <target state="new">Pricing for HockeyApp</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="7" xml:space="preserve">
+            <source>Get started for free</source>
+            <target state="new">Get started for free</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="8" xml:space="preserve">
+            <source>Distribute beta versions, collect live crash reports, and get feedback from real users.</source>
+            <target state="new">Distribute beta versions, collect live crash reports, and get feedback from real users.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="9" xml:space="preserve">
+            <source> Let HockeyApp empower you to build the world’s best mobile apps.
+
+
+</source>
+            <target state="new"> Let HockeyApp empower you to build the world’s best mobile apps.
+
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="10" xml:space="preserve">
+            <source>The platform for your mobile apps
+
+</source>
+            <target state="new">The platform for your mobile apps
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="11" xml:space="preserve">
+            <source>Platform Agnostic</source>
+            <target state="new">Platform Agnostic</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="12" xml:space="preserve">
+            <source>Android, Cordova, iOS, OS X, Unity, Windows, Xamarin – your choice, our capabilities
+
+</source>
+            <target state="new">Android, Cordova, iOS, OS X, Unity, Windows, Xamarin – your choice, our capabilities
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="13" xml:space="preserve">
+            <source>Open Source SDKs</source>
+            <target state="new">Open Source SDKs</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="14" xml:space="preserve">
+            <source>Know what code is running in your app and customize it to meet your exact needs
+
+</source>
+            <target state="new">Know what code is running in your app and customize it to meet your exact needs
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="15" xml:space="preserve">
+            <source>Mobile DevOps</source>
+            <target state="new">Mobile DevOps</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="16" xml:space="preserve">
+            <source>Integrate your existing ALM tools to provide a seamless DevOps experience for your mobile apps
+
+</source>
+            <target state="new">Integrate your existing ALM tools to provide a seamless DevOps experience for your mobile apps
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%13%_" id="17" xml:space="preserve">
+            <source>Crash Reports</source>
+            <target state="new">Crash Reports</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%14%_" id="18" xml:space="preserve">
+            <source>Rich debugging information for all your app crashes</source>
+            <target state="new">Rich debugging information for all your app crashes</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%15%_" id="19" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%16%_" id="20" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%17%_" id="21" xml:space="preserve">
+            <source><bpt id="p1">&lt;span&gt;</bpt>When you integrate HockeyApp’s open source SDK for Android, Cordova, iOS, Mac OS X, Unity, Windows, or Xamarin into your platform, it enables your app to send detailed crash reports to HockeyApp.</source>
+            <target state="new"><bpt id="p1">&lt;span&gt;</bpt>When you integrate HockeyApp’s open source SDK for Android, Cordova, iOS, Mac OS X, Unity, Windows, or Xamarin into your platform, it enables your app to send detailed crash reports to HockeyApp.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%18%_" id="22" xml:space="preserve">
+            <source>HockeyApp will symbolicate and group related crashes, so you can see their frequency and prioritize your backlog accordingly.</source>
+            <target state="new">HockeyApp will symbolicate and group related crashes, so you can see their frequency and prioritize your backlog accordingly.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%19%_" id="23" xml:space="preserve">
+            <source>You can also integrate the crash reports with your existing ALM tooling to manage all your work items in once place.<ept id="p">&lt;/span&gt;</ept></source>
+            <target state="new">You can also integrate the crash reports with your existing ALM tooling to manage all your work items in once place.<ept id="p">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%20%_" id="24" xml:space="preserve">
+            <source>In-app feedback</source>
+            <target state="new">In-app feedback</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%21%_" id="25" xml:space="preserve">
+            <source>Enable a user dialog from your mobile app</source>
+            <target state="new">Enable a user dialog from your mobile app</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%22%_" id="26" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%23%_" id="27" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%24%_" id="28" xml:space="preserve">
+            <source><bpt id="p1">&lt;span&gt;</bpt>Feedback flows directly from your app to your development team.</source>
+            <target state="new"><bpt id="p1">&lt;span&gt;</bpt>Feedback flows directly from your app to your development team.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%25%_" id="29" xml:space="preserve">
+            <source>The feedback messages are handled as discussions, so you can engage with your users to gain a deeper understanding of what users really want from your app.</source>
+            <target state="new">The feedback messages are handled as discussions, so you can engage with your users to gain a deeper understanding of what users really want from your app.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%26%_" id="30" xml:space="preserve">
+            <source>You can also integrate the feedback with your existing ALM tooling to manage all your work items in once place.<ept id="p">&lt;/span&gt;</ept></source>
+            <target state="new">You can also integrate the feedback with your existing ALM tooling to manage all your work items in once place.<ept id="p">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%27%_" id="31" xml:space="preserve">
+            <source>Distribution</source>
+            <target state="new">Distribution</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%28%_" id="32" xml:space="preserve">
+            <source>Your in-house app store for testing</source>
+            <target state="new">Your in-house app store for testing</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%29%_" id="33" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%30%_" id="34" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%31%_" id="35" xml:space="preserve">
+            <source><bpt id="p1">&lt;span&gt;</bpt>Invite your beta testers and users to find all your apps in one place and install them over the air.</source>
+            <target state="new"><bpt id="p1">&lt;span&gt;</bpt>Invite your beta testers and users to find all your apps in one place and install them over the air.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%32%_" id="36" xml:space="preserve">
+            <source>Your users will stay up to date with the familiar in-app update process for their platform.</source>
+            <target state="new">Your users will stay up to date with the familiar in-app update process for their platform.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%33%_" id="37" xml:space="preserve">
+            <source>You can even require users to update to a specific app version.</source>
+            <target state="new">You can even require users to update to a specific app version.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%34%_" id="38" xml:space="preserve">
+            <source>Integrate HockeyApp into your continuous build process to make uploads and distribution automatic and ensure that your latest version is available immediately.<ept id="p">&lt;/span&gt;</ept></source>
+            <target state="new">Integrate HockeyApp into your continuous build process to make uploads and distribution automatic and ensure that your latest version is available immediately.<ept id="p">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%35%_" id="39" xml:space="preserve">
+            <source>Track user metrics</source>
+            <target state="new">Track user metrics</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%36%_" id="40" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%37%_" id="41" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%38%_" id="42" xml:space="preserve">
+            <source><bpt id="p1">&lt;span&gt;</bpt>Understand user behavior to improve your app.</source>
+            <target state="new"><bpt id="p1">&lt;span&gt;</bpt>Understand user behavior to improve your app.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%39%_" id="43" xml:space="preserve">
+            <source>Track usage through daily and monthly active users.</source>
+            <target state="new">Track usage through daily and monthly active users.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%40%_" id="44" xml:space="preserve">
+            <source>Monitor crash impacted users.</source>
+            <target state="new">Monitor crash impacted users.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%41%_" id="45" xml:space="preserve">
+            <source>Measure customer engagement through session count.<ept id="p">&lt;/span&gt;</ept></source>
+            <target state="new">Measure customer engagement through session count.<ept id="p">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%42%_" id="46" xml:space="preserve">
+            <source>Beta test coverage</source>
+            <target state="new">Beta test coverage</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%43%_" id="47" xml:space="preserve">
+            <source>Expand your beta tester pool for better device coverage</source>
+            <target state="new">Expand your beta tester pool for better device coverage</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%44%_" id="48" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%45%_" id="49" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%46%_" id="50" xml:space="preserve">
+            <source><bpt id="p1">&lt;span&gt;</bpt>Ensure that your apps are being tested on the platforms you care about.</source>
+            <target state="new"><bpt id="p1">&lt;span&gt;</bpt>Ensure that your apps are being tested on the platforms you care about.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%47%_" id="51" xml:space="preserve">
+            <source>Get insight on the beta test coverage you have – what devices were used, what languages were tested, and how long the testers used the app.</source>
+            <target state="new">Get insight on the beta test coverage you have – what devices were used, what languages were tested, and how long the testers used the app.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%48%_" id="52" xml:space="preserve">
+            <source>If you need better beta test coverage through more users, you can create a recruitment page to bring in new users for your app.<ept id="p">&lt;/span&gt;</ept></source>
+            <target state="new">If you need better beta test coverage through more users, you can create a recruitment page to bring in new users for your app.<ept id="p">&lt;/span&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%49%_" id="53" xml:space="preserve">
+            <source>Mobile DevOps</source>
+            <target state="new">Mobile DevOps</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%50%_" id="54" xml:space="preserve">
+            <source>Integrate HockeyApp into your existing workflows</source>
+            <target state="new">Integrate HockeyApp into your existing workflows</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%51%_" id="55" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%52%_" id="56" xml:space="preserve">
+            <source>Learn more at HockeyApp.net</source>
+            <target state="new">Learn more at HockeyApp.net</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%53%_" id="57" xml:space="preserve">
+            <source>
+
+HockeyApp exposes web hooks and an open API to enable you to use your existing tool chain to its maximum potential.</source>
+            <target state="new">
+
+HockeyApp exposes web hooks and an open API to enable you to use your existing tool chain to its maximum potential.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%54%_" id="58" xml:space="preserve">
+            <source>HockeyApp can add work items to your ALM tools based on crash reports and feedback, and you can automate the distribution of your mobile apps if you are already using continuous integration.</source>
+            <target state="new">HockeyApp can add work items to your ALM tools based on crash reports and feedback, and you can automate the distribution of your mobile apps if you are already using continuous integration.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%55%_" id="59" xml:space="preserve">
+            <source>The <bpt id="p1">&lt;a class="bold" href="https://aka.ms/haextension" target="_blank" rel="noopener"&gt;</bpt>HockeyApp extension for Azure DevOps<ept id="p1">&lt;/a&gt;</ept> lets you automate your build and deployment process with a few simple steps.
+
+</source>
+            <target state="new">The <bpt id="p1">&lt;a class="bold" href="https://aka.ms/haextension" target="_blank" rel="noopener"&gt;</bpt>HockeyApp extension for Azure DevOps<ept id="p1">&lt;/a&gt;</ept> lets you automate your build and deployment process with a few simple steps.
+
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%56%_" id="60" xml:space="preserve">
+            <source>The Next Generation of HockeyApp is here</source>
+            <target state="new">The Next Generation of HockeyApp is here</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%57%_" id="61" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%58%_" id="62" xml:space="preserve">
+            <source>Learn more about HockeyApp on Visual Studio App Center</source>
+            <target state="new">Learn more about HockeyApp on Visual Studio App Center</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%59%_" id="63" xml:space="preserve">
+            <source>
+
+Visual Studio App Center builds on Hockey App’s distribution, analytics, and crash reporting with cloud-based builds, automated UI tests, and push notifications – all in one place.</source>
+            <target state="new">
+
+Visual Studio App Center builds on Hockey App’s distribution, analytics, and crash reporting with cloud-based builds, automated UI tests, and push notifications – all in one place.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%60%_" id="64" xml:space="preserve">
+            <source>With Visual Studio App Center, you can:
+<bpt id="p1">&lt;ul style="line-height: 1.5;"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Build Objective-C, Swift, Java, Xamarin, and React Native in the cloud<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">With Visual Studio App Center, you can:
+<bpt id="p1">&lt;ul style="line-height: 1.5;"&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Build Objective-C, Swift, Java, Xamarin, and React Native in the cloud<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%61%_" id="65" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Automate UI tests on thousands of real devices<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Automate UI tests on thousands of real devices<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%62%_" id="66" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Send your apps to your beta testers and app stores instantly<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Send your apps to your beta testers and app stores instantly<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%63%_" id="67" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Gain insights into your audience and app usage<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Gain insights into your audience and app usage<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%64%_" id="68" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Monitor your app health with real-time crash reports<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Monitor your app health with real-time crash reports<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%65%_" id="69" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Engage your users by sending targeted messages<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Engage your users by sending targeted messages<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

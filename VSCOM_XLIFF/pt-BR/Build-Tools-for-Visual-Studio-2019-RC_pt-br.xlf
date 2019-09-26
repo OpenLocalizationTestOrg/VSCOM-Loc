@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="41242-2493aa6bc7bbbeaad8735c55242ed724" source-language="en" target-language="pt-br" parent-post-id="129757" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-downloads/build-tools-for-visual-studio-2019/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV9fJTElXw==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-url" id="0" xml:space="preserve">
+            <source>https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&amp;rel=16</source>
+            <target state="new">https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&amp;rel=16</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-language" id="1" xml:space="preserve">
+            <source>multi-language</source>
+            <target state="new">multi-language</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-vscom-files-repeater-0-0-format" id="2" xml:space="preserve">
+            <source>web-installer</source>
+            <target state="new">web-installer</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="3" xml:space="preserve">
+            <source>Build Tools for Visual Studio 2019 RC</source>
+            <target state="new">Build Tools for Visual Studio 2019 RC</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="4" xml:space="preserve">
+            <source>These Build Tools allow you to build Visual Studio projects from a command-line interface.</source>
+            <target state="new">These Build Tools allow you to build Visual Studio projects from a command-line interface.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="5" xml:space="preserve">
+            <source> Supported projects include: ASP.NET, Azure, C++ desktop, ClickOnce, containers, .NET Core, .NET Desktop, Node.js, Office and SharePoint, Python, TypeScript, Unit Tests, UWP, WCF, and Xamarin.</source>
+            <target state="new"> Supported projects include: ASP.NET, Azure, C++ desktop, ClickOnce, containers, .NET Core, .NET Desktop, Node.js, Office and SharePoint, Python, TypeScript, Unit Tests, UWP, WCF, and Xamarin.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="excerpt" id="6" xml:space="preserve">
+            <source>Build Tools for Visual Studio 2019</source>
+            <target state="new">Build Tools for Visual Studio 2019</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="t_39316" id="7" xml:space="preserve">
+            <source>Visual Studio 2019 RC</source>
+            <target state="new">Visual Studio 2019 RC</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
