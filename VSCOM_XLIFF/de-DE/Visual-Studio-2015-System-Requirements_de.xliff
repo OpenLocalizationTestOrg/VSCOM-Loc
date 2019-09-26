@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="38684-5f1e27c3965e0e9f53af54a30ac223a9" source-language="en" target-language="de" parent-post-id="80208" version="2" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/vs2015/visual-studio-2015-system-requirements/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCg0KXyUyJV8NCl8lMyVfDQpfJTQlXw0KPC91bD4NCl8lNSVfDQpfJTYlXw0KXyU3JV8NCjwvdWw+DQpfJTglXyBfJTklXw0KDQpfJTEwJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2015 Download and Installation of system requirements.</source>
+            <target state="new">Visual Studio 2015 Download and Installation of system requirements.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>Visual Studio 2015 System Requirements</source>
+            <target state="new">Visual Studio 2015 System Requirements</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source>Visual Studio provides cutting-edge tools and technologies to create apps that take advantage of the latest platform's capabilities.</source>
+            <target state="new">Visual Studio provides cutting-edge tools and technologies to create apps that take advantage of the latest platform's capabilities.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>Visual Studio 2015 also targets earlier platforms such as Windows 7 so you can create new apps or modernize existing apps that execute on earlier versions of Windows while leveraging the enhanced tools for quality development and team collaboration in Visual Studio 2015.</source>
+            <target state="new">Visual Studio 2015 also targets earlier platforms such as Windows 7 so you can create new apps or modernize existing apps that execute on earlier versions of Windows while leveraging the enhanced tools for quality development and team collaboration in Visual Studio 2015.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>Individual system requirements may vary due to the various framework requirements however minimal system requirements are:
+<bpt id="p1">&lt;h2&gt;</bpt>Supported operating systems<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new">Individual system requirements may vary due to the various framework requirements however minimal system requirements are:
+<bpt id="p1">&lt;h2&gt;</bpt>Supported operating systems<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Windows 7 Service Pack 1 and newer<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Windows 7 Service Pack 1 and newer<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Windows Server 2008 R2 SP1 and newer<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Windows Server 2008 R2 SP1 and newer<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>For Windows Store and Windows Universal app development<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>For Windows Store and Windows Universal app development<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Windows 8.1 and Windows Phone 8.1 and development require Windows 8.1 Update or later.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Windows 8.1 and Windows Phone 8.1 and development require Windows 8.1 Update or later.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Windows Phone 8.0 development requires Windows 8.1 Update (x64) or later.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Windows Phone 8.0 development requires Windows 8.1 Update (x64) or later.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source>For emulator support (Windows or Android), Windows 8.1 (x64) Professional edition or later or Windows 10 Pro or Enterprise (x64) editions are required.</source>
+            <target state="new">For emulator support (Windows or Android), Windows 8.1 (x64) Professional edition or later or Windows 10 Pro or Enterprise (x64) editions are required.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source>A processor that supports Client Hyper-V and Second Level Address Translation (SLAT) is also required.</source>
+            <target state="new">A processor that supports Client Hyper-V and Second Level Address Translation (SLAT) is also required.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source>For more information, please visit: <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2015-sysrequirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio System Requirements<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">For more information, please visit: <bpt id="p1">&lt;a href="https://docs.microsoft.com/en-us/visualstudio/productinfo/vs2015-sysrequirements-vs" target="_blank" rel="noopener noreferrer"&gt;</bpt><bpt id="p2">&lt;u&gt;</bpt>Visual Studio System Requirements<ept id="p2">&lt;/u&gt;</ept><ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

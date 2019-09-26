@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="46423-28f3a2816dfdd33c5bf8b7ac8e805dfa" source-language="en" target-language="de" parent-post-id="80130" version="3" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vs/support/version-windows-not-supported-youre-running-windows-7-try-installing-service-pack-1/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8NCl8lMSVfIF8lMiVfDQoNCl8lMyVfDQpfJTQlXw0KPGgzPjEuIF8lNSVfDQpfJTYlXw0KPGgzPjIuIF8lNyVfDQpfJTglXw0KXyU5JV8NCjwvb2w+DQo8aDM+PGltZyB3aWR0aD0iMzk0IiBoZWlnaHQ9IjE1MyIgY2xhc3M9ImFsaWdubm9uZSBzaXplLWZ1bGwgd3AtaW1hZ2UtODA1MTUiIGFsdD0iU2VydmljZSBQYWNrIDEiIHNyYz0iaHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8wNi9zZXJ2aWNlLXBhY2stMS5wbmciPjwvaW1nPjwvaDM+DQo8aDM+My4gXyUxMCVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-_yoast_wpseo_metadesc-0" id="0" xml:space="preserve">
+            <source>Visual Studio 2017 common installation issues if running Windows 7, try installing Service Pack 1.</source>
+            <target state="new">Visual Studio 2017 common installation issues if running Windows 7, try installing Service Pack 1.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="1" xml:space="preserve">
+            <source>This version of Windows is not supported. If you're running Windows 7, try installing Service Pack 1</source>
+            <target state="new">This version of Windows is not supported. If you're running Windows 7, try installing Service Pack 1</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="2" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Symptom<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="3" xml:space="preserve">
+            <source>When attempting to install Visual Studio, you receive the message: "This Version of Windows is not supported.</source>
+            <target state="new">When attempting to install Visual Studio, you receive the message: "This Version of Windows is not supported.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="4" xml:space="preserve">
+            <source>If you are running Windows 7, try installing Service Pack 1".</source>
+            <target state="new">If you are running Windows 7, try installing Service Pack 1".</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="5" xml:space="preserve">
+            <source>The minimum operating <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>system requirement<ept id="p1">&lt;/a&gt;</ept> for Visual Studio is Windows 7 with Service Pack 1 (or higher).</source>
+            <target state="new">The minimum operating <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/releases/2019/system-requirements" target="_blank" rel="noopener noreferrer"&gt;</bpt>system requirement<ept id="p1">&lt;/a&gt;</ept> for Visual Studio is Windows 7 with Service Pack 1 (or higher).</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="6" xml:space="preserve">
+            <source><bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h2&gt;</bpt>Resolution<ept id="p1">&lt;/h2&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="7" xml:space="preserve">
+            <source>Download Service Pack 1 (SP1).<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Download Service Pack 1 (SP1).<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="8" xml:space="preserve">
+            <source>You can download and install SP1 for Windows 7 from <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free.</source>
+            <target state="new">You can download and install SP1 for Windows 7 from <bpt id="p1">&lt;a href="https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1" target="_blank" rel="noopener noreferrer"&gt;</bpt>Microsoft.com<ept id="p1">&lt;/a&gt;</ept> for free.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="9" xml:space="preserve">
+            <source>Confirm that SP1 is installed by following these steps:<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Confirm that SP1 is installed by following these steps:<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Click Start, right-click Computer, and then click <bpt id="p3">&lt;strong&gt;</bpt>Properties<ept id="p3">&lt;/strong&gt;</ept>.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;ol&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>Click Start, right-click Computer, and then click <bpt id="p3">&lt;strong&gt;</bpt>Properties<ept id="p3">&lt;/strong&gt;</ept>.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="11" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Check the Windows edition section: If Service Pack 1 is listed, Windows 7 SP1 is already installed on your computer.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Check the Windows edition section: If Service Pack 1 is listed, Windows 7 SP1 is already installed on your computer.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="12" xml:space="preserve">
+            <source>Launch the Visual Studio installer again.<ept id="p">&lt;/h3&gt;</ept></source>
+            <target state="new">Launch the Visual Studio installer again.<ept id="p">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

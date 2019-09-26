@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="43254-e65537108520caaee0b34bf49a50160c" source-language="en" target-language="de" parent-post-id="80212" version="1" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/team-foundation-servers-requirements/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>What are Team Foundation Server's Requirements?</source>
+            <target state="new">What are Team Foundation Server's Requirements?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>Requirements and compatibility information can be found <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/requirements" target="_blank" rel="noopener"&gt;</bpt>here.<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">Requirements and compatibility information can be found <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/server/requirements" target="_blank" rel="noopener"&gt;</bpt>here.<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

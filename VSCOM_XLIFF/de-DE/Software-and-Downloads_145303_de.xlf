@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54461-df342ba7e6ebd40d59cf34319de55058" source-language="en" target-language="de" parent-post-id="145303" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/software-and-downloads-3/"/></reference>
+		<skl>
+			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+            <source>Click to download complete list of software</source>
+            <target state="new">Click to download complete list of software</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <source>Current and past versions of Windows OS available for dev/test use
+</source>
+            <target state="new">Current and past versions of Windows OS available for dev/test use
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <source>Download complete list of software</source>
+            <target state="new">Download complete list of software</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="3" xml:space="preserve">
+            <source>Windows</source>
+            <target state="new">Windows</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_aria_label-0" id="4" xml:space="preserve">
+            <source>Click to download complete list of software</source>
+            <target state="new">Click to download complete list of software</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_content-0" id="5" xml:space="preserve">
+            <source>Windows Server, Microsoft SQL Server, R Server, &amp; other Microsoft server software available for dev/test
+</source>
+            <target state="new">Windows Server, Microsoft SQL Server, R Server, &amp; other Microsoft server software available for dev/test
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_link_text-0" id="6" xml:space="preserve">
+            <source>Download complete list of software</source>
+            <target state="new">Download complete list of software</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_title-0" id="7" xml:space="preserve">
+            <source>Servers</source>
+            <target state="new">Servers</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="8" xml:space="preserve">
+            <source>Software and Downloads</source>
+            <target state="new">Software and Downloads</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

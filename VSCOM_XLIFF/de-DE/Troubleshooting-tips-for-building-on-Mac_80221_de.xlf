@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47605-5d9ee6bf324e07792992c7d505ad6275" source-language="en" target-language="de" parent-post-id="80221" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/troubleshooting-tips-building-mac/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>Troubleshooting tips for building on Mac</source>
+            <target state="new">Troubleshooting tips for building on Mac</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>There are a few relatively <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/cross-platform/tools-for-cordova/build-deploy/ci-guide?view=toolsforcordova-2017#osxgotcha"&gt;</bpt>common issues<ept id="p1">&lt;/a&gt;</ept> when building a Cordova app on OSX related to permissions that are worth noting.</source>
+            <target state="new">There are a few relatively <bpt id="p1">&lt;a href="https://docs.microsoft.com/visualstudio/cross-platform/tools-for-cordova/build-deploy/ci-guide?view=toolsforcordova-2017#osxgotcha"&gt;</bpt>common issues<ept id="p1">&lt;/a&gt;</ept> when building a Cordova app on OSX related to permissions that are worth noting.</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="54552-5ec873c5d52f0f217dd39a92bd1fa68c" source-language="en" target-language="de" parent-post-id="145253" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/services/"/></reference>
+		<skl>
+			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+            <source>Learn more about Office 365</source>
+            <target state="new">Learn more about Office 365</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <source>Admin +25 users. Develop with Microsoft Graph, Teams, SharePoint, Excel, and Outlook.
+</source>
+            <target state="new">Admin +25 users. Develop with Microsoft Graph, Teams, SharePoint, Excel, and Outlook.
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve">
+            <source>Developer subscription</source>
+            <target state="new">Developer subscription</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve">
+            <source>Office 365</source>
+            <target state="new">Office 365</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_aria_label-0" id="5" xml:space="preserve">
+            <source>Learn more about Enterprise Mobility and Security</source>
+            <target state="new">Learn more about Enterprise Mobility and Security</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_content-0" id="6" xml:space="preserve">
+            <source>Secure and manage your identities, devices, apps and data with EMS - Azure Active Directory, Microsoft Intune, Azure Information Protection, Microsoft Advanced Threat Analytics, and Microsoft Cloud App Security. It works anywhere, on any device.
+</source>
+            <target state="new">Secure and manage your identities, devices, apps and data with EMS - Azure Active Directory, Microsoft Intune, Azure Information Protection, Microsoft Advanced Threat Analytics, and Microsoft Cloud App Security. It works anywhere, on any device.
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_link_text-0" id="7" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_sub_title-0" id="8" xml:space="preserve">
+            <source>EMS, E5, Annual</source>
+            <target state="new">EMS, E5, Annual</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_1_title-0" id="9" xml:space="preserve">
+            <source>Enterprise Mobility and Security</source>
+            <target state="new">Enterprise Mobility and Security</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_aria_label-0" id="10" xml:space="preserve">
+            <source>Learn more about Power BI Pro</source>
+            <target state="new">Learn more about Power BI Pro</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_content-0" id="11" xml:space="preserve">
+            <source>Connect to all your data (including streaming sources) and transform it into rich, interactive visualizations. Share dashboards and collaborate with colleagues to easily track KPIs and make data-driven decisions.
+</source>
+            <target state="new">Connect to all your data (including streaming sources) and transform it into rich, interactive visualizations. Share dashboards and collaborate with colleagues to easily track KPIs and make data-driven decisions.
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_link_text-0" id="12" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_sub_title-0" id="13" xml:space="preserve">
+            <source>Analytics for every org</source>
+            <target state="new">Analytics for every org</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_2_title-0" id="14" xml:space="preserve">
+            <source>Power BI Pro</source>
+            <target state="new">Power BI Pro</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_aria_label-0" id="15" xml:space="preserve">
+            <source>Learn more about CAST Highlight</source>
+            <target state="new">Learn more about CAST Highlight</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_content-0" id="16" xml:space="preserve">
+            <source>Quickly and objectively assess cloud readiness of your application portfolio for Azure PaaS migration. 
+</source>
+            <target state="new">Quickly and objectively assess cloud readiness of your application portfolio for Azure PaaS migration. 
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_link_text-0" id="17" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_sub_title-0" id="18" xml:space="preserve">
+            <source>Assess 5 apps for 30 days</source>
+            <target state="new">Assess 5 apps for 30 days</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_3_title-0" id="19" xml:space="preserve">
+            <source>CAST Highlight</source>
+            <target state="new">CAST Highlight</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_4_aria_label-0" id="20" xml:space="preserve">
+            <source>Learn more about CloudPilot</source>
+            <target state="new">Learn more about CloudPilot</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_4_content-0" id="21" xml:space="preserve">
+            <source>Easily move your apps to Microsoft Azure by identifying required code changes down to the line of code in just minutes to facilitate a successful migration.
+</source>
+            <target state="new">Easily move your apps to Microsoft Azure by identifying required code changes down to the line of code in just minutes to facilitate a successful migration.
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_4_link_text-0" id="22" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_4_sub_title-0" id="23" xml:space="preserve">
+            <source>2 licenses for 90 days</source>
+            <target state="new">2 licenses for 90 days</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_4_title-0" id="24" xml:space="preserve">
+            <source>CloudPilot</source>
+            <target state="new">CloudPilot</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_5_aria_label-0" id="25" xml:space="preserve">
+            <source>Learn more about Visual Studio App Center</source>
+            <target state="new">Learn more about Visual Studio App Center</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_5_content-0" id="26" xml:space="preserve">
+            <source>Build, test, deploy and monitor your iOS, Android, Windows and macOS apps. 
+</source>
+            <target state="new">Build, test, deploy and monitor your iOS, Android, Windows and macOS apps. 
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_5_link_text-0" id="27" xml:space="preserve">
+            <source>Learn more </source>
+            <target state="new">Learn more </target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_5_sub_title-0" id="28" xml:space="preserve">
+            <source>App Lifecycle Management</source>
+            <target state="new">App Lifecycle Management</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_5_title-0" id="29" xml:space="preserve">
+            <source>Visual Studio App Center</source>
+            <target state="new">Visual Studio App Center</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_6_aria_label-0" id="30" xml:space="preserve">
+            <source>Learn more about Windows Developer Account</source>
+            <target state="new">Learn more about Windows Developer Account</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_6_content-0" id="31" xml:space="preserve">
+            <source>Submit free and paid apps for all Windows devices to the Windows Store.
+</source>
+            <target state="new">Submit free and paid apps for all Windows devices to the Windows Store.
+</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_6_link_text-0" id="32" xml:space="preserve">
+            <source>Learn more</source>
+            <target state="new">Learn more</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="field-benefit_cards_6_title-0" id="33" xml:space="preserve">
+            <source>Windows Developer Account</source>
+            <target state="new">Windows Developer Account</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="title" id="34" xml:space="preserve">
+            <source>Services</source>
+            <target state="new">Services</target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
