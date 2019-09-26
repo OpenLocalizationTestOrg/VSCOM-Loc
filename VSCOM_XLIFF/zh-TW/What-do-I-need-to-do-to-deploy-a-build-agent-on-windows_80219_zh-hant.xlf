@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47343-944e667c7c3a3351c932435f56680118" source-language="en" target-language="zh-hant" parent-post-id="80219" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/need-deploy-build-agent-windows/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8NCg0KXyUyJV8NCl8lMyVfCjwvbGk+DQpfJTQlXyBfJTUlXw0KPC91bD4NCl8lNiVfDQpfJTclXyBfJTglXw0KXyU5JV8NCl8lMTAlXw0KDQpfJTExJV8NCg0KXyUxMiVfCg==]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>What do I need to do to deploy a build agent on windows?</source>
+            <target state="new">What do I need to do to deploy a build agent on windows?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>To build and deploy Windows, Azure, and other Visual Studio solutions you'll need at least one Windows agent.</source>
+            <target state="new">To build and deploy Windows, Azure, and other Visual Studio solutions you'll need at least one Windows agent.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Windows agents can also build Java and Android apps.</source>
+            <target state="new">Windows agents can also build Java and Android apps.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Before you begin:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>If your code is in <bpt id="p3">&lt;a href="https://azure.microsoft.com/services/devops/" target="_blank" rel="noopener"&gt;</bpt>Azure DevOps<ept id="p3">&lt;/a&gt;</ept> and the <bpt id="p4">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/hosted?view=vsts&amp;tabs=yaml" target="_blank" rel="noopener"&gt;</bpt>hosted agent<ept id="p4">&lt;/a&gt;</ept> meets your needs, you can skip setting up a private Windows agent.<ept id="p2">&lt;/li&gt;</ept></source>
+            <target state="new">Before you begin:
+<bpt id="p1">&lt;ul&gt;</bpt>
+ 	<bpt id="p2">&lt;li&gt;</bpt>If your code is in <bpt id="p3">&lt;a href="https://azure.microsoft.com/services/devops/" target="_blank" rel="noopener"&gt;</bpt>Azure DevOps<ept id="p3">&lt;/a&gt;</ept> and the <bpt id="p4">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/hosted?view=vsts&amp;tabs=yaml" target="_blank" rel="noopener"&gt;</bpt>hosted agent<ept id="p4">&lt;/a&gt;</ept> meets your needs, you can skip setting up a private Windows agent.<ept id="p2">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>If your code is in an on-premises Team Foundation Server (TFS) 2015 server, see <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/v1-windows?view=tfs-2015&amp;viewFallbackFrom=vsts" target="_blank" rel="noopener"&gt;</bpt>Deploy an agent on Windows for on-premises TFS 2015.<ept id="p2">&lt;/a&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>If your code is in an on-premises Team Foundation Server (TFS) 2015 server, see <bpt id="p2">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/v1-windows?view=tfs-2015&amp;viewFallbackFrom=vsts" target="_blank" rel="noopener"&gt;</bpt>Deploy an agent on Windows for on-premises TFS 2015.<ept id="p2">&lt;/a&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Otherwise, you&#039;ve come to the right place to set up an agent on Windows.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Otherwise, you&#039;ve come to the right place to set up an agent on Windows.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source>Continue to the next section.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Continue to the next section.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3&gt;</bpt>Learn about agents<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3&gt;</bpt>Learn about agents<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source>If you already know what an agent is and how it works, feel free to jump right in to the following sections.</source>
+            <target state="new">If you already know what an agent is and how it works, feel free to jump right in to the following sections.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>But if you'd like some more background about what they do and how they work, see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts" target="_blank" rel="noopener"&gt;</bpt>Build and release agents<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">But if you'd like some more background about what they do and how they work, see <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/agents?view=vsts" target="_blank" rel="noopener"&gt;</bpt>Build and release agents<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source><bpt id="p1">&lt;h3&gt;</bpt>Check prerequisites<ept id="p1">&lt;/h3&gt;</ept></source>
+            <target state="new"><bpt id="p1">&lt;h3&gt;</bpt>Check prerequisites<ept id="p1">&lt;/h3&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>Make sure your machine is prepared with our <bpt id="p1">&lt;a href="https://aka.ms/vstsagentwinsystem"&gt;</bpt>Windows system prerequisites<ept id="p1">&lt;/a&gt;</ept>.</source>
+            <target state="new">Make sure your machine is prepared with our <bpt id="p1">&lt;a href="https://aka.ms/vstsagentwinsystem"&gt;</bpt>Windows system prerequisites<ept id="p1">&lt;/a&gt;</ept>.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%11%_" id="12" xml:space="preserve">
+            <source>If you're building from a Subversion repo, you must install the Subversion client on the machine.</source>
+            <target state="new">If you're building from a Subversion repo, you must install the Subversion client on the machine.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%12%_" id="13" xml:space="preserve">
+            <source>Continue with <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/v2-windows?view=vsts#permissions#permissions" target="_blank" rel="noopener"&gt;</bpt>Prepare permissions<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">Continue with <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/pipelines/agents/v2-windows?view=vsts#permissions#permissions" target="_blank" rel="noopener"&gt;</bpt>Prepare permissions<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>

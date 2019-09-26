@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="wordpress" vscom-xliff-id="47369-41e62e2fe31dabed2820e5d11ad1cbda" source-language="en" target-language="zh-hant" parent-post-id="80214" version="0" datatype="xml">		
+	<header><reference><external-file href="https://visualstudio.microsoft.com/team-services/tfs-support/need-help-troubleshooting-code-search/"/></reference>
+		<skl>
+			<internal-file><![CDATA[XyUwJV8gXyUxJV8gXyUyJV8gXyUzJV8NCl8lNCVfDQpfJTUlXyBfJTYlXw0KXyU3JV8gXyU4JV8NCjwvdWw+DQpfJTklXyBfJTEwJV8K]]>
+			</internal-file>
+		</skl>
+	</header>
+		<body>
+			         <trans-unit translate="yes" extradata="title" id="0" xml:space="preserve">
+            <source>I need help troubleshooting Code Search</source>
+            <target state="new">I need help troubleshooting Code Search</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%0%_" id="1" xml:space="preserve">
+            <source>By using <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/project/search/code-search?view=vsts&amp;tabs=new-nav" target="_blank" rel="noopener"&gt;</bpt>Code Search<ept id="p1">&lt;/a&gt;</ept> you can:
+<bpt id="p2">&lt;ul&gt;</bpt>
+ 	<bpt id="p3">&lt;li&gt;</bpt>Search across all of your projects: Search in your own codebase and your partner teams&#039; codebases.</source>
+            <target state="new">By using <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/project/search/code-search?view=vsts&amp;tabs=new-nav" target="_blank" rel="noopener"&gt;</bpt>Code Search<ept id="p1">&lt;/a&gt;</ept> you can:
+<bpt id="p2">&lt;ul&gt;</bpt>
+ 	<bpt id="p3">&lt;li&gt;</bpt>Search across all of your projects: Search in your own codebase and your partner teams&#039; codebases.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%1%_" id="2" xml:space="preserve">
+            <source>Use cross-project searches over all the code in your Team Services or TFS instance to search across your organization&#039;s entire codebase.</source>
+            <target state="new">Use cross-project searches over all the code in your Team Services or TFS instance to search across your organization&#039;s entire codebase.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%2%_" id="3" xml:space="preserve">
+            <source>Narrow your search by using project, repository, path, file name, and other filter operators.</source>
+            <target state="new">Narrow your search by using project, repository, path, file name, and other filter operators.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%3%_" id="4" xml:space="preserve">
+            <source>Use wildcards to widen your search and Boolean operators to fine-tune it.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Use wildcards to widen your search and Boolean operators to fine-tune it.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%4%_" id="5" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Find specific types of code: Use code type filters to search for specific kinds of code such as definitions, references, functions, comments, strings, namespaces, and more.<ept id="p1">&lt;/li&gt;</ept></source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Find specific types of code: Use code type filters to search for specific kinds of code such as definitions, references, functions, comments, strings, namespaces, and more.<ept id="p1">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%5%_" id="6" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>You can use Code Search to narrow down your results to exact code type matches.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>You can use Code Search to narrow down your results to exact code type matches.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%6%_" id="7" xml:space="preserve">
+            <source>Navigate quickly to a method definition to understand its implementation simply by applying the definition filter, or scope the search to references in order to view calls and maximize code reuse.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Navigate quickly to a method definition to understand its implementation simply by applying the definition filter, or scope the search to references in order to view calls and maximize code reuse.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%7%_" id="8" xml:space="preserve">
+            <source> 	<bpt id="p1">&lt;li&gt;</bpt>Easily drill down or widen your search: When you find an item of interest, simply place the cursor on it and use the shortcut menu to quickly search for that text across all your projects and files.</source>
+            <target state="new"> 	<bpt id="p1">&lt;li&gt;</bpt>Easily drill down or widen your search: When you find an item of interest, simply place the cursor on it and use the shortcut menu to quickly search for that text across all your projects and files.</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%8%_" id="9" xml:space="preserve">
+            <source>Easily trace how your code works by using the shortcut menu to search for related items such as definitions and references - directly from inside a file.<ept id="p">&lt;/li&gt;</ept></source>
+            <target state="new">Easily trace how your code works by using the shortcut menu to search for related items such as definitions and references - directly from inside a file.<ept id="p">&lt;/li&gt;</ept></target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%9%_" id="10" xml:space="preserve">
+            <source>But what happens if you have trouble setting it up?</source>
+            <target state="new">But what happens if you have trouble setting it up?</target>
+         </trans-unit>
+         <trans-unit translate="yes" extradata="_%10%_" id="11" xml:space="preserve">
+            <source>We're here to <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/project/search/administration?view=vsts&amp;tabs=new-nav#troubleshoot-search-in-team-foundation-server#troubleshoot-search-in-team-foundation-server" target="_blank" rel="noopener"&gt;</bpt>help.<ept id="p1">&lt;/a&gt;</ept></source>
+            <target state="new">We're here to <bpt id="p1">&lt;a href="https://docs.microsoft.com/azure/devops/project/search/administration?view=vsts&amp;tabs=new-nav#troubleshoot-search-in-team-foundation-server#troubleshoot-search-in-team-foundation-server" target="_blank" rel="noopener"&gt;</bpt>help.<ept id="p1">&lt;/a&gt;</ept></target>
+         </trans-unit>
+
+		</body>
+	</file>
+</xliff>
