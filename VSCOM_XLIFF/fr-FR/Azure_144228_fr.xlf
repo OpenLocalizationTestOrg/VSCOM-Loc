@@ -1,83 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-	<file original="wordpress" vscom-xliff-id="53597-5505acd5185e8c64951dc576f23e0805" source-language="en" target-language="fr" parent-post-id="144228" version="0" datatype="xml">		
-	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/azure-3/"/></reference>
-		<skl>
-			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
-			</internal-file>
-		</skl>
-	</header>
-		<body>
-			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="wordpress" vscom-xliff-id="53597-5505acd5185e8c64951dc576f23e0805" source-language="en" target-language="fr" parent-post-id="144228" version="0" datatype="xml">
+    <header>
+      <reference>
+        <external-file href="https://visualstudio.microsoft.com/vscom-benefits/azure-3/" />
+      </reference>
+      <skl>
+        <internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]></internal-file>
+      </skl>
+    </header>
+    <body>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Learn more about $50 monthly Azure credit</source>
-            <target state="new">Learn more about $50 monthly Azure credit</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <target state="translated">En savoir plus sur le crédit Azure mensuel de $50</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Try running virtual machines, storing data, and developing serverless apps in the cloud with Azure. The $50 monthly Azure credit is part of the subscription to spend however a subscriber would like. There’s no credit card required. 
 </source>
-            <target state="new">Try running virtual machines, storing data, and developing serverless apps in the cloud with Azure. The $50 monthly Azure credit is part of the subscription to spend however a subscriber would like. There’s no credit card required. 
-</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+            <target state="translated">Essayez d’exécuter des machines virtuelles, de stocker des données et de développer des applications sans serveur dans le Cloud avec Azure. Le crédit Azure mensuel de $50 fait partie de l’abonnement à dépenser, mais un abonné aimerait. Aucune carte de crédit n’est requise. 
+</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Learn more</source>
-            <target state="new">Learn more</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve">
+            <target state="translated">Pour en savoir plus</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>$50 monthly Azure credit</source>
-            <target state="new">$50 monthly Azure credit</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve">
+            <target state="translated">crédit Azure mensuel de $50</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Azure</source>
-            <target state="new">Azure</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_1_aria_label-0" id="5" xml:space="preserve">
+            <target state="translated">Bleu</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_1_aria_label-0" id="5" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Learn more about Dev/Test Pay-As-You-Go subscription</source>
-            <target state="new">Learn more about Dev/Test Pay-As-You-Go subscription</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_1_content-0" id="6" xml:space="preserve">
+            <target state="translated">En savoir plus sur l’abonnement de développement/test avec paiement à l’accès</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_1_content-0" id="6" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Create Dev/Test Pay-As-You-Go subscriptions, enabling collaboration with other subscribers while providing isolation between teams &amp; environment. Get exclusive discounted rates for dev/test and cloud use rights of subscription software on Azure.
 </source>
-            <target state="new">Create Dev/Test Pay-As-You-Go subscriptions, enabling collaboration with other subscribers while providing isolation between teams &amp; environment. Get exclusive discounted rates for dev/test and cloud use rights of subscription software on Azure.
-</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_1_link_text-0" id="7" xml:space="preserve">
+            <target state="translated">Créez des abonnements de développement/test de paiement à l’accès, permettant la collaboration avec d’autres abonnés tout en garantissant l’isolement entre les équipes &amp; environnement. Procurez-vous des taux de remise exclusifs pour les droits de développement/test et d’utilisation Cloud des logiciels d’abonnement sur Azure.
+</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_1_link_text-0" id="7" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Learn more</source>
-            <target state="new">Learn more</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_1_sub_title-0" id="8" xml:space="preserve">
+            <target state="translated">Pour en savoir plus</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_1_sub_title-0" id="8" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Dev/Test Pay-As-You-Go subscription</source>
-            <target state="new">Dev/Test Pay-As-You-Go subscription</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_1_title-0" id="9" xml:space="preserve">
+            <target state="translated">Abonnement dev/test-paiement à l’accès</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_1_title-0" id="9" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Azure</source>
-            <target state="new">Azure</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_2_aria_label-0" id="10" xml:space="preserve">
+            <target state="translated">Bleu</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_2_aria_label-0" id="10" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>learn more about Azure DevOps basic plan </source>
-            <target state="new">learn more about Azure DevOps basic plan </target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_2_content-0" id="11" xml:space="preserve">
+            <target state="translated">en savoir plus sur le plan Azure DevOps Basic </target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_2_content-0" id="11" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Plan, build, and ship, any app, for any platform. You can use all the Azure DevOps services, including Azure Pipelines, Azure Boards, Azure Repos, and Azure Artifacts.
 </source>
-            <target state="new">Plan, build, and ship, any app, for any platform. You can use all the Azure DevOps services, including Azure Pipelines, Azure Boards, Azure Repos, and Azure Artifacts.
-</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_2_link_text-0" id="12" xml:space="preserve">
+            <target state="translated">Planifiez, créez et livrez, quelle que soit l’application, quelle que soit la plate-forme. Vous pouvez utiliser tous les services Azure DevOps, y compris Azure Pipelines, Azure Boards, Azure Repos et Azure Artifacts.
+</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_2_link_text-0" id="12" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Learn more</source>
-            <target state="new">Learn more</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_2_sub_title-0" id="13" xml:space="preserve">
+            <target state="translated">Pour en savoir plus</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_2_sub_title-0" id="13" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Basic plan </source>
-            <target state="new">Basic plan </target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_2_title-0" id="14" xml:space="preserve">
+            <target state="translated">Plan de base </target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_2_title-0" id="14" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Azure DevOps</source>
-            <target state="new">Azure DevOps</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="title" id="15" xml:space="preserve">
+            <target state="translated">DevOps Azure</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="title" id="15" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Azure</source>
-            <target state="new">Azure</target>
-         </trans-unit>
-
-		</body>
-	</file>
+            <target state="translated">Bleu</target>        </trans-unit>
+    </body>
+  </file>
 </xliff>

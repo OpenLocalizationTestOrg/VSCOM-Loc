@@ -1,41 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-	<file original="wordpress" vscom-xliff-id="54307-c93b86917b2e471f0323dc37cdbbaa74" source-language="en" target-language="fr" parent-post-id="144225" version="0" datatype="xml">		
-	<header><reference><external-file href="https://visualstudio.microsoft.com/vscom-benefits/azure-6/"/></reference>
-		<skl>
-			<internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]>
-			</internal-file>
-		</skl>
-	</header>
-		<body>
-			         <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve">
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="wordpress" vscom-xliff-id="54307-c93b86917b2e471f0323dc37cdbbaa74" source-language="en" target-language="fr" parent-post-id="144225" version="0" datatype="xml">
+    <header>
+      <reference>
+        <external-file href="https://visualstudio.microsoft.com/vscom-benefits/azure-6/" />
+      </reference>
+      <skl>
+        <internal-file><![CDATA[JSVfX1ZTQ09NX0JMQU5LX18lJQ==]]></internal-file>
+      </skl>
+    </header>
+    <body>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_aria_label-0" id="0" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Learn more about Azure DevOps Basic plan</source>
-            <target state="new">Learn more about Azure DevOps Basic plan</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve">
+            <target state="translated">En savoir plus sur le plan Azure DevOps Basic</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_content-0" id="1" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Plan, build, and ship, any app, for any platform. You can use all the Azure DevOps services, including Azure Pipelines, Azure Boards, Azure Repos, and Azure Artifacts.
 
 </source>
-            <target state="new">Plan, build, and ship, any app, for any platform. You can use all the Azure DevOps services, including Azure Pipelines, Azure Boards, Azure Repos, and Azure Artifacts.
+            <target state="translated">Planifiez, créez et livrez, quelle que soit l’application, quelle que soit la plate-forme. Vous pouvez utiliser tous les services Azure DevOps, y compris Azure Pipelines, Azure Boards, Azure Repos et Azure Artifacts.
 
-</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve">
+</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_link_text-0" id="2" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Learn more</source>
-            <target state="new">Learn more</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve">
+            <target state="translated">Pour en savoir plus</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_sub_title-0" id="3" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Basic plan</source>
-            <target state="new">Basic plan</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve">
+            <target state="translated">Plan de base</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="field-benefit_cards_0_title-0" id="4" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Azure DevOps</source>
-            <target state="new">Azure DevOps</target>
-         </trans-unit>
-         <trans-unit translate="yes" extradata="title" id="5" xml:space="preserve">
+            <target state="translated">DevOps Azure</target>        </trans-unit>
+      <trans-unit translate="yes" extradata="title" id="5" xml:space="preserve" xmlns="urn:oasis:names:tc:xliff:document:1.2">
             <source>Azure</source>
-            <target state="new">Azure</target>
-         </trans-unit>
-
-		</body>
-	</file>
+            <target state="translated">Bleu</target>        </trans-unit>
+    </body>
+  </file>
 </xliff>
